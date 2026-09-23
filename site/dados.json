@@ -1,122 +1,147 @@
 {
- "gerado_em": "2026-09-23T14:04:13+00:00",
+ "gerado_em": "2026-09-23T15:02:21+00:00",
  "totais": {
-  "incidentes": 4,
-  "casos": 4,
-  "noticias": 9,
-  "repercussoes": 1
+  "incidentes": 5,
+  "casos": 5,
+  "noticias": 10,
+  "repercussoes": 2
  },
  "incidentes": [
   {
    "id": 1,
-   "caso": 1,
-   "titulo": "How OpenAI's and Anthropic's AI models hacked other companies",
-   "papel": "agente_em_teste",
-   "gravidade": 3.0,
+   "caso": 2,
+   "titulo": "OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm - The Guardian",
+   "papel": "agente_em_producao",
+   "gravidade": 2.5,
    "divergencia": false,
-   "confirmacao": "oficial",
-   "empresa": "anthropic",
-   "defasagem": "mesmo_mes",
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
    "pais": "nao_informado",
    "pais_nome": "País não informado",
    "numerico": null,
-   "primeira": "2026-08-01",
-   "ultima": "2026-08-01",
+   "primeira": "2026-08-26",
+   "ultima": "2026-08-26",
    "fontes": [
     {
-     "titulo": "How OpenAI's and Anthropic's AI models hacked other companies",
-     "url": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
-     "fonte": "NPR",
-     "data": "2026-08-01"
+     "titulo": "OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm - The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeDNua1VDVWkwRFBlcWpMa2dfSXZDemVBZHJjTHh6cW9IUng0RUJoNjI0YU1lSThrMUVObVF2aC05WjdMZURuUHJPdDBvZnJqUFc4U2luQ1hhNzllWjY2RVBSRG9HU2FiOEg5bmpGMkNyWFVJaGlWaFlOWUZEWmduNWRIOG1WV1BfSl9DOWZNMGpRN05kdC1kdW1qVVNNdlh2bldjbjV5VXZ5UlJJTENjemlNZ1FwVEU1UUR3YlVsbHh2VFZveEtrQ3B0eWUybG40Rk9GVg?oc=5",
+     "fonte": "The Guardian",
+     "data": "2026-08-26"
     }
    ]
   },
   {
-   "id": 4,
-   "caso": 4,
-   "titulo": "New AI agent breach reported at logistics firm",
-   "papel": "agente_em_teste",
-   "gravidade": 2.0,
+   "id": 5,
+   "caso": 5,
+   "titulo": "First Agentic AI Data Breach Reported to Spanish Regulator - SecurityWeek",
+   "papel": "agente_em_producao",
+   "gravidade": 1.9,
    "divergencia": false,
    "confirmacao": "imprensa",
    "empresa": "nao_informado",
-   "defasagem": "mesmo_mes",
+   "defasagem": "nao_informado",
    "pais": "nao_informado",
    "pais_nome": "País não informado",
    "numerico": null,
-   "primeira": "2026-09-21",
-   "ultima": "2026-09-21",
+   "primeira": "2026-09-16",
+   "ultima": "2026-09-16",
    "fontes": [
     {
-     "titulo": "New AI agent breach reported at logistics firm",
-     "url": "https://example.com/news/agent-breach",
-     "fonte": "example.com",
-     "data": "2026-09-21"
+     "titulo": "First Agentic AI Data Breach Reported to Spanish Regulator - SecurityWeek",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQnRMcE9RVmlmM2oxbjNzeEd5TG5qN3FkeVB4RGRFbGxmdmZvSUJXc2hnaDNvSjZYSHN2X2lrQlRKVmNYNl9uRFBTWnZsQ2J0eEtJQ09paXdxVmlNelZEeVhKNzBqYW9uYW42MlhaQjlQTXA2M0hFX2Zjdlh3dnVmOXFNQzFoREVSQ2wzMUlFblJSUdIBlwFBVV95cUxPcFlwdVlKWWJ5UmZqd1RhZmxVTm5waDFjVExGTWNaWFQ2ZGthaEJCYUFtYWVhOGNYODlJMXRIT0pCTWFlWmw5cXNsMTVNUWEyNUZLWGFhbDhUdEwzMzhJemNNdnQzTGdyZHQzRHVfbGxYNks1dnZaeHZQWUQwNmZtMzdnQ3lNMjMxYmMzaXJrS2Z1S29KVHJn?oc=5",
+     "fonte": "SecurityWeek",
+     "data": "2026-09-16"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "caso": 1,
+   "titulo": "OpenAI agents hacked Hugging Face in 700-strong swarm, tried to cover tracks, investigations find - NBC News",
+   "papel": "agente_em_producao",
+   "gravidade": 1.8,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-08-27",
+   "ultima": "2026-08-27",
+   "fontes": [
+    {
+     "titulo": "OpenAI agents hacked Hugging Face in 700-strong swarm, tried to cover tracks, investigations find - NBC News",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSENjVlF6RWpVLTc1dDlRbEhsZExUVWVpOU5pVFBuZFVhSDVINGExNTBwUFJwSnFhenZRU3VfdkxLUUR4LXRXUFQ0ZDAxdS1GMGlBNERIWkx2VU1fQWY2Zml0RG9SemRieHpRbTN1Z1JFS1ppRWl5TUVSLXYzTEUyOG9vMVFtdjUyVE1hV2x2UVhrTTVucGgtWWRtWVloellEeEdnN2hn?oc=5",
+     "fonte": "NBC News",
+     "data": "2026-08-27"
     }
    ]
   },
   {
    "id": 3,
    "caso": 3,
-   "titulo": "Google Joins OpenAI, Anthropic, Meta in Disclosing AI Hacks",
+   "titulo": "CVE-2026-82533: DeepSeek Harness Vulnerability Lets AI Agents Escape Their Own Sandbox - OX Security",
    "papel": "agente_em_teste",
-   "gravidade": 2.0,
+   "gravidade": 0.8,
    "divergencia": false,
-   "confirmacao": "oficial",
-   "empresa": "google",
-   "defasagem": "meses_antes",
+   "confirmacao": "imprensa",
+   "empresa": "outra",
+   "defasagem": "nao_informado",
    "pais": "nao_informado",
    "pais_nome": "País não informado",
    "numerico": null,
-   "primeira": "2026-09-18",
-   "ultima": "2026-09-18",
+   "primeira": "2026-09-08",
+   "ultima": "2026-09-08",
    "fontes": [
     {
-     "titulo": "Google Joins OpenAI, Anthropic, Meta in Disclosing AI Hacks",
-     "url": "https://www.bloomberg.com/news/articles/2026-09-18/google-s-gemini-ai-system-hacked-three-systems-in-safety-tests",
-     "fonte": "Bloomberg",
-     "data": "2026-09-18"
+     "titulo": "CVE-2026-82533: DeepSeek Harness Vulnerability Lets AI Agents Escape Their Own Sandbox - OX Security",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ptSVFXeUQzc1gtNzhzQmpsbGJSdHd1RndnSm0zMWRkcWV5dHNVZk5pWUFzaUZyQzlPZ25GMHhRemY4cVBUUkFhU1JoeUo4Z0RWVlZVNHhnRV9mYWlBNlJXNjZUcC1Dd2dnQ0tmZVMxTkdHMEhhazFuazBQRTlWeUsxWHZwSU0zZE1UZTNn?oc=5",
+     "fonte": "OX Security",
+     "data": "2026-09-08"
     }
    ]
   },
   {
-   "id": 2,
-   "caso": 2,
-   "titulo": "OpenAI's reports into its agents' attack on Hugging Face holds lessons for every company",
+   "id": 4,
+   "caso": 4,
+   "titulo": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again - WIRED",
    "papel": "agente_em_teste",
-   "gravidade": 2.0,
+   "gravidade": 0.4,
    "divergencia": false,
-   "confirmacao": "oficial",
-   "empresa": "openai",
-   "defasagem": "mesmo_mes",
-   "pais": "usa",
-   "pais_nome": "Estados Unidos",
-   "numerico": "840",
-   "primeira": "2026-09-01",
-   "ultima": "2026-09-01",
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-09",
+   "ultima": "2026-09-09",
    "fontes": [
     {
-     "titulo": "AI agents hacked a company without human direction. Should we be worried?",
-     "url": "https://www.poynter.org/fact-checking/2026/openai-ai-agents-hugging-face-cyberattack",
-     "fonte": "Poynter",
-     "data": "2026-09-01"
-    },
-    {
-     "titulo": "OpenAI's reports into its agents' attack on Hugging Face holds lessons for every company",
-     "url": "https://fortune.com/2026/09/01/openais-reports-on-its-ai-agents-attack-on-hugging-face-should-be-ringing-alarm-bellsand-making-all-companies-rethink-how-they-secure-ai-agents",
-     "fonte": "Fortune",
-     "data": "2026-09-01"
+     "titulo": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again - WIRED",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wUC1kZ0t2dlFlVm53TEJxWk8ySF9MRTNiTDc3MXVIOTh3aFlTQ0RfanBPc2VibkdZRURMMmNBMk1qeFY3WkptQU5NUjM0OFU3QmZfYWtKbXUyd2VJTk1Vby1qcXZ0V3pBS09FXzdZUQ?oc=5",
+     "fonte": "WIRED",
+     "data": "2026-09-09"
     }
    ]
   }
  ],
  "repercussoes": [
   {
-   "caso": 2,
-   "titulo": "New bill cracks down on AI agents after Hugging Face breach",
-   "url": "https://example.com/news/bill-ai-agents",
-   "fonte": "example.com",
-   "data": "2026-09-16"
+   "caso": 1,
+   "titulo": "OpenAI releases sweeping report on Hugging Face AI agent hack - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YOTJIY1dTeGxzcnlfOTNaY1ZZNW5IR19EcDRvWm04V1VVelZmeU9YalBHU3lLV1JKUXR2Q05JT041YlAyX09OeTd1T05PZFg4Y2NFNHBwbnE0VzVGMU5KUTBHbHgyMktRTzV6RFN5QdIBdEFVX3lxTE80azdfcnVsNFhGSXFQTC0yWGdkckFkTlpDVi1EQlRoSDRneG94YjVVWXhzMTM1aHdPckJ6VDF6SXpUTC11YURWa0JMYWhsWEp1U1JuX0JQWDhFa0liTzNWS3ZmRkwxREJTV3hfQ2lRYmRDOW4y?oc=5",
+   "fonte": "CNBC",
+   "data": "2026-08-26"
+  },
+  {
+   "caso": 1,
+   "titulo": "Exclusive: New bill cracks down on AI agents after Hugging Face breach - lawler.house.gov",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40M0J4ZTZhblZWQllBMmU1MkN2eWFFZUYtY1UyMzl5QmtxUGt2R2ZPVHJJdUJDTnE5ZWJDY3JVN24yWDZJVzNOZ0syODdWcC1oRXZMNVNuVE4tMWZDVVF3cHNaMjhsdmp4VWUtdFA3aGtLLTg?oc=5",
+   "fonte": "lawler.house.gov",
+   "data": "2026-09-03"
   }
  ]
 }
