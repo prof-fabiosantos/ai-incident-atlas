@@ -29,10 +29,12 @@ const MUNDO = {
   ] } },
 };
 
-function montar(dados) {
+function montar(dados, lingua) {
   const html = fs.readFileSync(path.join(SITE, 'index.html'), 'utf8')
     .replace(/<script[^>]*><\/script>/g, '');            // os scripts entram pelo require
-  const dom = new JSDOM(html, { pretendToBeVisual: true });
+  const dom = new JSDOM(html, { pretendToBeVisual: true, url: 'https://exemplo.test/' });  // precisa de origem para ter localStorage
+  Object.defineProperty(dom.window.navigator, 'language', { value: lingua || 'pt-BR', configurable: true });
+  try { dom.window.localStorage.clear(); } catch (e) { /* sem storage */ }
   const erros = [];
   global.window = dom.window;
   global.document = dom.window.document;
@@ -95,7 +97,29 @@ const clique = (dom, elemento) => elemento.dispatchEvent(new dom.window.MouseEve
   ok(doc.getElementById('nota-mapa').textContent.includes('Nenhuma das notícias'),
      'explicação no lugar do mapa');
 
-  console.log('5. Dados vazios não quebram a página');
+  console.log('5. Idiomas');
+  montado = montar(original, 'en-US');
+  await espera(400);
+  doc = montado.doc;
+  ok(doc.documentElement.lang === 'en', 'navegador em inglês abre o site em inglês');
+  ok(doc.querySelector('#cartoes .nome').textContent === 'Incidents',
+     `cartões em inglês (${doc.querySelector('#cartoes .nome').textContent})`);
+  ok(doc.querySelector('[data-i18n="mapa_titulo"]').textContent.includes('affected'), 'títulos em inglês');
+  const botaoPt = [...doc.querySelectorAll('#idiomas .chip')].find((b) => b.textContent === 'PT');
+  clique(montado.dom, botaoPt);
+  await espera(200);
+  ok(doc.documentElement.lang === 'pt-BR', 'clicar em PT troca o idioma da página');
+  ok(doc.querySelector('#cartoes .nome').textContent === 'Incidentes', 'cartões voltam ao português');
+  ok(doc.querySelector('#filtro-papel .chip').textContent.includes('Agente'), 'filtros traduzidos');
+  let salvo = null;
+  try { salvo = montado.dom.window.localStorage.getItem('idioma'); } catch (e) { salvo = null; }
+  ok(salvo === 'pt', 'a escolha fica guardada no navegador');
+
+  montado = montar(original, 'pt-BR');
+  await espera(400);
+  ok(montado.doc.documentElement.lang === 'pt-BR', 'navegador em português abre o site em português');
+
+  console.log('6. Dados vazios não quebram a página');
   montado = montar({ gerado_em: original.gerado_em, totais: { noticias: 0 }, incidentes: [], repercussoes: [] });
   await espera(400);
   ok(!montado.erros.length, 'sem erro no console');
