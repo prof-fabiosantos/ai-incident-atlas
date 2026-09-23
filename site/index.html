@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Agent Incident Atlas — incidentes com agentes de IA</title>
+<meta name="description" content="Agent Incident Atlas: mapa e linha do tempo de incidentes de segurança envolvendo agentes de IA, agrupados a partir de notícias públicas.">
+<link rel="stylesheet" href="styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🗺️</text></svg>">
+</head>
+<body>
+<header class="topo">
+  <div class="faixa">
+    <h1>🗺️ Agent Incident Atlas</h1>
+    <p class="subtitulo">Incidentes de segurança com agentes e modelos de IA, a partir de notícias públicas.
+      Cada incidente reúne as matérias que falam do mesmo caso, com a gravidade relatada e o grau de
+      confirmação.</p>
+    <p class="atualizacao">Última atualização: <span id="gerado">carregando…</span></p>
+  </div>
+</header>
+
+<main>
+  <section class="cartoes" id="cartoes"></section>
+
+  <section class="bloco">
+    <div class="cabecalho-bloco">
+      <h2>Onde ficam as organizações atingidas</h2>
+      <p class="ajuda">Clique em um país para filtrar a lista. Clique de novo para limpar.</p>
+    </div>
+    <div class="mapa-caixa">
+      <svg id="mapa" viewBox="0 0 960 460" preserveAspectRatio="xMidYMid meet" role="img"
+           aria-label="Mapa de incidentes com agentes de IA por país"></svg>
+      <div class="legenda" id="legenda"></div>
+    </div>
+    <p class="nota" id="nota-mapa"></p>
+  </section>
+
+  <section class="bloco">
+    <div class="cabecalho-bloco"><h2>Ao longo do tempo</h2>
+      <p class="ajuda">Semana da primeira notícia sobre cada incidente.</p></div>
+    <svg id="tempo" viewBox="0 0 960 200" preserveAspectRatio="xMidYMid meet" role="img"
+         aria-label="Incidentes por semana"></svg>
+  </section>
+
+  <section class="bloco">
+    <div class="cabecalho-bloco"><h2>Incidentes</h2></div>
+    <div class="filtros">
+      <div class="grupo"><span class="rotulo">Papel da IA</span><div id="filtro-papel" class="chips"></div></div>
+      <div class="grupo"><span class="rotulo">Confirmação</span>
+        <select id="filtro-confirmacao">
+          <option value="todas">Todas</option>
+          <option value="oficial_imprensa">Oficial ou imprensa</option>
+          <option value="oficial">Só oficial</option>
+        </select>
+      </div>
+      <div class="grupo"><span class="rotulo">Empresa de IA</span><select id="filtro-empresa"></select></div>
+      <div class="grupo" id="grupo-pais" hidden>
+        <span class="rotulo">País</span>
+        <button id="limpar-pais" class="chip ativo" type="button"></button>
+      </div>
+    </div>
+    <div id="lista"></div>
+  </section>
+</main>
+
+<footer class="rodape">
+  <div class="faixa">
+    <h2>Como estes dados são produzidos</h2>
+    <p>Um programa coleta notícias de veículos de tecnologia e segurança e de buscas no Google Notícias.
+      Cada notícia passa por um modelo de decisão, o Jev, da TypeSafe AI, que responde se ela relata um
+      incidente concreto, qual foi o papel da IA, a gravidade do impacto relatado, o grau de confirmação,
+      a empresa envolvida e o país da organização atingida. Depois, o mesmo modelo compara notícias duas a
+      duas para reunir, num mesmo incidente, as matérias que falam do mesmo ataque, e num mesmo caso os
+      desdobramentos, como projetos de lei, processos e relatórios.</p>
+    <p><strong>Limites que valem ser ditos.</strong> A classificação é automática e pode errar. A gravidade
+      reflete o que a notícia relatou, não uma apuração própria. Nenhum incidente é colocado num país que
+      a notícia não citou: quando o país não aparece, o incidente fica fora do mapa. O site guarda apenas
+      título, link, veículo e data de cada matéria, e o texto completo continua no veículo de origem.</p>
+    <p class="creditos">Encontrou um erro de classificação ou um incidente que falta?
+      <a id="reportar" href="#">Reporte aqui</a>. Mapa desenhado com D3 e world-atlas.</p>
+  </div>
+</footer>
+
+<div id="dica" class="dica" hidden></div>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

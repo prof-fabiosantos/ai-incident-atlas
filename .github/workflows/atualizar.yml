@@ -1,0 +1,55 @@
+name: Atualizar dados
+
+# Roda todo dia às 10:00 UTC (06:00 em Manaus) e também pelo botão "Run workflow".
+on:
+  schedule:
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+    inputs:
+      maximo:
+        description: 'Máximo de notícias novas nesta coleta'
+        required: false
+        default: '40'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-dados
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Instalar dependências da coleta
+        run: pip install requests feedparser pandas
+
+      - name: Coletar e classificar
+        env:
+          TYPESAFE_API_KEY: ${{ secrets.TYPESAFE_API_KEY }}
+          MAXIMO_NOTICIAS: ${{ github.event.inputs.maximo || '40' }}
+        run: python observatorio.py atualizar
+
+      - name: Exportar o JSON do site
+        run: python exportar.py site
+
+      - name: Publicar as mudanças
+        run: |
+          git config user.name  'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add observatorio.db site/dados.json
+          if git diff --staged --quiet; then
+            echo 'Nada novo hoje.'
+          else
+            git commit -m "dados: coleta automática de $(date -u +%Y-%m-%d)"
+            git pull --rebase --autostash
+            git push
+          fi

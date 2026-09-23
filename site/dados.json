@@ -1,0 +1,122 @@
+{
+ "gerado_em": "2026-09-23T14:04:13+00:00",
+ "totais": {
+  "incidentes": 4,
+  "casos": 4,
+  "noticias": 9,
+  "repercussoes": 1
+ },
+ "incidentes": [
+  {
+   "id": 1,
+   "caso": 1,
+   "titulo": "How OpenAI's and Anthropic's AI models hacked other companies",
+   "papel": "agente_em_teste",
+   "gravidade": 3.0,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "anthropic",
+   "defasagem": "mesmo_mes",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-08-01",
+   "ultima": "2026-08-01",
+   "fontes": [
+    {
+     "titulo": "How OpenAI's and Anthropic's AI models hacked other companies",
+     "url": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
+     "fonte": "NPR",
+     "data": "2026-08-01"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "caso": 4,
+   "titulo": "New AI agent breach reported at logistics firm",
+   "papel": "agente_em_teste",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "mesmo_mes",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-21",
+   "ultima": "2026-09-21",
+   "fontes": [
+    {
+     "titulo": "New AI agent breach reported at logistics firm",
+     "url": "https://example.com/news/agent-breach",
+     "fonte": "example.com",
+     "data": "2026-09-21"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "caso": 3,
+   "titulo": "Google Joins OpenAI, Anthropic, Meta in Disclosing AI Hacks",
+   "papel": "agente_em_teste",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "google",
+   "defasagem": "meses_antes",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-18",
+   "ultima": "2026-09-18",
+   "fontes": [
+    {
+     "titulo": "Google Joins OpenAI, Anthropic, Meta in Disclosing AI Hacks",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-18/google-s-gemini-ai-system-hacked-three-systems-in-safety-tests",
+     "fonte": "Bloomberg",
+     "data": "2026-09-18"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "caso": 2,
+   "titulo": "OpenAI's reports into its agents' attack on Hugging Face holds lessons for every company",
+   "papel": "agente_em_teste",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "openai",
+   "defasagem": "mesmo_mes",
+   "pais": "usa",
+   "pais_nome": "Estados Unidos",
+   "numerico": "840",
+   "primeira": "2026-09-01",
+   "ultima": "2026-09-01",
+   "fontes": [
+    {
+     "titulo": "AI agents hacked a company without human direction. Should we be worried?",
+     "url": "https://www.poynter.org/fact-checking/2026/openai-ai-agents-hugging-face-cyberattack",
+     "fonte": "Poynter",
+     "data": "2026-09-01"
+    },
+    {
+     "titulo": "OpenAI's reports into its agents' attack on Hugging Face holds lessons for every company",
+     "url": "https://fortune.com/2026/09/01/openais-reports-on-its-ai-agents-attack-on-hugging-face-should-be-ringing-alarm-bellsand-making-all-companies-rethink-how-they-secure-ai-agents",
+     "fonte": "Fortune",
+     "data": "2026-09-01"
+    }
+   ]
+  }
+ ],
+ "repercussoes": [
+  {
+   "caso": 2,
+   "titulo": "New bill cracks down on AI agents after Hugging Face breach",
+   "url": "https://example.com/news/bill-ai-agents",
+   "fonte": "example.com",
+   "data": "2026-09-16"
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+# Coleta e exportação (o que o GitHub Actions precisa)
+requests>=2.31
+feedparser>=6.0
+pandas>=2.0
+
+# Painel de curadoria, só no uso local
+streamlit>=1.35
+plotly>=5.20
