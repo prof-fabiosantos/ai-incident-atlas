@@ -188,6 +188,21 @@ function desenharMapa(estado, visiveis, dica, aoMudar) {
   const largura = 960;
   const altura = 460;
   const contagem = contarPorPais(visiveis);
+  const caixa = document.getElementById('mapa-caixa');
+  const ajuda = document.getElementById('ajuda-mapa');
+  const nota = document.getElementById('nota-mapa');
+  if (!contagem.length) {            // sem país não há mapa: um mapa vazio parece defeito
+    caixa.hidden = true;
+    ajuda.hidden = true;
+    nota.textContent = visiveis.length
+      ? `Nenhuma das notícias destes ${visiveis.length} incidente(s) informou o país da organização `
+        + 'atingida, então não há o que desenhar no mapa. Nenhum incidente é colocado num país que a '
+        + 'notícia não citou.'
+      : '';
+    return;
+  }
+  caixa.hidden = false;
+  ajuda.hidden = false;
   const porCodigo = new Map(contagem.map((c) => [chaveNumerica(c.numerico), c]));
   const maximo = d3.max(contagem, (c) => c.total) || 1;
   const cor = d3.scaleSqrt().domain([0, maximo]).range(['#3a2f38', '#ff6b5a']).clamp(true);
@@ -236,7 +251,7 @@ function desenharMapa(estado, visiveis, dica, aoMudar) {
     `<span>${maximo}</span><span>incidentes por país</span>`;
 
   const fora = visiveis.length - contagem.reduce((s, c) => s + c.total, 0);
-  document.getElementById('nota-mapa').textContent =
+  nota.textContent =
     `${fora} incidente(s) sem país informado ou com vítimas em vários países não aparecem no mapa. ` +
     'Nenhum incidente é colocado num país que a notícia não citou.';
 }
@@ -285,7 +300,8 @@ function desenharLista(dados, visiveis) {
 
   alvo.innerHTML = agruparPorCaso(visiveis).map(({ caso, incidentes }) => {
     const reps = dados.repercussoes.filter((r) => r.caso === caso);
-    const cabecalho = (incidentes.length > 1 || reps.length)
+    const agrupado = incidentes.length > 1 || reps.length > 0;
+    const cabecalho = agrupado
       ? `<p class="caso-titulo">Caso ${caso} · ${incidentes.length} incidente(s) · ${reps.length} repercussão(ões)</p>`
       : '';
     const corpo = incidentes.map((i) => {
@@ -308,7 +324,7 @@ function desenharLista(dados, visiveis) {
       ? `<details class="repercussoes"><summary>Repercussões do caso ${caso} — leis, processos, relatórios (${reps.length})</summary>
          <ul class="fontes">${reps.map(fonteHtml).join('')}</ul></details>`
       : '';
-    return `<div class="caso">${cabecalho}${corpo}${repercussoes}</div>`;
+    return `<div class="caso${agrupado ? ' agrupado' : ''}">${cabecalho}${corpo}${repercussoes}</div>`;
   }).join('');
 }
 
