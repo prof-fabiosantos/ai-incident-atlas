@@ -1,9 +1,9 @@
-# Agent Incident Atlas
+# AI Incident Atlas
 
 Mapa e linha do tempo de incidentes de segurança envolvendo agentes e modelos de IA, montados
 automaticamente a partir de notícias públicas.
 
-O site é estático e mostra **incidentes**, não notícias: as matérias que falam do mesmo ataque ficam
+O site é estático, sai em **português ou inglês** conforme o idioma do navegador (com um botão para trocar), e mostra **incidentes**, não notícias: as matérias que falam do mesmo ataque ficam
 reunidas num incidente, e os desdobramentos (relatórios, projetos de lei, processos) ficam reunidos no
 mesmo **caso**. Cada incidente traz a gravidade relatada, o grau de confirmação, a empresa de IA
 envolvida, o país da organização atingida e todas as fontes.
@@ -32,6 +32,7 @@ envolvida, o país da organização atingida e todas as fontes.
 | `site/` | O site estático publicado na Vercel. |
 | `testar_sem_api.py` | Testa a coleta e o painel com o Jev e as fontes simulados, sem gastar créditos. |
 | `site/testar_site.js` | Testa as funções de dados do site, sem navegador. |
+| `site/testar_render.js` | Renderiza a página num DOM simulado e simula cliques. Precisa de `npm install jsdom d3 topojson-client` dentro de `site/`. |
 
 ## Rodando localmente
 

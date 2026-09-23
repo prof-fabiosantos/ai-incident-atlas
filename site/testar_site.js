@@ -43,6 +43,27 @@ ok(a.nivel(3.0).nome === 'Várias organizações' && a.nivel(0).indice === 0, 'r
 ok(a.resumoTotais(dados, dados.incidentes)[0].valor === dados.incidentes.length, 'cartões de totais');
 ok(a.chaveNumerica('076') === '76' && a.chaveNumerica(null) === null, 'código do país normalizado para o mapa');
 
+console.log('idiomas');
+ok(a.detectarIdioma(null, 'pt-BR') === 'pt' && a.detectarIdioma(null, 'en-US') === 'en'
+   && a.detectarIdioma(null, 'fr-FR') === 'en', 'idioma detectado pelo navegador');
+ok(a.detectarIdioma('en', 'pt-BR') === 'en', 'a escolha do usuário vence a do navegador');
+const chavesPt = Object.keys(a.TEXTOS.pt).sort();
+const chavesEn = Object.keys(a.TEXTOS.en).sort();
+ok(JSON.stringify(chavesPt) === JSON.stringify(chavesEn),
+   `os dois dicionários têm as mesmas chaves (${chavesPt.length})`);
+const faltando = chavesPt.filter((k) => a.TEXTOS.en[k] === undefined || a.TEXTOS.en[k] === '');
+ok(!faltando.length, `nenhuma tradução vazia (${faltando.join(', ') || 'nenhuma'})`);
+['papeis', 'confirmacoes', 'empresas', 'defasagens'].forEach((grupo) => {
+  const p = Object.keys(a.TEXTOS.pt[grupo]).sort().join(',');
+  const e = Object.keys(a.TEXTOS.en[grupo]).sort().join(',');
+  ok(p === e, `mesmas opções em ${grupo}`);
+});
+ok(a.TEXTOS.pt.niveis.length === 5 && a.TEXTOS.en.niveis.length === 5, 'cinco níveis de gravidade nos dois');
+a.definirIdioma('en');
+ok(a.nivel(3).nome === 'Several organisations', 'rótulo de gravidade em inglês');
+a.definirIdioma('pt');
+ok(a.nivel(3).nome === 'Várias organizações', 'rótulo de gravidade em português');
+
 console.log(`\n${res.filter(Boolean).length} de ${res.length} verificações passaram.`);
 process.exit(res.every(Boolean) ? 0 : 1);
 

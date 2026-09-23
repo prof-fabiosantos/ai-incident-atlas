@@ -31,6 +31,11 @@ main { max-width: 1120px; margin: 0 auto; padding: 0 24px 64px; }
   padding: 48px 0 40px;
   margin-bottom: 32px;
 }
+
+.linha-topo { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+.idiomas { display: flex; gap: 6px; flex: none; }
+.idiomas .chip { padding: 5px 12px; font-size: 12.5px; letter-spacing: .04em; }
+
 h1 { font-size: clamp(26px, 4vw, 40px); line-height: 1.15; margin: 0 0 12px; letter-spacing: -0.02em; }
 .subtitulo { color: var(--texto-2); max-width: 62ch; margin: 0 0 16px; }
 .atualizacao { color: var(--texto-2); font-size: 14px; margin: 0; }
