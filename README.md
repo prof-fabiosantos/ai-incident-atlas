@@ -53,6 +53,18 @@ python -m http.server 8080 --directory site
 
 O painel de curadoria roda com `python -m streamlit run painel.py --server.port 8505`.
 
+### Refazendo o acervo
+
+Quando as instruções de classificação mudam, o que já está no banco continua com as regras antigas.
+Dois comandos corrigem isso, ambos com confirmação e cópia de segurança automática do banco:
+
+```bash
+python observatorio.py reagrupar         # refaz incidentes e casos; só paga as comparações
+python observatorio.py reclassificar     # passa tudo pelo Jev de novo e reagrupa; uma chamada por notícia
+python observatorio.py reclassificar 50  # só as 50 mais recentes
+python exportar.py site                  # e então atualiza o site
+```
+
 ## Coleta automática
 
 O workflow `.github/workflows/atualizar.yml` roda todo dia às 10:00 UTC, coleta, classifica, exporta e

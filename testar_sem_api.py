@@ -153,7 +153,26 @@ with patch('requests.post', side_effect=post_simulado), patch('requests.get', si
                   f'só a notícia que fala de IA passou ({len(lidos)} passou, {descartados} descartada)'))
     res.append(ok(not erros, 'nenhum erro de feed'))
 
-    print('5. Painel')
+    print('5. Reclassificar e reagrupar o acervo')
+    antes_ids = dict(con.execute('SELECT id, incidente_id FROM noticias').fetchall())
+    antes_chamadas = chamadas['classificar']
+    total = con.execute('SELECT COUNT(*) FROM noticias').fetchone()[0]
+    feitas = ob.reclassificar(con, 'chave-falsa')
+    res.append(ok(feitas == total and chamadas['classificar'] == antes_chamadas + total,
+                  f'todas as {total} notícias passaram pelo Jev de novo ({feitas})'))
+    agrupadas = ob.reagrupar(con, 'chave-falsa')
+    depois = dict(con.execute('SELECT id, incidente_id FROM noticias').fetchall())
+    res.append(ok(agrupadas > 0 and all(v is not None for k, v in depois.items()
+                                        if antes_ids.get(k) is not None),
+                  f'quem era incidente continua sendo depois do reagrupamento ({agrupadas} avaliadas)'))
+    fontes = dict(con.execute("SELECT fonte, incidente_id FROM noticias WHERE fonte IN "
+                              "('Poynter', 'Fortune')").fetchall())
+    res.append(ok(fontes.get('Poynter') == fontes.get('Fortune') and fontes.get('Poynter') is not None,
+                  'o agrupamento do Hugging Face se manteve'))
+    caminho = ob.copia_de_seguranca()
+    res.append(ok(caminho and caminho.exists(), f'cópia de segurança criada ({caminho and caminho.name})'))
+
+    print('6. Painel')
     at = AppTest.from_file(str(PASTA / 'painel.py'), default_timeout=60).run()
     metricas = {m.label: m.value for m in at.metric}
     res.append(ok(not at.exception, 'painel renderizou sem exceções'))

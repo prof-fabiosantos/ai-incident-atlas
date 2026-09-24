@@ -4,15 +4,19 @@ O Jev classifica cada notícia e decide se duas notícias descrevem o mesmo inci
 O código coleta, filtra candidatos, guarda no banco e agrega.
 
 Uso pela linha de comando (com a variável TYPESAFE_API_KEY definida):
-    python observatorio.py exemplo      # carrega exemplo_noticias.csv
-    python observatorio.py atualizar    # coleta Google Notícias e os feeds de segurança
-    python observatorio.py feeds        # testa os feeds, sem gastar nada
+    python observatorio.py exemplo          # carrega exemplo_noticias.csv
+    python observatorio.py atualizar        # coleta Google Notícias e os feeds de segurança
+    python observatorio.py feeds            # testa os feeds, sem gastar nada
+    python observatorio.py reagrupar        # refaz incidentes e casos do acervo, sem reclassificar
+    python observatorio.py reclassificar    # passa tudo pelo Jev de novo e reagrupa (custa caro)
+    python observatorio.py reclassificar 50 # só as 50 notícias mais recentes
 """
 import csv
 import hashlib
 import html
 import os
 import re
+import shutil
 import sqlite3
 import sys
 import time
@@ -468,6 +472,75 @@ def processar(con, chave, itens, maximo=50, progresso=None):
             'incidentes': sum(1 for n in novos if n['incidente_id']), 'registro': registro}
 
 
+# ------------------------------------------------------------------ refazer o acervo
+COLUNAS_LEITURA = ['id', 'titulo', 'resumo', 'fonte', 'publicada_em', 'empresa',
+                   'e_incidente', 'papel', 'incidente_id', 'caso_id']
+
+
+def todas_as_noticias(con):
+    return [dict(zip(COLUNAS_LEITURA, linha)) for linha in
+            con.execute(f'SELECT {",".join(COLUNAS_LEITURA)} FROM noticias ORDER BY publicada_em')]
+
+
+def copia_de_seguranca(caminho=None):
+    """Guarda uma cópia do banco antes de mexer no acervo inteiro."""
+    origem = Path(caminho or BANCO)
+    if not origem.exists():
+        return None
+    destino = origem.with_name(f'{origem.stem}-{datetime.now(timezone.utc):%Y%m%d-%H%M}.bak')
+    shutil.copy2(origem, destino)
+    return destino
+
+
+def reclassificar(con, chave, maximo=None, progresso=None):
+    """Passa as notícias já guardadas pelo Jev de novo, com as instruções atuais."""
+    alvo = todas_as_noticias(con)
+    if maximo:
+        alvo = alvo[-maximo:]                      # as mais recentes primeiro
+    with ThreadPoolExecutor(CHAMADAS_SIMULTANEAS) as ex:
+        futuros = {ex.submit(classificar, chave, n): n for n in alvo}
+        try:
+            for i, f in enumerate(as_completed(futuros), 1):
+                n = futuros[f]
+                n.update(f.result())
+                con.execute('UPDATE noticias SET e_incidente = ?, papel = ?, gravidade = ?, '
+                            'gravidade_conf = ?, confirmacao = ?, empresa = ?, pais = ?, defasagem = ? '
+                            'WHERE id = ?',
+                            (n['e_incidente'], n['papel'], n['gravidade'], n['gravidade_conf'],
+                             n['confirmacao'], n['empresa'], n['pais'], n['defasagem'], n['id']))
+                if progresso:
+                    progresso(i, len(alvo))
+        except Exception:
+            for f in futuros:
+                f.cancel()
+            con.commit()                           # guarda o que já foi reclassificado
+            raise
+    con.commit()
+    return len(alvo)
+
+
+def reagrupar(con, chave, registro=None, progresso=None):
+    """Refaz incidentes e casos do zero, com as regras de agrupamento atuais."""
+    registro = registro if registro is not None else []
+    con.execute('UPDATE noticias SET incidente_id = NULL, caso_id = NULL')
+    con.commit()
+    todas = todas_as_noticias(con)
+    agrupadas = 0
+    for i, n in enumerate(todas, 1):
+        n['incidente_id'] = n['caso_id'] = None
+        if e_incidente(n) or n['papel'] == 'desdobramento':
+            marca = 'Incidente' if e_incidente(n) else 'Desdobramento'
+            registro.append(f'{marca}: "{n["titulo"][:70]}"')
+            incidente, caso = agrupar(con, chave, n, registro)
+            con.execute('UPDATE noticias SET incidente_id = ?, caso_id = ? WHERE id = ?',
+                        (incidente, caso, n['id']))
+            con.commit()
+            agrupadas += 1
+        if progresso:
+            progresso(i, len(todas))
+    return agrupadas
+
+
 # ------------------------------------------------------------------ agregação
 ORDEM_CONFIRMACAO = {'oficial': 0, 'imprensa': 1, 'nao_confirmado': 2}
 
@@ -501,9 +574,19 @@ def tabela_incidentes(con):
 
 
 # ------------------------------------------------------------------ linha de comando
+def barra(i, total, rotulo='processadas'):
+    print(f'\r{i}/{total} {rotulo}', end='', flush=True)
+
+
+def confirmar(pergunta):
+    return input(f'{pergunta} [s/N] ').strip().lower() in ('s', 'sim', 'y', 'yes')
+
+
 if __name__ == '__main__':
     comando = sys.argv[1] if len(sys.argv) > 1 else ''
+    limite = int(sys.argv[2]) if len(sys.argv) > 2 and sys.argv[2].isdigit() else None
     chave = os.environ.get('TYPESAFE_API_KEY', '')
+
     if comando == 'feeds':  # teste rápido dos feeds, sem gastar nada
         for nome in FEEDS:
             try:
@@ -512,10 +595,51 @@ if __name__ == '__main__':
             except FalhaExterna as e:
                 print(f'{nome}: FALHOU — {e}')
         sys.exit(0)
-    if comando not in ('exemplo', 'atualizar') or not chave:
+
+    if comando not in ('exemplo', 'atualizar', 'reagrupar', 'reclassificar') or not chave:
         print(__doc__)
         sys.exit(1)
+
     con = conectar()
+
+    if comando in ('reagrupar', 'reclassificar'):
+        total = con.execute('SELECT COUNT(*) FROM noticias').fetchone()[0]
+        if not total:
+            print('O banco está vazio. Rode a coleta primeiro.')
+            sys.exit(1)
+        quantas = min(limite, total) if limite else total
+        if comando == 'reclassificar':
+            print(f'Isso vai passar {quantas} notícia(s) pelo Jev de novo, com as instruções atuais, '
+                  'e depois refazer o agrupamento.')
+            print(f'Custo aproximado: {quantas} chamadas de classificação, mais as comparações do '
+                  'agrupamento (até seis por incidente).')
+        else:
+            print(f'Isso vai refazer incidentes e casos de {total} notícia(s), sem reclassificar. '
+                  'Só as comparações de agrupamento são cobradas.')
+        if not confirmar('Continuar?'):
+            print('Cancelado.')
+            sys.exit(0)
+
+        copia = copia_de_seguranca()
+        print(f'Cópia de segurança em {copia}' if copia else 'Sem banco anterior para copiar.')
+
+        if comando == 'reclassificar':
+            feitas = reclassificar(con, chave, maximo=limite,
+                                   progresso=lambda i, t: barra(i, t, 'reclassificadas'))
+            print(f'\n{feitas} notícia(s) reclassificada(s).')
+
+        registro = []
+        agrupadas = reagrupar(con, chave, registro, progresso=lambda i, t: barra(i, t, 'avaliadas'))
+        incidentes = con.execute('SELECT COUNT(DISTINCT incidente_id) FROM noticias '
+                                 'WHERE incidente_id IS NOT NULL').fetchone()[0]
+        casos = con.execute('SELECT COUNT(DISTINCT caso_id) FROM noticias '
+                            'WHERE caso_id IS NOT NULL').fetchone()[0]
+        print(f'\n{agrupadas} notícia(s) ligada(s) a incidentes ou desdobramentos.')
+        print(f'Resultado: {incidentes} incidente(s) em {casos} caso(s).')
+        print('Rode "python exportar.py site" para atualizar o site.')
+        sys.exit(0)
+
+    itens = []
     if comando == 'exemplo':
         itens = ler_csv()
     else:
@@ -527,6 +651,6 @@ if __name__ == '__main__':
         print(f'{descartados} notícias dos feeds descartadas por não falarem de IA')
     maximo = int(os.environ.get('MAXIMO_NOTICIAS', 50))
     r = processar(con, chave, itens, maximo=maximo,
-                  progresso=lambda i, t: print(f'\r{i}/{t} classificadas', end=''))
+                  progresso=lambda i, t: barra(i, t, 'classificadas'))
     print(f"\n{r['novas']} novas, {r['repetidas']} repetidas, {r['incidentes']} ligadas a incidentes")
     print('\n'.join(r['registro']))
