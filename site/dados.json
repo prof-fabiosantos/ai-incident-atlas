@@ -1,14 +1,14 @@
 {
- "gerado_em": "2026-09-24T14:15:08+00:00",
+ "gerado_em": "2026-09-24T18:20:56+00:00",
  "totais": {
-  "incidentes": 49,
+  "incidentes": 42,
   "casos": 28,
   "noticias": 182,
   "repercussoes": 0
  },
  "incidentes": [
   {
-   "id": 46,
+   "id": 39,
    "caso": 29,
    "titulo": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later - WIRED",
    "papel": "agente_em_producao",
@@ -116,32 +116,8 @@
    ]
   },
   {
-   "id": 37,
-   "caso": 22,
-   "titulo": "Ataque com IA rouba login de 375 servidores públicos no Brasil - Cybernews",
-   "papel": "ia_como_ferramenta",
-   "gravidade": 3.6,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "nao_informado",
-   "defasagem": "nao_informado",
-   "pais": "bra",
-   "pais_nome": "Brasil",
-   "numerico": "076",
-   "primeira": "2026-09-09",
-   "ultima": "2026-09-09",
-   "fontes": [
-    {
-     "titulo": "Ataque com IA rouba login de 375 servidores públicos no Brasil - Cybernews",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR3RwTm5xb2pzVGZQYTB2TFowc1U2RVlEek1BRzdqekRsLXlWbUJaZEpNVm85TmVsZ1FEZXlZLXRjR0VuNXVXMWRvZ2FMQVhsYXdEZmQ2QXZKLVh4ZDVwdFQ0TXRyS3ZTczVFeUNTa2stS01SeFViT1U4X1VzdVUtVEVkNUFMQm5hdF9fN0Rjd1kxeHZ1VG15MTZ6M0tTQQ?oc=5",
-     "fonte": "Cybernews",
-     "data": "2026-09-09"
-    }
-   ]
-  },
-  {
-   "id": 26,
-   "caso": 13,
+   "id": 4,
+   "caso": 3,
    "titulo": "Cursor AI Hack: Aurora Ransomware Breaches 7 Firms [2026] - tech-insider.org",
    "papel": "ia_como_ferramenta",
    "gravidade": 3.0,
@@ -194,8 +170,8 @@
    ]
   },
   {
-   "id": 35,
-   "caso": 21,
+   "id": 5,
+   "caso": 4,
    "titulo": "Hackers utilizaram ferramenta de IA da SpaceX para atacar sete empresas - Valor Econômico",
    "papel": "ia_como_ferramenta",
    "gravidade": 3.0,
@@ -218,8 +194,8 @@
    ]
   },
   {
-   "id": 25,
-   "caso": 12,
+   "id": 31,
+   "caso": 21,
    "titulo": "Google Confirms Gemini AI Breached Three Firms - securityweek.com",
    "papel": "agente_em_producao",
    "gravidade": 2.9,
@@ -230,9 +206,21 @@
    "pais": "nao_informado",
    "pais_nome": "País não informado",
    "numerico": null,
-   "primeira": "2026-09-19",
+   "primeira": "2026-09-18",
    "ultima": "2026-09-21",
    "fontes": [
+    {
+     "titulo": "Google Joins OpenAI, Anthropic, Meta in Disclosing AI Hacks",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-18/google-s-gemini-ai-system-hacked-three-systems-in-safety-tests",
+     "fonte": "Bloomberg",
+     "data": "2026-09-18"
+    },
+    {
+     "titulo": "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI - WSJ",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjdUWU9tYzBhcjAwR1AzWkhVczUyUG9SUThfTFNuWEl0VFdHVUFzR1pDb3l3amRZWktfRUtvOFp3a0xZellIODVSTGdJOGd0dnQ2NlNoeVE5OHNEY0swRXJPcDhxSDI5bmJlV29icV91dXYxZGNRdDA2LTV3OTlnQUp6RldkYTJKT1IydVgtTnk5QXRUVkFGdEl3WFp1OVlOMWVaeHpEcw?oc=5",
+     "fonte": "WSJ",
+     "data": "2026-09-18"
+    },
     {
      "titulo": "Google's Gemini AI Broke Its Own Sandbox and Hacked Three Real Companies - Startup Fortune",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVWtuaUZxZGJ2bFJkdzBzQ3U2ci1JRDB0X1JWSF83czJ5a3NSRV84VUNHcjd4bmNMWUl2NEdYT3k5U0FhU0pBX0cyNG5EQUVDSHlzQ1ZuNmhyLTlNN3QxRGE0VmF6M19yUjItY2FweFJEVVNaRnNkc2RsWFZDckVkVDNBNFNwSUlWall3T3Z4eW5MVENuRFlseUZTVjl6dEow?oc=5",
@@ -266,8 +254,8 @@
    ]
   },
   {
-   "id": 38,
-   "caso": 23,
+   "id": 20,
+   "caso": 14,
    "titulo": "Hackers Roubam $600 Mil da METR Via Agente de IA [2026] - shattered.io",
    "papel": "ia_como_ferramenta",
    "gravidade": 2.9,
@@ -290,8 +278,8 @@
    ]
   },
   {
-   "id": 4,
-   "caso": 4,
+   "id": 3,
+   "caso": 2,
    "titulo": "OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm - The Guardian",
    "papel": "agente_em_producao",
    "gravidade": 2.5,
@@ -303,18 +291,24 @@
    "pais_nome": "País não informado",
    "numerico": null,
    "primeira": "2026-08-26",
-   "ultima": "2026-08-26",
+   "ultima": "2026-08-27",
    "fontes": [
     {
      "titulo": "OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm - The Guardian",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeDNua1VDVWkwRFBlcWpMa2dfSXZDemVBZHJjTHh6cW9IUng0RUJoNjI0YU1lSThrMUVObVF2aC05WjdMZURuUHJPdDBvZnJqUFc4U2luQ1hhNzllWjY2RVBSRG9HU2FiOEg5bmpGMkNyWFVJaGlWaFlOWUZEWmduNWRIOG1WV1BfSl9DOWZNMGpRN05kdC1kdW1qVVNNdlh2bldjbjV5VXZ5UlJJTENjemlNZ1FwVEU1UUR3YlVsbHh2VFZveEtrQ3B0eWUybG40Rk9GVg?oc=5",
      "fonte": "The Guardian",
      "data": "2026-08-26"
+    },
+    {
+     "titulo": "IA fez ataque sem intervenção humana que alarmou o mundo. OpenAI reconhece agora que ignorou vários sinais - CNN Portugal",
+     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPdTdGMUJGMG4xSEdkcDV6dnVucXBTTURzZVpwZEFYNTFWYy1DUG9jdTdaTFVBRkR6SVpIX3JOc1hJV0syLVFFTU9mVS16aDltcjBTRUdqX1IxWnlzZ3ExU2hPNldmVFZiMmlidVRfMk43R3VWRDIxMVZRdUJWOEVISlhIYjBNcW9uN3JvNFF5dXgtSEVtdnRQV3NZZnVxN0lQQk1Dd3doeFpJWEpmbjMycVRXYUdGVFhKZTlmSjJDR01GVl9ISkZ1VDR0M0lycmFySVdNZVU4eWpRRjZNODBYTHFwZDRXR3JPUTNIU1ZOTDZ5TFAyVkM3dGh5QWtDQ3NQbVlEc1V3TXViMXZWZV9VNTJhWlZMME5kMUdTQ0oxcVFYUE0?oc=5",
+     "fonte": "CNN Portugal",
+     "data": "2026-08-27"
     }
    ]
   },
   {
-   "id": 47,
+   "id": 40,
    "caso": 29,
    "titulo": "OpenAI agent hacked into Australian government website, says PM Anthony Albanese - nypost.com",
    "papel": "agente_em_producao",
@@ -404,8 +398,8 @@
    ]
   },
   {
-   "id": 31,
-   "caso": 17,
+   "id": 19,
+   "caso": 13,
    "titulo": "OpenAI agents launched cyberattack on RubyGems before Hugging Face hack: report - Seeking Alpha",
    "papel": "agente_em_producao",
    "gravidade": 2.4,
@@ -428,8 +422,8 @@
    ]
   },
   {
-   "id": 48,
-   "caso": 10,
+   "id": 41,
+   "caso": 16,
    "titulo": "OpenAI agent carried out first known hack of government system - WKOW",
    "papel": "agente_em_producao",
    "gravidade": 2.3,
@@ -470,51 +464,27 @@
    ]
   },
   {
-   "id": 3,
-   "caso": 3,
-   "titulo": "Google Joins OpenAI, Anthropic, Meta in Disclosing AI Hacks",
-   "papel": "agente_em_teste",
-   "gravidade": 2.2,
-   "divergencia": false,
-   "confirmacao": "oficial",
-   "empresa": "google",
-   "defasagem": "meses_antes",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-09-18",
-   "ultima": "2026-09-18",
-   "fontes": [
-    {
-     "titulo": "Google Joins OpenAI, Anthropic, Meta in Disclosing AI Hacks",
-     "url": "https://www.bloomberg.com/news/articles/2026-09-18/google-s-gemini-ai-system-hacked-three-systems-in-safety-tests",
-     "fonte": "Bloomberg",
-     "data": "2026-09-18"
-    },
-    {
-     "titulo": "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI - WSJ",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjdUWU9tYzBhcjAwR1AzWkhVczUyUG9SUThfTFNuWEl0VFdHVUFzR1pDb3l3amRZWktfRUtvOFp3a0xZellIODVSTGdJOGd0dnQ2NlNoeVE5OHNEY0swRXJPcDhxSDI5bmJlV29icV91dXYxZGNRdDA2LTV3OTlnQUp6RldkYTJKT1IydVgtTnk5QXRUVkFGdEl3WFp1OVlOMWVaeHpEcw?oc=5",
-     "fonte": "WSJ",
-     "data": "2026-09-18"
-    }
-   ]
-  },
-  {
-   "id": 30,
-   "caso": 16,
+   "id": 15,
+   "caso": 11,
    "titulo": "AI-driven hack snags 375 Brazil government employee logins - Cybernews",
    "papel": "ia_como_ferramenta",
    "gravidade": 2.1,
-   "divergencia": false,
+   "divergencia": true,
    "confirmacao": "imprensa",
    "empresa": "nao_informado",
    "defasagem": "nao_informado",
    "pais": "bra",
    "pais_nome": "Brasil",
    "numerico": "076",
-   "primeira": "2026-09-10",
+   "primeira": "2026-09-09",
    "ultima": "2026-09-10",
    "fontes": [
+    {
+     "titulo": "Ataque com IA rouba login de 375 servidores públicos no Brasil - Cybernews",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR3RwTm5xb2pzVGZQYTB2TFowc1U2RVlEek1BRzdqekRsLXlWbUJaZEpNVm85TmVsZ1FEZXlZLXRjR0VuNXVXMWRvZ2FMQVhsYXdEZmQ2QXZKLVh4ZDVwdFQ0TXRyS3ZTczVFeUNTa2stS01SeFViT1U4X1VzdVUtVEVkNUFMQm5hdF9fN0Rjd1kxeHZ1VG15MTZ6M0tTQQ?oc=5",
+     "fonte": "Cybernews",
+     "data": "2026-09-09"
+    },
     {
      "titulo": "AI-driven hack snags 375 Brazil government employee logins - Cybernews",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUFdEQi1zeWtzVWdFVXB3OHZQSEswOGFMVjQyQWJXVHN6VEFydk83akVrN3FDRGxER2FMLWRZSXlNWHQ5SmUwWlFTNHg1a2pfQkVSM21URGhLWWNlcVNqb0lEUVAwYTZTZ3ZBU1Rzc3FPYnV5WmR3d2RXdGZIMjhYNHU2Zw?oc=5",
@@ -524,8 +494,8 @@
    ]
   },
   {
-   "id": 23,
-   "caso": 10,
+   "id": 30,
+   "caso": 16,
    "titulo": "AI Agent Breaches Spanish Organization, Modifies Personal Data - darkreading.com",
    "papel": "agente_em_producao",
    "gravidade": 2.0,
@@ -548,32 +518,8 @@
    ]
   },
   {
-   "id": 21,
-   "caso": 6,
-   "titulo": "Spain’s First AI-Driven Data Breach: Autonomous LLM Agent Exploits Application Vulnerabilities and Alters Sensitive Data - Rescana",
-   "papel": "agente_em_producao",
-   "gravidade": 2.0,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "nao_informado",
-   "defasagem": "nao_informado",
-   "pais": "esp",
-   "pais_nome": "Espanha",
-   "numerico": "724",
-   "primeira": "2026-09-17",
-   "ultima": "2026-09-17",
-   "fontes": [
-    {
-     "titulo": "Spain’s First AI-Driven Data Breach: Autonomous LLM Agent Exploits Application Vulnerabilities and Alters Sensitive Data - Rescana",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOXpEUUxiS2syY0JaZG1pRDZKd1VWeUw4V0RUWXJwaWdlbEI2Rjc1VVV1STNPZTkyZldNT2RhUVNIZm9LdnNnWjJfVU1vV3dfLVo0OUEybUo5Y2tOaVVWelhxY2VySk1mVER5Ny1Cc2dtZVk1MGZLZ191RkliWi05d1k5dUlNbDBHQmZ5eDJEaDl3MjdWQWVRVGNUREY5S0tIcDA4Qy1ScXlNUVN1NzA2YXZGY1dNR3lUWm8wRXRPakZPNldnOVByUE1Qek5JWWxWQWNEV014anRjd3VqSDc0V1FB?oc=5",
-     "fonte": "Rescana",
-     "data": "2026-09-17"
-    }
-   ]
-  },
-  {
-   "id": 22,
-   "caso": 9,
+   "id": 28,
+   "caso": 19,
    "titulo": "AI hacks system and accesses personal data in reported breach - Bitdefender",
    "papel": "agente_em_producao",
    "gravidade": 2.0,
@@ -596,8 +542,32 @@
    ]
   },
   {
-   "id": 45,
-   "caso": 28,
+   "id": 10,
+   "caso": 2,
+   "titulo": "Hugging Face Hack: 700 Rogue AI Agents, 17K Attacks - tech-insider.org",
+   "papel": "agente_em_producao",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "outra",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-06",
+   "ultima": "2026-09-06",
+   "fontes": [
+    {
+     "titulo": "Hugging Face Hack: 700 Rogue AI Agents, 17K Attacks - tech-insider.org",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOW9wT25TTDg3b3hTM01GMV9CdEhvVU1YeTBpd1p5dDVscEJjWnFlOHZIVU9PNEw4YVZtYVIzSXVXNmxSdkVpb3kwNFpBQlBuQUNVelBVQy15cTM4a2Eta1Znd1hmNHdGNk53RHFuQk5DSFl4WWJqMkVZTkJPWVF6aEJBUQ?oc=5",
+     "fonte": "tech-insider.org",
+     "data": "2026-09-06"
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "caso": 26,
    "titulo": "Unit 42 revela vazamento de credenciais em agentes de IA e a AWS não vê falha - Pasquale Pillitteri",
    "papel": "agente_em_producao",
    "gravidade": 2.0,
@@ -620,110 +590,8 @@
    ]
   },
   {
-   "id": 36,
-   "caso": 1,
-   "titulo": "IA fez ataque sem intervenção humana que alarmou o mundo. OpenAI reconhece agora que ignorou vários sinais - CNN Portugal",
-   "papel": "agente_em_producao",
-   "gravidade": 2.0,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "openai",
-   "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-08-27",
-   "ultima": "2026-08-27",
-   "fontes": [
-    {
-     "titulo": "IA fez ataque sem intervenção humana que alarmou o mundo. OpenAI reconhece agora que ignorou vários sinais - CNN Portugal",
-     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPdTdGMUJGMG4xSEdkcDV6dnVucXBTTURzZVpwZEFYNTFWYy1DUG9jdTdaTFVBRkR6SVpIX3JOc1hJV0syLVFFTU9mVS16aDltcjBTRUdqX1IxWnlzZ3ExU2hPNldmVFZiMmlidVRfMk43R3VWRDIxMVZRdUJWOEVISlhIYjBNcW9uN3JvNFF5dXgtSEVtdnRQV3NZZnVxN0lQQk1Dd3doeFpJWEpmbjMycVRXYUdGVFhKZTlmSjJDR01GVl9ISkZ1VDR0M0lycmFySVdNZVU4eWpRRjZNODBYTHFwZDRXR3JPUTNIU1ZOTDZ5TFAyVkM3dGh5QWtDQ3NQbVlEc1V3TXViMXZWZV9VNTJhWlZMME5kMUdTQ0oxcVFYUE0?oc=5",
-     "fonte": "CNN Portugal",
-     "data": "2026-08-27"
-    }
-   ]
-  },
-  {
-   "id": 19,
-   "caso": 6,
-   "titulo": "Spain reports the first data breach carried out by an AI agent - Yahoo Tech",
-   "papel": "agente_em_producao",
-   "gravidade": 1.9,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "nao_informado",
-   "defasagem": "nao_informado",
-   "pais": "esp",
-   "pais_nome": "Espanha",
-   "numerico": "724",
-   "primeira": "2026-09-16",
-   "ultima": "2026-09-18",
-   "fontes": [
-    {
-     "titulo": "Spain's data agency gets first report of AI-powered data breach - BleepingComputer",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOThkWmlTLWJhdVVKVlVOQXdCQlgzNHI5YXVhMURObFVKUjJnVEdzNGxqbFhONjM1TFFfcDJFSWRiNFhscEFzSVRUejRfamhkQTJLWUw2T3JnVmllLVpRRlVKVjhMMGRjR1JBWFN5NUxVRGw5ZWh0WUtOMDBJaXIzZUpvQjVPaHQxWHdCa1EyNmJlV3Q0RVktVVZ3T2Y5S3pUT0c2Qk50eHpqLVp6NmZz0gG0AUFVX3lxTE9HSzBWN3hqeUVEM0xWelMwMzR3T1Fjd1RoTEZyYWR3UnEwb2ZwWmFDRGUzcVBGT2VUZGo1eEEwUFpRYXVTclh3T0F3MGZHTGtrTGcxY0JrNkhnYjZWcThvSGtrWndNaEJNaFNGVTJOWDhjSzllNE0yVm9nWk9kNXFzRXJHdmRaT2FNNlBEN0Z0S1VPUkdNcU90RVFCZzFZWXdFQmV2Rjg2R2pxdlNPT28td240Vg?oc=5",
-     "fonte": "BleepingComputer",
-     "data": "2026-09-16"
-    },
-    {
-     "titulo": "Spain AEPD Logs First AI-Powered Data Breach [2026] - tech-insider.org",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03SjNfbzRTQmdqclBDbk1HWW1hTTAwREcyenU1ZkQtVURkbDZfTmh1RVQzRnVnTUNUNGZRYnQ2UEY5b0JqTElTZ0ZTYlRySjM4MGVQOGloaE03dE1HeXMzemlyVDdrbzEyM0J1Z3I0c21pQ3d2RkZQSjZn?oc=5",
-     "fonte": "tech-insider.org",
-     "data": "2026-09-16"
-    },
-    {
-     "titulo": "Spain reports the first data breach carried out by an AI agent - Yahoo Tech",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM2I4clF2U3ZtenB0WmVaZ1FyU1VTVUdRUDJoYjFxRVQ4a1pMUHlkeU9nY3ZKbWRRVEtRNmcxak1sQy00ME5SaFV6S2lzZVd3Q0ZlTngxdlFuMXZmUEpqZURzTlNBZ1pUNXBEWXp5U3Exa1BHNzg0c1FyNzZvdndQWFNxd2kxVkU5VHJLNU1NOG1aNGY3TlIw?oc=5",
-     "fonte": "Yahoo Tech",
-     "data": "2026-09-16"
-    },
-    {
-     "titulo": "Spain’s AEPD Logs First Data Breach Caused by AI Agent - SQ Magazine",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5MDNMNFJiYWpHd3lpWDZPQVAtQUxmbXdreDRwSVpCakFEb0pzem8zaEo1bmdRcGc1MTdQci1pZ2gxZDVFcXhuUkYzMmItME5zbEEtZFY1LTExQlJNY0JuMFU1RHRrX2JLRERPdVhJMVg?oc=5",
-     "fonte": "SQ Magazine",
-     "data": "2026-09-17"
-    },
-    {
-     "titulo": "Spain's Regulator Logs First Report of an AI-Powered Data Breach - Safestate",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUm5aeE5vNUJCTTJuZ0lXVEp6cXl3aEdxQUF6Y0tJT1JPOC1HSkp2Wm91OXpnM20zXzI2dndwd1lXRDRka2RoQ1UzTnVGSng0b1YyZXBSMWZwN0dNR0xFQ210eGVrUXBPeVlhVS1OcGJjbUpVY0tJYmdTbFlFWHZSUzlXY3ZYU3BWTmdOUjZnbEtHQU9JSndRdmJB?oc=5",
-     "fonte": "Safestate",
-     "data": "2026-09-17"
-    },
-    {
-     "titulo": "Spain’s Data Regulator Logs First Breach Blamed on an AI Agent - The SOFX Report",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWWtVQm1GLXhLSmNPWnRCMHhseWYwS0tSb0F6LUFIUzZiVzB6MDU5dHE0VGp6UWlidmhxRFBKTXdtQkVGU0xNSDN0U1J3OTVhT0tjb05JVGlQT0xlb3ozNGk4ZzFpSUpTRnY2Nmo0NDBMZTg2SjBmVlRaNmhMam5PbWhWdm9BRDZTVW9z?oc=5",
-     "fonte": "The SOFX Report",
-     "data": "2026-09-18"
-    }
-   ]
-  },
-  {
-   "id": 39,
-   "caso": 24,
-   "titulo": "Espanha divulga 1º notificação de violação de dados ligada a agente de IA - Valor Econômico",
-   "papel": "agente_em_producao",
-   "gravidade": 1.9,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "nao_informado",
-   "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-09-15",
-   "ultima": "2026-09-15",
-   "fontes": [
-    {
-     "titulo": "Espanha divulga 1º notificação de violação de dados ligada a agente de IA - Valor Econômico",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRFo2UTR2cXpQY292MEd6QlJ4Z285blhJSFNlT3FWTWRadTJUZ0EyQzlOUDFXUEVBWFBsR0xoZE1oTmJwWFU4aUtDaURXU3FBMUNUN3V0bFRBeTl3WDFxSmp0U2diZkhhc3lVc2FwOXVrd2U3TF9WOTdoSE5DVlplNE5pVXE2TEdTWlA4NjdVQW8za3NyRjBYdnczdFdwUDhSV2tES0cyYjBxLXhGUzRzTUVXVkNOZnJhLUpZbWQ5UUtJTGlibC1fLTZQQdIB2gFBVV95cUxObWdNSVkwQjUtZW1HNXlQLXpZVEVKbnJnTF9fdHVSaWUybS1MQU1sUFFRaTdaYW43Z1F1UUhIVi1YMXUzdXRubjBGZGJBX2RBWVptZ2xySDhuQlJSRlZTTGt4bmFjX1NzWC05RGpSYUt4dTdGTW01c2d5OGJFOXlSWXM3X0txanZzSlU0amY1YnVuMzcwNmdOWExfTUgzSU96bElCTTRDNXgzQXd3QWtMVm5VOWdlRzhNemNMNkM4Q1NwZ05IU19ZQ3M0aUlpV2NERnE2Q2Vodk5YUQ?oc=5",
-     "fonte": "Valor Econômico",
-     "data": "2026-09-15"
-    }
-   ]
-  },
-  {
-   "id": 20,
-   "caso": 8,
+   "id": 26,
+   "caso": 18,
    "titulo": "AI Agent Carries Out Multi-Stage Data Theft Attack - Infosecurity Magazine",
    "papel": "agente_em_producao",
    "gravidade": 1.9,
@@ -746,8 +614,8 @@
    ]
   },
   {
-   "id": 9,
-   "caso": 9,
+   "id": 22,
+   "caso": 16,
    "titulo": "Spanish data watchdog publicises first AI agent-linked data breach report - Reuters",
    "papel": "agente_em_producao",
    "gravidade": 1.9,
@@ -759,7 +627,7 @@
    "pais_nome": "Espanha",
    "numerico": "724",
    "primeira": "2026-09-15",
-   "ultima": "2026-09-17",
+   "ultima": "2026-09-18",
    "fontes": [
     {
      "titulo": "Spanish data watchdog publicises first AI agent-linked data breach report - Reuters",
@@ -780,6 +648,24 @@
      "data": "2026-09-16"
     },
     {
+     "titulo": "Spain's data agency gets first report of AI-powered data breach - BleepingComputer",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOThkWmlTLWJhdVVKVlVOQXdCQlgzNHI5YXVhMURObFVKUjJnVEdzNGxqbFhONjM1TFFfcDJFSWRiNFhscEFzSVRUejRfamhkQTJLWUw2T3JnVmllLVpRRlVKVjhMMGRjR1JBWFN5NUxVRGw5ZWh0WUtOMDBJaXIzZUpvQjVPaHQxWHdCa1EyNmJlV3Q0RVktVVZ3T2Y5S3pUT0c2Qk50eHpqLVp6NmZz0gG0AUFVX3lxTE9HSzBWN3hqeUVEM0xWelMwMzR3T1Fjd1RoTEZyYWR3UnEwb2ZwWmFDRGUzcVBGT2VUZGo1eEEwUFpRYXVTclh3T0F3MGZHTGtrTGcxY0JrNkhnYjZWcThvSGtrWndNaEJNaFNGVTJOWDhjSzllNE0yVm9nWk9kNXFzRXJHdmRaT2FNNlBEN0Z0S1VPUkdNcU90RVFCZzFZWXdFQmV2Rjg2R2pxdlNPT28td240Vg?oc=5",
+     "fonte": "BleepingComputer",
+     "data": "2026-09-16"
+    },
+    {
+     "titulo": "Spain AEPD Logs First AI-Powered Data Breach [2026] - tech-insider.org",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03SjNfbzRTQmdqclBDbk1HWW1hTTAwREcyenU1ZkQtVURkbDZfTmh1RVQzRnVnTUNUNGZRYnQ2UEY5b0JqTElTZ0ZTYlRySjM4MGVQOGloaE03dE1HeXMzemlyVDdrbzEyM0J1Z3I0c21pQ3d2RkZQSjZn?oc=5",
+     "fonte": "tech-insider.org",
+     "data": "2026-09-16"
+    },
+    {
+     "titulo": "Spain reports the first data breach carried out by an AI agent - Yahoo Tech",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM2I4clF2U3ZtenB0WmVaZ1FyU1VTVUdRUDJoYjFxRVQ4a1pMUHlkeU9nY3ZKbWRRVEtRNmcxak1sQy00ME5SaFV6S2lzZVd3Q0ZlTngxdlFuMXZmUEpqZURzTlNBZ1pUNXBEWXp5U3Exa1BHNzg0c1FyNzZvdndQWFNxd2kxVkU5VHJLNU1NOG1aNGY3TlIw?oc=5",
+     "fonte": "Yahoo Tech",
+     "data": "2026-09-16"
+    },
+    {
      "titulo": "Spain’s AEPD Logs 1st AI Agent Data Breach [2026] - shattered.io",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hY2hkUVJDbndoME9kaWZ2YzNtemRXU2RJZDB6djNKVmdEV0QzNkJZN0tLdWVVeDNVbEFWNUtTZlJZVFF1REM2SXBHd1hXNFRXVjE1azVfaXRRMlVpU3BQcEZzSmtPYUQ0STMzbmpuM0psZw?oc=5",
      "fonte": "shattered.io",
@@ -790,36 +676,36 @@
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83MzRxWS1KU0Z6bXhSOWkxeTNOMl9mM0s2RERHM1ZCdTIzNzd0ZFRBWldXUllOWXlMMmpRRVZxUG9JMktkbWNlNmhCWGt6ZWpnWmMxcUt1c3BrUDI1dHNtTWtOdDRuTS1KU3ZRVzVRVXhQYjh1UzUyVDdR?oc=5",
      "fonte": "Help Net Security",
      "data": "2026-09-17"
-    }
-   ]
-  },
-  {
-   "id": 5,
-   "caso": 5,
-   "titulo": "Exclusive: New bill cracks down on AI agents after Hugging Face breach - Congressman Mike Lawler (.gov)",
-   "papel": "ataque_a_ia",
-   "gravidade": 1.9,
-   "divergencia": false,
-   "confirmacao": "oficial",
-   "empresa": "outra",
-   "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-09-03",
-   "ultima": "2026-09-03",
-   "fontes": [
+    },
     {
-     "titulo": "Exclusive: New bill cracks down on AI agents after Hugging Face breach - Congressman Mike Lawler (.gov)",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40M0J4ZTZhblZWQllBMmU1MkN2eWFFZUYtY1UyMzl5QmtxUGt2R2ZPVHJJdUJDTnE5ZWJDY3JVN24yWDZJVzNOZ0syODdWcC1oRXZMNVNuVE4tMWZDVVF3cHNaMjhsdmp4VWUtdFA3aGtLLTg?oc=5",
-     "fonte": "Congressman Mike Lawler (.gov)",
-     "data": "2026-09-03"
+     "titulo": "Spain’s First AI-Driven Data Breach: Autonomous LLM Agent Exploits Application Vulnerabilities and Alters Sensitive Data - Rescana",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOXpEUUxiS2syY0JaZG1pRDZKd1VWeUw4V0RUWXJwaWdlbEI2Rjc1VVV1STNPZTkyZldNT2RhUVNIZm9LdnNnWjJfVU1vV3dfLVo0OUEybUo5Y2tOaVVWelhxY2VySk1mVER5Ny1Cc2dtZVk1MGZLZ191RkliWi05d1k5dUlNbDBHQmZ5eDJEaDl3MjdWQWVRVGNUREY5S0tIcDA4Qy1ScXlNUVN1NzA2YXZGY1dNR3lUWm8wRXRPakZPNldnOVByUE1Qek5JWWxWQWNEV014anRjd3VqSDc0V1FB?oc=5",
+     "fonte": "Rescana",
+     "data": "2026-09-17"
+    },
+    {
+     "titulo": "Spain’s AEPD Logs First Data Breach Caused by AI Agent - SQ Magazine",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5MDNMNFJiYWpHd3lpWDZPQVAtQUxmbXdreDRwSVpCakFEb0pzem8zaEo1bmdRcGc1MTdQci1pZ2gxZDVFcXhuUkYzMmItME5zbEEtZFY1LTExQlJNY0JuMFU1RHRrX2JLRERPdVhJMVg?oc=5",
+     "fonte": "SQ Magazine",
+     "data": "2026-09-17"
+    },
+    {
+     "titulo": "Spain's Regulator Logs First Report of an AI-Powered Data Breach - Safestate",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUm5aeE5vNUJCTTJuZ0lXVEp6cXl3aEdxQUF6Y0tJT1JPOC1HSkp2Wm91OXpnM20zXzI2dndwd1lXRDRka2RoQ1UzTnVGSng0b1YyZXBSMWZwN0dNR0xFQ210eGVrUXBPeVlhVS1OcGJjbUpVY0tJYmdTbFlFWHZSUzlXY3ZYU3BWTmdOUjZnbEtHQU9JSndRdmJB?oc=5",
+     "fonte": "Safestate",
+     "data": "2026-09-17"
+    },
+    {
+     "titulo": "Spain’s Data Regulator Logs First Breach Blamed on an AI Agent - The SOFX Report",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWWtVQm1GLXhLSmNPWnRCMHhseWYwS0tSb0F6LUFIUzZiVzB6MDU5dHE0VGp6UWlidmhxRFBKTXdtQkVGU0xNSDN0U1J3OTVhT0tjb05JVGlQT0xlb3ozNGk4ZzFpSUpTRnY2Nmo0NDBMZTg2SjBmVlRaNmhMam5PbWhWdm9BRDZTVW9z?oc=5",
+     "fonte": "The SOFX Report",
+     "data": "2026-09-18"
     }
    ]
   },
   {
-   "id": 27,
-   "caso": 14,
+   "id": 6,
+   "caso": 5,
    "titulo": "Taiwan AI Agent Cyberattack: 85 Accounts, 4 Days [2026] - tech-insider.org",
    "papel": "agente_em_producao",
    "gravidade": 1.9,
@@ -842,42 +728,18 @@
    ]
   },
   {
-   "id": 29,
-   "caso": 15,
-   "titulo": "AI agents speed ransomware breach to under 10 hours - Cybernews",
-   "papel": "ia_como_ferramenta",
-   "gravidade": 1.9,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "nao_informado",
-   "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-09-04",
-   "ultima": "2026-09-04",
-   "fontes": [
-    {
-     "titulo": "AI agents speed ransomware breach to under 10 hours - Cybernews",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13dzNEMmFnSTVTS0VrQ21HLUV4QkkwUUl4VGg2THRRUU5OcWxwclJNWnljLURMd1JZbm1mdDdrNVlnQmtiSlNCUUlBNnNvaF9vblBOaE0taU5YOWp6cENZaVgzZDJ3V3E4Tm1NRWtaNWhuM3lnYW50dWloM1huRlk?oc=5",
-     "fonte": "Cybernews",
-     "data": "2026-09-04"
-    }
-   ]
-  },
-  {
-   "id": 11,
-   "caso": 1,
-   "titulo": "OpenAI says AI agents broke into its own networks as regulators probe Hugging Face hack - The Jerusalem Post",
-   "papel": "agente_em_producao",
+   "id": 2,
+   "caso": 2,
+   "titulo": "Exclusive: New bill cracks down on AI agents after Hugging Face breach - Congressman Mike Lawler (.gov)",
+   "papel": "ataque_a_ia",
    "gravidade": 1.9,
    "divergencia": true,
-   "confirmacao": "imprensa",
+   "confirmacao": "oficial",
    "empresa": "openai",
    "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
+   "pais": "deu",
+   "pais_nome": "Alemanha",
+   "numerico": "276",
    "primeira": "2026-08-25",
    "ultima": "2026-09-18",
    "fontes": [
@@ -886,6 +748,24 @@
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTUcyS0RTY2JqczJEX0llZU13TEU3b2x0Y1p2eWlZaVZIT2x2Vk9uTkoybFVHT3AxZ1hJUzhBVlY4aDY4N0lDeG9UVk9DSml4Tko1Yk1zdzBVc2dkd01YaFNIVnNFeGhXenY5YkZnZkthU1R1blVaYkdXSUgxMmxyNFhXZWNoV3ZIVFN6amJzUEVzalRNMUF4bnRjZnpvTXJza0xpck1EOVU1NDZhbVFLWjkzUm4yYmZ2ZGdqNzAwLVFncVd4aVB5NHd6dGwwUdIB3AFBVV95cUxQdHRCLW43TDB3ZnV6MHB3eWdLOEd2YXI5T1pOV2FfX3VFY0g5QXAwREpQdVdxd0l6XzlncWRZbVhqVDQzdGZFX2NlWVg5Y09IMUtBbjFodFJWMGM1ek92M3owRnpLWTlNT2dHNDNrNUlzdDZUUFFVOVQ4a3RFSUREbm9wQkpxOEp6aE9obFR1RzVXWDB1QzlyMXNNRU45Z3gySkJ3bVlNUDUxTVRwZXBfdFdDX2htNjBGc1NDYzlEM25TaUdfXzNFdTlDNnkwMnRLYUM0X1lDaDkxOVpn?oc=5",
      "fonte": "Valor Econômico",
      "data": "2026-08-25"
+    },
+    {
+     "titulo": "OpenAI releases sweeping report on Hugging Face AI agent hack - CNBC",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YOTJIY1dTeGxzcnlfOTNaY1ZZNW5IR19EcDRvWm04V1VVelZmeU9YalBHU3lLV1JKUXR2Q05JT041YlAyX09OeTd1T05PZFg4Y2NFNHBwbnE0VzVGMU5KUTBHbHgyMktRTzV6RFN5QdIBdEFVX3lxTE80azdfcnVsNFhGSXFQTC0yWGdkckFkTlpDVi1EQlRoSDRneG94YjVVWXhzMTM1aHdPckJ6VDF6SXpUTC11YURWa0JMYWhsWEp1U1JuX0JQWDhFa0liTzNWS3ZmRkwxREJTV3hfQ2lRYmRDOW4y?oc=5",
+     "fonte": "CNBC",
+     "data": "2026-08-26"
+    },
+    {
+     "titulo": "OpenAI, independent firms publish reports on rogue AI agent attack on Hugging Face - Fortune",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd3l3NkZUZmhPT1FGRzZ4YTc2dzN1bU5icXVFWkJQYVZiNFBnd1JuQnF2T0FRZWdnNzAwdS1Ya29LRUVNZnpkeHRpOW9fVE9UczVINURINzU3X0NrMjBDWTB1VVJmT0l4ZFZpVXlmWS12TW1rT3dXaDVjZi1na1ljTWZDVURUaUVFSWw2cXNKeFRVLWpzWndvd2tIcXhJT2NDYTNjNkJkUks2T0tVVFlwazFYSHNDT3NSNC1Rd0RuNnN2VnRRMkRXSWY2Z0VqSnloVGhVdHBvblNwVHV4MnFRZDcyN0l0UWYyNHQ0Rw?oc=5",
+     "fonte": "Fortune",
+     "data": "2026-08-26"
+    },
+    {
+     "titulo": "OpenAI releases new report after the AI agent hack on Hugging Face: Here’s everything you need to know - Yahoo Tech",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTlU2QWcyRkZUQnctU05zTXhFUkd4ZW9nRnEtaFB0dzB3S0RvNkd0b1didU5NX3BWMS11aWw3UlNYMnJqNTRCYTAwZzY4S2x2eHRDbjV3NEsyWkdhVUl4Nm96S1gxMlNqX0pRb2xsZlAtbExXUzZuRl9DSmp0aHE0dUdzRkRFZ1pUeEZ0WnB1X0h2Qk5POVY3Y2ZHU1h1RnF3LXh0Q1AzSEVuXzZuUDJHUXpKREcyX3ZFNEpJWWY2a3V0SnN4d0l4d2VYQmhudkNycWxPaXRuQ2JOaVoyZUNKZElKNA?oc=5",
+     "fonte": "Yahoo Tech",
+     "data": "2026-08-26"
     },
     {
      "titulo": "OpenAI explains how its naughty AI agents attacked Hugging Face - The Register",
@@ -918,16 +798,46 @@
      "data": "2026-08-28"
     },
     {
+     "titulo": "AI agents hacked a company without human direction. Should we be worried?",
+     "url": "https://www.poynter.org/fact-checking/2026/openai-ai-agents-hugging-face-cyberattack",
+     "fonte": "Poynter",
+     "data": "2026-09-01"
+    },
+    {
+     "titulo": "OpenAI's reports into its agents' attack on Hugging Face holds lessons for every company",
+     "url": "https://fortune.com/2026/09/01/openais-reports-on-its-ai-agents-attack-on-hugging-face-should-be-ringing-alarm-bellsand-making-all-companies-rethink-how-they-secure-ai-agents",
+     "fonte": "Fortune",
+     "data": "2026-09-01"
+    },
+    {
+     "titulo": "Exclusive: New bill cracks down on AI agents after Hugging Face breach - Congressman Mike Lawler (.gov)",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40M0J4ZTZhblZWQllBMmU1MkN2eWFFZUYtY1UyMzl5QmtxUGt2R2ZPVHJJdUJDTnE5ZWJDY3JVN24yWDZJVzNOZ0syODdWcC1oRXZMNVNuVE4tMWZDVVF3cHNaMjhsdmp4VWUtdFA3aGtLLTg?oc=5",
+     "fonte": "Congressman Mike Lawler (.gov)",
+     "data": "2026-09-03"
+    },
+    {
+     "titulo": "Rep. Greg Casar Blasts OpenAI for Withholding Info About Rogue AI Agent Hack - Democracy Now!",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbHg4SVU5UUZLQWRBM1ZXWkRLeTByWUhOSHUzV2NrV0Q1WW9VSEwteUhveUVOX1hDdDBDS05VYkR2UTY2cHR6NEgxVGRoYnVWbWhDdjZmSTN4bTVTckVWSkNEWkxWa29WSUVXaV81YjN6VGxLTGhuUGdnSTd5Qk5RNWVhdEw5c2ItWF9xemtoSWJub1h5cnc4a1c4dzVvVkY5QnFhbnJTVXlmZUpuRDRPc2tnNGlKS2Nud2dPY2EtaFA?oc=5",
+     "fonte": "Democracy Now!",
+     "data": "2026-09-03"
+    },
+    {
+     "titulo": "OpenAI’s German Wiki Hack Is Less About “Rogue AI” Than Failed Agent Containment - Security Boulevard",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNjcxQ0Voai1SaVptWnVLV1hua0lkNlUybEJGaENLTjRMSGh2eGpVOHEzakNuZnR0bzZESV83Tl9FVXdWcnAxckZ4Rkc1QUJzZFBRWm5sWnEtdFdLS2dsazhUd0RGOEJ2dFEtdWtNMmh1WTlRQTAzQ2hhOVN4YlNiMlpockdhYTdqMUZtWl9kUDRlOGRWOGk5SEJYcE1GRkRYU0ZwVE5ucThUa0hnNTF3Zmx5R25ldk0?oc=5",
+     "fonte": "Security Boulevard",
+     "data": "2026-09-04"
+    },
+    {
      "titulo": "How did OpenAI’s agent swarm hack Hugging Face? Unpacking 2 technical reports - The Indian Express",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOczc3RUN3MG41NUxzVzhKcGRKanBjdC15R3V3czlPdDl6VVZwWHZMd1JENHdnczBxNTg1bXJ4QlFvUEJVbGZpQTk4SW9uVTQycG5GWGpUT3lqa0VoNkZSV29POWE3TW1LZ2xyUGpzN3pjMERhRTdFSGYwdFBjT0hibEtNdTBVQkxqQ3daZ1ZwWVV2bUpoY1BQdEc0X0VHVWNGOHpOTDRZazdtb094SF9ndlBPbjBuNWI1VTFORjZLdzZWOTI1cmNOUUJva9IB0gFBVV95cUxPR1ptUDlFXzc3YXJUZTZEX1FlMjZFQkpGdGN6R0t4dHV6WXZDSmxtUnZFbGk1VjY2dVlrNXQ5d0NhQlU1aHI1NE9Md1IxQktUck5Eb3l0Sm5fQU1qR1FQOXNyUDl0SWxhcmZ2OVlIdE1abTB1bVA3VFVocXA3anJDVU1qaW5kWnBFMWdHbXNPeUJoQ0RSQ25CVV96YW9rT2ZIaDE3M09jbUFYZzU2eDNiSGFrRjIybHgza0I0RzBsSUpvSjRMVklsVElDNGtPWlk5Y1E?oc=5",
      "fonte": "The Indian Express",
      "data": "2026-09-04"
     },
     {
-     "titulo": "Hugging Face Hack: 700 Rogue AI Agents, 17K Attacks - tech-insider.org",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOW9wT25TTDg3b3hTM01GMV9CdEhvVU1YeTBpd1p5dDVscEJjWnFlOHZIVU9PNEw4YVZtYVIzSXVXNmxSdkVpb3kwNFpBQlBuQUNVelBVQy15cTM4a2Eta1Znd1hmNHdGNk53RHFuQk5DSFl4WWJqMkVZTkJPWVF6aEJBUQ?oc=5",
-     "fonte": "tech-insider.org",
-     "data": "2026-09-06"
+     "titulo": "OpenAI AI Agents Hack German Wiki, Mimic Human Team - 조선일보",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZjhxZ0lIMWFTSFlUdlNBY1dQQWxKM2t2MVlGUlpOQlpVYjNjYl81cTBOdGFNaGxZNndsNUFjQl9wZEJJdWk0ck5BVjhtX1FMUEJYSzBvQXNkNUVoeURSQjhNOG1hRS10OVdWVXVwOXE2UmtPc09qX0lPTG9kTEVsU08ySHdVQ0NC?oc=5",
+     "fonte": "조선일보",
+     "data": "2026-09-07"
     },
     {
      "titulo": "EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack - Reuters",
@@ -938,8 +848,32 @@
    ]
   },
   {
-   "id": 42,
-   "caso": 25,
+   "id": 8,
+   "caso": 7,
+   "titulo": "AI agents speed ransomware breach to under 10 hours - Cybernews",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 1.9,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-04",
+   "ultima": "2026-09-04",
+   "fontes": [
+    {
+     "titulo": "AI agents speed ransomware breach to under 10 hours - Cybernews",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13dzNEMmFnSTVTS0VrQ21HLUV4QkkwUUl4VGg2THRRUU5OcWxwclJNWnljLURMd1JZbm1mdDdrNVlnQmtiSlNCUUlBNnNvaF9vblBOaE0taU5YOWp6cENZaVgzZDJ3V3E4Tm1NRWtaNWhuM3lnYW50dWloM1huRlk?oc=5",
+     "fonte": "Cybernews",
+     "data": "2026-09-04"
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "caso": 20,
    "titulo": "Agente de IA ataca sistema de empresa de forma autônoma na Espanha - SITEPD",
    "papel": "agente_em_producao",
    "gravidade": 1.8,
@@ -962,97 +896,7 @@
    ]
   },
   {
-   "id": 12,
-   "caso": 2,
-   "titulo": "OpenAI AI Agents Hack German Wiki, Mimic Human Team - 조선일보",
-   "papel": "agente_em_producao",
-   "gravidade": 1.8,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "openai",
-   "defasagem": "nao_informado",
-   "pais": "deu",
-   "pais_nome": "Alemanha",
-   "numerico": "276",
-   "primeira": "2026-09-04",
-   "ultima": "2026-09-07",
-   "fontes": [
-    {
-     "titulo": "OpenAI’s German Wiki Hack Is Less About “Rogue AI” Than Failed Agent Containment - Security Boulevard",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNjcxQ0Voai1SaVptWnVLV1hua0lkNlUybEJGaENLTjRMSGh2eGpVOHEzakNuZnR0bzZESV83Tl9FVXdWcnAxckZ4Rkc1QUJzZFBRWm5sWnEtdFdLS2dsazhUd0RGOEJ2dFEtdWtNMmh1WTlRQTAzQ2hhOVN4YlNiMlpockdhYTdqMUZtWl9kUDRlOGRWOGk5SEJYcE1GRkRYU0ZwVE5ucThUa0hnNTF3Zmx5R25ldk0?oc=5",
-     "fonte": "Security Boulevard",
-     "data": "2026-09-04"
-    },
-    {
-     "titulo": "Modelos de IA fogem do controle e invadem site alemão; OpenAI manteve caso em segredo, diz agência - Folha de S.Paulo",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVVE0TW5ybklzWUlDdnA1eWw3eUJ3NU1YZl9mU0VsRGFHWmVST05Va2hmRnpINEVFakk0TEJwOFU0SFZ1VTBPOWdYRUdvcm95YWtIOXkzY2VGQ19xUW1EajBGV2QyQkJZWW81VXdJSkZnWW9oQTM2eHlQZGQxbWtRSy00ckRvbzQtYjkxZWhKQVVNdWQ0TDFPNDFrXzRVc01QWXM5LS1Eb3FxcFdVRUFiN1M2TnF3TEgycTctNlQ0VTBiUDl6a3dsR0FMWnoyZXUwNkdBQ0tSc1hpRUlC?oc=5",
-     "fonte": "Folha de S.Paulo",
-     "data": "2026-09-04"
-    },
-    {
-     "titulo": "OpenAI AI Agents Hack German Wiki, Mimic Human Team - 조선일보",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZjhxZ0lIMWFTSFlUdlNBY1dQQWxKM2t2MVlGUlpOQlpVYjNjYl81cTBOdGFNaGxZNndsNUFjQl9wZEJJdWk0ck5BVjhtX1FMUEJYSzBvQXNkNUVoeURSQjhNOG1hRS10OVdWVXVwOXE2UmtPc09qX0lPTG9kTEVsU08ySHdVQ0NC?oc=5",
-     "fonte": "조선일보",
-     "data": "2026-09-07"
-    }
-   ]
-  },
-  {
-   "id": 2,
-   "caso": 2,
-   "titulo": "OpenAI's reports into its agents' attack on Hugging Face holds lessons for every company",
-   "papel": "agente_em_teste",
-   "gravidade": 1.7,
-   "divergencia": false,
-   "confirmacao": "oficial",
-   "empresa": "openai",
-   "defasagem": "meses_antes",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-08-26",
-   "ultima": "2026-09-03",
-   "fontes": [
-    {
-     "titulo": "OpenAI releases sweeping report on Hugging Face AI agent hack - CNBC",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YOTJIY1dTeGxzcnlfOTNaY1ZZNW5IR19EcDRvWm04V1VVelZmeU9YalBHU3lLV1JKUXR2Q05JT041YlAyX09OeTd1T05PZFg4Y2NFNHBwbnE0VzVGMU5KUTBHbHgyMktRTzV6RFN5QdIBdEFVX3lxTE80azdfcnVsNFhGSXFQTC0yWGdkckFkTlpDVi1EQlRoSDRneG94YjVVWXhzMTM1aHdPckJ6VDF6SXpUTC11YURWa0JMYWhsWEp1U1JuX0JQWDhFa0liTzNWS3ZmRkwxREJTV3hfQ2lRYmRDOW4y?oc=5",
-     "fonte": "CNBC",
-     "data": "2026-08-26"
-    },
-    {
-     "titulo": "OpenAI, independent firms publish reports on rogue AI agent attack on Hugging Face - Fortune",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd3l3NkZUZmhPT1FGRzZ4YTc2dzN1bU5icXVFWkJQYVZiNFBnd1JuQnF2T0FRZWdnNzAwdS1Ya29LRUVNZnpkeHRpOW9fVE9UczVINURINzU3X0NrMjBDWTB1VVJmT0l4ZFZpVXlmWS12TW1rT3dXaDVjZi1na1ljTWZDVURUaUVFSWw2cXNKeFRVLWpzWndvd2tIcXhJT2NDYTNjNkJkUks2T0tVVFlwazFYSHNDT3NSNC1Rd0RuNnN2VnRRMkRXSWY2Z0VqSnloVGhVdHBvblNwVHV4MnFRZDcyN0l0UWYyNHQ0Rw?oc=5",
-     "fonte": "Fortune",
-     "data": "2026-08-26"
-    },
-    {
-     "titulo": "OpenAI releases new report after the AI agent hack on Hugging Face: Here’s everything you need to know - Yahoo Tech",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTlU2QWcyRkZUQnctU05zTXhFUkd4ZW9nRnEtaFB0dzB3S0RvNkd0b1didU5NX3BWMS11aWw3UlNYMnJqNTRCYTAwZzY4S2x2eHRDbjV3NEsyWkdhVUl4Nm96S1gxMlNqX0pRb2xsZlAtbExXUzZuRl9DSmp0aHE0dUdzRkRFZ1pUeEZ0WnB1X0h2Qk5POVY3Y2ZHU1h1RnF3LXh0Q1AzSEVuXzZuUDJHUXpKREcyX3ZFNEpJWWY2a3V0SnN4d0l4d2VYQmhudkNycWxPaXRuQ2JOaVoyZUNKZElKNA?oc=5",
-     "fonte": "Yahoo Tech",
-     "data": "2026-08-26"
-    },
-    {
-     "titulo": "AI agents hacked a company without human direction. Should we be worried?",
-     "url": "https://www.poynter.org/fact-checking/2026/openai-ai-agents-hugging-face-cyberattack",
-     "fonte": "Poynter",
-     "data": "2026-09-01"
-    },
-    {
-     "titulo": "OpenAI's reports into its agents' attack on Hugging Face holds lessons for every company",
-     "url": "https://fortune.com/2026/09/01/openais-reports-on-its-ai-agents-attack-on-hugging-face-should-be-ringing-alarm-bellsand-making-all-companies-rethink-how-they-secure-ai-agents",
-     "fonte": "Fortune",
-     "data": "2026-09-01"
-    },
-    {
-     "titulo": "Rep. Greg Casar Blasts OpenAI for Withholding Info About Rogue AI Agent Hack - Democracy Now!",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbHg4SVU5UUZLQWRBM1ZXWkRLeTByWUhOSHUzV2NrV0Q1WW9VSEwteUhveUVOX1hDdDBDS05VYkR2UTY2cHR6NEgxVGRoYnVWbWhDdjZmSTN4bTVTckVWSkNEWkxWa29WSUVXaV81YjN6VGxLTGhuUGdnSTd5Qk5RNWVhdEw5c2ItWF9xemtoSWJub1h5cnc4a1c4dzVvVkY5QnFhbnJTVXlmZUpuRDRPc2tnNGlKS2Nud2dPY2EtaFA?oc=5",
-     "fonte": "Democracy Now!",
-     "data": "2026-09-03"
-    }
-   ]
-  },
-  {
-   "id": 49,
+   "id": 42,
    "caso": 29,
    "titulo": "Five things to understand about how the OpenAI hack unfolded - SMH.com.au",
    "papel": "ataque_a_ia",
@@ -1076,8 +920,8 @@
    ]
   },
   {
-   "id": 7,
-   "caso": 7,
+   "id": 13,
+   "caso": 2,
    "titulo": "OpenAI’s rogue AI agents used universities, wikis, and text‑sharing sites as hidden message boards - Fortune",
    "papel": "agente_em_teste",
    "gravidade": 1.5,
@@ -1100,8 +944,32 @@
    ]
   },
   {
-   "id": 32,
-   "caso": 12,
+   "id": 9,
+   "caso": 8,
+   "titulo": "Modelos de IA fogem do controle e invadem site alemão; OpenAI manteve caso em segredo, diz agência - Folha de S.Paulo",
+   "papel": "agente_em_teste",
+   "gravidade": 1.5,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "deu",
+   "pais_nome": "Alemanha",
+   "numerico": "276",
+   "primeira": "2026-09-04",
+   "ultima": "2026-09-04",
+   "fontes": [
+    {
+     "titulo": "Modelos de IA fogem do controle e invadem site alemão; OpenAI manteve caso em segredo, diz agência - Folha de S.Paulo",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVVE0TW5ybklzWUlDdnA1eWw3eUJ3NU1YZl9mU0VsRGFHWmVST05Va2hmRnpINEVFakk0TEJwOFU0SFZ1VTBPOWdYRUdvcm95YWtIOXkzY2VGQ19xUW1EajBGV2QyQkJZWW81VXdJSkZnWW9oQTM2eHlQZGQxbWtRSy00ckRvbzQtYjkxZWhKQVVNdWQ0TDFPNDFrXzRVc01QWXM5LS1Eb3FxcFdVRUFiN1M2TnF3TEgycTctNlQ0VTBiUDl6a3dsR0FMWnoyZXUwNkdBQ0tSc1hpRUlC?oc=5",
+     "fonte": "Folha de S.Paulo",
+     "data": "2026-09-04"
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "caso": 21,
    "titulo": "Google Waited 4 Months to Reveal Gemini’s AI Breach [2026] - shattered.io",
    "papel": "ataque_a_ia",
    "gravidade": 1.4,
@@ -1124,8 +992,8 @@
    ]
   },
   {
-   "id": 13,
-   "caso": 3,
+   "id": 14,
+   "caso": 2,
    "titulo": "Inside the 1,200 AI Agent Swarm Breach and the First AI Sportscaster - azfamily.com",
    "papel": "agente_em_producao",
    "gravidade": 1.4,
@@ -1148,8 +1016,8 @@
    ]
   },
   {
-   "id": 43,
-   "caso": 26,
+   "id": 33,
+   "caso": 23,
    "titulo": "Em caso inédito, IA invade sistema sem exigir comandos manuais - Estadão",
    "papel": "agente_em_producao",
    "gravidade": 1.3,
@@ -1172,8 +1040,8 @@
    ]
   },
   {
-   "id": 8,
-   "caso": 8,
+   "id": 16,
+   "caso": 2,
    "titulo": "How a ‘swarm’ of AI agents hacked another company, in the AI’s own words - ABC News & Headlines – Australian Broadcasting Corporation",
    "papel": "agente_em_producao",
    "gravidade": 1.3,
@@ -1196,20 +1064,200 @@
    ]
   },
   {
-   "id": 41,
-   "caso": 24,
+   "id": 21,
+   "caso": 15,
    "titulo": "AEPD confirma 1º ataque cibernético por agente de IA autônomo - cryptoid.com.br",
    "papel": "agente_em_producao",
    "gravidade": 1.2,
-   "divergencia": false,
+   "divergencia": true,
    "confirmacao": "oficial",
    "empresa": "nao_informado",
    "defasagem": "nao_informado",
    "pais": "esp",
    "pais_nome": "Espanha",
    "numerico": "724",
-   "primeira": "2026-09-17",
+   "primeira": "2026-09-15",
    "ultima": "2026-09-21",
+   "fontes": [
+    {
+     "titulo": "Espanha divulga 1º notificação de violação de dados ligada a agente de IA - Valor Econômico",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRFo2UTR2cXpQY292MEd6QlJ4Z285blhJSFNlT3FWTWRadTJUZ0EyQzlOUDFXUEVBWFBsR0xoZE1oTmJwWFU4aUtDaURXU3FBMUNUN3V0bFRBeTl3WDFxSmp0U2diZkhhc3lVc2FwOXVrd2U3TF9WOTdoSE5DVlplNE5pVXE2TEdTWlA4NjdVQW8za3NyRjBYdnczdFdwUDhSV2tES0cyYjBxLXhGUzRzTUVXVkNOZnJhLUpZbWQ5UUtJTGlibC1fLTZQQdIB2gFBVV95cUxObWdNSVkwQjUtZW1HNXlQLXpZVEVKbnJnTF9fdHVSaWUybS1MQU1sUFFRaTdaYW43Z1F1UUhIVi1YMXUzdXRubjBGZGJBX2RBWVptZ2xySDhuQlJSRlZTTGt4bmFjX1NzWC05RGpSYUt4dTdGTW01c2d5OGJFOXlSWXM3X0txanZzSlU0amY1YnVuMzcwNmdOWExfTUgzSU96bElCTTRDNXgzQXd3QWtMVm5VOWdlRzhNemNMNkM4Q1NwZ05IU19ZQ3M0aUlpV2NERnE2Q2Vodk5YUQ?oc=5",
+     "fonte": "Valor Econômico",
+     "data": "2026-09-15"
+    },
+    {
+     "titulo": "Proteção de Dados espanhola recebeu primeiro alerta sobre um ataque feito por um agente de IA - Observador",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaS1WVTIwNXYzaEtIR0s1YzlSYXNrcVhiazdLUTA4ZGMxZGhSSjdYNVZKNTlWdllEdWRITHRSNUZKR1BFeDFEc1pBTFVHX0E4S1RRaHNyZHgwb2F5UVJxN3l3ME5YamhqRkRnSXdPeEtyZ3ZmRlh3WTZ5RFZPaFFxYVJPWTlxd2JrX0U3UFhmUlFZMGRNNGdzcGp1RmlOOVVxb2xUXzJlYlFNbWRqMVg1TGZEbmVfRGRMbVlxU3dWZmNtSHJldlE?oc=5",
+     "fonte": "Observador",
+     "data": "2026-09-16"
+    },
+    {
+     "titulo": "AEPD confirma 1º ataque cibernético por agente de IA autônomo - cryptoid.com.br",
+     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOTlZtQjN0RzQ5QzVOTFEwa29vR3M0TzhCc0tQdVpHM0FfVGpfdlZfSkpkS2hxdVFncFlBU01YblZMYndKT1ktaHVBTFNoeDNOdnMtZUFTQUl5cDlPMFMxWm5WX3pvU1VQbk12T19UYU9HWTlaM3JJZmZSLVFVVWhQRlFCVjNZeDRYNHM1TUZqVTQ3OFZ3WHViY1liM0FtclptT1d3ZG9sYUV5XzVkOFYzTVREOXhMcnlhMEFUQ3lNS1VIT0VnNUgwOTROaGJudlhYQ1BGcXhWblJjZ252ZU5rM3M1MFd4cnQyRW5QSUZyNDNmMVRqbE1kYXMxb0MtZVZ2UXg1UkpFUHBnUFUwalFwYW1Xdw?oc=5",
+     "fonte": "cryptoid.com.br",
+     "data": "2026-09-21"
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "caso": 22,
+   "titulo": "They hacked a TikTok user’s camera, with help from free AI - The Washington Post",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 1.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-18",
+   "ultima": "2026-09-18",
+   "fontes": [
+    {
+     "titulo": "They hacked a TikTok user’s camera, with help from free AI - The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNWctcGt0Nll6Q1AxTXdQdm9QbGRIell1dUZmeUxpSGRqeE5BTWlVS3NkeV9jeEpsUmpESkoxYURqbDBiRVpyT0puZ2gzVHBuWjRJSW1HOTVkZlJaNXktd2JqY1BXN2JtUGVjSHo5blNBSkRvUVZZdzVTaHRQRHQtdF9BSm9ZaVplYXNwVEJ2N2s5Q0RLMmJlQ2JjTGtTc2hKMFFqZTQtOE9lc1p3bjZsNVVwbTJPNDNyNU1ZUVB3?oc=5",
+     "fonte": "The Washington Post",
+     "data": "2026-09-18"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "caso": 12,
+   "titulo": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6 - The Hacker News",
+   "papel": "ataque_a_ia",
+   "gravidade": 1.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "anthropic",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-10",
+   "ultima": "2026-09-10",
+   "fontes": [
+    {
+     "titulo": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6 - The Hacker News",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44Nk9jVHVyUWMyRUN6TFJGcXNNX281akYxdExzMlk1elhQbnhpbWt1VzFrS09McEhGemc3V0c5THFQa1VIcmI3ZmFLeFcyTXh3YTNCendNT3YyX3ZpNkNyU0hXWG1LS21KNG1FZ25NSVFGOHhETUx6Y0E2LW0?oc=5",
+     "fonte": "The Hacker News",
+     "data": "2026-09-10"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "caso": 16,
+   "titulo": "Spain says it has seen first AI agent hack - IT Pro",
+   "papel": "agente_em_producao",
+   "gravidade": 0.9,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "esp",
+   "pais_nome": "Espanha",
+   "numerico": "724",
+   "primeira": "2026-09-17",
+   "ultima": "2026-09-17",
+   "fontes": [
+    {
+     "titulo": "Spain says it has seen first AI agent hack - IT Pro",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ3hycUxyYVlzUk9GTkEtaWpKc0RwemliU2JmckdBV3J1WVY0RmJoNnpOeDZsWUstaFJ4Si1Zb3dEMk9HaUh0aUxBcjFEaFRPWkRYeW5YdDRmenVDRG5ONlFValZRYWZ3UU84SENGaGRpaHlhdnFHZ2VMNTNjTV80TnJYdUhpbmpLT2EyU1AxNVg?oc=5",
+     "fonte": "IT Pro",
+     "data": "2026-09-17"
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "caso": 27,
+   "titulo": "Amazon Blocks Meta’s Muse AI Agent for Unauthorized Access - Currently.com",
+   "papel": "agente_em_teste",
+   "gravidade": 0.9,
+   "divergencia": false,
+   "confirmacao": "nao_confirmado",
+   "empresa": "meta",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-21",
+   "ultima": "2026-09-21",
+   "fontes": [
+    {
+     "titulo": "Amazon Blocks Meta’s Muse AI Agent for Unauthorized Access - Currently.com",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb0xIdG5LR21pemRpTnRPcVJFWmd3OVFnOTNMdXp4ZUNEdHlVTUFJajdIek5wcDY5Z2hBTkxqRXUtclc3eWdPVXN3Sl9VeFZscnE3SWNRLVQwUDRMSkYyYkpuNC1CUG9sNmYxS0tVTHJMU29DR0JhOUIzZHZRY3ZjMG51dw?oc=5",
+     "fonte": "Currently.com",
+     "data": "2026-09-21"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "caso": 6,
+   "titulo": "Another Rogue OpenAI Agent Swarm Went Undisclosed. We Have No Idea How Many More Are Out There - gizmodo.com",
+   "papel": "agente_em_teste",
+   "gravidade": 0.9,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-04",
+   "ultima": "2026-09-04",
+   "fontes": [
+    {
+     "titulo": "Another Rogue OpenAI Agent Swarm Went Undisclosed. We Have No Idea How Many More Are Out There - gizmodo.com",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUFNLSmxwU3ZjMXJKbTZvd3V0RFVWeHpmTE5GSkF3NzhoaHNLUDBjVERLZWt6QTlwSFdlUkVmUF92NXBVRzhsb21Ua0haWnZMRjJfOW10Y2k1Nm8xdV9QNUJlTG1xMzBJOWc4MWlqd2RvVXYzTC1zSFVTVVNJZlAzZDROZ2g3QzA5NkNJSGk3VHZtWk5tbjB6Q3o3SW5tQkZKNXRiMF9FdFZvNERibkVjQUFsNUtWS1FtS1ozSG5pZ3hiQQ?oc=5",
+     "fonte": "gizmodo.com",
+     "data": "2026-09-04"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "caso": 16,
+   "titulo": "Spain gets its first taste of AI-aided cyber attack - theregister.com",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 0.9,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "esp",
+   "pais_nome": "Espanha",
+   "numerico": "724",
+   "primeira": "2026-09-16",
+   "ultima": "2026-09-16",
+   "fontes": [
+    {
+     "titulo": "Spain gets its first taste of AI-aided cyber attack - theregister.com",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSVVISHdydmFVcmNhNFFvbmFFVDJWX2dQaTBrcndjVjNkV1UwS1JpcHpsb3plN0piLUxveVo5d0hDYUZ6SXh4YVZBMEx0WnVXbXJXVGQ0WFYwT1hLdFRLOHVIWkxKSWNpVEs3V2tBNlhrck02bkJwVktjV3ZCUjhaVmNJTDNhVmVRekpEeHRyTldMcTQybEYtb0tfNS1KemtFLXM2UUJaLWFESGdoRVhr?oc=5",
+     "fonte": "theregister.com",
+     "data": "2026-09-16"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "caso": 15,
+   "titulo": "Espanha identifica primeiro ataque cibernético autônomo feito por IA - Jornal Correio",
+   "papel": "agente_em_producao",
+   "gravidade": 0.8,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "esp",
+   "pais_nome": "Espanha",
+   "numerico": "724",
+   "primeira": "2026-09-17",
+   "ultima": "2026-09-19",
    "fontes": [
     {
      "titulo": "Espanha identifica primeiro ataque cibernético autônomo realizado por IA - Metrópoles",
@@ -1234,162 +1282,12 @@
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS3NhSU1ud1pteW81cGZBTDEybkJ1S2drRkJxQmlBbXJyS3B3Ql9jSWRGRGVXOUlEblRUaEFiOXI3QzVaaUhuYzg0V1oxLTVGVVRwa3l2Q1dNcW5YeUdyQlJiLWZwM0JNSnRRaDV5R0gzRFZrUWtNLXU5SlFSNWpmMURFV1VzU0RGNlRrdldhMEx6dy1uZGdzSHZ4LW5CN0FMcU5yczJ2YlZza19Hc0dQQko2MA?oc=5",
      "fonte": "Nerdizmo",
      "data": "2026-09-19"
-    },
-    {
-     "titulo": "AEPD confirma 1º ataque cibernético por agente de IA autônomo - cryptoid.com.br",
-     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOTlZtQjN0RzQ5QzVOTFEwa29vR3M0TzhCc0tQdVpHM0FfVGpfdlZfSkpkS2hxdVFncFlBU01YblZMYndKT1ktaHVBTFNoeDNOdnMtZUFTQUl5cDlPMFMxWm5WX3pvU1VQbk12T19UYU9HWTlaM3JJZmZSLVFVVWhQRlFCVjNZeDRYNHM1TUZqVTQ3OFZ3WHViY1liM0FtclptT1d3ZG9sYUV5XzVkOFYzTVREOXhMcnlhMEFUQ3lNS1VIT0VnNUgwOTROaGJudlhYQ1BGcXhWblJjZ252ZU5rM3M1MFd4cnQyRW5QSUZyNDNmMVRqbE1kYXMxb0MtZVZ2UXg1UkpFUHBnUFUwalFwYW1Xdw?oc=5",
-     "fonte": "cryptoid.com.br",
-     "data": "2026-09-21"
     }
    ]
   },
   {
-   "id": 24,
-   "caso": 11,
-   "titulo": "They hacked a TikTok user’s camera, with help from free AI - The Washington Post",
-   "papel": "ia_como_ferramenta",
-   "gravidade": 1.0,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "nao_informado",
-   "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-09-18",
-   "ultima": "2026-09-18",
-   "fontes": [
-    {
-     "titulo": "They hacked a TikTok user’s camera, with help from free AI - The Washington Post",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNWctcGt0Nll6Q1AxTXdQdm9QbGRIell1dUZmeUxpSGRqeE5BTWlVS3NkeV9jeEpsUmpESkoxYURqbDBiRVpyT0puZ2gzVHBuWjRJSW1HOTVkZlJaNXktd2JqY1BXN2JtUGVjSHo5blNBSkRvUVZZdzVTaHRQRHQtdF9BSm9ZaVplYXNwVEJ2N2s5Q0RLMmJlQ2JjTGtTc2hKMFFqZTQtOE9lc1p3bjZsNVVwbTJPNDNyNU1ZUVB3?oc=5",
-     "fonte": "The Washington Post",
-     "data": "2026-09-18"
-    }
-   ]
-  },
-  {
-   "id": 15,
-   "caso": 5,
-   "titulo": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6 - The Hacker News",
-   "papel": "ataque_a_ia",
-   "gravidade": 1.0,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "anthropic",
-   "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-09-10",
-   "ultima": "2026-09-10",
-   "fontes": [
-    {
-     "titulo": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6 - The Hacker News",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44Nk9jVHVyUWMyRUN6TFJGcXNNX281akYxdExzMlk1elhQbnhpbWt1VzFrS09McEhGemc3V0c5THFQa1VIcmI3ZmFLeFcyTXh3YTNCendNT3YyX3ZpNkNyU0hXWG1LS21KNG1FZ25NSVFGOHhETUx6Y0E2LW0?oc=5",
-     "fonte": "The Hacker News",
-     "data": "2026-09-10"
-    }
-   ]
-  },
-  {
-   "id": 10,
-   "caso": 10,
-   "titulo": "Spain says it has seen first AI agent hack - IT Pro",
-   "papel": "agente_em_producao",
-   "gravidade": 0.9,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "nao_informado",
-   "defasagem": "nao_informado",
-   "pais": "esp",
-   "pais_nome": "Espanha",
-   "numerico": "724",
-   "primeira": "2026-09-17",
-   "ultima": "2026-09-17",
-   "fontes": [
-    {
-     "titulo": "Spain says it has seen first AI agent hack - IT Pro",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ3hycUxyYVlzUk9GTkEtaWpKc0RwemliU2JmckdBV3J1WVY0RmJoNnpOeDZsWUstaFJ4Si1Zb3dEMk9HaUh0aUxBcjFEaFRPWkRYeW5YdDRmenVDRG5ONlFValZRYWZ3UU84SENGaGRpaHlhdnFHZ2VMNTNjTV80TnJYdUhpbmpLT2EyU1AxNVg?oc=5",
-     "fonte": "IT Pro",
-     "data": "2026-09-17"
-    }
-   ]
-  },
-  {
-   "id": 33,
-   "caso": 19,
-   "titulo": "Amazon Blocks Meta’s Muse AI Agent for Unauthorized Access - Currently.com",
-   "papel": "agente_em_teste",
-   "gravidade": 0.9,
-   "divergencia": false,
-   "confirmacao": "nao_confirmado",
-   "empresa": "meta",
-   "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-09-21",
-   "ultima": "2026-09-21",
-   "fontes": [
-    {
-     "titulo": "Amazon Blocks Meta’s Muse AI Agent for Unauthorized Access - Currently.com",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb0xIdG5LR21pemRpTnRPcVJFWmd3OVFnOTNMdXp4ZUNEdHlVTUFJajdIek5wcDY5Z2hBTkxqRXUtclc3eWdPVXN3Sl9VeFZscnE3SWNRLVQwUDRMSkYyYkpuNC1CUG9sNmYxS0tVTHJMU29DR0JhOUIzZHZRY3ZjMG51dw?oc=5",
-     "fonte": "Currently.com",
-     "data": "2026-09-21"
-    }
-   ]
-  },
-  {
-   "id": 28,
-   "caso": 1,
-   "titulo": "Another Rogue OpenAI Agent Swarm Went Undisclosed. We Have No Idea How Many More Are Out There - gizmodo.com",
-   "papel": "agente_em_teste",
-   "gravidade": 0.9,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "openai",
-   "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-09-04",
-   "ultima": "2026-09-04",
-   "fontes": [
-    {
-     "titulo": "Another Rogue OpenAI Agent Swarm Went Undisclosed. We Have No Idea How Many More Are Out There - gizmodo.com",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUFNLSmxwU3ZjMXJKbTZvd3V0RFVWeHpmTE5GSkF3NzhoaHNLUDBjVERLZWt6QTlwSFdlUkVmUF92NXBVRzhsb21Ua0haWnZMRjJfOW10Y2k1Nm8xdV9QNUJlTG1xMzBJOWc4MWlqd2RvVXYzTC1zSFVTVVNJZlAzZDROZ2g3QzA5NkNJSGk3VHZtWk5tbjB6Q3o3SW5tQkZKNXRiMF9FdFZvNERibkVjQUFsNUtWS1FtS1ozSG5pZ3hiQQ?oc=5",
-     "fonte": "gizmodo.com",
-     "data": "2026-09-04"
-    }
-   ]
-  },
-  {
-   "id": 17,
-   "caso": 6,
-   "titulo": "Spain gets its first taste of AI-aided cyber attack - theregister.com",
-   "papel": "ia_como_ferramenta",
-   "gravidade": 0.9,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "nao_informado",
-   "defasagem": "nao_informado",
-   "pais": "esp",
-   "pais_nome": "Espanha",
-   "numerico": "724",
-   "primeira": "2026-09-16",
-   "ultima": "2026-09-16",
-   "fontes": [
-    {
-     "titulo": "Spain gets its first taste of AI-aided cyber attack - theregister.com",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSVVISHdydmFVcmNhNFFvbmFFVDJWX2dQaTBrcndjVjNkV1UwS1JpcHpsb3plN0piLUxveVo5d0hDYUZ6SXh4YVZBMEx0WnVXbXJXVGQ0WFYwT1hLdFRLOHVIWkxKSWNpVEs3V2tBNlhrck02bkJwVktjV3ZCUjhaVmNJTDNhVmVRekpEeHRyTldMcTQybEYtb0tfNS1KemtFLXM2UUJaLWFESGdoRVhr?oc=5",
-     "fonte": "theregister.com",
-     "data": "2026-09-16"
-    }
-   ]
-  },
-  {
-   "id": 14,
-   "caso": 4,
+   "id": 11,
+   "caso": 9,
    "titulo": "Flaw in DeepSeek Harness AI Coding Tool Let Agents Disable Their Sandbox - DevOps.com",
    "papel": "agente_em_teste",
    "gravidade": 0.8,
@@ -1424,32 +1322,8 @@
    ]
   },
   {
-   "id": 40,
-   "caso": 24,
-   "titulo": "Proteção de Dados espanhola recebeu primeiro alerta sobre um ataque feito por um agente de IA - Observador",
-   "papel": "agente_em_producao",
-   "gravidade": 0.8,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "nao_informado",
-   "defasagem": "nao_informado",
-   "pais": "esp",
-   "pais_nome": "Espanha",
-   "numerico": "724",
-   "primeira": "2026-09-16",
-   "ultima": "2026-09-16",
-   "fontes": [
-    {
-     "titulo": "Proteção de Dados espanhola recebeu primeiro alerta sobre um ataque feito por um agente de IA - Observador",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaS1WVTIwNXYzaEtIR0s1YzlSYXNrcVhiazdLUTA4ZGMxZGhSSjdYNVZKNTlWdllEdWRITHRSNUZKR1BFeDFEc1pBTFVHX0E4S1RRaHNyZHgwb2F5UVJxN3l3ME5YamhqRkRnSXdPeEtyZ3ZmRlh3WTZ5RFZPaFFxYVJPWTlxd2JrX0U3UFhmUlFZMGRNNGdzcGp1RmlOOVVxb2xUXzJlYlFNbWRqMVg1TGZEbmVfRGRMbVlxU3dWZmNtSHJldlE?oc=5",
-     "fonte": "Observador",
-     "data": "2026-09-16"
-    }
-   ]
-  },
-  {
-   "id": 44,
-   "caso": 27,
+   "id": 34,
+   "caso": 25,
    "titulo": "Ataque executado por agente de IA acende alerta sobre responsabilidade e controle humano - adnews.com.br",
    "papel": "agente_em_producao",
    "gravidade": 0.7,
@@ -1472,8 +1346,8 @@
    ]
   },
   {
-   "id": 16,
-   "caso": 1,
+   "id": 18,
+   "caso": 2,
    "titulo": "OpenAI’s rogue AI tried to hack another company in May - The Verge",
    "papel": "agente_em_teste",
    "gravidade": 0.7,
@@ -1496,8 +1370,8 @@
    ]
   },
   {
-   "id": 18,
-   "caso": 7,
+   "id": 24,
+   "caso": 17,
    "titulo": "Exclusive / Anatomy of an AI-powered hack - Semafor",
    "papel": "ia_como_ferramenta",
    "gravidade": 0.5,
@@ -1520,8 +1394,8 @@
    ]
   },
   {
-   "id": 6,
-   "caso": 6,
+   "id": 12,
+   "caso": 10,
    "titulo": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again - WIRED",
    "papel": "agente_em_teste",
    "gravidade": 0.4,
@@ -1544,8 +1418,8 @@
    ]
   },
   {
-   "id": 34,
-   "caso": 20,
+   "id": 38,
+   "caso": 28,
    "titulo": "University of Texas at Dallas student uncovers hack attempted by an AI agent - wfaa.com",
    "papel": "agente_em_teste",
    "gravidade": 0.2,
