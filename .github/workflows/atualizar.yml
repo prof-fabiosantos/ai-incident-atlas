@@ -1,9 +1,11 @@
 name: Atualizar dados
 
-# Roda todo dia às 10:00 UTC (06:00 em Manaus) e também pelo botão "Run workflow".
+# Roda todo dia às 10:23 UTC (06:23 em Manaus) e também pelo botão "Run workflow".
+# O minuto quebrado é de propósito: agendamentos na hora cheia caem no pico da fila do
+# GitHub e podem atrasar muito ou ser pulados.
 on:
   schedule:
-    - cron: '0 10 * * *'
+    - cron: '23 10 * * *'
   workflow_dispatch:
     inputs:
       maximo:
