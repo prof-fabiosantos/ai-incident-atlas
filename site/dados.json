@@ -1,12 +1,120 @@
 {
- "gerado_em": "2026-09-23T14:22:06+00:00",
+ "gerado_em": "2026-09-24T14:15:08+00:00",
  "totais": {
-  "incidentes": 45,
+  "incidentes": 49,
   "casos": 28,
-  "noticias": 142,
+  "noticias": 182,
   "repercussoes": 0
  },
  "incidentes": [
+  {
+   "id": 46,
+   "caso": 29,
+   "titulo": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later - WIRED",
+   "papel": "agente_em_producao",
+   "gravidade": 3.8,
+   "divergencia": true,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "meses_antes",
+   "pais": "aus",
+   "pais_nome": "Austrália",
+   "numerico": "036",
+   "primeira": "2026-09-23",
+   "ultima": "2026-09-24",
+   "fontes": [
+    {
+     "titulo": "OpenAI agent hacked Medicare portal, PM says - ABC News & Headlines – Australian Broadcasting Corporation",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZUIzWElrVi1ray1aNVl6MnRZTXA0UGtLSGVMZlBfY1pYRHBnWDNzTXYxelN3WEF5bmE1WXBxS2dfR0o5SVZBZFhHd0VsdVdsTk05Skk5d2tNcFVMR0t6SHNMd29XLWNuTlVBUXpKeDFsNksyNjJEa3pjNkpkc2VFYnF6dU8zbDZVSFY1WThiSHFRblpyX1VfaHl0bzFqY1h2VUNN?oc=5",
+     "fonte": "ABC News & Headlines – Australian Broadcasting Corporation",
+     "data": "2026-09-23"
+    },
+    {
+     "titulo": "Australia launches investigation after OpenAI agent hacked healthcare database - The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQUdoblhiZ2ZiTUUwTURqQmxST0xYS1ZXVWxGWm9NSWYyZnFDQ2hsUDRDZ0h6cFZpS3RiUzRkSnJMdGpKN01LRmNqejItbFJIZ01CYXh2MVV1U2ZrQ1NMRjVMYjJfV09UU1UydFVHVTZxRjdPVE85RjRnYklDcHEydnp4QWNjMHRLQjlMdXVVdmNvQ25tenJyZ2M5S21fdWZIS3A4V3FOMTA1T3ZOVS0wRGNVVHZLYzhKbUJ0Yk9FUGIyNHBLSmlMQTVCdVI?oc=5",
+     "fonte": "The Guardian",
+     "data": "2026-09-23"
+    },
+    {
+     "titulo": "Australian PM Says AI Agent Broke Into Medicare Website, Confronts OpenAI Chief - Northeast Times",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdkQxLVU1ZDcxZkgxOWNJckhVSUdfQ0l3XzdGMkZUYkZTM0l4VC1RNUZPVTNIQlBtOUFsbG9XZ1Fld2sxRzJRV2pDSGZ4WjdpdzRRSTdsbVFHOUlMbVh4ZV9TNGlfNEF3cklXdGk2RTE0cWd2RFRXanE3MlZNRGJrUFFxM3JLNjZMSHZ5YmJJTU9Ha2YyU2xoVDl5NGY0WEU4YmFELVkyN1lieDI5OFM2RFJ0TmFZUFpH?oc=5",
+     "fonte": "Northeast Times",
+     "data": "2026-09-23"
+    },
+    {
+     "titulo": "What we know about the data accessed in the Medicare AI hack - ABC News & Headlines – Australian Broadcasting Corporation",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPel9EQjFvc1BFMXlOM0k1WW83X2gxdUZzWXJMR21kT3psdnRJa0dYUjhQS2ZmWjZTN3VPYV9ubUlyeXZ6UkRubEN4RHVyNzhBbS1uSTJ4WFFrWUhNWmRXVVY4Tll4T1djM0N3NXNhdlJablNzMUVOdFYxYm5qSVMwX0lEdDlvR1lVVGRtN0RCcXZhZ29pMG5n?oc=5",
+     "fonte": "ABC News & Headlines – Australian Broadcasting Corporation",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "Australia says OpenAI agent hacked Medicare portal - Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS2RidlRlTElSSHh0MHVjbDFXZ2J2V0tJbjdtbGVJT09EM3JRVG5yMUtKN1RoZG9pcXNyd3ByYnJLSXhsRDIyeEJOVlRQMkstT2lnQnJ1UWJ1V2QwZXJmOHpVNEJ2aWlFMEZyWVRhT1RJWGJ5R3FVT1c1dmo5VlpuUDllVkxDQWp5bjRmampQYWNoU2N0YnfSAZsBQVVfeXFMUFRSTGtUVnlVR00zQkhLOGZKTTVRRE1IZ2hzQUUtM0REX0xaOThETThCTUxUZENEQVZmWXoxanlBMFVqWEdybmwtUUlheTRKYzJHOFlVNVFDdHBvdGRKSFpzejVjRjVXZUJkMTg1WUtFTmFGNzFCVXJkUVBsUHNqT0o2Vjl1MzZoZkZ6dm1Id0tyNi1tZ3c3VE90T0k?oc=5",
+     "fonte": "Al Jazeera",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "An OpenAI agent hacked Medicare. Will anyone be held responsible? - The Conversation",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONG9GaDNtZkc2OHhMWFNLUVg0Q2poNXk0SmV5Um5vb3NobmNJUHR5eTQ4UnpmaXROUWNfQldqQTZTNEhRNjJMbThjamVxVFR3S1dDQ1VEdE00Wm9neWlkMy0zWjJVTlNHb1VFbXJoeEx5dXF5NEhXYVBEd0t5SGduSC1STHR5VnhkR2Nrblp1XzVmRU8zcXNfcWVWTlpFYmc?oc=5",
+     "fonte": "The Conversation",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "An OpenAI agent infiltrated Medicare – and Australia only found out months later. Here’s what we know so far - The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlR6YWVMV2ZRTFlSLW9NdVg4aF9ndEo3blhEVFdDQzJlYm1QQ3dDTVg3ZEUwSUVkQ1hQY0lrOEZ5ZFZCT2phelV3MTRJVDNqZWdXZGxTZ1N1WkFTTjFGakhaVllYSlR6dW1qWDA0aFlJcXFuSEt5M1djcEJSVjJxS3V3Y3FDdGREMUNna1cxYTVrWDVyRnlMUFVfSDdNbW52UnVNNGd3QkxJRDdDM2dqbm8tNndYRm8?oc=5",
+     "fonte": "The Guardian",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "OpenAI Agent Breached Medicare Portal, 3-Month Delay [2026] - shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FU1NFSG1veTRMbkNNRmxlalp3OTlyU0ZicnpNQXdZa0JuVE4wOVZDRDI4MGlmSjZrTXF1S19fVmlkejhqcDI5cDhPekNyZEtnNllRVFRpSHAtMF9nSGxndWh5MUpHa2RoQTVZbDVGWEJvMmM?oc=5",
+     "fonte": "shattered.io",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "OpenAI's breach of Australian health department website prompts rebuke - NPR",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCRlh0SVduS2xhdjZteFlSSUlpMzdLY0Nfc2RoeW9ZSC1oRXBvZkJteWlmQ2tBcW9fWHNTdUxJbldKUHBDRHEzUzh5WE4yLXJzLWtSVlFOYlVwcVVtTTJUbVhGeGg1N19KVm41VmhSY3BKNjBq?oc=5",
+     "fonte": "NPR",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "Australia Investigates OpenAI Hack on Public Health Care Site - The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSTVLSXJidmx3V0tIcmdBd251WUZIWVRCZGhDUTBHSUUtV3NXVS05cGVzRXpYWkNuMFAyRzR0QTJuOGRKeFN2a2thV19WY1k3aU1qVFFIazloUHA3TUstUWpJeDBnbEdOb2hjenp3UFhQOW9qVkVfS2V3RmR2UjBEMGs0ZlNVVG10X1FQTVgzd0ZnUDVvZmpPTFR5aHRHMlA0aDZvbEJoRnBZeHhPM2hwU2hB?oc=5",
+     "fonte": "The New York Times",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "OpenAI agent hacks into Australian health data in ‘world-first’ AI breach of government body - Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORXFjQkNjb3ZSOFAwbk9OZ3VYZ05jSXdSZEhwQjNhc0R1LUZzVHVXTVhKbXVpZHJJaVNQcFdWUy1fOWNXdUdpMWRtSVFJcGdpNGxhYXFtc3pFOXhVcUxMaFlqd21jcnpkUHp6c19aNmhodTRKcEpFdFRXSGtjQVAydGl3UlE2Y3BwQi03Y1Z3a0UxZ2dFVWR0TlMwQXJLQ2s?oc=5",
+     "fonte": "Yahoo",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later - WIRED",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMlJCOTJCX1F5ZDh3NkQxRDktY2t0QzJ2X3lNZkVucHBpTldzLUNZbHN5SGZoSG5tVjlaei1tMnVzVnhtNDBVd2JXdnY2WFlkOTVRc0dUbmh6dGt5LXpsMEF0TnFHSkxJQW1GWnpRYjRDQVRxbUcxckMtZ0pHOHYweFM4dzhadmJ3NUhzMk10VW1TY2tHOEJQTEVWS3dwNHY3NjVxRFl5N0hJSzNIM21NVVVMdEg?oc=5",
+     "fonte": "WIRED",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "OpenAI agent hacked an Australian government healthcare website - New Scientist",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUGZMd3RjTWhpdGhtVEd1dXFMSGJ6bnV2elFVLWNoNk11VmRoTVhaT3BhU1Vac0czTmx0TGlMbU9ZRl9iZEdaMUlsNDZBWUwxZnRYVC1USmdHbXI5b0FHUGZTV2k1ejNQQXBFV1FjWWk5bWllWExmNm9DWElGTE5SMDVpZDJUSy1rYldvZ3hTQk9DU3pMejFfVWs5VE1VY1pNbzN6RGRDOXZTQ2JmV3c?oc=5",
+     "fonte": "New Scientist",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "Australia's Medicare AI hack: Its seriousness 'cannot be overstated' - Press Review - France 24",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN2RuWlZ2ZHlrOU0zNG5LREVTQmRjODZtY3N3QzFqbDg4R01zTUx1US1uOVN4a2xCUEszeml1ZXg2NkhoWi1LWFdGVzNfNDNINGJTZmpLVGpMb3pnWjBzQjZJM2pnamt3M1pGcGctVTZUMm1fdlBaNUFwUmZxbDNGX1UyOG0tRFQ1ZzcxWlNnSm0xN0g1OU1sVEc2SzNScG1HVjJ5ZTJoczRSMDB6dGtQd2dKWnd3ZmNUNlVMNkJ3aXJzQQ?oc=5",
+     "fonte": "France 24",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "Australia to investigate if OpenAI hack of government health website broke the law - TechCrunch",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV3hrSERXdUpBc19CYVRhWmhPNU80d1JkOF9uci1TeGJRcHlCOURaRV80cWZhMVZjWC1GMWFFaG91SktrLTVqUjgyOUR5NkozVkstcllPYl90Unl2YXY1UklCNkNNNVhqMkF3amRYZWdaZi1weGZkcU9EZ25BUDdVX3hBamxYdW5lWW9sd2JGcWxVWnVXRFdQMVFST25ZV0FodjREOFNMdFRWNk1ma0czWEpwZGFueVlp?oc=5",
+     "fonte": "TechCrunch",
+     "data": "2026-09-24"
+    }
+   ]
+  },
   {
    "id": 37,
    "caso": 22,
@@ -63,7 +171,7 @@
   },
   {
    "id": 1,
-   "caso": 0,
+   "caso": 1,
    "titulo": "How OpenAI's and Anthropic's AI models hacked other companies",
    "papel": "agente_em_teste",
    "gravidade": 3.0,
@@ -138,6 +246,12 @@
      "data": "2026-09-19"
     },
     {
+     "titulo": "Gemini hacked three companies in first known breakout by Google’s AI - CNN",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlU0lRY09QWEgwWU5TZnloNGluUENkYVJqeUZmQ051YnFuSEdJbHczT3F0ZDBER3JMdDhxNjJFS0VJN1pQTFRMQVlFM3ZKUENVci03ZVlpcWEwUWY1WUppRVlFOHoyUnNzVTJPWS1EVjQ?oc=5",
+     "fonte": "CNN",
+     "data": "2026-09-19"
+    },
+    {
      "titulo": "Google Confirms Gemini AI Breached Three Firms - securityweek.com",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObFRHaVRJanFkaWFmN2hwQ01mY0dyWmluaW5xaUx0c2pLUE1yZnEyd0NJZkRTV0x4NnNYNkVteV9BRlRORE1ubUtNamVuRUhrdlAtTnF2cm85dmFEVGswRGhaanNvclVFRXBnR29wbnFkeEpseUZBWWdnZUdXYXBiNTdn0gGHAUFVX3lxTE9JcTBCbHpwbWQ2TzJMTmZMVklHRUtReVIwdHdSMWlkV2lNQXBQUGVYMFpUMmFybVBtYndqVWdtYkh5d1U5YjBJcnFGMmNpRWlkMTdGRWRhRXVVT0hUTGRCazBidlRyX0hadWVLWXJkcHkzRHBSYmc0NXM0UTdKTlI4al9jU0I1RQ?oc=5",
      "fonte": "securityweek.com",
@@ -177,7 +291,7 @@
   },
   {
    "id": 4,
-   "caso": 0,
+   "caso": 4,
    "titulo": "OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm - The Guardian",
    "papel": "agente_em_producao",
    "gravidade": 2.5,
@@ -196,6 +310,96 @@
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeDNua1VDVWkwRFBlcWpMa2dfSXZDemVBZHJjTHh6cW9IUng0RUJoNjI0YU1lSThrMUVObVF2aC05WjdMZURuUHJPdDBvZnJqUFc4U2luQ1hhNzllWjY2RVBSRG9HU2FiOEg5bmpGMkNyWFVJaGlWaFlOWUZEWmduNWRIOG1WV1BfSl9DOWZNMGpRN05kdC1kdW1qVVNNdlh2bldjbjV5VXZ5UlJJTENjemlNZ1FwVEU1UUR3YlVsbHh2VFZveEtrQ3B0eWUybG40Rk9GVg?oc=5",
      "fonte": "The Guardian",
      "data": "2026-08-26"
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "caso": 29,
+   "titulo": "OpenAI agent hacked into Australian government website, says PM Anthony Albanese - nypost.com",
+   "papel": "agente_em_producao",
+   "gravidade": 2.4,
+   "divergencia": true,
+   "confirmacao": "oficial",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "aus",
+   "pais_nome": "Austrália",
+   "numerico": "036",
+   "primeira": "2026-09-23",
+   "ultima": "2026-09-24",
+   "fontes": [
+    {
+     "titulo": "Australia says OpenAI agent hacked government website, checks for more breaches - reuters.com",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWZud0ZEMW9uYlUwVlpoRlBIbW82Tjc4Rjl3WW5jcWxVR25wSmZCTXlOdHkwR2VrQzdzZkUwX3lNMXBGUkZMZU1sYS13dzRRb1RMRzFOVjc5RmJIbXFfNy1ob1VZY1ItYS0tQW9XVHNLc3p3UEJwNy1QRWVSYVFjQnh0ellEX2JSZkpSdXlMYVI4UkV2VE05enVnZFJuV3BaS1pVczF5VE9vaTdZOGZyU2tjTk9oVVE5RVBjTnVWNGNUZzVEZDM0?oc=5",
+     "fonte": "reuters.com",
+     "data": "2026-09-23"
+    },
+    {
+     "titulo": "Australia says OpenAI agent hacked into government website - CNA",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSzhfSEF5WWxzczQ4d2h5VVVMNVI5ek91eUpOakpoYmdaSDBEWVRRaWdxb1ZtT3ZkbGdjSEpYWDVyYVhCdnp2cDRHWTdtbHVVV2Y4X0YwNDRmN0VZNXduekJnckhRUWdHMG9hOHlBNXhTWDlleVVSNVlHZk81LU44cDNQY0QzYVd5VkhxRlJiVzFreVRpZjVPTw?oc=5",
+     "fonte": "CNA",
+     "data": "2026-09-23"
+    },
+    {
+     "titulo": "OpenAI Agent Hacked Australian Government Website - wsj.com",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdUxmdkdyV2FyMzMwZGk1MjUxalc5aVhsSXF2T0ZrSWcxZW5nSDJTS2Z3cVVRNDVUdmZ3MkhJMi1mV0tGQjZyTDktazVFYXBxV0J1NVdUMGJJVUVNcENMZ3RucTNlRzNpenZKam40TEdxN08xTjVvdTJxNElTNUJDYUpFOVg4dW9oV2s3cjk3WQ?oc=5",
+     "fonte": "wsj.com",
+     "data": "2026-09-23"
+    },
+    {
+     "titulo": "'Unacceptable': OpenAI AI agent infiltrated Australian government portal, PM says - Firstpost",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeFlEeWRYa3g0VVR3QkR4X2ktclVJYzNvS0xVTmJzYjNEcl9EbHNTdFU2OWZOcF9EdXpza2VrYTRhYUVBYnpheUN6alFHODBkTUVVM1gwR0dnMjJma1pLR3RhdGw4M0xUNlk4a2JsX3FFV1ZmVjZkMGZhSktmaFBtV3BobU1EZFhhVHNJV1JxTVg3clRNUFc2WDBGa9IBoAFBVV95cUxOWU9XYVowMW1nc2IxRGk2WFdvdFcwSUZvMG4tbF9GdGxlWWhCdU5VZW4zYm13cDNvVVhLaS1lM1ZibjVLbklWTGQ0RDFJb2tjRnZqMVF1aFpDcFItNHozbWJ2S0ZaaU1tR1RXbzJrX0QzVWFaaTlpSWtfZHJhVVBmdUVGNndKN0pYTDJadDh0SzF1NlNGWkY2TzFrLTNvRkpC?oc=5",
+     "fonte": "Firstpost",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "OpenAI agent hacked into Australian government website, says PM Anthony Albanese - nypost.com",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkF5Q1UwVDd2YjQ3Zk9EVDJVLXlfTVB2anBpeWJsVEg0N1dzTGpqSTlvbllsNjJDTXhTamQwUkhyYWJqaGJRZWZLaHBfSFM0dmhnNU1OSlJEMUFXbFVKWXQxZ3IybW9rTkxTWHk5akt4emNDa0d4UU1DT3RObGhHUmhHVFpyUGJOWEFTSmxxRmNGWHh1UGJZX2FyVjJBWE1oY1pIR3d6eEV4RjF4enZoaVRtUVlRUGZEQk1z?oc=5",
+     "fonte": "nypost.com",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "Australia says OpenAI agent breached government website - Japan Wire by Kyodo News",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TUk04OUdiWlk3MkhNX1RlcW9rVmJCZExNN3RiRmo2Z1FhRHppZE5IWGtWVXBnWWVuazcwVlFpbGlnX2gxY0o3c1ZMWEZKZ0hoLXNxWmFKb21sdw?oc=5",
+     "fonte": "Japan Wire by Kyodo News",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "Rogue OpenAI agent 'infiltrated' Australian government website in world first - BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kT2t4QWVHS3diRXpOWV90RFhEMTh5SWp0RU9TRFl1dmJENEtZMnJDWXNsdkNpSHd0MDQ5YzhCVDZBUzlrN00wUVY5Q2hMMUpyWlRVcW5NYnJXVDg?oc=5",
+     "fonte": "BBC",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "How did an OpenAI agent hack into Australian government website? - France 24",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRnhIdk5IVTJaT1ZkZzJkMFY4MkRLZFFPSlRUNjZaMFhRYTJEenVFdFpfNFRxbDgycFowWmxvazRkLTdWNTU5ZFE1cUFkb2JJV0RpWHlSQWJUaHcwblV1YzNJbmxOY0FTeDlEUWFvd2ZEY2M2VjlnQ0Zna0lYQXZoVWdGdFVIMFhHaktVaEI2LWR6M3E4UnJnMVVWSXRZSWU2X3JwNmFleEdRZw?oc=5",
+     "fonte": "France 24",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "Australia Condemns ‘Unacceptable’ OpenAI Breach of Government Health Portal - time.com",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY3RBRnB5WV9FM0xQdnczb1U4SDNSLTZpcW5SbXczME1wbGpxa2QyXy1yNXRRUWk4eUo4QVZsVkVjc2hVaWtTZFRINXNNYlh5bkNWbjdHNzhudEtvVEZyZ2JxR01OWDB5RjJ4VEpJQmNPSS04bUl0V05xQTdHYTF1ZGt3OTJ6RnZHVXdxUGVxcm91NFpHZjBBbzJ6MWdnR0FnbVJTSkZ6NFI1WW5Ic1Ew?oc=5",
+     "fonte": "time.com",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "Rogue OpenAI agent breach shows Australia exposed on cyber defence - AFR",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQzBMVmxrNDJhZklmWU50bk9NSzduMmpnTnZ1cHZzY0lxanZEWVdjS0RocWJoMnpKMFpUNEpoT2FOSEtkX0hGa3A3Q1hBQ1VJWUNXRl9odFVlTTFEVXB3OENtQlEzQWVFa1lLMzRFOUg3LVQtdTNkSnBYUGpkZ0lUSDlCQXZMampHX0ZSaHBRekhMMXJyc1l2Nm5kNUg5WDc4dTdMZmxVbDV3TkpGMnBIQg?oc=5",
+     "fonte": "AFR",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "Open AI agent hack: Australia launch urgent review afta OpenAI program hack govment health portal - BBC",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YRmlNYTVHbl9oQklzUTBMYlNKenBuMzVVM0RnNTJMNUdvWTAyTjdsUC11Ri0wNTBRMFpPeEI1U3ZqTjJ2XzBlSzhhV3kwWF9JMzg4bDdoOGZrWlZxTmfSAWNBVV95cUxQVFhVbkxHS0tuX2FmTG85bTVsOWVONlBKaTltSUhCYUlrNG80dmZPSGNXVVNVdkF6RmpCZ3U2SFh6VlZ4ZDVBTFNsNU1uOXZnZDdNVDFHQWRfR2dKZWlqd2YzaGc?oc=5",
+     "fonte": "BBC",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future? - BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBySVJ3amFZV2F3aGlNc29fX3B4ZWhyVEFsTHpWdm0yZklaaW16aXZGLWFqLXhFWl9vRkVEQ3hyOGtIQnhoMzdQdm5OT0s0MG1xUzdFLTFibTJlNGs?oc=5",
+     "fonte": "BBC",
+     "data": "2026-09-24"
     }
    ]
   },
@@ -224,8 +428,50 @@
    ]
   },
   {
+   "id": 48,
+   "caso": 10,
+   "titulo": "OpenAI agent carried out first known hack of government system - WKOW",
+   "papel": "agente_em_producao",
+   "gravidade": 2.3,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-23",
+   "ultima": "2026-09-24",
+   "fontes": [
+    {
+     "titulo": "First known AI agent hack of a government site deepens fears over containing the technology - investingLive",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVS1SYWRnQWZBLU9BSTBvRG9iYW0ySEJ4WDU3T3dhcHVzTWNuZjczZ0VzcVNpM3gyeVpHTzdRa3VfQWVtSThQRWFsaXdmbzNCVUExZGpmMC1wVXRJNTJ0SThmYmowMTJXbnd0VFlkalhmcEZoaFc2UEN6Z2tnZmJRcUhLVDM0bE1Ec0NtcW1qdk1HUGdaVWluNnVPYXlsLWJuX01odTcyTlo5Rk1LQ0VWZmdYOGpRQy1KbUxsUFRSVEU0c0k?oc=5",
+     "fonte": "investingLive",
+     "data": "2026-09-23"
+    },
+    {
+     "titulo": "‘Extreme concern’ over first known AI hack of a government system - CNN",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcTdiLThTZ01pMEVNUm9GV2FoaFB2VGt4bE1jOUtsWmZnMm5tV3Q1aEZlc0lJbkJXTkhMd3pfY3REWXJkbVVhS1VvYWZkU2ZERThaYzM3S1dKYTlmbjFFMHU4QTRXTjNGN25laE5PZDFjMU80c3FrbnU2LThxYTBONjZ3?oc=5",
+     "fonte": "CNN",
+     "data": "2026-09-23"
+    },
+    {
+     "titulo": "OpenAI agent carried out first known hack of government system - WKOW",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN0hDWm5NeWlkc3JFMmRjRWJRQ2w2Sk9RX09qQkVuMkhiSmthLVNRLUhmSHNHWl9lY3lfRGp5THU3SGZHOGpiM3ZoMzJvaDQ4WFVHMjNmbTVMNTlpM0R2SW84dXlKZVk5cVZuUDZrYWhBakpYbjhvWFY3WlNScHRKdzhTM2J0UDcycFhFTHFZMUlyaTN3dnpTcjNrTkN2MTd1UXJITTBpSWdKRVdCNFA0N1k5ZEpVdjFoLUR6SGtiUmtPaE5mR2YySVZueTU1bTJLajZoeA?oc=5",
+     "fonte": "WKOW",
+     "data": "2026-09-23"
+    },
+    {
+     "titulo": "AI agent hacks government for the first time: “Didn’t accept no for ​an answer” - Techzine Global",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM0JZZW1ISmlkUU43dHlZejNlS0puSmVSM3VuSlIxTVFqM1dpUTd2T3NyNG5HekZCSVdSSTlMMjRRZjBUQThtY1NoYmQtU2pDMDhRQkxnRjZQWFd5R0NSYVZVNVdfSXVOckNtS0hPaFNlTzBtU1kyb3cyZTZ1Q0wtRm9kSGhzTFYxRkd3d3hQaFRnMDNteTB4Z3Bub1h4V3pLZVExZHZ3Q1BYSEFzZlNZWTBuSndxOTRNZ01JTA?oc=5",
+     "fonte": "Techzine Global",
+     "data": "2026-09-24"
+    }
+   ]
+  },
+  {
    "id": 3,
-   "caso": 0,
+   "caso": 3,
    "titulo": "Google Joins OpenAI, Anthropic, Meta in Disclosing AI Hacks",
    "papel": "agente_em_teste",
    "gravidade": 2.2,
@@ -501,7 +747,7 @@
   },
   {
    "id": 9,
-   "caso": 0,
+   "caso": 9,
    "titulo": "Spanish data watchdog publicises first AI agent-linked data breach report - Reuters",
    "papel": "agente_em_producao",
    "gravidade": 1.9,
@@ -549,7 +795,7 @@
   },
   {
    "id": 5,
-   "caso": 0,
+   "caso": 5,
    "titulo": "Exclusive: New bill cracks down on AI agents after Hugging Face breach - Congressman Mike Lawler (.gov)",
    "papel": "ataque_a_ia",
    "gravidade": 1.9,
@@ -753,7 +999,7 @@
   },
   {
    "id": 2,
-   "caso": 0,
+   "caso": 2,
    "titulo": "OpenAI's reports into its agents' attack on Hugging Face holds lessons for every company",
    "papel": "agente_em_teste",
    "gravidade": 1.7,
@@ -806,8 +1052,32 @@
    ]
   },
   {
+   "id": 49,
+   "caso": 29,
+   "titulo": "Five things to understand about how the OpenAI hack unfolded - SMH.com.au",
+   "papel": "ataque_a_ia",
+   "gravidade": 1.5,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-24",
+   "ultima": "2026-09-24",
+   "fontes": [
+    {
+     "titulo": "Five things to understand about how the OpenAI hack unfolded - SMH.com.au",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQemFYcVFKN0VmaVNhUm44V09ZTU8tTmxSTkJfNm1reTI5WFg2d18xSGd0Zzk5aGlfclVPcnQ4Tmp6NXpCQ3RTb3B2d1IyOXpKTlJqeFpFRzcwcnFqTTdMX0RTY3JCSFJ0M2cyLVhGc1JBSlRWSzZvdkp3QlFyTkNHU3IzbFp1eXZyb0dFd3h4cm1DQnBXOGo3VllMdkg4cXliRi0wWmZWX2t5bGpEUnVqc3E1UzM2QQ?oc=5",
+     "fonte": "SMH.com.au",
+     "data": "2026-09-24"
+    }
+   ]
+  },
+  {
    "id": 7,
-   "caso": 0,
+   "caso": 7,
    "titulo": "OpenAI’s rogue AI agents used universities, wikis, and text‑sharing sites as hidden message boards - Fortune",
    "papel": "agente_em_teste",
    "gravidade": 1.5,
@@ -903,7 +1173,7 @@
   },
   {
    "id": 8,
-   "caso": 0,
+   "caso": 8,
    "titulo": "How a ‘swarm’ of AI agents hacked another company, in the AI’s own words - ABC News & Headlines – Australian Broadcasting Corporation",
    "papel": "agente_em_producao",
    "gravidade": 1.3,
@@ -1023,7 +1293,7 @@
   },
   {
    "id": 10,
-   "caso": 0,
+   "caso": 10,
    "titulo": "Spain says it has seen first AI agent hack - IT Pro",
    "papel": "agente_em_producao",
    "gravidade": 0.9,
@@ -1251,7 +1521,7 @@
   },
   {
    "id": 6,
-   "caso": 0,
+   "caso": 6,
    "titulo": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again - WIRED",
    "papel": "agente_em_teste",
    "gravidade": 0.4,
