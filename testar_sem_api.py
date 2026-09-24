@@ -1,4 +1,4 @@
-"""Testa o Agent Incident Atlas sem gastar créditos: Jev, Google Notícias e GDELT são simulados.
+"""Testa o AI Incident Atlas sem gastar créditos: Jev, Google Notícias e GDELT são simulados.
 
 Como rodar (na pasta do projeto, com a .venv ativa):
     python testar_sem_api.py
@@ -25,7 +25,8 @@ def classificacao_simulada(e):
     t = (e['titulo'] + ' ' + e['resumo']).lower()
     sem = 'letter' in t or 'list' in e['titulo'].lower()
     desdobramento = 'bill' in t or 'congress' in t or 'lawsuit' in t
-    incidente = any(k in t for k in ['hack', 'breach', 'stole', 'malware']) and not sem and not desdobramento
+    incidente = (any(k in t for k in ['hack', 'breach', 'stole', 'malware', 'ataque', 'rouba', 'invas'])
+                 and not sem and not desdobramento)
     empresa = ('google' if 'gemini' in t else 'openai' if 'hugging face' in t
                else 'anthropic' if 'anthropic' in t else 'nao_informado')
     return {
@@ -52,7 +53,7 @@ def post_simulado(url, **kw):
         chamadas['comparar'] += 1
         a, b = corpo['state']['noticia_a'], corpo['state']['noticia_b']
         textos = [(x['titulo'] + x['resumo']).lower() for x in (a, b)]
-        mesmo_caso = all('hugging face' in x for x in textos)
+        mesmo_caso = all('hugging face' in x for x in textos) or all('375' in x for x in textos)
         mesmo_inc = mesmo_caso and not any('bill' in x for x in textos)
         r.json.return_value = {'answers': {
             'mesmo_incidente': {'type': 'noul', 'noul': 0.9 if mesmo_inc else 0.1},
@@ -63,26 +64,32 @@ def post_simulado(url, **kw):
     return r
 
 
-RSS = b'''<?xml version="1.0"?><rss version="2.0"><channel><title>t</title>
+RSS = '''<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>t</title>
 <item><title>Fortune copy - Fortune</title>
 <link>https://fortune.com/2026/09/01/openais-reports-on-its-ai-agents-attack-on-hugging-face-should-be-ringing-alarm-bellsand-making-all-companies-rethink-how-they-secure-ai-agents/?utm_source=rss</link>
 <pubDate>Tue, 01 Sep 2026 14:00:00 GMT</pubDate><description>duplicate by URL</description></item>
 <item><title>New bill cracks down on AI agents after Hugging Face breach</title>
 <link>https://example.com/news/bill-ai-agents</link><pubDate>Wed, 16 Sep 2026 10:00:00 GMT</pubDate>
 <description>A congressman filed a bill after the Hugging Face breach by OpenAI agents.</description></item>
+<item><title>AI-driven hack snags 375 Brazil government employee logins</title>
+<link>https://example.com/news/brazil-en</link><pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
+<description>An AI agent hack stole 375 government employee logins in Brazil.</description></item>
+<item><title>Ataque com IA rouba login de 375 servidores públicos no Brasil</title>
+<link>https://example.com/news/brazil-pt</link><pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
+<description>Um agente de IA roubou 375 logins de servidores públicos.</description></item>
 <item><title>New AI agent breach reported at logistics firm</title>
 <link>https://example.com/news/agent-breach</link><pubDate>Mon, 21 Sep 2026 10:00:00 GMT</pubDate>
 <description>&lt;b&gt;An AI agent&lt;/b&gt; caused a breach at a logistics company.</description></item>
 </channel></rss>'''
 
 
-FEED_SEGURANCA = b'''<?xml version="1.0"?><rss version="2.0"><channel><title>s</title>
+FEED_SEGURANCA = '''<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>s</title>
 <item><title>Ransomware gang hits hospital chain</title><link>https://example.com/sec/ransomware</link>
 <pubDate>Mon, 21 Sep 2026 09:00:00 GMT</pubDate><description>Hospitals in three states were affected.</description></item>
 <item><title>Researchers show prompt injection against an AI agent</title>
 <link>https://example.com/sec/prompt-injection</link><pubDate>Mon, 21 Sep 2026 09:30:00 GMT</pubDate>
 <description>An AI agent was tricked into leaking data.</description></item>
-</channel></rss>'''
+</channel></rss>'''.encode('utf-8')
 
 
 def get_simulado(url, **kw):
@@ -128,7 +135,10 @@ with patch('requests.post', side_effect=post_simulado), patch('requests.get', si
     print('3. Coleta de Google Notícias e GDELT')
     itens = ob.coletar_google_noticias() + ob.coletar_gdelt()
     r = ob.processar(con, 'chave-falsa', itens)
-    res.append(ok(r['novas'] == 2, f"2 notícias novas: link com utm e duplicata entre fontes descartados ({r['novas']})"))
+    res.append(ok(r['novas'] == 4, f"4 notícias novas: link com utm e duplicata entre fontes descartados ({r['novas']})"))
+    br = con.execute("SELECT incidente_id FROM noticias WHERE url LIKE '%brazil-%' ORDER BY url").fetchall()
+    res.append(ok(len(br) == 2 and br[0][0] is not None and br[0][0] == br[1][0],
+                  f'matérias em português e inglês sobre o mesmo ataque viraram um incidente só ({br})'))
     lei = con.execute("SELECT incidente_id, caso_id, papel FROM noticias WHERE url LIKE '%bill-ai-agents%'").fetchone()
     caso_hf = con.execute("SELECT caso_id FROM noticias WHERE fonte = 'Poynter'").fetchone()[0]
     res.append(ok(lei[2] == 'desdobramento' and lei[0] is None,
@@ -147,7 +157,7 @@ with patch('requests.post', side_effect=post_simulado), patch('requests.get', si
     at = AppTest.from_file(str(PASTA / 'painel.py'), default_timeout=60).run()
     metricas = {m.label: m.value for m in at.metric}
     res.append(ok(not at.exception, 'painel renderizou sem exceções'))
-    res.append(ok(metricas.get('Incidentes') == '4', f"4 incidentes no painel ({metricas.get('Incidentes')})"))
+    res.append(ok(metricas.get('Incidentes') == '5', f"5 incidentes no painel ({metricas.get('Incidentes')})"))
     at.selectbox[0].set_value('Só oficial').run()
     res.append(ok(not at.exception, 'filtro "Só oficial" sem erro'))
     at.selectbox[0].set_value('Todas').run()

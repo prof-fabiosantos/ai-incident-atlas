@@ -1,4 +1,4 @@
-"""Agent Incident Atlas — coleta, classificação e agrupamento de incidentes com agentes de IA.
+"""AI Incident Atlas — coleta, classificação e agrupamento de incidentes com agentes de IA.
 
 O Jev classifica cada notícia e decide se duas notícias descrevem o mesmo incidente.
 O código coleta, filtra candidatos, guarda no banco e agrega.
@@ -62,6 +62,8 @@ LIMIAR_INCIDENTE = 0.6    # abaixo disso, a notícia não relata um incidente co
 LIMIAR_MESMO = 0.7        # a partir disso, duas notícias são o mesmo incidente
 LIMIAR_CASO = 0.7         # a partir disso, são incidentes diferentes do mesmo caso
 JANELA_DIAS = 30          # só compara notícias publicadas com até 30 dias de diferença
+JANELA_RECENTE = 7        # sem palavras em comum, compara com o que saiu nos últimos 7 dias
+MAX_RECENTES = 3          # e com no máximo 3 incidentes recentes
 MAX_CANDIDATOS = 6        # no máximo 6 comparações com o Jev por notícia nova
 CHAMADAS_SIMULTANEAS = 4
 
@@ -189,7 +191,16 @@ def normalizar(texto):
 
 
 def palavras(texto):
-    return {p for p in normalizar(texto) if len(p) >= 4 and p not in PALAVRAS_VAZIAS}
+    """Palavras e números que identificam a notícia. Números valem muito entre idiomas:
+    "375 logins" aparece igual em português e em inglês."""
+    achadas = set()
+    for p in normalizar(texto):
+        if p.isdigit():
+            if len(p) >= 2 and p not in {'2024', '2025', '2026', '2027'}:
+                achadas.add(p)
+        elif len(p) >= 4 and p not in PALAVRAS_VAZIAS:
+            achadas.add(p)
+    return achadas
 
 
 def limpar_html(texto, limite=600):
@@ -346,20 +357,35 @@ def candidatos(con, n):
     d = data_de(n['publicada_em'])
     alvo = palavras(n['titulo'] + ' ' + n['resumo'])
     colunas = ['id', 'titulo', 'resumo', 'fonte', 'publicada_em', 'empresa', 'incidente_id', 'caso_id']
-    melhores = {}
+    melhores, todos = {}, []
     for linha in con.execute(f'SELECT {",".join(colunas)} FROM noticias WHERE caso_id IS NOT NULL'):
         outro = dict(zip(colunas, linha))
+        todos.append(outro)
         d2 = data_de(outro['publicada_em'])
         if d and d2 and abs((d - d2).days) > JANELA_DIAS:
             continue
-        pontos = len(alvo & palavras(outro['titulo'] + ' ' + outro['resumo']))
+        comuns = alvo & palavras(outro['titulo'] + ' ' + outro['resumo'])
+        pontos = sum(2 if c.isdigit() else 1 for c in comuns)   # número vale por dois
         if n['empresa'] == outro['empresa'] and n['empresa'] not in ('outra', 'nao_informado', 'varias'):
             pontos += 2
         chave = outro['incidente_id'] or f"caso{outro['caso_id']}"
         if pontos >= 2 and pontos > melhores.get(chave, (0, None))[0]:
             melhores[chave] = (pontos, outro)
-    ordem = sorted(melhores.values(), key=lambda x: -x[0])[:MAX_CANDIDATOS]
-    return [o for _, o in ordem]
+    if melhores:
+        ordem = sorted(melhores.values(), key=lambda x: -x[0])[:MAX_CANDIDATOS]
+        return [o for _, o in ordem]
+
+    # Sem palavras em comum não quer dizer assunto diferente: pode ser só outro idioma.
+    # Nesse caso compara com os incidentes mais recentes da janela curta.
+    recentes = {}
+    for outro in todos:
+        d2 = data_de(outro['publicada_em'])
+        if not d or not d2 or abs((d - d2).days) > JANELA_RECENTE:
+            continue
+        chave = outro['incidente_id'] or f"caso{outro['caso_id']}"
+        if chave not in recentes or (outro['publicada_em'] or '') > (recentes[chave]['publicada_em'] or ''):
+            recentes[chave] = outro
+    return sorted(recentes.values(), key=lambda o: o['publicada_em'] or '', reverse=True)[:MAX_RECENTES]
 
 
 def proximo_id(con, coluna):
