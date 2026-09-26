@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-26T13:04:11+00:00",
+ "gerado_em": "2026-09-26T14:35:52+00:00",
  "totais": {
-  "incidentes": 57,
-  "casos": 36,
-  "noticias": 342,
+  "incidentes": 60,
+  "casos": 39,
+  "noticias": 382,
   "repercussoes": 3
  },
  "incidentes": [
@@ -382,6 +382,30 @@
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2hELUpJdXlkZGo3OTNZRnlPeVJ0RXdLT1dOWk41RjRna2JaNXhoZHRXc1pfR1FDQ2kyYm9ta0lNUWVCQm9JRFhwOFBvOGprUXZwODRKVGx4YXlWa2RzMG84dThZVW1DSDQ4U3RwaXhsVEJsWi0tSUNmdkVHVWUyM1BBU3VaNDRNQjJ6bFROeU53eldpZVpyNHVtLWlhdHRG?oc=5",
      "fonte": "CNET",
      "data": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "caso": 42,
+   "titulo": "Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign",
+   "papel": "ataque_a_ia",
+   "gravidade": 3.1,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "varias",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-23",
+   "ultima": "2026-09-23",
+   "fontes": [
+    {
+     "titulo": "Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign",
+     "url": "https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign",
+     "fonte": "Dark Reading",
+     "data": "2026-09-23"
     }
    ]
   },
@@ -1089,7 +1113,7 @@
    "pais_nome": "Alemanha",
    "numerico": "276",
    "primeira": "2026-08-25",
-   "ultima": "2026-09-18",
+   "ultima": "2026-09-24",
    "fontes": [
     {
      "titulo": "Estado do Alabama investiga OpenAI após agente de IA invadir a Hugging Face - Valor Econômico",
@@ -1188,10 +1212,22 @@
      "data": "2026-09-07"
     },
     {
+     "titulo": "Black Hat USA 2026 | OpenAI's Deep Dive Into Hugging Face Incident",
+     "url": "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk",
+     "fonte": "Dark Reading",
+     "data": "2026-09-15"
+    },
+    {
      "titulo": "EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack - Reuters",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2RNOFJnNVFtSUxoYTBUczVlemRjdHUtYndvcEc0MEF5QTRiRWxSOTFXU1ZqLUFKSjU1QXN2Tnh1TEhWQ195M0dUSTM3WEN3eTVxUlRja2liZmNyYXlrZGpOY2FTMUVzMmxZWkxISHZ1RFVTNUhGdUl6R3o3Y284b0l1VXZyVU9CMlIwLXVRTzVwUG8zSG1lOG4yTFJTQm9mLUFKQWREU08zVFI0VDY3NGNJNEtfQTcwdUtSa0Y5aS1OdUZQZ2czWi1nWFVhdw?oc=5",
      "fonte": "Reuters",
      "data": "2026-09-18"
+    },
+    {
+     "titulo": "3 Cyber Threats That Defined the Summer of 2026",
+     "url": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
+     "fonte": "Dark Reading",
+     "data": "2026-09-24"
     }
    ]
   },
@@ -1240,6 +1276,54 @@
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSTJnRE5hR2VxMHpaVFFvaUlYbG9VekgzTzJKLWZIbkdxVVgwemM4cDZlY1JxaVhNcVhRdDI2b0Z6d2MzbnRjd1g3MmUwZXg0b1RFMldfM0ZBVzczbENsdEppSVdZZmd5cTA2elNCc2NVMkNkbG1VQTdMdFNyc1U0WTF5d0pldjBCQnFZSmo4ajg1UmVlZG0tcE4zU2tFYXdoYUE?oc=5",
      "fonte": "SITEPD",
      "data": "2026-09-17"
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "caso": 39,
+   "titulo": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 1.8,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-11",
+   "ultima": "2026-09-11",
+   "fontes": [
+    {
+     "titulo": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days",
+     "url": "https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days",
+     "fonte": "Dark Reading",
+     "data": "2026-09-11"
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "caso": 40,
+   "titulo": "Researchers used Claude to hack OpenAI employees' ChatGPT accounts",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 1.8,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "anthropic",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-18",
+   "ultima": "2026-09-18",
+   "fontes": [
+    {
+     "titulo": "Researchers used Claude to hack OpenAI employees' ChatGPT accounts",
+     "url": "https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517",
+     "fonte": "The Register (segurança)",
+     "data": "2026-09-18"
     }
    ]
   },
@@ -1770,6 +1854,12 @@
      "data": "2026-09-24"
     },
     {
+     "titulo": "OpenAI agentes IA invadem site do governo australiano - culpadolag.com.br",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNemFSN1FoMzB6VUhveGdKSGVIWWRGUjVrZ3pVUHhnYWxEdFhCdjduUGlkV1c4U1FGNmxsdXVpZWY4ejJVSkNvbDI1YlpyajFVV0ZvMksxM3JxZkdkbjQ1YktlSmx2MTF3eU5DaUVnQlRleDBFWDhRX25pNVNPZ0VQemJoVzc2dw?oc=5",
+     "fonte": "culpadolag.com.br",
+     "data": "2026-09-24"
+    },
+    {
      "titulo": "Open AI agent hack: Australia launch urgent review afta OpenAI program hack govment health portal - BBC",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YRmlNYTVHbl9oQklzUTBMYlNKenBuMzVVM0RnNTJMNUdvWTAyTjdsUC11Ri0wNTBRMFpPeEI1U3ZqTjJ2XzBlSzhhV3kwWF9JMzg4bDdoOGZrWlZxTmfSAWNBVV95cUxQVFhVbkxHS0tuX2FmTG85bTVsOWVONlBKaTltSUhCYUlrNG80dmZPSGNXVVNVdkF6RmpCZ3U2SFh6VlZ4ZDVBTFNsNU1uOXZnZDdNVDFHQWRfR2dKZWlqd2YzaGc?oc=5",
      "fonte": "BBC",
@@ -1821,6 +1911,12 @@
      "titulo": "OpenAI Faces Australian Probe Over AI Agent Breach as It Brings Voice Agents to ChatGPT Mobile - AI Insider",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOFhObEVXWTZ5VE9rejA4WG5XLWNORmE0dEJvYnFRV3VlcHJaLU1ob0c1Sk1VbnV4bnlmZGVLVWF2UUFYUUlNbEFxRTRJMTljSGZCSTRVNE8xUW02eVBwWlhhbUNHczJyblI4dW9HVmRVLXZWQy1KczJRYVNJYkdyd1JFM2UwRjc0cXVEbDliNVMtdDVrd2Fpb2k5WW9TdV9iRm84eVJGNGZxem51aTVrOVBoYVN6bWhwZDlmSm40NFN3bVN1cFgyVnAwaUM?oc=5",
      "fonte": "AI Insider",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "IA da OpenAI invade dados de saúde da Austrália - SpaceMoney",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTDZNdF80UE05enZ0X1FoZDk5TGt6cm1TOEUtZTc0bU9kSTY0eG5CRThQMHF6X3NhTkRYUHVJV2s3NEIyWkhKRnhydExIcHBfV2R0Q2tpTkV2QmlINzQ2enNYMkQtRE0xZDc4QnZadG9QeWgzWHJuQmNIdFZUZWxxUlZNSHg0NHJkTTVGVzBoZnNueFU?oc=5",
+     "fonte": "SpaceMoney",
      "data": "2026-09-24"
     },
     {
@@ -2301,13 +2397,19 @@
    "pais_nome": "País não informado",
    "numerico": null,
    "primeira": "2026-09-12",
-   "ultima": "2026-09-12",
+   "ultima": "2026-09-21",
    "fontes": [
     {
      "titulo": "OpenAI’s rogue AI tried to hack another company in May - The Verge",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0FvUEg5MVowVmJDQzhCTHB5YnMwNVo1ZzhoYUJzcWpISGRhTl9hQWRzR25XNEluY1FZV0VyQ1NTOTVIMGljU3V2NmZ2ckNGTkZPNDlBRC1hSlM1VHJZZWF0R3NDVEwyTW1xWm9QbXA4QVk5X1g0b2hFQzVZN1NmZk5ZdS1HbkxNeWlQZlJ3bTVTazQ?oc=5",
      "fonte": "The Verge",
      "data": "2026-09-12"
+    },
+    {
+     "titulo": "Treasury chief says AI bosses, not their bots, will carry the can for criminal acts",
+     "url": "https://www.theregister.com/security/2026/09/21/treasury-chief-says-ai-bosses-not-their-bots-will-carry-the-can-for-criminal-acts/5297965",
+     "fonte": "The Register (segurança)",
+     "data": "2026-09-21"
     }
    ]
   },
