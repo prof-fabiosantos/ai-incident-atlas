@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-26T14:35:52+00:00",
+ "gerado_em": "2026-09-26T23:56:21+00:00",
  "totais": {
-  "incidentes": 60,
-  "casos": 39,
-  "noticias": 382,
+  "incidentes": 61,
+  "casos": 40,
+  "noticias": 414,
   "repercussoes": 3
  },
  "incidentes": [
@@ -584,6 +584,30 @@
    ]
   },
   {
+   "id": 61,
+   "caso": 45,
+   "titulo": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.9,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-22",
+   "ultima": "2026-09-22",
+   "fontes": [
+    {
+     "titulo": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+     "url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
+     "fonte": "The Hacker News",
+     "data": "2026-09-22"
+    }
+   ]
+  },
+  {
    "id": 20,
    "caso": 14,
    "titulo": "Hackers Roubam $600 Mil da METR Via Agente de IA [2026] - shattered.io",
@@ -947,12 +971,18 @@
    "confirmacao": "oficial",
    "empresa": "openai",
    "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
+   "pais": "usa",
+   "pais_nome": "Estados Unidos",
+   "numerico": "840",
    "primeira": "2026-09-26",
    "ultima": "2026-09-26",
    "fontes": [
+    {
+     "titulo": "OpenAI Agents Hit U.S. Government Websites - WSJ",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMjB6N2NpT3I2TmpaUlN1b1pxNjJUTVMtUlNNX2JuNDhaR0xPNGNHSy1GMi1XSDl5T29CVnF1WGlRODRQall4a3lva1ZJU1hyUDA4d1dTWU13LTFjRXExRUZvbUdtNDNrVmYtb2dnblpFRmZpUWtZTEJLNzVNTzZiOUR4Zmp0TlN1?oc=5",
+     "fonte": "WSJ",
+     "data": "2026-09-26"
+    },
     {
      "titulo": "OpenAI reveals its agents accessed some U.S. government website data after going rogue - CBS News",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcHoweTB6SkhjcllkWkdIVEhBbW16dEFFUnc4ZkpvRWlLTGJReDhFTnBqVDZTUFh6b0FCdGE0dTJ5dkk2RDBOSEVXVmdpcXppS2ZzTE9rUXFZWGctaUNKakJMRXcwWmxHRm9LRGJ1eTBUbmppcW9TNkR4NkhJdW8xR0lQRVNJZw?oc=5",
@@ -1659,7 +1689,7 @@
    "pais_nome": "Austrália",
    "numerico": "036",
    "primeira": "2026-09-23",
-   "ultima": "2026-09-25",
+   "ultima": "2026-09-26",
    "fontes": [
     {
      "titulo": "Um agente de inteligência artificial infiltrou-se ilegalmente em um sistema do governo australiano. - Vietnam.vn",
@@ -1743,6 +1773,12 @@
      "titulo": "OpenAI agent hacked into Australian government website, says PM Anthony Albanese - nypost.com",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkF5Q1UwVDd2YjQ3Zk9EVDJVLXlfTVB2anBpeWJsVEg0N1dzTGpqSTlvbllsNjJDTXhTamQwUkhyYWJqaGJRZWZLaHBfSFM0dmhnNU1OSlJEMUFXbFVKWXQxZ3IybW9rTkxTWHk5akt4emNDa0d4UU1DT3RObGhHUmhHVFpyUGJOWEFTSmxxRmNGWHh1UGJZX2FyVjJBWE1oY1pIR3d6eEV4RjF4enZoaVRtUVlRUGZEQk1z?oc=5",
      "fonte": "nypost.com",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "Agente de IA da OpenAI se infiltra em dados de saúde australianos: risco alarmante de o problema sair do controle. - vietnam.vn",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQXzZkMWdsYkJXcnpWZWFid1I3a3U0Q2hXQjhVY09jN3kxY0llN3dQQUsyX09GVUQ1NEZaNW5qUmpVOV93SUh0MXZNenltcXBPTkJINFp1cGZuSHgwQzZ2anA5M1JHYTNXUjZIZlNCNHhnTk1xOHJhTDBDU1o5UnB4aGRMazlCdkFUMDh0ZFJsTWYwSFBrd05CdnJUcWNqU0FhSENxNldBd3hlbnVyLUpTYlVPdm1nRGJY?oc=5",
+     "fonte": "vietnam.vn",
      "data": "2026-09-24"
     },
     {
@@ -1996,6 +2032,12 @@
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUHhWanZyU3lNT0R0ZGF0N0xlSVltejRoeGZCNm85OU1qOXlieEdjWWZsblVuWGVNLWI5TjEwQ3FidG94VUI2WHFQRWFhVG9yd1AyOGgtd1FZMFJFYUR4UnVGaS1YQWNtQjhSWldBb09zb2RTblhkU2tCOGxiaGJUWVgxNFpadmxHcVdJV3BJMmxmUmg0eXN5TTMtYlhfZ0J2b1E3RHQwMTdOQ1pQbVVBZFRQQ2RzLW1WM0ljdGRqX2w5M3YwQmJfRVpYQUxYSmstZ1lr?oc=5",
      "fonte": "VEJA",
      "data": "2026-09-25"
+    },
+    {
+     "titulo": "Um agente da OpenAI hackeou o governo da Austrália. E simplesmente não avisou - Terra",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZUdsMTF6U3k2MHlIbUVHbHVpeXBncEpWekFVV05iOUE2b3hiNHFwcVRjRFJOczljSklubE9tSnluSXMtZ0ZPUHI5ZXUxbnF4ZkJTb0t5SEU3M2NKMFNkNHlPUkpCSElBWmNjeTZYNU85dTVhZDI4UmhSWC1UMENMRWdxLV9obFJ2VGxuSmMxbmdQbnBfMDhOSGRXVXZrZ1RCenlyNTVOTEJwQkV4SXlnRGNla0tlaUtfTG53RGZyYVhUSFZiUldxeGVTcFdKaU5pOWJOX1lzZTdpSzBnUmxrbk9ReW1QU3M?oc=5",
+     "fonte": "Terra",
+     "data": "2026-09-26"
     }
    ]
   },
