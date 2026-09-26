@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-26T00:10:52+00:00",
+ "gerado_em": "2026-09-26T13:04:11+00:00",
  "totais": {
-  "incidentes": 50,
-  "casos": 31,
-  "noticias": 302,
+  "incidentes": 57,
+  "casos": 36,
+  "noticias": 342,
   "repercussoes": 3
  },
  "incidentes": [
@@ -276,6 +276,12 @@
      "data": "2026-09-24"
     },
     {
+     "titulo": "OpenAI’s breach of Australian health department website prompts rebuke from prime minister - Scranton Times-Tribune",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRjAxYno5SVRvel9zMlUycC1URklOTlB0bVBId1dpVFowRm5PTDFuRW1QZThNTTFzVlpHTkZGYXJGZVJUUE80Nl9EYnZyZG5KUVhqOUFyRERXcUhGa2tEUW1BdU15TlFheF9hLTM5TFBVMEZrbndLM3FFRG4ydjJfYWZlWXhjOG9HdGhhYk45Zkk1V3F5UFByMVdWRQ?oc=5",
+     "fonte": "Scranton Times-Tribune",
+     "data": "2026-09-24"
+    },
+    {
      "titulo": "Agentes de IA da OpenAI invadem site do sistema de saúde do governo da Austrália - Estadão",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeHY3ZHlUNWV4M214RnRyY0JXRXh5VGFSSmlnYmdsYVZ3TlJib2xrazBuY3VKS2lCakVNVFZ3X2hIbTNMcVBpVWZPUDVib2JPaUJlblQyNHhIOFVUYzJacEpzQVR4SVBQZml1djBXMXByMkdrX1Yxa3hsWVdnSk1YbXBWNmVnbVFaMEhWdC1zdmlqdGdFVU8tZjVnM0tjOWMyQUFYWmFab3hlRG9ZYi1LQktZcm1VMHV3aXRPUDV3d19oNDlmSGRYM29LQ2luTzZSVXfSAdIBQVVfeXFMT3h2N2R5VDVleDNteEZ0cmNCV0V4eVRhUkppZ2JnbGFWd05SYm9sa2swbmN1SktpQmpFTVRWd19oSG0zTHFQaVVmT1A1Ym9iT2lCZW5UMjR4SDhVVGMyWnBKc0FUeElQUGZpdXYwVzFwcjJHa19WMWt4bFlXZ0pNWG1wVjZlZ21RWjBIVnQtc3ZpanRnRVVPLWY1ZzNLYzljMkFBWFphWm94ZURvWWItS0JLWXJtVTB1d2l0T1A1d3dfaDQ5ZkhkWDNvS0Npbk82UlV3?oc=5",
      "fonte": "Estadão",
@@ -303,6 +309,12 @@
      "titulo": "Global AI cybersecurity concerns face new twist following Australia Medicare portal breach - IAPP",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY0RLV1FhSzRLUnVISnJoRHBhNlNoRXIyUGpjbk55WkFiODduN3FtT0tfdl90Z05OOFVpeWhBOEVDTVc4YnRaSnhrRzV0anAwQzB1Slp5SUc5Sk9MTGltc1VJRTd0NEtXektCUllIZ0pxd1pfdkFoQjBTYVZGbmlsMnBZdHBqeTVqcjBzNWQ0V1laNmkybDVlaWV6TGw5OXhJSUd2Q3g4YldYakd6ekJrcDdTenY?oc=5",
      "fonte": "IAPP",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "Agente de IA da OpenAI invade portal de saúde do governo australiano - portalaz.com.br",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbEdjSnBrbF96d2RBVXlzXzVzeWE2ZXBETFlkajdiejhoNHRLcDNlUElub2d1VmthRktnNi11YUYtNUVaZC1iREljb21Ldi1wZHQ5MjdCZTFpZjBpbWxJQVFhZzZHN0syVkhBUU55YTV4T3pVUTc1YlJpajdScGNhUGd5NFZpSW16dFh0SVRrdHRfWGhtcExSZVdMMTJVVHRjb2xuVm1pREozRFVNM1U4N0lHVUFNTkxRSjBGT1FBeTM3WDZ10gHEAUFVX3lxTFBsR2NKcGtsX3p3ZEFVeXNfNXN5YTZlcERMWWRqN2J6OGg0dEtwM2VQSW5vZ3VWa2FGS2c2LXVhRi01RVpkLWJESWNvbUt2LXBkdDkyN0JlMWlmMGltbElBUWFnNkc3SzJWSEFRTnlhNXhPelVRNzViUmlqN1JwY2FQZ3k0VmlJbXp0WHRJVGt0dF9YaG1wTFJlV0wxMlVUdGNvbG5WbWlESjNEVU0zVTg3SUdVQU1OTFFKMEZPUUF5MzdYNnU?oc=5",
+     "fonte": "portalaz.com.br",
      "data": "2026-09-24"
     },
     {
@@ -339,6 +351,12 @@
      "titulo": "OpenAI agent breached Australia’s Medicare portal – and nobody noticed for three months - IT Security Guru",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV1ZKU3hLVHFwS0NibXdzT0t2RTdwd2l2cE5DNVlkb0l6OXd0VFdaOGhsTy1nWW5YNW1aX01BclZkdE90R3NYZnlkQldMLUZMbFJwRzk4ZjNWOHJjQzAySUpGaUE2a2Z3VnlKTng4VFhjSm1WX1h2SkdXX01ET0IxdENmTjd4WTdoOHhMVTNweGMtMnVta212eU5wRmJCYmtnNjJCRXdoYXZPV3M1TEJvcGh5U2VpeU1iamhoMlEwMjJ5c3RrZ0E?oc=5",
      "fonte": "IT Security Guru",
+     "data": "2026-09-25"
+    },
+    {
+     "titulo": "Doubts grow over claims OpenAI agent hacked Australian Medicare portal",
+     "url": "https://therecord.media/openai-australia-breach-cyber",
+     "fonte": "The Record",
      "data": "2026-09-25"
     },
     {
@@ -422,33 +440,9 @@
    ]
   },
   {
-   "id": 47,
-   "caso": 32,
-   "titulo": "Three Open-Source AI Agents Ran 27+ Breaches for $25 a Target. 600,000+ Cards Followed. - forkast.news",
-   "papel": "ia_como_ferramenta",
-   "gravidade": 3.0,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "nao_informado",
-   "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-09-25",
-   "ultima": "2026-09-25",
-   "fontes": [
-    {
-     "titulo": "Three Open-Source AI Agents Ran 27+ Breaches for $25 a Target. 600,000+ Cards Followed. - forkast.news",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWl8xVGlreVpORV9JYklJeGk5Z25iVl80SmtJRkJJaFR2elh6RnFZcnNDMzFkc1BhYUVTTFk2eXRSRGhQQlBYaVNnbFJkNEl6aWUtbnVROXgtQjktcFJoYWNRS1hPLXRraUlBTlg1bHlnR2cySS1PekdLRjA2ZjBKNU9FZGpDVkJFUE5mSk8za1F0OU1iZWRNSmU5T2E0QXc4cWxmUS1R?oc=5",
-     "fonte": "forkast.news",
-     "data": "2026-09-25"
-    }
-   ]
-  },
-  {
    "id": 5,
    "caso": 4,
-   "titulo": "Hackers utilizaram ferramenta de IA da SpaceX para atacar sete empresas - Valor Econômico",
+   "titulo": "Hackers Utilizaram Ferramenta de IA da Spacex para Ataque a Sete Empresas - Forbes Brasil",
    "papel": "ia_como_ferramenta",
    "gravidade": 3.0,
    "divergencia": false,
@@ -459,13 +453,49 @@
    "pais_nome": "País não informado",
    "numerico": null,
    "primeira": "2026-08-27",
-   "ultima": "2026-08-27",
+   "ultima": "2026-08-28",
    "fontes": [
     {
      "titulo": "Hackers utilizaram ferramenta de IA da SpaceX para atacar sete empresas - Valor Econômico",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZkNraVdFTlhaWmtyNkVsQ2N0UFJ4Z3A3UlpUeE9rR0Fycmw0cEs0aXd3SkRJNi0xdEJHMmwxSkJtR1FKY1V2dkdndE9La3ZfN3ZEbC00UDZSeF9yYzdGcGNsWmRSTzkyVTBQT21WT1pfTFgxNFpqMXZVTll1b3NMMjEzQ1BxYW5YZkljV1FSY3F2VHZfeTY5UHZzdGpwUW1mWVctZGt5bThWTW5TYzhSeVFNb25aanBPODkxQWVJNnFXWDl1QjFieNIB1wFBVV95cUxQMjZmSnBLY0pOSzRpT3h2QXpFU0tyQktDWTlmVUJ2bk1HNTNWWXVsZ1ppc1Vqb3BRWVduZ1B0NmhoTWFVMHZValpnYm03NjZibWV2SHVYblhsLWM4WFZoUzYxWFctNGVYSVVUWnpuX28xZ3dfZGZrbGFSMlFLZ0s0WkhQWnA1dU9LVGF6SjZ5cnZtcTJLMk9MQ3I3WjMyVHE3QnNEQ3BVTGZNZzJhdy14SVRUNmxzbklDNlVlXzdVemVYZHNMYUxIWWNsb2Ywa0xHNXdFcGR3dw?oc=5",
      "fonte": "Valor Econômico",
      "data": "2026-08-27"
+    },
+    {
+     "titulo": "Hackers Utilizaram Ferramenta de IA da Spacex para Ataque a Sete Empresas - Forbes Brasil",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZVBvalJCNTNaX3dXTXlBSExEb0xaRXRGdjBxVTlESG93WmNjYlluZUtaa19OLTlRUnBZVG50MTFBMFFNczVMbFVwYUtqMUlwTV9YZEVxcXkzZTNfSGt1Q2RqUzdRUm4tdlBPWlphNlN6TkotZFI4ZnJJU1pUOEtMV2VSMVZBWlVHMXZwekRBZWVZTjRlZ2I0Q1lycVhXZHBZa0JXbWxoLWo0RnhuYTZrRnNyam42RDQ?oc=5",
+     "fonte": "Forbes Brasil",
+     "data": "2026-08-28"
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "caso": 32,
+   "titulo": "Crook used three open source agents to break into a Fortune 500 hospitality company, a major US airline and 25+ other orgs",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.9,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "usa",
+   "pais_nome": "Estados Unidos",
+   "numerico": "840",
+   "primeira": "2026-09-24",
+   "ultima": "2026-09-25",
+   "fontes": [
+    {
+     "titulo": "Crook used three open source agents to break into a Fortune 500 hospitality company, a major US airline and 25+ other orgs",
+     "url": "https://www.theregister.com/security/2026/09/25/crook-used-three-open-source-agents-to-break-into-a-fortune-500-hospitality-company-a-major-us-airline-and-25-other-orgs/5299012",
+     "fonte": "The Register (segurança)",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "Three Open-Source AI Agents Ran 27+ Breaches for $25 a Target. 600,000+ Cards Followed. - forkast.news",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWl8xVGlreVpORV9JYklJeGk5Z25iVl80SmtJRkJJaFR2elh6RnFZcnNDMzFkc1BhYUVTTFk2eXRSRGhQQlBYaVNnbFJkNEl6aWUtbnVROXgtQjktcFJoYWNRS1hPLXRraUlBTlg1bHlnR2cySS1PekdLRjA2ZjBKNU9FZGpDVkJFUE5mSk8za1F0OU1iZWRNSmU5T2E0QXc4cWxmUS1R?oc=5",
+     "fonte": "forkast.news",
+     "data": "2026-09-25"
     }
    ]
   },
@@ -550,6 +580,30 @@
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15R0trUVoyNGtwY3ViVFNEQ3lianNkTEFvdXFubGN0WjlNdlVUOVVfWGt3bF9PM0xaNDJBdVZzYUFVemNTLWhaYWpRSm5uUjFXd09XOHBVMzJkYmR2WXFIN3JpUnJacDdBOVhBcDltUS1TNnVZWHc?oc=5",
      "fonte": "shattered.io",
      "data": "2026-09-14"
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "caso": 36,
+   "titulo": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.7,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-24",
+   "ultima": "2026-09-24",
+   "fontes": [
+    {
+     "titulo": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+     "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts",
+     "fonte": "BleepingComputer",
+     "data": "2026-09-24"
     }
    ]
   },
@@ -860,6 +914,30 @@
    ]
   },
   {
+   "id": 57,
+   "caso": 38,
+   "titulo": "OpenAI reveals its agents accessed some U.S. government website data after going rogue - CBS News",
+   "papel": "agente_em_producao",
+   "gravidade": 1.9,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-26",
+   "ultima": "2026-09-26",
+   "fontes": [
+    {
+     "titulo": "OpenAI reveals its agents accessed some U.S. government website data after going rogue - CBS News",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcHoweTB6SkhjcllkWkdIVEhBbW16dEFFUnc4ZkpvRWlLTGJReDhFTnBqVDZTUFh6b0FCdGE0dTJ5dkk2RDBOSEVXVmdpcXppS2ZzTE9rUXFZWGctaUNKakJMRXcwWmxHRm9LRGJ1eTBUbmppcW9TNkR4NkhJdW8xR0lQRVNJZw?oc=5",
+     "fonte": "CBS News",
+     "data": "2026-09-26"
+    }
+   ]
+  },
+  {
    "id": 26,
    "caso": 18,
    "titulo": "AI Agent Carries Out Multi-Stage Data Theft Attack - Infosecurity Magazine",
@@ -1161,6 +1239,84 @@
      "titulo": "Agente de IA ataca sistema de empresa de forma autônoma na Espanha - SITEPD",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSTJnRE5hR2VxMHpaVFFvaUlYbG9VekgzTzJKLWZIbkdxVVgwemM4cDZlY1JxaVhNcVhRdDI2b0Z6d2MzbnRjd1g3MmUwZXg0b1RFMldfM0ZBVzczbENsdEppSVdZZmd5cTA2elNCc2NVMkNkbG1VQTdMdFNyc1U0WTF5d0pldjBCQnFZSmo4ajg1UmVlZG0tcE4zU2tFYXdoYUE?oc=5",
      "fonte": "SITEPD",
+     "data": "2026-09-17"
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "caso": 35,
+   "titulo": "Windows CLOSEDQUORUM malware uses AI models to autonomously select post-compromise actions",
+   "papel": "agente_em_producao",
+   "gravidade": 1.8,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-22",
+   "ultima": "2026-09-22",
+   "fontes": [
+    {
+     "titulo": "Windows CLOSEDQUORUM malware uses AI models to autonomously select post-compromise actions",
+     "url": "https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435",
+     "fonte": "The Register (segurança)",
+     "data": "2026-09-22"
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "caso": 29,
+   "titulo": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+   "papel": "agente_em_teste",
+   "gravidade": 1.6,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-25",
+   "ultima": "2026-09-26",
+   "fontes": [
+    {
+     "titulo": "EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUEtbWlTaWtWX0dYU2dvc0dCT3c4TW8wQS1nOWFVUWp4NU1nNFVxZXMybmhIWTlLVWlUalRVVk5JUVNrdVRfQVVRTlVtNWtwTndFTWlpOEZ1WW9OZi1peUNJNFZMRHdVWXQ1VkhNNkxkS1dVNjFNWGtPenNtYjJyVkdnZzF1ZXNzUWsxbjlPbm5EcDNTVkdaYkN6ckdlTkRrTmJqWUFQOXUtVTJTWGVTYnZlUzM?oc=5",
+     "fonte": "Reuters",
+     "data": "2026-09-25"
+    },
+    {
+     "titulo": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+     "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites",
+     "fonte": "BleepingComputer",
+     "data": "2026-09-26"
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "caso": 34,
+   "titulo": "Agente de IA conduz invasão corporativa sem comando manual - SpaceMoney",
+   "papel": "agente_em_producao",
+   "gravidade": 1.6,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-17",
+   "ultima": "2026-09-17",
+   "fontes": [
+    {
+     "titulo": "Agente de IA conduz invasão corporativa sem comando manual - SpaceMoney",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTGlvaFEtX2pNSnFNd2pQTW9hWXpfeVExS3RrWmZkSVU2cWxab3NMdnFxSWliM1ItMjkwcjZWODRxQlhMajM3SVVKMTM1VUJZTERjTGI3S0VWa2xnVDBpQ3hDc19hYlRxOFNlcHJNUWZpM3F2UDg1ZFc1OG8yY29CXzVRcw?oc=5",
+     "fonte": "SpaceMoney",
      "data": "2026-09-17"
     }
    ]
@@ -1476,6 +1632,12 @@
      "data": "2026-09-23"
     },
     {
+     "titulo": "OpenAI agents ‘infiltrated Australian government website’",
+     "url": "https://www.theregister.com/security/2026/09/24/openai-agents-infiltrated-australian-government-website/5298702",
+     "fonte": "The Register (segurança)",
+     "data": "2026-09-24"
+    },
+    {
      "titulo": "'Unacceptable': OpenAI AI agent infiltrated Australian government portal, PM says - Firstpost",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeFlEeWRYa3g0VVR3QkR4X2ktclVJYzNvS0xVTmJzYjNEcl9EbHNTdFU2OWZOcF9EdXpza2VrYTRhYUVBYnpheUN6alFHODBkTUVVM1gwR0dnMjJma1pLR3RhdGw4M0xUNlk4a2JsX3FFV1ZmVjZkMGZhSktmaFBtV3BobU1EZFhhVHNJV1JxTVg3clRNUFc2WDBGa9IBoAFBVV95cUxOWU9XYVowMW1nc2IxRGk2WFdvdFcwSUZvMG4tbF9GdGxlWWhCdU5VZW4zYm13cDNvVVhLaS1lM1ZibjVLbklWTGQ0RDFJb2tjRnZqMVF1aFpDcFItNHozbWJ2S0ZaaU1tR1RXbzJrX0QzVWFaaTlpSWtfZHJhVVBmdUVGNndKN0pYTDJadDh0SzF1NlNGWkY2TzFrLTNvRkpC?oc=5",
      "fonte": "Firstpost",
@@ -1512,6 +1674,24 @@
      "data": "2026-09-24"
     },
     {
+     "titulo": "Agente de IA da Openai acessa dados de saúde em ataque a site do governo australiano - Sobral Online",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWmt0Z1VyTlI3aDNWdWExbTNDcnZBRVNKX1REOUVqczExcVpMMkV0Z1EzM3lCaE1tOXZGWmJ4SjJURTBRWG44Wk94TE9YM2hSQzZuMThZQWJLdE9GdlQtaWRfUnUtV21qU2FNUGUtZEpmUFpBdktkT1dzc3B0TjJLcld2QjNSVmZVaGhIYzdiNm8ySVJTQXA0?oc=5",
+     "fonte": "Sobral Online",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "Austrália alega que agente da OpenAI invadiu site governamental - BossaNews Brasil",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOF9BbjdYRGprWWdHeGtaY2pTWWVhSmdaX0ltSTJYZE9hbzRvZ0dvcGdJSkg5VF9pTzB1aGlpd0JSMWs5VjFURVdBa1kySzlEMzBxTExiemE3ZVBVa1ZxQjRyYTZQU2Q5a2tIVWx2RWd0R2NLMThzRDFhVW1YbDN2bmRzcGF2bi12OE5lUWZLa0tRSVU?oc=5",
+     "fonte": "BossaNews Brasil",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "Austrália relata invasão de site governamental por IA da OpenAI - PAIPEE -",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVTBhZUtRTWpmTnJBX1hYOTE3UENoNklybzIxOFJTTENDcmNXTnZ2VHFEZTlyNDZNbnRJSlEtaHdCcXl2MjBsYko4M1FWUk8zcWVhOWY2WHVrUzNYeXdEWnBmTER5cG10NUxMU2dPdm5zZjJTMnVMZWVhRzVndUc2RG05dk9HRzQxQUVOU2NBbDJ2ajZ4THh0OFZoMkZadw?oc=5",
+     "fonte": "PAIPEE -",
+     "data": "2026-09-24"
+    },
+    {
      "titulo": "Rogue OpenAI agent 'infiltrated' Australian government website in world first - BBC",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kT2t4QWVHS3diRXpOWV90RFhEMTh5SWp0RU9TRFl1dmJENEtZMnJDWXNsdkNpSHd0MDQ5YzhCVDZBUzlrN00wUVY5Q2hMMUpyWlRVcW5NYnJXVDg?oc=5",
      "fonte": "BBC",
@@ -1539,6 +1719,12 @@
      "titulo": "Austrália diz que agente da OpenAI invadiu site do governo antes de alerta de Altman - TradingView",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhT0JsUzdQOUlOa19Mb2NfcDlWNllpNlUtNnc0SnZ1aW9NZHJEcUNwQVJZSGI2U2g2OTctRzlfM0djaGxlOEtKVHFObkNEdjhyWUdESWoxSjA4X20yNHVVX2ZOLWdOeWpLS1FpSFdvOA?oc=5",
      "fonte": "TradingView",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "Um malware com inteligência artificial se infiltra no site do governo australiano. - vietnam.vn",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVkZlMzBPRXR1SlZqLWpJSUNkdnhWWFdyNDVmREZ4dDBfQWowa0pFTl9xRnR1aGh0OVRLcE9SdTRKcjFwZl96T1JuNDlMRHFUZXNlLVJsODdRMEhMQ3JEaW1jZUxBcERsZnA3azQ0TUtjT212a1BlbkRQRjA5QV9MM1lB?oc=5",
+     "fonte": "vietnam.vn",
      "data": "2026-09-24"
     },
     {
@@ -1608,6 +1794,12 @@
      "data": "2026-09-24"
     },
     {
+     "titulo": "Agente de IA da OpenAI invadiu sistema de saúde da Austrália — e empresa levou meses para avisar - gizmodo.com.br",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSDZNSDRWcnk2NW1qSnBLU1ZPWjBUbjExdmNYX1VCODc5cGs5QzZVTWRfOC1pb1BoRjVxWHU1Ym9xcFMyRGl5WWVxVl9hV051RWJ1azBSREo1ajctUnBHbFRYeGx5djlvSkV3SFd5emtPY3lzNC0wSlF3MW40RFpCdXNkaG9GdkYtS2ZqcU1PMHVKWGF6bEZnSmdDOFo2SXFmcVZIeDFzRGRkaXdLMUhYNTl6cGdwdy1NZDNaNlF3SDdJUC1UN3c?oc=5",
+     "fonte": "gizmodo.com.br",
+     "data": "2026-09-24"
+    },
+    {
      "titulo": "Agente da OpenAI acedeu sem autorização a portal do Governo australiano - TecheNet",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkRnM2QtZ0ZpZUxST2swdl9SUWE5WEFydDB5aWFnVmxpQ0ZRVFBiTzJ5Y3hyenNnLUctWVRteEVibFo0R2gzSFdKckgxR1V5blJMODEyQUxWeWxhR2RSSVBBbS12dHNmM01fRXFCWHJYazV2RlZTNGNCWUJ3cExkZ0ZMdjhMWnBQTGhVSjl2b2VVQnRLSXA1dlR2ZDR5c0x2MDRMMUplbHQ?oc=5",
      "fonte": "TecheNet",
@@ -1650,6 +1842,12 @@
      "data": "2026-09-24"
     },
     {
+     "titulo": "Open AI invade site com dados da saúde pública da Austrália - Agência Brasil",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcE9fZGl3aEJKZldGY1JKLXVFanNNOU1yUV9sODhsdVVnTnJ1REJ6TEZTLUtXOWZoRFdYVTJwYzdTVndNdWFKVVFNbEdyR3BDOS01WUpLOXYyc3o4TmVfYkVGLTJ2QmhaNTUtNG84clFadXYycHhQZEszcHJaeDFmal9aMGsydWo1Y0I0R2VRMjJwUDRoQW5QMmI4WEZ4ZG0ycF9SZzc2aUxhektmaDRnVFhDa2xxQ3RIMHUwS3hOVQ?oc=5",
+     "fonte": "Agência Brasil",
+     "data": "2026-09-24"
+    },
+    {
      "titulo": "OpenAI’s AI Agent Hacks Australian Government Website in World-First Breach - cznews.info",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ1h3TjAxVkhUVDk1Q3hPVGQxNURhU1R2ZG1OcVpvREtMNDFjYVJ5U3o2eFJMdFM0cmpGZ3ctQVJJSnBDQ1FIUzVXTWpSM3F6YktCWl9oNHhudS1BZVNGWkktODY4ZFc1VldGcDlNaW9wd1Z3MVFfVjZOTnNpd1Z3aDQwbG5tSmpKdGdVLWVyZlZrRFJUNm5yVjFQa1VMdnRMZFpsQzVITDJISlFfeFNsS3Q0MA?oc=5",
      "fonte": "cznews.info",
@@ -1671,6 +1869,12 @@
      "titulo": "Austrália acelera regulação da IA depois de agente da OpenAI invadir base de dados do sistema de saúde - Tek Notícias",
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcHRGRTZ4QnVxWjB6aWhKN0hjOHVYa2ppWGR1WmZqcTZDdVdrZ0hvaGpmbEpRU09JcGgwR1VWSUdmaGFmMlpRenc4TXhSZmxDRTFWTDRzeEQtWVNyOUNVdDRxbXNOa190bFh3Um9xTFZjQkdKb053MFIzMF8xX1c5b3luMzUwMkYzTDRVblF4SlQ3aUlxZGNzYzgyMUZ3Yjl1S1Z5MXJaT29qSHhUWnZEc0t6OUVmZGttTWtnekxJYjZBN19WM05EWm1PWmIyRDBmdmJFT0ViR0hEa2o0RU9fbVNKbw?oc=5",
      "fonte": "Tek Notícias",
+     "data": "2026-09-25"
+    },
+    {
+     "titulo": "OpenAI Agents Hacked Into an Australian Government Website. Who’s Responsible? - The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUmN2Y2lHTjFLWWpTZDRpak82M05VeFlSYy0zckM1NE9UaGNua1JxZGl5OFdPN1pVYzJmeERTVnRrZkRwUEZ3NWNOdmFwaXlVS3gyM3hrTFhQeVRRZTd3UUpxSkh4bzR6YUI4dEVITmY4YTBlUWVfZzBYdGZWTlFOcXozdw?oc=5",
+     "fonte": "The New York Times",
      "data": "2026-09-25"
     },
     {
@@ -1732,6 +1936,102 @@
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV1pYUTQ2eVQ1VDN4M0xCSF9xaXo2Y1JVSkduM0F5aWJScElRX3djY1lXRTZHaUVHaXctei1zYk4teHFqTlFfUjdDczl5bDI3UWtTbjdoclI2bUIwR2NyWmU3WlRZdWRQWmJZNWJBcGJLaGROSXE1c1V1a1BYOUNHMDZVRmhZRnVsZXZqUUVyOTN4RDgyaWQ1UDBzeTlnQW50MmFiNDRkNkxOUEI5MmZVWFEtbEhaYkR2dThSSWxDNl81UUlLX1lfRXFNc1dibE1zSnc?oc=5",
      "fonte": "UOL",
      "data": "2026-08-27"
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "caso": 37,
+   "titulo": "ChatGPT-maker’s AI inappropriately probed federal government websites - The Washington Post",
+   "papel": "agente_em_producao",
+   "gravidade": 1.0,
+   "divergencia": true,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "usa",
+   "pais_nome": "Estados Unidos",
+   "numerico": "840",
+   "primeira": "2026-09-26",
+   "ultima": "2026-09-26",
+   "fontes": [
+    {
+     "titulo": "OpenAI bots meddled with US government agencies, including SEC and Census - BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Gc2xjQ1lxckxXLVQ1ajFKakNhUkNZT2FlLWRDYXFmdTJkUndJcjlPaVFhZmFlTVBkbWFTV2VwczA5SnlhNjF6VUJCdnMzemVXWFZBdWJfd0c5V2s?oc=5",
+     "fonte": "BBC",
+     "data": "2026-09-26"
+    },
+    {
+     "titulo": "ChatGPT-maker’s AI inappropriately probed federal government websites - The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTkh6WFB2cWNPZjNjUWJGb2RuaTRvaG1JSlNlS2dETnp0ams0SW5uc3Nyamc0dEkyN09ZV05KOGVYc052ZzE1V0RVQ2M4Z0x0aGRuSU1acllyZ2NYTHdma3RiTjJUTG5RcS1aaDZ1MDNsUjBDdkh0N3U1RXdZaGJZUHVSZjV0Y3R0VUtIbmVmOGNYaUUwQ05aUHRNMnN4X1pUeUY5MnJiazNxQzM0cEdPNHE1Ti12eWNfWTU2ck44aUIxQmM?oc=5",
+     "fonte": "The Washington Post",
+     "data": "2026-09-26"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "caso": 15,
+   "titulo": "Espanha identifica ataque cibernético inédito feito por agente de IA de forma autônoma - Terra Brasil Notícias",
+   "papel": "agente_em_producao",
+   "gravidade": 1.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "esp",
+   "pais_nome": "Espanha",
+   "numerico": "724",
+   "primeira": "2026-09-16",
+   "ultima": "2026-09-19",
+   "fontes": [
+    {
+     "titulo": "IA faz ciberataque sozinha: Espanha investiga caso inédito - RFM",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUldKVTRINjdtVWZNdS1leFdhSGFuektURTZEb0wwSzJYWG95QVB6ekVlamJJOWNlelVydEN1RUJ5ZVlHLURlUF9xMVkxVkhHTklXMHRYSzYyRGRvODZTcU9iTFlmeXAxS1p2V2dodjBXbjJmYUE2T1VEb29XLWs3S2VuQTFNalk0a3RveTNaZENGTEnSAZgBQVVfeXFMT0lJRTdsR2lSRkFtVVNfUDRIemlKUmVuS2hfVVg1UU1HTUFMVHlRX2hjdFVSOGx4S2lMdTExc2V5OWZNcU5ad0FXaXcwLXVhZnRjeE5qSFF3dEVNTk85QWViQlA5dkhmbnI3aWZtM25Eb08xbmNjdzktYVhVX1B4U0hCR2VuaE12RVQ5WDNuT0xsRXZhTFMyZGk?oc=5",
+     "fonte": "RFM",
+     "data": "2026-09-16"
+    },
+    {
+     "titulo": "Espanha identifica primeiro ataque cibernético autônomo realizado por IA - Metrópoles",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdU9VS0c1Z3paaFRleS1PNU1udHF3bTVJeXZEQndjY1Y4WGVfMnNwUDdZbGhCcGQyb1p5M3RKN2JIWGFZNlpKQ1R4THlCS2tqR3ltaVJhUkNjOUJpeTliX0dQc0g1UXdEc0lqZ3pIN0ZLVF9GcFVMcmx1VU5ydzFDTDU4NEk1Q1NmMUwyS0l0bnpncVNKNWRhWExGNnRtRjZ4YkgzcUVhWTc?oc=5",
+     "fonte": "Metrópoles",
+     "data": "2026-09-17"
+    },
+    {
+     "titulo": "Espanha identifica primeiro ataque cibernético autônomo feito por IA - Jornal Correio",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa3FsU2d0LXBXbXozTGh6WFVMcVhfaXpiaFNFb3hOYS1ldXpSaWZXNlN1MGJ4S0dtVzVkcUlhcGNXTEhLOUdVMlhEVFpMblNRakFoWkxtczNtdzVFSVd5R3JJRVRaZ29xQmdfNXBwWlFkYXk2SE9jaFV4MVBZQklrNTJRSjEzczQydU53NWRfQXo2TUpWUlR6OVhVaENVUlJ3Q3dKX201N2dmb2hkWUc0anBRQQ?oc=5",
+     "fonte": "Jornal Correio",
+     "data": "2026-09-17"
+    },
+    {
+     "titulo": "Espanha detecta primeiro ataque cibernético autônomo realizado por IA - PAIPEE -",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaDNkck1FaFhsU2lQWV9TTDBBU0tySnJtYXJtM3RMMVVfTFNWUHpXSkFxdEVlSE00WHV3MHBaejFzSkRzVjlOVW9iOEhDQ2dLRFp2VWFnUlRDM3JIUnV5d2JiaksxNjVoTk1Sbm53SjNQbjNYNXlhSFppV21nazByYkd0enBXWWtVVXNKT0EyRFRob011VGZ6RFpoNEc4ZVZMY25mWjZn?oc=5",
+     "fonte": "PAIPEE -",
+     "data": "2026-09-17"
+    },
+    {
+     "titulo": "Alerta: primeiro ciberataque autónomo com IA em Espanha - pplware.sapo.pt",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOGwwS2NVMUttTHVSXzMwYVhsaFdZRTRkQ1VKQzFQNTJkLUNJZ21iVU81QlBXVVBzN2dFMXN6YVM4STBBWkhGTENWYWZMbFNRNS1FSE1fYXJjQi12UTBtRzQ4b3JWamk3TDVsbzhjVHRtTFFjVEdHaklrQ2otbHpnNmdoWjRmTm1MekpDajhkaUtreVRu0gGaAUFVX3lxTFBVeVlqRzVtdjFKUzJ5VHhhY0tXLUtoTkk3U2NmSmtDYVg2MEQ2RENyUjdpSUl2VzVzY1J4R3dvVEIwTEVRbzEwSzZoS3JoUkN6RGZFTXpBUFhCTjdTUk5saGZjR1VaVGxhZ0NFUTJzbEpUOGU4Z3RiNVo2TEdXc1lRaHFMU1ZzSjVWR2xmRUx0V012TzNid1pwNmc?oc=5",
+     "fonte": "pplware.sapo.pt",
+     "data": "2026-09-17"
+    },
+    {
+     "titulo": "Espanha identifica ataque cibernético inédito feito por agente de IA de forma autônoma - Terra Brasil Notícias",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNREY3bWotRmtiTlhCRks2eVVhemxPSjU3QjBRVlVnVFM4WXBta0I5dUk1aFQtWkhhejhDRDV3aE9Ud0RSTWpLck1RdzJsb1dybDFWZGcxOGV6aEcteTFHNWtiQS0yczdLZzNPeklEVWo1eHRKakhPMXdrWmxkc2FKM2JsNnVzT0tQRm9sWm55ZjUxaDEzWE9pQTRsQXNiUVFvN0I5RFd0WVR6VkRoZ293R2FCd1cyU3pPRmhVWnV3X2VOTm9pRkE?oc=5",
+     "fonte": "Terra Brasil Notícias",
+     "data": "2026-09-17"
+    },
+    {
+     "titulo": "Agente de IA executa etapas de ataque cibernético de forma autônoma em caso inédito na Espanha - Jornal Opção",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPa0k0c3F3NmFhY1AwalItdi05Qk9QdndGX01kVHlPTXotVjd5VVh5VHQyMmw4alRsUUItcm5fWW5YVmRoLURNSVZTYjI1WTJGWF9RZmNJd3phLVZhenBrM2JJM3lxSkFKWjhnRnlXMWF6aEluQV9mSkZBb2tsQ3dSUFo0bGpvWHo5MC1EVk1xY2dyVzNsSkZZcjFwb2NueXQzMmVBTDRlYnhnZ1k5amdyN0dlWDNadktOT3VjR21CVHJNWFlUMXdjSlAyX3o4Q2hEWHFxYzJubjducnFSUHZlYXppWHNkQ0RJZExTSU9YQWJhWENYR3liOUtvRDd1dw?oc=5",
+     "fonte": "Jornal Opção",
+     "data": "2026-09-18"
+    },
+    {
+     "titulo": "Espanha registra ataque cibernético em que agente de IA teria agido de forma autônoma - Nerdizmo",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS3NhSU1ud1pteW81cGZBTDEybkJ1S2drRkJxQmlBbXJyS3B3Ql9jSWRGRGVXOUlEblRUaEFiOXI3QzVaaUhuYzg0V1oxLTVGVVRwa3l2Q1dNcW5YeUdyQlJiLWZwM0JNSnRRaDV5R0gzRFZrUWtNLXU5SlFSNWpmMURFV1VzU0RGNlRrdldhMEx6dy1uZGdzSHZ4LW5CN0FMcU5yczJ2YlZza19Hc0dQQko2MA?oc=5",
+     "fonte": "Nerdizmo",
+     "data": "2026-09-19"
     }
    ]
   },
@@ -1808,6 +2108,30 @@
    ]
   },
   {
+   "id": 52,
+   "caso": 15,
+   "titulo": "Espanha identifica ataque cibernético realizado por agente de inteligência artificial - mznoticia.com.br",
+   "papel": "agente_em_producao",
+   "gravidade": 0.9,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-21",
+   "ultima": "2026-09-21",
+   "fontes": [
+    {
+     "titulo": "Espanha identifica ataque cibernético realizado por agente de inteligência artificial - mznoticia.com.br",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTGlNbjNvdFl0MjFoaktQaEtFQXl6Y29fRjlobEdoUG5aSE1LN09zVVlMVmlJWUFLdjNVRzZCTE9YSW1sSFhlSnN4aTJ5YllNeUF4MWdTX2FXTVYta1AyRVA5OG5BMnVzSVpva3E2TWJDWjBfakQ5TEZoVEluOEF0VWJuR3VTaU1wWU5FVVJXMExBT1Z5S18waWNuYnFzOFJYZ3EtWVVCWGVrVVJKSUxLSw?oc=5",
+     "fonte": "mznoticia.com.br",
+     "data": "2026-09-21"
+    }
+   ]
+  },
+  {
    "id": 37,
    "caso": 27,
    "titulo": "Amazon Blocks Meta’s Muse AI Agent for Unauthorized Access - Currently.com",
@@ -1876,66 +2200,6 @@
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSVVISHdydmFVcmNhNFFvbmFFVDJWX2dQaTBrcndjVjNkV1UwS1JpcHpsb3plN0piLUxveVo5d0hDYUZ6SXh4YVZBMEx0WnVXbXJXVGQ0WFYwT1hLdFRLOHVIWkxKSWNpVEs3V2tBNlhrck02bkJwVktjV3ZCUjhaVmNJTDNhVmVRekpEeHRyTldMcTQybEYtb0tfNS1KemtFLXM2UUJaLWFESGdoRVhr?oc=5",
      "fonte": "theregister.com",
      "data": "2026-09-16"
-    }
-   ]
-  },
-  {
-   "id": 25,
-   "caso": 15,
-   "titulo": "Espanha identifica primeiro ataque cibernético autônomo feito por IA - Jornal Correio",
-   "papel": "agente_em_producao",
-   "gravidade": 0.8,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "nao_informado",
-   "defasagem": "nao_informado",
-   "pais": "esp",
-   "pais_nome": "Espanha",
-   "numerico": "724",
-   "primeira": "2026-09-16",
-   "ultima": "2026-09-19",
-   "fontes": [
-    {
-     "titulo": "IA faz ciberataque sozinha: Espanha investiga caso inédito - RFM",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUldKVTRINjdtVWZNdS1leFdhSGFuektURTZEb0wwSzJYWG95QVB6ekVlamJJOWNlelVydEN1RUJ5ZVlHLURlUF9xMVkxVkhHTklXMHRYSzYyRGRvODZTcU9iTFlmeXAxS1p2V2dodjBXbjJmYUE2T1VEb29XLWs3S2VuQTFNalk0a3RveTNaZENGTEnSAZgBQVVfeXFMT0lJRTdsR2lSRkFtVVNfUDRIemlKUmVuS2hfVVg1UU1HTUFMVHlRX2hjdFVSOGx4S2lMdTExc2V5OWZNcU5ad0FXaXcwLXVhZnRjeE5qSFF3dEVNTk85QWViQlA5dkhmbnI3aWZtM25Eb08xbmNjdzktYVhVX1B4U0hCR2VuaE12RVQ5WDNuT0xsRXZhTFMyZGk?oc=5",
-     "fonte": "RFM",
-     "data": "2026-09-16"
-    },
-    {
-     "titulo": "Espanha identifica primeiro ataque cibernético autônomo realizado por IA - Metrópoles",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdU9VS0c1Z3paaFRleS1PNU1udHF3bTVJeXZEQndjY1Y4WGVfMnNwUDdZbGhCcGQyb1p5M3RKN2JIWGFZNlpKQ1R4THlCS2tqR3ltaVJhUkNjOUJpeTliX0dQc0g1UXdEc0lqZ3pIN0ZLVF9GcFVMcmx1VU5ydzFDTDU4NEk1Q1NmMUwyS0l0bnpncVNKNWRhWExGNnRtRjZ4YkgzcUVhWTc?oc=5",
-     "fonte": "Metrópoles",
-     "data": "2026-09-17"
-    },
-    {
-     "titulo": "Espanha identifica primeiro ataque cibernético autônomo feito por IA - Jornal Correio",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa3FsU2d0LXBXbXozTGh6WFVMcVhfaXpiaFNFb3hOYS1ldXpSaWZXNlN1MGJ4S0dtVzVkcUlhcGNXTEhLOUdVMlhEVFpMblNRakFoWkxtczNtdzVFSVd5R3JJRVRaZ29xQmdfNXBwWlFkYXk2SE9jaFV4MVBZQklrNTJRSjEzczQydU53NWRfQXo2TUpWUlR6OVhVaENVUlJ3Q3dKX201N2dmb2hkWUc0anBRQQ?oc=5",
-     "fonte": "Jornal Correio",
-     "data": "2026-09-17"
-    },
-    {
-     "titulo": "Espanha detecta primeiro ataque cibernético autônomo realizado por IA - PAIPEE -",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaDNkck1FaFhsU2lQWV9TTDBBU0tySnJtYXJtM3RMMVVfTFNWUHpXSkFxdEVlSE00WHV3MHBaejFzSkRzVjlOVW9iOEhDQ2dLRFp2VWFnUlRDM3JIUnV5d2JiaksxNjVoTk1Sbm53SjNQbjNYNXlhSFppV21nazByYkd0enBXWWtVVXNKT0EyRFRob011VGZ6RFpoNEc4ZVZMY25mWjZn?oc=5",
-     "fonte": "PAIPEE -",
-     "data": "2026-09-17"
-    },
-    {
-     "titulo": "Alerta: primeiro ciberataque autónomo com IA em Espanha - pplware.sapo.pt",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOGwwS2NVMUttTHVSXzMwYVhsaFdZRTRkQ1VKQzFQNTJkLUNJZ21iVU81QlBXVVBzN2dFMXN6YVM4STBBWkhGTENWYWZMbFNRNS1FSE1fYXJjQi12UTBtRzQ4b3JWamk3TDVsbzhjVHRtTFFjVEdHaklrQ2otbHpnNmdoWjRmTm1MekpDajhkaUtreVRu0gGaAUFVX3lxTFBVeVlqRzVtdjFKUzJ5VHhhY0tXLUtoTkk3U2NmSmtDYVg2MEQ2RENyUjdpSUl2VzVzY1J4R3dvVEIwTEVRbzEwSzZoS3JoUkN6RGZFTXpBUFhCTjdTUk5saGZjR1VaVGxhZ0NFUTJzbEpUOGU4Z3RiNVo2TEdXc1lRaHFMU1ZzSjVWR2xmRUx0V012TzNid1pwNmc?oc=5",
-     "fonte": "pplware.sapo.pt",
-     "data": "2026-09-17"
-    },
-    {
-     "titulo": "Agente de IA executa etapas de ataque cibernético de forma autônoma em caso inédito na Espanha - Jornal Opção",
-     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPa0k0c3F3NmFhY1AwalItdi05Qk9QdndGX01kVHlPTXotVjd5VVh5VHQyMmw4alRsUUItcm5fWW5YVmRoLURNSVZTYjI1WTJGWF9RZmNJd3phLVZhenBrM2JJM3lxSkFKWjhnRnlXMWF6aEluQV9mSkZBb2tsQ3dSUFo0bGpvWHo5MC1EVk1xY2dyVzNsSkZZcjFwb2NueXQzMmVBTDRlYnhnZ1k5amdyN0dlWDNadktOT3VjR21CVHJNWFlUMXdjSlAyX3o4Q2hEWHFxYzJubjducnFSUHZlYXppWHNkQ0RJZExTSU9YQWJhWENYR3liOUtvRDd1dw?oc=5",
-     "fonte": "Jornal Opção",
-     "data": "2026-09-18"
-    },
-    {
-     "titulo": "Espanha registra ataque cibernético em que agente de IA teria agido de forma autônoma - Nerdizmo",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS3NhSU1ud1pteW81cGZBTDEybkJ1S2drRkJxQmlBbXJyS3B3Ql9jSWRGRGVXOUlEblRUaEFiOXI3QzVaaUhuYzg0V1oxLTVGVVRwa3l2Q1dNcW5YeUdyQlJiLWZwM0JNSnRRaDV5R0gzRFZrUWtNLXU5SlFSNWpmMURFV1VzU0RGNlRrdldhMEx6dy1uZGdzSHZ4LW5CN0FMcU5yczJ2YlZza19Hc0dQQko2MA?oc=5",
-     "fonte": "Nerdizmo",
-     "data": "2026-09-19"
     }
    ]
   },
