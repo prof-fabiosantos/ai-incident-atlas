@@ -1,10 +1,10 @@
 {
- "gerado_em": "2026-09-26T23:56:21+00:00",
+ "gerado_em": "2026-09-27T12:55:51+00:00",
  "totais": {
-  "incidentes": 61,
+  "incidentes": 63,
   "casos": 40,
-  "noticias": 414,
-  "repercussoes": 3
+  "noticias": 433,
+  "repercussoes": 5
  },
  "incidentes": [
   {
@@ -13,16 +13,22 @@
    "titulo": "Austrália estuda novas leis de IA após ataque a sistema de saúde - CNN Brasil",
    "papel": "desdobramento",
    "gravidade": 3.8,
-   "divergencia": false,
+   "divergencia": true,
    "confirmacao": "imprensa",
    "empresa": "openai",
    "defasagem": "nao_informado",
    "pais": "aus",
    "pais_nome": "Austrália",
    "numerico": "036",
-   "primeira": "2026-09-24",
+   "primeira": "2026-09-23",
    "ultima": "2026-09-25",
    "fontes": [
+    {
+     "titulo": "Agente de IA da Openai invade sistema de saúde da Austrália durante testes - Imprensa 24h",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdE9FYmlGeW42WVQ4TTJxakhpQThCNUxaMDN0NGg3cVJVS2pIRzNiaGJ1d3RubWkxQTR6UXI2TWVBendPM0FyU1ZQel9Hd0otcUl4RnhZNG81STY4ZmF5NEIwVk9kaVN0SHBUMnh0ODZObERZM0YycnpMVmRIa0w2c1h4MA?oc=5",
+     "fonte": "Imprensa 24h",
+     "data": "2026-09-23"
+    },
     {
      "titulo": "Agente da OpenAI invade banco de dados de saúde do governo da Austrália - CNN Brasil",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNem01bUZ3VEFjOU9pTzUzMlRiMGxNNjhlVUloSHpVNXU5NlpiTjI2UnJDZ3hiOTJydzRGUTYxMHFFem4xNHgxTkV5OVRSS2NoSHVVZU01X0V6MUh6Q0w0NmJhdVM0bFhmdlJrelhWd2RDUGhEV2swVGk4MkxPUHo5S0dNQm9WSXhnT05GaXg2SHlQR2ZwdFc2OTdlb2pBaTItcUtLMUdaYjM5SUNTeWk1VW1KQzc4QQ?oc=5",
@@ -63,7 +69,7 @@
    "pais_nome": "Austrália",
    "numerico": "036",
    "primeira": "2026-09-10",
-   "ultima": "2026-09-25",
+   "ultima": "2026-09-27",
    "fontes": [
     {
      "titulo": "Open IA invade site com dados da saúde pública da Austrália - Folha PE",
@@ -93,6 +99,12 @@
      "titulo": "Australian PM Says AI Agent Broke Into Medicare Website, Confronts OpenAI Chief - Northeast Times",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdkQxLVU1ZDcxZkgxOWNJckhVSUdfQ0l3XzdGMkZUYkZTM0l4VC1RNUZPVTNIQlBtOUFsbG9XZ1Fld2sxRzJRV2pDSGZ4WjdpdzRRSTdsbVFHOUlMbVh4ZV9TNGlfNEF3cklXdGk2RTE0cWd2RFRXanE3MlZNRGJrUFFxM3JLNjZMSHZ5YmJJTU9Ha2YyU2xoVDl5NGY0WEU4YmFELVkyN1lieDI5OFM2RFJ0TmFZUFpH?oc=5",
      "fonte": "Northeast Times",
+     "data": "2026-09-23"
+    },
+    {
+     "titulo": "Australia says OpenAI agent breached government health data portal - Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdVl6bGdZNFg1bWNJNE9LczllVURXZlFkd0dFb25NVHJmejBNdXByc0ZpOUVybGMwYmZYS3ZTODhKRGxCZFBtNXotNGN0MEllSEN5RmRLZnV6UWlNSnFPN0pMZnlMeVFMdHZ0djF3UDNzSFMzVm9YREMzOHZPVmQyYUdQdmUxdw?oc=5",
+     "fonte": "Yahoo Finance",
      "data": "2026-09-23"
     },
     {
@@ -382,6 +394,12 @@
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2hELUpJdXlkZGo3OTNZRnlPeVJ0RXdLT1dOWk41RjRna2JaNXhoZHRXc1pfR1FDQ2kyYm9ta0lNUWVCQm9JRFhwOFBvOGprUXZwODRKVGx4YXlWa2RzMG84dThZVW1DSDQ4U3RwaXhsVEJsWi0tSUNmdkVHVWUyM1BBU3VaNDRNQjJ6bFROeU53eldpZVpyNHVtLWlhdHRG?oc=5",
      "fonte": "CNET",
      "data": "2026-09-25"
+    },
+    {
+     "titulo": "Sam Altman, Dario Amodei Asked to Face Australian Senate After OpenAI AI Agent Breaches Medicare Portal - Benzinga",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUE9XVHlySnI5Y2NxbHltSzZlMDRkT0dRckloTlkxZEpvb0c3NkV3Y3NKRGtNZE42d21GdEZrb0hneUZYRHpCWTlGVmZLbjh5WDRCbkpycFpwTld3bVlXc0RTbDFZdGFvcGEtQUM1cF83YnduWWowZW02RjlUSjB1aEQ3Q0I2MXN1S0NxSFFvS3o5Y3V4UDFNNzd5ZjlDREsyVlRpMUVNeEZSZmtDUWN1blIwLXJmRjlsMy0tR0VjaTFUTzNWOW95QVV0Q1VzdkpPUFNBM2NLWkhXOVBwYmxvc0hfcm9uX0N1RG9R?oc=5",
+     "fonte": "Benzinga",
+     "data": "2026-09-27"
     }
    ]
   },
@@ -661,7 +679,7 @@
    "titulo": "OpenAI agents launched cyberattack on RubyGems before Hugging Face hack: report - Seeking Alpha",
    "papel": "agente_em_producao",
    "gravidade": 2.4,
-   "divergencia": false,
+   "divergencia": true,
    "confirmacao": "imprensa",
    "empresa": "openai",
    "defasagem": "nao_informado",
@@ -675,6 +693,12 @@
      "titulo": "OpenAI agents launched cyberattack on RubyGems before Hugging Face hack: report - Seeking Alpha",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWl9YaFBmUE5aRGRGMlkySGt0dVd3SzczUzNvVFlCbGhSZFlPVDItYUFjNXR6Y3Z0elMwejNZbVBlLURxZnQyMjJPTU5KZWxPWEhvTlpzMTlpem1wc1gtaUo5aDQtME5WU3JLR1puaDE4N0NpUU14RU1xaWdUdmdPTlg4U2dTeTM4bGV6TDZTS2pYNG1lMXJxM184Um44REwtM2ZURm9Bc20ydw?oc=5",
      "fonte": "Seeking Alpha",
+     "data": "2026-09-12"
+    },
+    {
+     "titulo": "Ataque de agentes da OpenAI ao RubyGems, 2000 pacotes maliciosos e ninguém sabe por quê - Pasquale Pillitteri",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KSG1mZHAteHRmT01vRmE1cmM1enQyc1VTMmxNcGg3TXprNTI0VUdYajFPX2ZmVnJiNmgzTWdkc3B6bG1BRUpncFp5bTB2d2VyWVVjVWJNUDJWMG9lMmxzSUVkeGJMM045cl93eGRrVVFNNkZDenhyeHdZeFh6NG8?oc=5",
+     "fonte": "Pasquale Pillitteri",
      "data": "2026-09-12"
     },
     {
@@ -766,6 +790,30 @@
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUFdEQi1zeWtzVWdFVXB3OHZQSEswOGFMVjQyQWJXVHN6VEFydk83akVrN3FDRGxER2FMLWRZSXlNWHQ5SmUwWlFTNHg1a2pfQkVSM21URGhLWWNlcVNqb0lEUVAwYTZTZ3ZBU1Rzc3FPYnV5WmR3d2RXdGZIMjhYNHU2Zw?oc=5",
      "fonte": "Cybernews",
      "data": "2026-09-10"
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "caso": 38,
+   "titulo": "OpenAI Agents Access Department Of Commerce, SEC, Census Data; Attempt Hack On Education Website - NewsCord",
+   "papel": "agente_em_teste",
+   "gravidade": 2.1,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-24",
+   "ultima": "2026-09-24",
+   "fontes": [
+    {
+     "titulo": "OpenAI Agents Access Department Of Commerce, SEC, Census Data; Attempt Hack On Education Website - NewsCord",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOEk0cDVBd0JNaHBVcGtNSEFKTFpTRDBuczRmM1FVNDY5d2ZQYl9zY2EzN0NuaFJsbnRlT2JONy1pYkVGdHBpdDdLeUgwQ0ZuY25zOWJRcTdsT1RGZ2NVMzZ1ME9hRFBqamdneWZEckQ2akdvSnBqVkpfTzRDR3JVOGlLVXlZZXpPWlk3Y1g3V0NjdHlnajBCeTRiQzhTZkZsOUpnaDhMN0lsc2VOUjN6bFk2dE1LM3pqdWNuVGpzZGJwRnZJZUhRZkc2VzJySEVTeHdtcGpJYnpkNVBISHZKd0Ytd3kwNFNFQlE?oc=5",
+     "fonte": "NewsCord",
+     "data": "2026-09-24"
     }
    ]
   },
@@ -910,6 +958,42 @@
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVlhyczBQVnByNHAtM1lBYTd5aDJrVEtYNEVVc0tSSUJtQWctNmlVbWFUcEpDaUpxUFQ2UU1xeVFpVWNnMWtmVkpvaTVPUXB3ZEZjaGxzRVNBRmpDdXZkNnZsQ3U1YzZuZkdPdGtjUV9jYmIzVTdlUEJKd0tnSW9WUU5oOV9YWFhqSDNHZ3B4SmVfQQ?oc=5",
      "fonte": "itsecurity.pt",
      "data": "2026-09-17"
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "caso": 29,
+   "titulo": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity - The Guardian",
+   "papel": "agente_em_producao",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-25",
+   "ultima": "2026-09-26",
+   "fontes": [
+    {
+     "titulo": "EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUEtbWlTaWtWX0dYU2dvc0dCT3c4TW8wQS1nOWFVUWp4NU1nNFVxZXMybmhIWTlLVWlUalRVVk5JUVNrdVRfQVVRTlVtNWtwTndFTWlpOEZ1WW9OZi1peUNJNFZMRHdVWXQ1VkhNNkxkS1dVNjFNWGtPenNtYjJyVkdnZzF1ZXNzUWsxbjlPbm5EcDNTVkdaYkN6ckdlTkRrTmJqWUFQOXUtVTJTWGVTYnZlUzM?oc=5",
+     "fonte": "Reuters",
+     "data": "2026-09-25"
+    },
+    {
+     "titulo": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity - The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0dTclpUU0M5bk5NTkk3MlVJeF9vZXZiQVRTLW03V3pxRjZ1WHlxaDBRVUUxbUN5eVRhQlpoTnZQZUdodndHVU9ldHQyazVwamc3OUZqaUktVmxvZmd3d3Y3RHg4Y0lzakJ1bWZtSG5fbFlMbmE4WnBVei1WdS1mem1CYWJ1MFJ1ZEJZRkJwUHJQdEU?oc=5",
+     "fonte": "The Guardian",
+     "data": "2026-09-25"
+    },
+    {
+     "titulo": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+     "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites",
+     "fonte": "BleepingComputer",
+     "data": "2026-09-26"
     }
    ]
   },
@@ -1382,36 +1466,6 @@
    ]
   },
   {
-   "id": 55,
-   "caso": 29,
-   "titulo": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
-   "papel": "agente_em_teste",
-   "gravidade": 1.6,
-   "divergencia": false,
-   "confirmacao": "oficial",
-   "empresa": "openai",
-   "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-09-25",
-   "ultima": "2026-09-26",
-   "fontes": [
-    {
-     "titulo": "EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUEtbWlTaWtWX0dYU2dvc0dCT3c4TW8wQS1nOWFVUWp4NU1nNFVxZXMybmhIWTlLVWlUalRVVk5JUVNrdVRfQVVRTlVtNWtwTndFTWlpOEZ1WW9OZi1peUNJNFZMRHdVWXQ1VkhNNkxkS1dVNjFNWGtPenNtYjJyVkdnZzF1ZXNzUWsxbjlPbm5EcDNTVkdaYkN6ckdlTkRrTmJqWUFQOXUtVTJTWGVTYnZlUzM?oc=5",
-     "fonte": "Reuters",
-     "data": "2026-09-25"
-    },
-    {
-     "titulo": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
-     "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites",
-     "fonte": "BleepingComputer",
-     "data": "2026-09-26"
-    }
-   ]
-  },
-  {
    "id": 51,
    "caso": 34,
    "titulo": "Agente de IA conduz invasão corporativa sem comando manual - SpaceMoney",
@@ -1604,6 +1658,30 @@
    ]
   },
   {
+   "id": 63,
+   "caso": 2,
+   "titulo": "Australia summons OpenAI, Anthropic CEOs after rogue AI agent breach - The News International",
+   "papel": "agente_em_producao",
+   "gravidade": 1.3,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "varias",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-27",
+   "ultima": "2026-09-27",
+   "fontes": [
+    {
+     "titulo": "Australia summons OpenAI, Anthropic CEOs after rogue AI agent breach - The News International",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPejlmbzItRE5Xek1hZzBYVy1Zb01BMDlWMy1ieWs5ei1lWGgyS2E4bkl5cS05bnpncjBJX3RNZzNENzBUcUZ0bkMxWlpSLTZ5T0RVS3h2U2gwU2V3LVNtZG5QSWRWaU9sQVk0MGRCNk5JcUJxa0pVWURuQ3BKZ3JvVG9BcmJKUFdPX0Y1S196U0wxQnhWV204NWt6OFAtQktiMHdZWGdRU3NKSkFOVUHSAaoBQVVfeXFMTXBKVTByTDR5RjZJbFA1YlhZaFpweHVmZWRHM1RDQXFfYUZWd05aYWo4cl90LTVqWlJLZXNLSGIxNEtnS1dJb2NPd2kwVG5vY3hMQmVMNWd5dWVhMzFWejdiMy02Z2diOFl3b1RvZnN3dkZMMkRBeGVpZ2lSY0VIYl9TT2VGNjY5VG9wZmZRYWFrX0t1UVNGOVYwMERkT01hNWppNG5HVVdtckE?oc=5",
+     "fonte": "The News International",
+     "data": "2026-09-27"
+    }
+   ]
+  },
+  {
    "id": 43,
    "caso": 30,
    "titulo": "OpenAI Agents Tried to Hack Four More Websites While Seeking Data - WSJ",
@@ -1737,6 +1815,12 @@
      "titulo": "Agente de IA da OpenAI invade site do governo australiano em junho - boca.com.br",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUmJKZUxGekk0ZFZhU0hrQUxIbzVXQkF4WE1KekF0SzByZkpEOUZUaDFYeVlGSG1ZUWNIbGgxbmhyRHh2WXNFVXpXaGlmTDJEX1JOTDdmZW8yM3o5QXNmZjI4ZVpmY0hMMlVYd2s2RDlJLWZWMHpKNFNWT0E0ZFI0S3hKZkw1aWkzN1RNdlBuS3ROUQ?oc=5",
      "fonte": "boca.com.br",
+     "data": "2026-09-23"
+    },
+    {
+     "titulo": "Agente de IA da OpenAI acessa portal do governo australiano - SpaceMoney",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYnhJZXpVZEVOX1pUVVhqZ3dUekpHSzd6VUZwNUhNTTVKT05pTFBtZG01bzhCYTE3MWg4Um9tYTFoMWVDT1lIaDNKTFZSRjZzNDhVUHE0a1pReTNfbS1YdE5vTVhkY1FhX0pjVU1BU1BIT2pYbEpCMlA0TjNUZktRRDZLdC1sdjRMX1dF?oc=5",
+     "fonte": "SpaceMoney",
      "data": "2026-09-23"
     },
     {
@@ -1968,6 +2052,12 @@
      "data": "2026-09-24"
     },
     {
+     "titulo": "Austrália diz que agente de IA da OpenAI invadiu portal do governo - portaltela.com",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY3pGMjFFd0lnR0hBejVTNTJvXzZtYWZqcUIyWkZOMEplQTdudDZINlZ5MnVIZExmR0JYV1daRm82SW9adFhEcncySDB0dHVDbHU1WHNOTjFhREgxb1VBM2dCRm5La0RhTWl1Z1hfS1M0M3MyM1B0dkJZT2JYdG5qUThCVVRVR0xGa3Jra0FUQ2Z0R1hrc0o2QWZVZFZLd3I3bkxIU0xKZjhfZl9uUU5ncXdPM3lmdlhjcmsw?oc=5",
+     "fonte": "portaltela.com",
+     "data": "2026-09-24"
+    },
+    {
      "titulo": "Australia to pursue AI guardrails after unprecedented OpenAI breach - ABC News & Headlines – Australian Broadcasting Corporation",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV01WdnA3M0JKdU1lUVRNY1FtendILWY0OGVldVRrZEk1UGlqTTMtQjIyajRDOElvWG5CT0xWSFY2Q2RiLUVWSHVCREFYX2FQN3N5WmNrNDhaajlvbUhua2FBbk1XaTFqeVh0M25OX2pnTWxlUGxqTEJpMnh2U1JKdUZWUG0yeGNwVEVZLWJQSGNRRW5GWGljRg?oc=5",
      "fonte": "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -1996,6 +2086,12 @@
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdEd5ZXdoYXY4YlpiTFVxQWp4VVQxN2h6Zm5ZN0xLeW9yUy05S2xHWURuNDgxS1JzSFRZY0E4UHRIMkxJNkZ0alZPSE9BRkkwbzRwcEVheTF0TTFHS2c1WGFKblVPX0l6SnlIVC1kV1NIdFZESmNSczc0MWRSV1ZKamx2c0p0dDF6YlY5Q2lETXBocDNEUHk5T2t2S1NGQVFmUUY3X0dKQjB5b2ZpbnVXYzUweFlxbklENjRKeVNhenhCNGZoNEltX25ZZw?oc=5",
      "fonte": "Jornal Opção",
      "data": "2026-09-24"
+    },
+    {
+     "titulo": "Albanese cobra regras para IA após invasão a site do governo - SpaceMoney",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeG5SUjJ0YktrcS1TM252dUkwaU5hdGJXVHBuckxFNXJtUGh1VmIxbDV4N1RHbmhLMGwxMmE4OE43SjlQUGZ5UmVqM3NJWXFGRTFUM0hHS0hCYVJraGlDR2dMZmlxSnlnNWZZdl9LYmI3bHlnSEQ5eEVwN3NjclltdzRqZXZZYkdXeW12eFRn?oc=5",
+     "fonte": "SpaceMoney",
+     "data": "2026-09-25"
     },
     {
      "titulo": "Austrália acelera regulação da IA depois de agente da OpenAI invadir base de dados do sistema de saúde - Tek Notícias",
@@ -2535,6 +2631,20 @@
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY09kZ1hfTFJ5Z3laRkNaakY4X2NrbV9ETDZiaXJMSTA1X2d5MlBaem9HWnJYODk0X3hCZXBGV2wtYlBDblRGYkNEdms0U1Jyd3dmT2xuakVlcWdlNVE1Qnc2WlhZbzlwX1hWN1RDME5vZjZhWmhoSFhuQ043ZEhFNTl6OXliTTVTNXVnV0EtdnRWQQ?oc=5",
    "fonte": "boca.com.br",
    "data": "2026-09-02"
+  },
+  {
+   "caso": 2,
+   "titulo": "Heads of OpenAI and Anthropic called to face Senate inquiry after rogue agent incidents - The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSmpnZ1ZWU05sZ0hWOVFnUGJqb0hRbTVTcWNodWI3ak5zcm5fRXFsaElYMERvUzJIaTJmNnlGdDkwOGFmUWJZNjBMQU9ER3dET0VkNExpakxZcDJRdkptdUxnaTVqcTJZSDB5cjNfZ2hYYzNVVzZid1htOUwxVm1vdnI5REJLTEhTMHNKY1RtMENtdkdfbWxnN3hFcXN0VXJCVzhJaUNPU3dnMjZaWTVjdTlzRnlWLTJKN2hnaHlGOHJ5Q096anJuMVhXT0FIVlMySFFpUGQ2eU5odGls?oc=5",
+   "fonte": "The Guardian",
+   "data": "2026-09-26"
+  },
+  {
+   "caso": 2,
+   "titulo": "OpenAI, Anthropic CEOs summoned by Australia Senate over AI agent breach - The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSU50ZUhhdTVNVjgtSHlvMHNrWGlPMW5DUTdBSWtRQVdGU2ZrdExZMUx6YU0takNlc3RFX0xUdzlzeHFiYTNPWkx3WXNiSWVGSTFlNHF0bHhPQ3hWS3hiczFXaGk2Y0gweEdDVWxTeExvOVVqc25BWU5zOEVCOTBkeG1FOVN5MDh6ZUNoaVlNZFBUSG5ocnpyMUluMFNNMW50Qm1VRlpkR1VTSDBLaUJ4cC1mTDVndHRmTlVMOWdJMkpHSDVPcUlmTzhGeklyZ1dXYnFnaFpham0zMkxzeW9VNjROV2MzYVd40gHuAUFVX3lxTFBzNkJZLU5ENkdTRWpBTktKbDdoN3l3T0N3YzE5ck5waHNUeExTQTQ2ZjdFUUhGT08xV0lsUnRkZHlUdndTZE5TNkdKaG1LX1duOWUxbkIxWm5SYXI2WUFlcDVrNmpGMDBrX28xN0dReFh0Ty1jdkk1OTBYRUFYQ1F5YU9aNktWZkRBMXJVSTlRZlJwLWE2YjhLaG9yYUFMUEFQRE9tLXVsMTZkYjNoTS1xdGc0aG52SHhjRFRvR2I2TmV0RHNmU1Rhalo2QThCMjl4ZG50b25DX3Fpb1ZqUEd1NEVha1ZIT0RiM0UwQ1E?oc=5",
+   "fonte": "The Times of India",
+   "data": "2026-09-27"
   },
   {
    "caso": 29,
