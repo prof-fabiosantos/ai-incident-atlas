@@ -1,10 +1,10 @@
 {
- "gerado_em": "2026-09-28T00:00:09+00:00",
+ "gerado_em": "2026-09-28T16:40:39+00:00",
  "totais": {
-  "incidentes": 63,
-  "casos": 40,
-  "noticias": 446,
-  "repercussoes": 5
+  "incidentes": 67,
+  "casos": 42,
+  "noticias": 476,
+  "repercussoes": 6
  },
  "incidentes": [
   {
@@ -52,6 +52,12 @@
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSDVDM3lnZ214QkNaYVBYRVVYRjZOaTc5UkE5WjhLQTF0ZVVnWDhLQzhqbkF0allBY2RYXzJfOWNTdlBMRXozaXhnWmUwYzdjS0EzclNzV1hGUWlVWVp4VUZncFY1YW9JcEJacmJyMXc3YnRnMHpCX1h3d05mcVRhZ1BpazFITnpsd0pONk4tSWN3RlEyOHZxUDN5VERucFFXQ2tVSHVkZ3BMRGJnakV4TFBWdGV4SnBLQ1VUUnVnWUdjT2dzVHBQZVRFa3FEZw?oc=5",
      "fonte": "CNN Brasil",
      "data": "2026-09-25"
+    },
+    {
+     "titulo": "OpenAI AI agent hacks Australian government Medicare website in unprecedented case - DongA Science",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zYjB6b2ZpR0dXR25IOWVyOHM1Q3d3VHdJdm1pcU44bC1QaWdjM2owbl9VUTd0VDJUSmtNOW9kV1dObE5sUDVHTkhieG5VTXpoOVo1MA?oc=5",
+     "fonte": "DongA Science",
+     "data": "2026-09-27"
     },
     {
      "titulo": "Australia OpenAI Medicare Breach: Deputy PM Defends Data Security - shattered.io",
@@ -424,6 +430,12 @@
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUE9XVHlySnI5Y2NxbHltSzZlMDRkT0dRckloTlkxZEpvb0c3NkV3Y3NKRGtNZE42d21GdEZrb0hneUZYRHpCWTlGVmZLbjh5WDRCbkpycFpwTld3bVlXc0RTbDFZdGFvcGEtQUM1cF83YnduWWowZW02RjlUSjB1aEQ3Q0I2MXN1S0NxSFFvS3o5Y3V4UDFNNzd5ZjlDREsyVlRpMUVNeEZSZmtDUWN1blIwLXJmRjlsMy0tR0VjaTFUTzNWOW95QVV0Q1VzdkpPUFNBM2NLWkhXOVBwYmxvc0hfcm9uX0N1RG9R?oc=5",
      "fonte": "Benzinga",
      "data": "2026-09-27"
+    },
+    {
+     "titulo": "Labor defends AI crackdown over Medicare data breach - Startup Daily",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTU5mUEUwc0w2SlQ0RGhJeFhlZHdPYUdtSzVtLUdUZ2xkOGMzWjg2SGwtLXZsTHFSMV9KTHktYUlPY2ZZVGJrTlAzdUlnZEdhd0lmVFNSMGM3VmtPWERfREVDbXcwVmdnTEhwaWt2ZVNfWHZaMUlLVE5XRTl2VVNSSmUyQkgybTd5Z3FOQlNoeXFsU1ktSU1udEhSc1ZIWFpjZk1qbGppUDZRNEc2cndZTg?oc=5",
+     "fonte": "Startup Daily",
+     "data": "2026-09-27"
     }
    ]
   },
@@ -448,6 +460,30 @@
      "url": "https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign",
      "fonte": "Dark Reading",
      "data": "2026-09-23"
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "caso": 46,
+   "titulo": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
+   "papel": "ataque_a_ia",
+   "gravidade": 3.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-28",
+   "ultima": "2026-09-28",
+   "fontes": [
+    {
+     "titulo": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
+     "url": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking",
+     "fonte": "BleepingComputer",
+     "data": "2026-09-28"
     }
    ]
   },
@@ -681,19 +717,73 @@
    "gravidade": 2.7,
    "divergencia": false,
    "confirmacao": "imprensa",
-   "empresa": "nao_informado",
+   "empresa": "outra",
    "defasagem": "nao_informado",
    "pais": "nao_informado",
    "pais_nome": "País não informado",
    "numerico": null,
    "primeira": "2026-09-24",
-   "ultima": "2026-09-24",
+   "ultima": "2026-09-28",
    "fontes": [
     {
      "titulo": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
      "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts",
      "fonte": "BleepingComputer",
      "data": "2026-09-24"
+    },
+    {
+     "titulo": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
+     "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
+     "fonte": "The Hacker News",
+     "data": "2026-09-28"
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "caso": 38,
+   "titulo": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+   "papel": "agente_em_producao",
+   "gravidade": 2.6,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-28",
+   "ultima": "2026-09-28",
+   "fontes": [
+    {
+     "titulo": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+     "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government",
+     "fonte": "WIRED (segurança)",
+     "data": "2026-09-28"
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "caso": 47,
+   "titulo": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.4,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-28",
+   "ultima": "2026-09-28",
+   "fontes": [
+    {
+     "titulo": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
+     "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources",
+     "fonte": "BleepingComputer",
+     "data": "2026-09-28"
     }
    ]
   },
@@ -838,6 +928,30 @@
      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOEk0cDVBd0JNaHBVcGtNSEFKTFpTRDBuczRmM1FVNDY5d2ZQYl9zY2EzN0NuaFJsbnRlT2JONy1pYkVGdHBpdDdLeUgwQ0ZuY25zOWJRcTdsT1RGZ2NVMzZ1ME9hRFBqamdneWZEckQ2akdvSnBqVkpfTzRDR3JVOGlLVXlZZXpPWlk3Y1g3V0NjdHlnajBCeTRiQzhTZkZsOUpnaDhMN0lsc2VOUjN6bFk2dE1LM3pqdWNuVGpzZGJwRnZJZUhRZkc2VzJySEVTeHdtcGpJYnpkNVBISHZKd0Ytd3kwNFNFQlE?oc=5",
      "fonte": "NewsCord",
      "data": "2026-09-24"
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "caso": 47,
+   "titulo": "JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack",
+   "papel": "agente_em_producao",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-28",
+   "ultima": "2026-09-28",
+   "fontes": [
+    {
+     "titulo": "JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack",
+     "url": "https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack",
+     "fonte": "Dark Reading",
+     "data": "2026-09-28"
     }
    ]
   },
@@ -1791,7 +1905,7 @@
    "pais_nome": "Austrália",
    "numerico": "036",
    "primeira": "2026-09-23",
-   "ultima": "2026-09-27",
+   "ultima": "2026-09-28",
    "fontes": [
     {
      "titulo": "Um agente de inteligência artificial infiltrou-se ilegalmente em um sistema do governo australiano. - Vietnam.vn",
@@ -2022,6 +2136,12 @@
      "data": "2026-09-24"
     },
     {
+     "titulo": "Um agente da OpenAI invadiu um site do governo australiano e demorou meses para denunciá-lo. - Malwarebytes",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMm51V3VVaDRYNnAydS1CRkNJVXVwZkVWeDZSWjNmckItdDZWbjZpSjhQdmJuWnZmU282d1RLOG5IaVJIeWxGUFY5WlhDZGd5YUxCS1VQRWE5dVFBVU94SVN2ZHV3ckZ5akNUU0tnOEpMVVhNSWltb21tRWlHZXNyMDB2QnJUMTF4dnlmWGtfdWdpZ3RWRU83bDNIOFh3X1ZKNFp3Y0JQdXBZN01zY0tIUk9vSUFLb0lIWmVjSDQ4RnFEQ25YZkVrTA?oc=5",
+     "fonte": "Malwarebytes",
+     "data": "2026-09-24"
+    },
+    {
      "titulo": "Um agente de IA ultrapassou o bloqueio: o incidente australiano expõe a responsabilidade por ações autônomas - DefesaNet",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa29RWHdVUThYcjVrVmcyT1Njems1UFkxNi1NNzAzeFVsa3BQdUp1N0wyQUNhZWsxYVVPMzdwZ2tDeXVyeVQ4UGJxb1NVaGgwX1padEt0a0pwT0FyWWVrVFpSVks5OWtRVnN6Z0o1cVRCelQyR3dVVnVLTFZ3M1d4YWc1d3NsZnFqc1FZZVFnbTJwRXZvcDdRRFVHOE5adUtXSEFteGRVT3hWR1Z6RDJzaDZxUDNiS2taUm1rV2hxeGlaWloycU05M1hZOEZRRGx0MlFjZmZMaHdDNlR2?oc=5",
      "fonte": "DefesaNet",
@@ -2176,6 +2296,12 @@
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWWlXRWcxMmdmN0E4TC1lTUxSdDF3TUw2TGRnQnJIOS1RT1BGT0dKc0RkRndNMFl1VUhGLUlqVWZvY1BGa0lkR3RoMm1SZjVwWFE0cnR4d1VqeVJiaW1qZmVNc1g4aUZCZWZhTHNUWEJLYjV6QkFHRWpQeGh4UFNybmFiRG9ZVEVRNkROYUJUckdkYXVnRm1ucDhMbEY?oc=5",
      "fonte": "Vietnam.vn",
      "data": "2026-09-27"
+    },
+    {
+     "titulo": "AI hack into Australian govt website 'unacceptable' - China Daily",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtV1pxOHY3V2dQZ0NsY1RnOExaS2twMHZ1YkpuWmhrdHlXSnNqWThwWGZNTllsQWYwNnNGS3RtTllsX09DS3B1MmpQb21IUlBsNnltRHh6Vjd4T1NIQVNyRDBuWmNSSlQyMmFZa2EzOTBFZFhUVUdWMWh4azE4UQ?oc=5",
+     "fonte": "China Daily",
+     "data": "2026-09-28"
     }
    ]
   },
@@ -2693,6 +2819,13 @@
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSU50ZUhhdTVNVjgtSHlvMHNrWGlPMW5DUTdBSWtRQVdGU2ZrdExZMUx6YU0takNlc3RFX0xUdzlzeHFiYTNPWkx3WXNiSWVGSTFlNHF0bHhPQ3hWS3hiczFXaGk2Y0gweEdDVWxTeExvOVVqc25BWU5zOEVCOTBkeG1FOVN5MDh6ZUNoaVlNZFBUSG5ocnpyMUluMFNNMW50Qm1VRlpkR1VTSDBLaUJ4cC1mTDVndHRmTlVMOWdJMkpHSDVPcUlmTzhGeklyZ1dXYnFnaFpham0zMkxzeW9VNjROV2MzYVd40gHuAUFVX3lxTFBzNkJZLU5ENkdTRWpBTktKbDdoN3l3T0N3YzE5ck5waHNUeExTQTQ2ZjdFUUhGT08xV0lsUnRkZHlUdndTZE5TNkdKaG1LX1duOWUxbkIxWm5SYXI2WUFlcDVrNmpGMDBrX28xN0dReFh0Ty1jdkk1OTBYRUFYQ1F5YU9aNktWZkRBMXJVSTlRZlJwLWE2YjhLaG9yYUFMUEFQRE9tLXVsMTZkYjNoTS1xdGc0aG52SHhjRFRvR2I2TmV0RHNmU1Rhalo2QThCMjl4ZG50b25DX3Fpb1ZqUEd1NEVha1ZIT0RiM0UwQ1E?oc=5",
    "fonte": "The Times of India",
    "data": "2026-09-27"
+  },
+  {
+   "caso": 2,
+   "titulo": "Após ataque de IA, Austrália convoca CEOs da OpenAI e da Anthropic a depor - CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZnlXRC1zUEZtRUphd0g1VHJUNlRxbHlseXhQWEdlWlpyaUx3UzU2UTlyZGZrRGZEdS1YUVBpM2NjSmQtbnJIM190bXo5UjFfSEVrX3BhSmFxOGhpR25ZcDJHVFhXV0pVV1MxOHVhYnlPb0kwZDlCdWZGQmRaZ0lJR2dhbjJkamxpMGpvdGFwMVY2Vm43TGxFUnFNd1lOX3Z6RGRoOFVKajVEemZQQ0ItS2lBUWowQ29Pc1o4VTBUaWZIQ2p6Qkxka3RfX1lzMnhhdXNwQjJYcFdWUQ?oc=5",
+   "fonte": "CNN Brasil",
+   "data": "2026-09-28"
   },
   {
    "caso": 29,
