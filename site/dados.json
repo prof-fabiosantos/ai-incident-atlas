@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-27T15:12:29+00:00",
+ "gerado_em": "2026-09-28T00:00:09+00:00",
  "totais": {
   "incidentes": 63,
   "casos": 40,
-  "noticias": 439,
+  "noticias": 446,
   "repercussoes": 5
  },
  "incidentes": [
@@ -21,7 +21,7 @@
    "pais_nome": "Austrália",
    "numerico": "036",
    "primeira": "2026-09-23",
-   "ultima": "2026-09-25",
+   "ultima": "2026-09-27",
    "fontes": [
     {
      "titulo": "Agente de IA da Openai invade sistema de saúde da Austrália durante testes - Imprensa 24h",
@@ -52,6 +52,12 @@
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSDVDM3lnZ214QkNaYVBYRVVYRjZOaTc5UkE5WjhLQTF0ZVVnWDhLQzhqbkF0allBY2RYXzJfOWNTdlBMRXozaXhnWmUwYzdjS0EzclNzV1hGUWlVWVp4VUZncFY1YW9JcEJacmJyMXc3YnRnMHpCX1h3d05mcVRhZ1BpazFITnpsd0pONk4tSWN3RlEyOHZxUDN5VERucFFXQ2tVSHVkZ3BMRGJnakV4TFBWdGV4SnBLQ1VUUnVnWUdjT2dzVHBQZVRFa3FEZw?oc=5",
      "fonte": "CNN Brasil",
      "data": "2026-09-25"
+    },
+    {
+     "titulo": "Australia OpenAI Medicare Breach: Deputy PM Defends Data Security - shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNTVmWllBb0cydGNfWnU0dlctRGNTeVBLQktILWpaOUM3N2N4MU9hYXlUWGptRV9UVVR4VVcwekdjMXhVTnhRcldhYzFJX2tkbzJrdU82eHlhOS10NlV1TVNOYVpYY1NMa3FCeHBrV0lUUHItaURPbWpDVWNaOTRfRXB3ZGV1NG8?oc=5",
+     "fonte": "shattered.io",
+     "data": "2026-09-27"
     }
    ]
   },
@@ -228,6 +234,12 @@
      "data": "2026-09-24"
     },
     {
+     "titulo": "Australia investigates OpenAI agent breach of Medicare portal - yahoo.com",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY092NmJjTHlGTGt1X1ZfZmY1SHBKWjhFeHFob2FnM0owVVkyc0k5QlB4bEJxODlpZXlhSzVEX1ZFNHNRa0t5MWxmOHdKZ2lLeFpGeWpIUnhCaEtLUUgtUTA0N0tkRXZBVElhaThyUWJSbGdoQnJWT2FCZ1I2OHRCeHNieXZ3UFZSejhwdWFUU3ZiTkNkaS1kcDhOMnZVdkVS?oc=5",
+     "fonte": "yahoo.com",
+     "data": "2026-09-24"
+    },
+    {
      "titulo": "Austrália lança investigação após agente de IA da OpenAI aceder sem autorização a portal de saúde - CNN Portugal",
      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQXcyR3ZnYWF1SW80cHpfaGdBNzJnbGF1QzRKX2hGV0hqSFJtQTZZUGF0aG9hVTlaSWlnYWw1NmVfR3NXYWpsSG9qNXJ5T2RFb0JtMGFrZlNPWHFUbXlNa2UwQlh6aUR0UGVzdk9fV21hNXlqb3ltZnN0ZGNTWmpYX0ZuVjdJRzhzbWE2dmoycUZnUlZPTFlnRHVZQldNa3lGQ0M4b2hWV0RsYTFzb1ZJbks4VUhqMFJPaXF3M1ZrUmVvdGFwNm96ZVpDYUVkQlprZmg5Ymg5XzJDamtRZ0x0R0tBQlFDeHZoc3phaVRJTHRGR0FvSENhMHp6RUhra1hNUDBKR0lR?oc=5",
      "fonte": "CNN Portugal",
@@ -273,6 +285,12 @@
      "titulo": "O portal de dados de saúde do governo australiano foi alvo de um ataque cibernético realizado por inteligência artificial. - Vietnam.vn",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ3NPSWlkVGFUM0dMRjlSNlFSM1M0MlMxMXJkNVpSd0tBejRvZTE0V3ZONGhER1RxbElUcEVkQjgxTGktTXVhckl0WEo4OGFkZTlWeXpQU0M0NGdyN1JKQktPWHdzaTlCSDJobUlQeWV4OWp6T1JYRmRXM0Q1RkRXUzdNSERYYmFQQkE?oc=5",
      "fonte": "Vietnam.vn",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "Australian health website breach by OpenAI causes concern - ABC7 Chicago",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CaEVua2xReDdCSTFMLXJPa2NwU2V6UUdfaDN6VUVsbDFuSGY1SmJmRVJuYk1KTmZPZ2pwdDlmeEEzOFR4UDlRNg?oc=5",
+     "fonte": "ABC7 Chicago",
      "data": "2026-09-24"
     },
     {
@@ -1773,7 +1791,7 @@
    "pais_nome": "Austrália",
    "numerico": "036",
    "primeira": "2026-09-23",
-   "ultima": "2026-09-26",
+   "ultima": "2026-09-27",
    "fontes": [
     {
      "titulo": "Um agente de inteligência artificial infiltrou-se ilegalmente em um sistema do governo australiano. - Vietnam.vn",
@@ -2152,6 +2170,12 @@
      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZUdsMTF6U3k2MHlIbUVHbHVpeXBncEpWekFVV05iOUE2b3hiNHFwcVRjRFJOczljSklubE9tSnluSXMtZ0ZPUHI5ZXUxbnF4ZkJTb0t5SEU3M2NKMFNkNHlPUkpCSElBWmNjeTZYNU85dTVhZDI4UmhSWC1UMENMRWdxLV9obFJ2VGxuSmMxbmdQbnBfMDhOSGRXVXZrZ1RCenlyNTVOTEJwQkV4SXlnRGNla0tlaUtfTG53RGZyYVhUSFZiUldxeGVTcFdKaU5pOWJOX1lzZTdpSzBnUmxrbk9ReW1QU3M?oc=5",
      "fonte": "Terra",
      "data": "2026-09-26"
+    },
+    {
+     "titulo": "A Austrália exige explicações da OpenAI e da Anthropic sobre o incidente de segurança cibernética. - Vietnam.vn",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWWlXRWcxMmdmN0E4TC1lTUxSdDF3TUw2TGRnQnJIOS1RT1BGT0dKc0RkRndNMFl1VUhGLUlqVWZvY1BGa0lkR3RoMm1SZjVwWFE0cnR4d1VqeVJiaW1qZmVNc1g4aUZCZWZhTHNUWEJLYjV6QkFHRWpQeGh4UFNybmFiRG9ZVEVRNkROYUJUckdkYXVnRm1ucDhMbEY?oc=5",
+     "fonte": "Vietnam.vn",
+     "data": "2026-09-27"
     }
    ]
   },
@@ -2217,6 +2241,12 @@
      "titulo": "ChatGPT-maker’s AI inappropriately probed federal government websites - The Washington Post",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTkh6WFB2cWNPZjNjUWJGb2RuaTRvaG1JSlNlS2dETnp0ams0SW5uc3Nyamc0dEkyN09ZV05KOGVYc052ZzE1V0RVQ2M4Z0x0aGRuSU1acllyZ2NYTHdma3RiTjJUTG5RcS1aaDZ1MDNsUjBDdkh0N3U1RXdZaGJZUHVSZjV0Y3R0VUtIbmVmOGNYaUUwQ05aUHRNMnN4X1pUeUY5MnJiazNxQzM0cEdPNHE1Ti12eWNfWTU2ck44aUIxQmM?oc=5",
      "fonte": "The Washington Post",
+     "data": "2026-09-26"
+    },
+    {
+     "titulo": "Dona do ChatGPT diz que seus robôs podem ter invadido sistemas de vários órgãos do governo dos EUA - BBC",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lbWFQelU3djV4ajlyWTZQNURYSUVtcVF4bFNLUkRla3BVbWpfNFlaUUtGMS1pTWhBRUVRZXhjM3lNZTNwekNteGdGbTlQVGdNeWp5dFd6M3V5eXdheXdsX1pUMA?oc=5",
+     "fonte": "BBC",
      "data": "2026-09-26"
     }
    ]
