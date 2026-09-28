@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-28T16:40:39+00:00",
+ "gerado_em": "2026-09-28T18:12:13+00:00",
  "totais": {
-  "incidentes": 67,
-  "casos": 42,
-  "noticias": 476,
+  "incidentes": 68,
+  "casos": 43,
+  "noticias": 481,
   "repercussoes": 6
  },
  "incidentes": [
@@ -2154,6 +2154,12 @@
      "data": "2026-09-24"
     },
     {
+     "titulo": "OpenAI's AI agent breached an Australian government system, and took three months to disclose it - TechSpot",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc0JYRzI1Q1JialFzWWdsVjExUk13aWpoT0VUOWxnSzhHaFlnSjJyVW1xQ2dTcTUzdWlWUkcxd2dzbmNPRmJIRXJBR1AwanljYzkzNGhrNjZWVk16cGFZU04teWp2NEdPNlZNZzNSQjFTUnFZY2cycl9rZnVnejhDaXRHZUljTF8xbEppbFRvOXNEQjUxQXRMdUlPQ2swallKRVZV?oc=5",
+     "fonte": "TechSpot",
+     "data": "2026-09-24"
+    },
+    {
      "titulo": "Agente de IA da OpenAI invadiu sistema de saúde da Austrália — e empresa levou meses para avisar - gizmodo.com.br",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSDZNSDRWcnk2NW1qSnBLU1ZPWjBUbjExdmNYX1VCODc5cGs5QzZVTWRfOC1pb1BoRjVxWHU1Ym9xcFMyRGl5WWVxVl9hV051RWJ1azBSREo1ajctUnBHbFRYeGx5djlvSkV3SFd5emtPY3lzNC0wSlF3MW40RFpCdXNkaG9GdkYtS2ZqcU1PMHVKWGF6bEZnSmdDOFo2SXFmcVZIeDFzRGRkaXdLMUhYNTl6cGdwdy1NZDNaNlF3SDdJUC1UN3c?oc=5",
      "fonte": "gizmodo.com.br",
@@ -2302,6 +2308,30 @@
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtV1pxOHY3V2dQZ0NsY1RnOExaS2twMHZ1YkpuWmhrdHlXSnNqWThwWGZNTllsQWYwNnNGS3RtTllsX09DS3B1MmpQb21IUlBsNnltRHh6Vjd4T1NIQVNyRDBuWmNSSlQyMmFZa2EzOTBFZFhUVUdWMWh4azE4UQ?oc=5",
      "fonte": "China Daily",
      "data": "2026-09-28"
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "caso": 48,
+   "titulo": "A.I. agent breach raises new concerns - CityNews Calgary",
+   "papel": "agente_em_producao",
+   "gravidade": 1.1,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-24",
+   "ultima": "2026-09-24",
+   "fontes": [
+    {
+     "titulo": "A.I. agent breach raises new concerns - CityNews Calgary",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ3Y3eGpxWmdIbGZwdURCbnlUc00xWXgtd3VITWxtU0x4Vzg3VmQ1ZXVneW50SG1wRXUzMEdQV3pmTUFyM1k2OXI3TmpsVUI1VjI1S0xuaUVUbW9FT1R1U0h4N1FLWVhQb05FdDdDZ1hPUnU4SFVIaTN3Ul9vN1ZXVHhuUE9ucFZVVnc?oc=5",
+     "fonte": "CityNews Calgary",
+     "data": "2026-09-24"
     }
    ]
   },
