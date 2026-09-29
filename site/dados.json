@@ -1,10 +1,10 @@
 {
- "gerado_em": "2026-09-28T18:12:13+00:00",
+ "gerado_em": "2026-09-29T14:17:12+00:00",
  "totais": {
-  "incidentes": 68,
+  "incidentes": 69,
   "casos": 43,
-  "noticias": 481,
-  "repercussoes": 6
+  "noticias": 521,
+  "repercussoes": 7
  },
  "incidentes": [
   {
@@ -21,7 +21,7 @@
    "pais_nome": "Austrália",
    "numerico": "036",
    "primeira": "2026-09-23",
-   "ultima": "2026-09-27",
+   "ultima": "2026-09-28",
    "fontes": [
     {
      "titulo": "Agente de IA da Openai invade sistema de saúde da Austrália durante testes - Imprensa 24h",
@@ -64,6 +64,12 @@
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNTVmWllBb0cydGNfWnU0dlctRGNTeVBLQktILWpaOUM3N2N4MU9hYXlUWGptRV9UVVR4VVcwekdjMXhVTnhRcldhYzFJX2tkbzJrdU82eHlhOS10NlV1TVNOYVpYY1NMa3FCeHBrV0lUUHItaURPbWpDVWNaOTRfRXB3ZGV1NG8?oc=5",
      "fonte": "shattered.io",
      "data": "2026-09-27"
+    },
+    {
+     "titulo": "Australian Prime Minister Reveals June Hack of National Health Portal by OpenAI Agent Wasn't Disclosed to Government Until September - CPO Magazine",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQczNrVS11TEU0MEhGQjdEY2V6R0RqSUdhRGliVlk5T0ZtVU9kMXNNSjl1ZFhCNUYwdDBqa0VFS0ZHMXlIUmJEMzg2SXlyNmpVeVItd0twM0RfY3ZBcFhTTUlBRmxZdC1iMVE5T09LWHJNTmtacGFpdDRqX3ZTWTBzVnJua3RqRnY3TUtLVHU3V3BoSkRhWklhdWVUZkI0cFFFd0lxQTBYSnUzalJQWUp1ZTBPU21WbkpaaFNpUENRQ3kteF9WVk5saHNEUXFFZXo0blo3R21LcEtMeG9VOGdsdWZLWFA4QjFRWGcyRW1TcXcyR3V5ckFZVjV5SjNRY0tNOWZIMDVB?oc=5",
+     "fonte": "CPO Magazine",
+     "data": "2026-09-28"
     }
    ]
   },
@@ -81,7 +87,7 @@
    "pais_nome": "Austrália",
    "numerico": "036",
    "primeira": "2026-09-10",
-   "ultima": "2026-09-27",
+   "ultima": "2026-09-29",
    "fontes": [
     {
      "titulo": "Open IA invade site com dados da saúde pública da Austrália - Folha PE",
@@ -408,6 +414,12 @@
      "data": "2026-09-25"
     },
     {
+     "titulo": "Australia considers tougher AI rules after OpenAI Medicare breach - Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZk5zM2E2RGUtb2RMOXlkMU9PcFRxeUxEeDYtUUNzeE52bzFjS2ZGQURQSG1wZDlTNldnWXRlQVRteTc2ZVd3WXBLMVFwMU5rMFEteVdUM3B4X1ZnNThrQnp3YUNQWm1keVVtRkxrdzhqNnZXNXgyYUkyWkNXb09pY1Z4UnJlX2hfWUFYV3ptbV9WMTJYeXAtVg?oc=5",
+     "fonte": "Yahoo",
+     "data": "2026-09-25"
+    },
+    {
      "titulo": "Australia is weighing tougher AI rules after an OpenAI agent breached its Medicare database - qz.com",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNW5LdGpDV2dmY0pnNXhlMmd0bTJ6YXVGWS1lMmxQZUtwbzQ1UFdUM243MVRqcGMtMWlCWnZucDZwTHlPR3AxeTZmenRVTmpPc1RtbnZDR0xaNUJYdGJ6UHZPdlYwb25PSDl3dHQ4b21YZzNPd2U2RENWajhRQWFyOFE4MUdnUG8tVkE0?oc=5",
      "fonte": "qz.com",
@@ -436,6 +448,36 @@
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTU5mUEUwc0w2SlQ0RGhJeFhlZHdPYUdtSzVtLUdUZ2xkOGMzWjg2SGwtLXZsTHFSMV9KTHktYUlPY2ZZVGJrTlAzdUlnZEdhd0lmVFNSMGM3VmtPWERfREVDbXcwVmdnTEhwaWt2ZVNfWHZaMUlLVE5XRTl2VVNSSmUyQkgybTd5Z3FOQlNoeXFsU1ktSU1udEhSc1ZIWFpjZk1qbGppUDZRNEc2cndZTg?oc=5",
      "fonte": "Startup Daily",
      "data": "2026-09-27"
+    },
+    {
+     "titulo": "OpenAI and Anthropic are skipping Australia's Senate AI hearing after the Medicare hack - qz.com",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGeS10X3RMcmRkMnR1NjJSSXZwR3I1aVdZMVRfZjVxQ2F5eEdaaW9JYzRkQTQxc0Q4bnNFeWRjV0VuczBrN21QWmRlVkZpV2tsOUQ1QTNhQlJDMktjOXluZHZZdWYxWm01dWdzSTdKVjkxTU9S?oc=5",
+     "fonte": "qz.com",
+     "data": "2026-09-28"
+    },
+    {
+     "titulo": "OpenAI apologises for Medicare breach, shelves next gen ChatGPT - abc.net.au",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdVRmXzVtcUp1UGtTQ09MejJrV1lsY01Tbm5vQmp2VUFjTm9VRDN0cFoyMEhrdktIU08zdHotV0FhRUJVUWgxTDBrdndzbUZ2SjZqQnM4d0xiSjctaTl6d0lUWmlhd0ZLeXZMZ3h3elBJdmdvdWUzRFBHRDFHbGJxNFBwRVpiek1LalpPa0M1Vk8xa29VSG5oVzNlTHVlUUlwWDdoV1lKZw?oc=5",
+     "fonte": "abc.net.au",
+     "data": "2026-09-29"
+    },
+    {
+     "titulo": "OpenAI apologizes after its AI agent hacked Australia's Medicare system in June - Startup Fortune",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdDBhMHBReFRNTjJNUlZpbVFhU3o0VGlNb19lem5RZU9VOXdRRVBSSFRRbExiT3ZKWTJkY2NLWlJ4MVZGZ3NXR3JFYU94dktyZ01RMlBnWXVvcWVFVGM3dlprSmN1bTI0UUlyY01zNDEwX25INlNoX0RMYTM5dFY1ZlRTZkczNWk1b3MwVW9LeFBzbnIxTXJqRzFfYkF4LV9hNWVCcUM0bWsxQQ?oc=5",
+     "fonte": "Startup Fortune",
+     "data": "2026-09-29"
+    },
+    {
+     "titulo": "OpenAI reforça a segurança cibernética após incidente na Austrália. - vietnam.vn",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ29oN1R6UmdUMDVaSXp2ZlQtWEZucTFVNm93SElDclVXOWQyTHhxVUQ3NjE0c1BGMkJXSmlMWEtXNThwelFPV0dIcmYwcDREQnA1OEw0Rkd4TlFhdlJYWjh6V0tXaV9Ra2hzeERUNm9QZkNfV0VobmFlZDFpUlZwWmlMd05ZRW8?oc=5",
+     "fonte": "vietnam.vn",
+     "data": "2026-09-29"
+    },
+    {
+     "titulo": "Revealed: the five-paragraph email OpenAI used to inform Australia about agent attack - The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaXY4NHVCTW9nM0p3V2ppUVZ6QTFxSXNjcGhQS0FKQnJjUm1UaFBlSURWN1VtV0syck8yTW5MdHZGQUJGZVd0eHMyeGM5Vl9rOXFranI4dmdubWVfdVBqMlNVRFpaZ1RteE14SUVUMmtwd2lYdzdhcDBlMHJrd2ZDZV81OFVpLUM0b2E3dC11MFktb2ozQXotQ3ZwdW9YT1ZwNDBYOHFqaVk5b0wxUm1WSzdXSzZWWUt0NjNPdEJqVzhjdw?oc=5",
+     "fonte": "The Guardian",
+     "data": "2026-09-29"
     }
    ]
   },
@@ -618,6 +660,12 @@
    "ultima": "2026-09-21",
    "fontes": [
     {
+     "titulo": "Google says its Gemini AI model hacked three other companies - The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85VF8ycUc0clZxaXpqd0pVQlROek9HT1pQZ3NVYzg1ekpCdHZocmZtRGZCMm5HOUdNejF3QlBoVjFnNEdZSFFRTnVLZWQ0d3hEcmY3Y3h1aWFoUHlWakRIbTRGNDZLLW5pSXljX2J6eXp1bWJxV2I3d01jSjA?oc=5",
+     "fonte": "The Guardian",
+     "data": "2026-09-18"
+    },
+    {
      "titulo": "Google Joins OpenAI, Anthropic, Meta in Disclosing AI Hacks",
      "url": "https://www.bloomberg.com/news/articles/2026-09-18/google-s-gemini-ai-system-hacked-three-systems-in-safety-tests",
      "fonte": "Bloomberg",
@@ -736,6 +784,12 @@
      "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
      "fonte": "The Hacker News",
      "data": "2026-09-28"
+    },
+    {
+     "titulo": "Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts",
+     "url": "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts",
+     "fonte": "Dark Reading",
+     "data": "2026-09-28"
     }
    ]
   },
@@ -759,6 +813,30 @@
      "titulo": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
      "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government",
      "fonte": "WIRED (segurança)",
+     "data": "2026-09-28"
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "caso": 16,
+   "titulo": "OpenAI Agent Makes First Reported Autonomous Government Hack - Mexico Business News",
+   "papel": "agente_em_producao",
+   "gravidade": 2.5,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-28",
+   "ultima": "2026-09-28",
+   "fontes": [
+    {
+     "titulo": "OpenAI Agent Makes First Reported Autonomous Government Hack - Mexico Business News",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSFZWMVVyQXpuM21MVWF0bURBUUtUTTMyNzB5d2NHY3FSZW1QZG1yWlk1WFNoWExkVWRkTHViVnQ4aHhoMzZFYUJkZVVGYXBwaU1mVy10RlFzcU1GY01pODVOMFFVcmhuWUp5NE1WTjZhd3FnRHRVaGlrZE1oNGtSRGJSRFVNR1Bfdm1vVkM2SHFsMWg2QWRRTXdhNjhrOXR3OU1CWDRuUnBBbVU?oc=5",
+     "fonte": "Mexico Business News",
      "data": "2026-09-28"
     }
    ]
@@ -951,6 +1029,12 @@
      "titulo": "JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack",
      "url": "https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack",
      "fonte": "Dark Reading",
+     "data": "2026-09-28"
+    },
+    {
+     "titulo": "JadePuffer crims hijacked Azure identities and used them to blow up cloud resources",
+     "url": "https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591",
+     "fonte": "The Register (segurança)",
      "data": "2026-09-28"
     }
    ]
@@ -1905,7 +1989,7 @@
    "pais_nome": "Austrália",
    "numerico": "036",
    "primeira": "2026-09-23",
-   "ultima": "2026-09-28",
+   "ultima": "2026-09-29",
    "fontes": [
     {
      "titulo": "Um agente de inteligência artificial infiltrou-se ilegalmente em um sistema do governo australiano. - Vietnam.vn",
@@ -2106,6 +2190,12 @@
      "data": "2026-09-24"
     },
     {
+     "titulo": "Austrália afirma que agente da OpenAI invadiu site do governo e investiga outras possíveis violações de segurança - Valor Econômico",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaG0ySGNpLVNWRWJlTEFDeXBQLUNpWnE0d3UtdFVSbWJaQ2JnQm5sQnI3MEQ0WHhlcnMyV1EzeGRqUVU2MHA0R00yYlFWYjAxSGc0NGdDZFZjWVFkSVQxaUthR2xJRlVpTWtXUHNuQWZHTXVmWU1ScGEtRVZMUTBMcXR6ZDJEY2FrYmNzcTVxVTY3QndBanRHQ3E3MzhodFMzR1ZsV2IyQnNzRktwb0dfei1kTG55bGM4MHVObVJ1aVpyZ3plNDBpYVVMYTd3WF94U0dabVE3NXU3N3ZnRlVHYXpsdFBFQ0JKeTdBeldWLWpDZGdZUVRmYURn0gGIAkFVX3lxTE55dGJwbkloTkxhVU40Q0ROY25DSy1zTGlUeHpBMzV0S0NBT2NGNlIzcFE5cTVYbjBfRFNTc0E0MF9xbDNuR0RnVmozWnBJZzV6VU8yOWM4RXJfVVh4YTNyeUdBT2VUTlNJUUZHNFRuUGNOcWpqM3JPYXEwZ2htMURHaHlmRUJtZTR0SlcxTjJuRWdNd3p4WEFMbU9DLW1WUUtleDFQZUJhTVF0LW5oMWxxWk1jS3BSTS1BVUUxQk5kVTRGMEJobFBXWWktSGF4TTJsTWtRVzhPR2l5Y1BUS2pTYXN6YTZ1OE1MVGI2a2R5ZHVDaEhBYWVfMmdzZlVHSVo5SXV0ZHBFRg?oc=5",
+     "fonte": "Valor Econômico",
+     "data": "2026-09-24"
+    },
+    {
      "titulo": "Agente de IA da OpenAI invade portal do governo australiano | IT Forum - IT Forum",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR1pGaTJmYkFaeUtILVo2VHJFRE1VUVk3NXNMQUF6aGpyT2phRWpXQnpxLUw5WWdBSGFsZGg1aWdkdUFHMHRnLWZzNWVFeXlMNGhTaW5IX3hwVzdmRlNaZTRmZHhwaTRKODdCcFRTNVFWTTUtVndGdEhXRFlYVU5vM1NB0gGHAUFVX3lxTE9naU9zQlc0X2dhU1Z4czhfUlQ1djRieXZpYWNvczR3UU02T2NXZDNrRzV6QTBvd0VZOWJ3X0J4d1RyWE44NEVVRFN3Y3NGazRfZDN3UHU5WEtnNzhKOW8wMER6dkZNSXZLR25kRlRmSERDSjZWOE91WTlIRVVUVG80eU8yR3Ruaw?oc=5",
      "fonte": "IT Forum",
@@ -2199,6 +2289,12 @@
      "titulo": "First known hack by rogue AI agent of government website - CBS News",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbW1xdEtENGxzMEE3NWhDNTRTbjlubXZISGlyX25CZ2dfM3hJMUI3S1F5aWNtbjh1QUFGa2RWYVk4OTdGQm8wa2doTGp0ZUdIaEpJMUZmNHhrQ1lCdDNEbjBiRzVReWVKbURmUFdiMXA0ZDFsUEpZRlNqOE1WcTEtSlVVYjVROUZLRkhVZ1lMdEk?oc=5",
      "fonte": "CBS News",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "Rogue AI hacks government system for first time - The Latest - The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa3UzZTRVUnpJVEVJeHJRLWMzcmJrcXE4TUNaRWp5NThOVThaNmR0TEtQdjBCeG50SnRQMkp4Ql91VlNnYlpXRjdLUXFsdEllNjc3cHBTNlRYbTVObVpCLXFUQjN2WmxMZDZrQW1tS0pqa0drbGNkVEtPcmo2YjVOMmlxNnNsM3pZYmVkUEtqUDkzdGpDbHpMZTB5VXZDRXdac3J2V0NWeHN2UnZGNHc?oc=5",
+     "fonte": "The Guardian",
      "data": "2026-09-24"
     },
     {
@@ -2308,6 +2404,42 @@
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtV1pxOHY3V2dQZ0NsY1RnOExaS2twMHZ1YkpuWmhrdHlXSnNqWThwWGZNTllsQWYwNnNGS3RtTllsX09DS3B1MmpQb21IUlBsNnltRHh6Vjd4T1NIQVNyRDBuWmNSSlQyMmFZa2EzOTBFZFhUVUdWMWh4azE4UQ?oc=5",
      "fonte": "China Daily",
      "data": "2026-09-28"
+    },
+    {
+     "titulo": "OpenAI e Anthropic são chamadas pelo Senado australiano após caso envolvendo agente de IA no país - Olhar Digital",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZmV6OFFYdEJGWEtoc05OMmVfX0xWOHpXYnVtd3FZR3dLNVp3M0RpTzN4V1hoWEI2WGR4d21nZWV4U180bk40SE94T2lnTExzRkZ1OE15LWRGdVFTakMzdjhKOGpRenR1MjBRYnd0T0JXMWJ6c1FGNmYtUlJsd29vSGFYSHBHalBiS1ZNNkM3R2duMm9fYlpiblN2NHpNRHVTWHRVa09oQ0Znb1h0VmZYSVFRZ00yMXBScUpSbmgtVTd2eEJlcUNNWmFGNDU5S1RaTlBNUFZsbDkwSGprNDV2RG8zSk9JM2FReE5OSWk3Q21RY2s?oc=5",
+     "fonte": "Olhar Digital",
+     "data": "2026-09-28"
+    },
+    {
+     "titulo": "OpenAI apologises for Australian government website hack, pledges to rebuild trust - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUkZZNkxncTBjTjVfS2tIU19wdG9XZHJHTGxwLVdLSW5wUjlSVUlSRnRPbEFlTWtDcm11VE05bW5QV2tnR202RjFfRmVib3d1dy1ubXZVVXI1N3BzdjhsUWdYM0NQMk5EanI5bzgtbklXVGN1RjluaWFXZHJZZ0g0VGJuVnd5dHQ0RFRadWJkaDNqZkU5Uzc0QUJZZXphOC1BM2M3cE1RNDNHRDF4MloyNzVYSG1EZTV2cDlaYmh3?oc=5",
+     "fonte": "Reuters",
+     "data": "2026-09-29"
+    },
+    {
+     "titulo": "OpenAI’s dirty deeds Down Under included security bypass attempts, using exposed keys, source code siphon",
+     "url": "https://www.theregister.com/ai-and-ml/2026/09/29/openais-dirty-deeds-down-under-included-security-bypass-attempts-using-exposed-keys-source-code-siphon/5299666",
+     "fonte": "The Register (segurança)",
+     "data": "2026-09-29"
+    },
+    {
+     "titulo": "OpenAI admite falha em alerta sobre intrusão de agente de IA no Governo australiano - Expresso",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUmtTcDlxUFdmVHdDLVdNUE0tR1ZyREJRYlRGTzFpRXBKOXZaU0VWOFlxUDMwNVpSaFpmN09sRlNHa200TUpFeUN0MlAxWnNTVTBpTTdvRE8wVDFoLVNrZ0ZGSFlzV2Vza0xuT0JJeFAzMU5mZkVCVXFUekFhWkQ4b3k2TTdrR0docVc1UUZ0MVlhTkloX3dEQkxaOGpvc21tSkJuTmY3MVFDNF9VUEFybF94dVdnTGREeVBuT0tSRnVRUVZhaGRXWF9kV2VZT1lEUm1xczZMYndVSGhwNi1KY2l6NkY?oc=5",
+     "fonte": "Expresso",
+     "data": "2026-09-29"
+    },
+    {
+     "titulo": "Dona do ChatGPT pede desculpas por invasão de IA em site do governo australiano - G1",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTFRUZjNXSUktV0Z6LU8wX3RYYnF1VmQ5LTV4UTZSX3Q4RzNjUG1KUWFyMU5wVFgxVnc4ZlduWFlYZkxjMGUxTDhIZkdjYTBSVHZOeDV0eGFKVVhzcUxLc3Y4djlGNmdjcnpkbEpoMWpDWXo3S212XzFBVzJXeUpNNkNVX2JNMnVwTDhNYTJYdU9xdzJYcVVnY0s2S1Q5MW55UnM2SFBFMHk5QlFFUl9pNzNiQVFkQzVERW8xbmNSZnBzc3g4Vk5ZZm5VLWFFeVFwakHSAeABQVVfeXFMT3N3ZlFDc09lR3Z4ZEQ0Rkoxa1hlT01obTIzZ2Y0QUVkYkxVM3dJSVMwSlNvcURkSU1ybU1ENDJ1d3dycWJORDR3MEZNTF9hdGttTkZpZXFzREJ5YlZRYkMwQ1JNdjFaeXVwemEtaFd3OW9qN0VTY0piRjdra0h4aXZyV3BfcGtKYjUyeUxvRHFoaEhrX053SXVsZXdsLU5IaGhWV2xZaGZ3ZERpQ1hfazF5cTdnTXFPSS1jU19EcE1CalZiSU4zRElLUzZoekh0U0s0YTRWRVhZZnZuSmktWHI?oc=5",
+     "fonte": "G1",
+     "data": "2026-09-29"
+    },
+    {
+     "titulo": "OpenAI pede desculpas por ataque de IA ao site do governo australiano - Terra",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV1N0X2xaRkhtWG1GUkNXX1RhVWJxaW85SF95ZFZEUVQ3bS1RbEpSb24zV2ViNHhmM195SW1PazhUNm9acU1jVXE2bC1IcFVIV3lvcEFWUlpTWUk5WG1pLUVwdHF6RmVwdzliZ2lqZEJ1QVk4Q3duUUx6bnl4c0xtNEQxc1lUdGJBZDVvVmJaVDlVLUxPaTZnZnhCR0tzYkRVSU5RZWhkZlFfeGhPNFcxZ3V2TWxNYVNZejAwX2kzSzZadTJCMkJmcy1xeTJrR2p3Yi1ZZnhwbEFPRWNQcEE?oc=5",
+     "fonte": "Terra",
+     "data": "2026-09-29"
     }
    ]
   },
@@ -2855,6 +2987,13 @@
    "titulo": "Após ataque de IA, Austrália convoca CEOs da OpenAI e da Anthropic a depor - CNN Brasil",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZnlXRC1zUEZtRUphd0g1VHJUNlRxbHlseXhQWEdlWlpyaUx3UzU2UTlyZGZrRGZEdS1YUVBpM2NjSmQtbnJIM190bXo5UjFfSEVrX3BhSmFxOGhpR25ZcDJHVFhXV0pVV1MxOHVhYnlPb0kwZDlCdWZGQmRaZ0lJR2dhbjJkamxpMGpvdGFwMVY2Vm43TGxFUnFNd1lOX3Z6RGRoOFVKajVEemZQQ0ItS2lBUWowQ29Pc1o4VTBUaWZIQ2p6Qkxka3RfX1lzMnhhdXNwQjJYcFdWUQ?oc=5",
    "fonte": "CNN Brasil",
+   "data": "2026-09-28"
+  },
+  {
+   "caso": 2,
+   "titulo": "Senado da Austrália convoca CEOs da OpenAI e Anthropic sobre IA - Portal AZ",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSUpzRmVIamxVZWlwbnpoNlNqWWpYQll5Nl9QYUpfUElKVkdvUUtCdTdDT05fTlJtRVh2M0huck9VdVZqaVNsNTlwcTh0aEE3YjVHc0dXakt1TGRCLTZBSmd5bzNONUpvX2hxejcxVU50RjZDS0FpZDhxRFNKS1k3MlFoOTNaX1ZwWk5JYXoyVm5OTWdOZXZLRGdyX29maW9QeE9yZ3F4NXp5SUpVN044Nm10YUN0T1HSAbcBQVVfeXFMTUlKc0ZlSGpsVWVpcG56aDZTallqWEJZeTZfUGFKX1BJSlZHb1FLQnU3Q09OX05SbUVYdjNIbnJPVXVWamlTbDU5cHE4dGhBN2I1R3NHV2pLdUxkQi02QUpneW8zTjVKb19ocXo3MVVOdEY2Q0tBaWQ4cURTSktZNzJRaDkzWl9WcFpOSWF6MlZuTk1nTmV2S0Rncl9vZmlvUHhPcmdxeDV6eUlKVTdOODZtdGFDdE9R?oc=5",
+   "fonte": "Portal AZ",
    "data": "2026-09-28"
   },
   {
