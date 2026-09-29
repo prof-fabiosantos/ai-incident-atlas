@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-29T14:17:12+00:00",
+ "gerado_em": "2026-09-29T16:34:00+00:00",
  "totais": {
-  "incidentes": 69,
-  "casos": 43,
-  "noticias": 521,
+  "incidentes": 71,
+  "casos": 45,
+  "noticias": 528,
   "repercussoes": 7
  },
  "incidentes": [
@@ -45,6 +45,12 @@
      "titulo": "Agente de IA da OpenAI invade sistema de saúde público da Austrália - SINDPD",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaHRhOGJoTEx6SVpJbUgtTjJWdHdEZVBmMGJiaEd2ZGMzR29ScGZxRmdsSzF4RFZhT1hVcGgzYy13SkhFcmFXN3dCczJXUGZFSUpJUWFoZWNMU1I0ZmNnZGhadjFPazNYRGdkeXBJMUMtLXRobEpsSkdOcXVxVDh2dVduUVJzQlZf?oc=5",
      "fonte": "SINDPD",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "Commentary: An OpenAI agent hacked an Australian government health data portal. Will anyone be held responsible? - CNA",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOX3lHTGpUdmlmbHhwZDNWUlJEZ0FDX2M3UU5XdTh0Y2ZnZVJTNkJjUzM1bDA5bEc2bzVGQ0RaMUIzMlVSYU5mNjhlSlJ1bXFndjdNcWFxcTFaY0d4VnBMVnU2eF9ia0E4LWhJa2V0c05JT3YxTjd2c08walg5M3NMNHZ0a0VrWWx0MlZILU95VGxPUklqb1c0Q3VlYkZpRjJrV3NXT1FRdmNjOHN0YTBvQi13RVlFRW5tTFNxaUZZd2QwUmo5S3ZmRDEtVFZIQXhZVXQyZFRGcEozQU95UVBubEpiWlV3X0dWbHc?oc=5",
+     "fonte": "CNA",
      "data": "2026-09-24"
     },
     {
@@ -610,6 +616,30 @@
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZVBvalJCNTNaX3dXTXlBSExEb0xaRXRGdjBxVTlESG93WmNjYlluZUtaa19OLTlRUnBZVG50MTFBMFFNczVMbFVwYUtqMUlwTV9YZEVxcXkzZTNfSGt1Q2RqUzdRUm4tdlBPWlphNlN6TkotZFI4ZnJJU1pUOEtMV2VSMVZBWlVHMXZwekRBZWVZTjRlZ2I0Q1lycVhXZHBZa0JXbWxoLWo0RnhuYTZrRnNyam42RDQ?oc=5",
      "fonte": "Forbes Brasil",
      "data": "2026-08-28"
+    }
+   ]
+  },
+  {
+   "id": 70,
+   "caso": 50,
+   "titulo": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 3.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "google",
+   "defasagem": "meses_antes",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-28",
+   "ultima": "2026-09-28",
+   "fontes": [
+    {
+     "titulo": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
+     "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
+     "fonte": "The Hacker News",
+     "data": "2026-09-28"
     }
    ]
   },
@@ -1568,6 +1598,30 @@
    ]
   },
   {
+   "id": 71,
+   "caso": 51,
+   "titulo": "Automated AI agent used to breach cybersecurity nonprofit DIVD - BleepingComputer",
+   "papel": "agente_em_producao",
+   "gravidade": 1.9,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-29",
+   "ultima": "2026-09-29",
+   "fontes": [
+    {
+     "titulo": "Automated AI agent used to breach cybersecurity nonprofit DIVD - BleepingComputer",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdUI0TUVtZVl2OW9yY0VJeHB5QXFXbHNkbHM4WUJwYnRjaGZwMDVfUGhPcEh3RFk0RnlvLTdvWUNkNGlEeHItS2VUMF93eXRYeTJPcEJHUTY4VF9RYXhiQWk5TW9ZY0JycERlU1JmcWthMTc2enZuVVVoRXAzTDR3d2RaNkc3R2dFSFpGVXo5RTBBSDN5WHkwY0x4cV9TVmhLNDcwMWhmWkJ6SjByVDUw0gG0AUFVX3lxTE1MZmtLanpQQXZGdmtwVVJBNEwteUZIWUtRX01LUkFEX3NwajhYUWRvem51MjNtNndCNGIxUDhtendRUEwyRnNtYzBFeU9aVTFXblFvUzJTRDlxVzFKNWRPVlRaOEIzYUJRZ0YwZzNwRVlBM2hqZkxEYzVJYXIwb1VlT20tWXNYbmJOdXpjd1VYbUpZYUdGcFVUTGxlZDJ0SWJCWWM0RGpFZHdhOWJ6cGVLRXZteg?oc=5",
+     "fonte": "BleepingComputer",
+     "data": "2026-09-29"
+    }
+   ]
+  },
+  {
    "id": 8,
    "caso": 7,
    "titulo": "AI agents speed ransomware breach to under 10 hours - Cybernews",
@@ -2394,6 +2448,12 @@
      "data": "2026-09-26"
     },
     {
+     "titulo": "OpenAI breach proves need for more data centres, major parties say - ABC News & Headlines – Australian Broadcasting Corporation",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWTBSTTF5WkViWnJNSUF4M3ZLS0phbGVaeGNzZlJORzFSOE9wZGhvZFV3NnZLUjR1MlNuX0E4c1JSZWc2M3hQYjFTdE5LQV8wWnZZajNvbUYyVmRRY285MC1yR3ZJMEhDWEhwbGZKazh6VmdlaW91UTEtejZGbUlPNjdsd0gyY25tNDkwTWRyTTR3OU03R1c4eVZzRVZqc0ZVUHJUcGVB?oc=5",
+     "fonte": "ABC News & Headlines – Australian Broadcasting Corporation",
+     "data": "2026-09-27"
+    },
+    {
      "titulo": "A Austrália exige explicações da OpenAI e da Anthropic sobre o incidente de segurança cibernética. - Vietnam.vn",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWWlXRWcxMmdmN0E4TC1lTUxSdDF3TUw2TGRnQnJIOS1RT1BGT0dKc0RkRndNMFl1VUhGLUlqVWZvY1BGa0lkR3RoMm1SZjVwWFE0cnR4d1VqeVJiaW1qZmVNc1g4aUZCZWZhTHNUWEJLYjV6QkFHRWpQeGh4UFNybmFiRG9ZVEVRNkROYUJUckdkYXVnRm1ucDhMbEY?oc=5",
      "fonte": "Vietnam.vn",
@@ -2439,6 +2499,12 @@
      "titulo": "OpenAI pede desculpas por ataque de IA ao site do governo australiano - Terra",
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV1N0X2xaRkhtWG1GUkNXX1RhVWJxaW85SF95ZFZEUVQ3bS1RbEpSb24zV2ViNHhmM195SW1PazhUNm9acU1jVXE2bC1IcFVIV3lvcEFWUlpTWUk5WG1pLUVwdHF6RmVwdzliZ2lqZEJ1QVk4Q3duUUx6bnl4c0xtNEQxc1lUdGJBZDVvVmJaVDlVLUxPaTZnZnhCR0tzYkRVSU5RZWhkZlFfeGhPNFcxZ3V2TWxNYVNZejAwX2kzSzZadTJCMkJmcy1xeTJrR2p3Yi1ZZnhwbEFPRWNQcEE?oc=5",
      "fonte": "Terra",
+     "data": "2026-09-29"
+    },
+    {
+     "titulo": "OpenAI cancela GPT-6.1 Astra e admite invasão a site do governo australiano - tmc.com.br",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWk9jVVg3VGRYSFVtdFI4UXg2YVZYbTN3R1hwUGRPcUZzWVhwbUliampuVzR6LVY3a284cGJsbFhpVVU1ZDdKZnJocXFEdldTOWE2dzJydUZ0cjdpeGU0eXZDYVpQTXc2UWduWmVLemdRVDNWeFZlT29oVFRYRENYM0prVQ?oc=5",
+     "fonte": "tmc.com.br",
      "data": "2026-09-29"
     }
    ]
