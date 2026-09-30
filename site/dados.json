@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-30T00:47:25+00:00",
+ "gerado_em": "2026-09-30T16:27:05+00:00",
  "totais": {
-  "incidentes": 73,
-  "casos": 47,
-  "noticias": 537,
+  "incidentes": 75,
+  "casos": 48,
+  "noticias": 549,
   "repercussoes": 7
  },
  "incidentes": [
@@ -620,6 +620,30 @@
    ]
   },
   {
+   "id": 74,
+   "caso": 54,
+   "titulo": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
+   "papel": "agente_em_producao",
+   "gravidade": 3.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-30",
+   "ultima": "2026-09-30",
+   "fontes": [
+    {
+     "titulo": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
+     "url": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
+     "fonte": "The Hacker News",
+     "data": "2026-09-30"
+    }
+   ]
+  },
+  {
    "id": 70,
    "caso": 50,
    "titulo": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
@@ -808,6 +832,30 @@
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15R0trUVoyNGtwY3ViVFNEQ3lianNkTEFvdXFubGN0WjlNdlVUOVVfWGt3bF9PM0xaNDJBdVZzYUFVemNTLWhaYWpRSm5uUjFXd09XOHBVMzJkYmR2WXFIN3JpUnJacDdBOVhBcDltUS1TNnVZWHc?oc=5",
      "fonte": "shattered.io",
      "data": "2026-09-14"
+    }
+   ]
+  },
+  {
+   "id": 75,
+   "caso": 53,
+   "titulo": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.8,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "mesmo_mes",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-30",
+   "ultima": "2026-09-30",
+   "fontes": [
+    {
+     "titulo": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+     "url": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+     "fonte": "The Hacker News",
+     "data": "2026-09-30"
     }
    ]
   },
@@ -2133,7 +2181,7 @@
    "pais_nome": "Austrália",
    "numerico": "036",
    "primeira": "2026-09-23",
-   "ultima": "2026-09-29",
+   "ultima": "2026-09-30",
    "fontes": [
     {
      "titulo": "Um agente de inteligência artificial infiltrou-se ilegalmente em um sistema do governo australiano. - Vietnam.vn",
@@ -2586,9 +2634,21 @@
      "data": "2026-09-29"
     },
     {
+     "titulo": "OpenAI pede desculpas por ataque de IA ao site do governo australiano | CNN Brasil - t.co",
+     "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBZb2doV1RCeUNUQ2Y0aHFIcHFsWjZsSlUxbnNiaFV0c2NiUWVzbjZyUW5tYTJnY1NNRmVR?oc=5",
+     "fonte": "t.co",
+     "data": "2026-09-29"
+    },
+    {
      "titulo": "OpenAI pede desculpas por ataque de IA ao site do governo australiano - Terra",
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV1N0X2xaRkhtWG1GUkNXX1RhVWJxaW85SF95ZFZEUVQ3bS1RbEpSb24zV2ViNHhmM195SW1PazhUNm9acU1jVXE2bC1IcFVIV3lvcEFWUlpTWUk5WG1pLUVwdHF6RmVwdzliZ2lqZEJ1QVk4Q3duUUx6bnl4c0xtNEQxc1lUdGJBZDVvVmJaVDlVLUxPaTZnZnhCR0tzYkRVSU5RZWhkZlFfeGhPNFcxZ3V2TWxNYVNZejAwX2kzSzZadTJCMkJmcy1xeTJrR2p3Yi1ZZnhwbEFPRWNQcEE?oc=5",
      "fonte": "Terra",
+     "data": "2026-09-29"
+    },
+    {
+     "titulo": "OpenAI adia o lançamento do GPT-6.1 Astra devido a preocupações com a segurança e pede desculpas pelo vazamento de dados de saúde na Austrália. - Brave New Coin",
+     "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxONkRQZVUtUm9Qak5GcVpPNV9Lb0kydUlKS1RsSlJZZnRFVXMwcWFGUHFNeWhpMk41QjVFbmNsTTlRWWJYb2VNeWhvMkpGYVZ3LTBMbV92Rm5PRVM5TU4xRFF1SHljeUxBSVB0SFQxZHQ0blhpbWh1bXlhUTcwN3lmcFlXbzBtbDc0UHhydEkxV2l5Vk1NbnhfNW9kS09kWGFDSXlJSkpjeTlpQTZBNXZFWUM1SXY5ZXg0czRNVEdnQ3ltSTFEaGVSOTNlLVpGR2FPc0tUTWtyZkx2T0xtRk9YWFk4TGZiTTk2ZmJvaTctVEpKUUtzbWlfTklPWWFsSWdodG9QWDBxLVRvQjhiOWpzVktvZ1NzMlN2SGVlYg?oc=5",
+     "fonte": "Brave New Coin",
      "data": "2026-09-29"
     },
     {
@@ -2598,10 +2658,22 @@
      "data": "2026-09-29"
     },
     {
+     "titulo": "Here’s what actually happened in OpenAI’s Australian gov’t server hack - Ars Technica",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQS1rRVc2aGlralNlSHd2SDBxa2c5NjVjZFpQdlJQdTRWMnMyQWpYLVkzcDd6RE5TSUV1aWp5WFhPRUs2SzVOYXJyRlJ5Z0pUZ19SUlA1Wk5GcnZGWGhRZGZhMUZ4NHBiaDliLW1VdW1yOUg3bFBXVGhtZU1vU256SG1hb1dsY3hiYmVSSklJZW85MFBGVzZiMVFxZFl4QmRHZThlZGlB?oc=5",
+     "fonte": "Ars Technica",
+     "data": "2026-09-29"
+    },
+    {
      "titulo": "OpenAI apologizes for agents breaching Australian government websites without authorization",
      "url": "https://therecord.media/openai-apologizes-australia-medicare-breach",
      "fonte": "The Record",
      "data": "2026-09-29"
+    },
+    {
+     "titulo": "An AI breach of an Australian government website raises questions of liability - Pinsent Masons",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LLXhoM0hGc2tfQjRPWTVtRHQzczFNTjJhWUl2NlptOHhMdGN4Tk1pajBVQ1d3aU84eXpkY3NWbm5HWkxlZndPRXhrOTcwMEg2YWNXYmE5NFRmcDVyQUxiRG5tNTJ0akpfSlpRTlhVZ3BRUFJXVjdRMXVn?oc=5",
+     "fonte": "Pinsent Masons",
+     "data": "2026-09-30"
     }
    ]
   },
