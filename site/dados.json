@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-29T16:34:00+00:00",
+ "gerado_em": "2026-09-30T00:47:25+00:00",
  "totais": {
-  "incidentes": 71,
-  "casos": 45,
-  "noticias": 528,
+  "incidentes": 73,
+  "casos": 47,
+  "noticias": 537,
   "repercussoes": 7
  },
  "incidentes": [
@@ -640,6 +640,30 @@
      "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
      "fonte": "The Hacker News",
      "data": "2026-09-28"
+    }
+   ]
+  },
+  {
+   "id": 73,
+   "caso": 53,
+   "titulo": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.9,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-29",
+   "ultima": "2026-09-29",
+   "fontes": [
+    {
+     "titulo": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
+     "url": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware",
+     "fonte": "BleepingComputer",
+     "data": "2026-09-29"
     }
    ]
   },
@@ -1352,6 +1376,48 @@
    ]
   },
   {
+   "id": 18,
+   "caso": 2,
+   "titulo": "OpenAI hit with landmark lawsuit following Hugging Face hack - Axios",
+   "papel": "desdobramento",
+   "gravidade": 1.9,
+   "divergencia": true,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-12",
+   "ultima": "2026-09-29",
+   "fontes": [
+    {
+     "titulo": "OpenAI’s rogue AI tried to hack another company in May - The Verge",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0FvUEg5MVowVmJDQzhCTHB5YnMwNVo1ZzhoYUJzcWpISGRhTl9hQWRzR25XNEluY1FZV0VyQ1NTOTVIMGljU3V2NmZ2ckNGTkZPNDlBRC1hSlM1VHJZZWF0R3NDVEwyTW1xWm9QbXA4QVk5X1g0b2hFQzVZN1NmZk5ZdS1HbkxNeWlQZlJ3bTVTazQ?oc=5",
+     "fonte": "The Verge",
+     "data": "2026-09-12"
+    },
+    {
+     "titulo": "Treasury chief says AI bosses, not their bots, will carry the can for criminal acts",
+     "url": "https://www.theregister.com/security/2026/09/21/treasury-chief-says-ai-bosses-not-their-bots-will-carry-the-can-for-criminal-acts/5297965",
+     "fonte": "The Register (segurança)",
+     "data": "2026-09-21"
+    },
+    {
+     "titulo": "OpenAI Gets Sued Over the Hugging Face Hack",
+     "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack",
+     "fonte": "WIRED (segurança)",
+     "data": "2026-09-29"
+    },
+    {
+     "titulo": "OpenAI hit with landmark lawsuit following Hugging Face hack - Axios",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51dmdLSEl6NmNpYzhnSW1SeVBBMTZRcmFtVkpKUUltTV9TbllGS0N3cU1hSkRETmdJd0JqenIxeG5XaElGUmhlLV9aLWhjX2t5aW5vZng2OWRzUk5XMWRkcUVnanlwR2p0U2JtREYtZVppZw?oc=5",
+     "fonte": "Axios",
+     "data": "2026-09-29"
+    }
+   ]
+  },
+  {
    "id": 22,
    "caso": 16,
    "titulo": "Spanish data watchdog publicises first AI agent-linked data breach report - Reuters",
@@ -1738,6 +1804,30 @@
      "url": "https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435",
      "fonte": "The Register (segurança)",
      "data": "2026-09-22"
+    }
+   ]
+  },
+  {
+   "id": 72,
+   "caso": 52,
+   "titulo": "BragJack, ataque que sequestra assistentes de IA em cinco navegadores - pasqualepillitteri.it",
+   "papel": "ataque_a_ia",
+   "gravidade": 1.7,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-20",
+   "ultima": "2026-09-20",
+   "fontes": [
+    {
+     "titulo": "BragJack, ataque que sequestra assistentes de IA em cinco navegadores - pasqualepillitteri.it",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQzZBajRrQU5lM0Jqc2V0YkRpSm9BUVBWWEhnaEozYWxnWnZma3VNZG1KSkxGWUttQ1MxbGlfYlVFbm1kblMxdXkzei1STlQ2ZGNwaUhEX0J2SVFkbG9qWW5DSlI4ei04cXFqd3ZJbkg3a2d1MVF1Q0hMWnhTbWVsOG9PY2FPN3RTaXVLLURTQ19KVlVfSzloWmlFSmY?oc=5",
+     "fonte": "pasqualepillitteri.it",
+     "data": "2026-09-20"
     }
    ]
   },
@@ -2506,6 +2596,12 @@
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWk9jVVg3VGRYSFVtdFI4UXg2YVZYbTN3R1hwUGRPcUZzWVhwbUliampuVzR6LVY3a284cGJsbFhpVVU1ZDdKZnJocXFEdldTOWE2dzJydUZ0cjdpeGU0eXZDYVpQTXc2UWduWmVLemdRVDNWeFZlT29oVFRYRENYM0prVQ?oc=5",
      "fonte": "tmc.com.br",
      "data": "2026-09-29"
+    },
+    {
+     "titulo": "OpenAI apologizes for agents breaching Australian government websites without authorization",
+     "url": "https://therecord.media/openai-apologizes-australia-medicare-breach",
+     "fonte": "The Record",
+     "data": "2026-09-29"
     }
    ]
   },
@@ -2919,36 +3015,6 @@
      "titulo": "Ataque executado por agente de IA acende alerta sobre responsabilidade e controle humano - adnews.com.br",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMm1DazNoRTBvalJYM21jM0UzWmcwVnhsNmRwb29zR3B2U0dEZFZIcFBYUGdldTdUeTJPRnV0YzBWMlo5UWwtUmhzUzdBWl9QNUxTMFJYNWx2Sml3ejcwUzFPbGNySVdrbXZYNGo1eG5BbTI2Z1pIc0JrRHlIbENROFRuWUtEWFlfdXNwYmgtVHIwaEVmcnBZXzRZMDktQW1KUGdOMzd5QkNxTVJYZTFSU1BBc3JvZw?oc=5",
      "fonte": "adnews.com.br",
-     "data": "2026-09-21"
-    }
-   ]
-  },
-  {
-   "id": 18,
-   "caso": 2,
-   "titulo": "OpenAI’s rogue AI tried to hack another company in May - The Verge",
-   "papel": "agente_em_teste",
-   "gravidade": 0.7,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "openai",
-   "defasagem": "meses_antes",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-09-12",
-   "ultima": "2026-09-21",
-   "fontes": [
-    {
-     "titulo": "OpenAI’s rogue AI tried to hack another company in May - The Verge",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0FvUEg5MVowVmJDQzhCTHB5YnMwNVo1ZzhoYUJzcWpISGRhTl9hQWRzR25XNEluY1FZV0VyQ1NTOTVIMGljU3V2NmZ2ckNGTkZPNDlBRC1hSlM1VHJZZWF0R3NDVEwyTW1xWm9QbXA4QVk5X1g0b2hFQzVZN1NmZk5ZdS1HbkxNeWlQZlJ3bTVTazQ?oc=5",
-     "fonte": "The Verge",
-     "data": "2026-09-12"
-    },
-    {
-     "titulo": "Treasury chief says AI bosses, not their bots, will carry the can for criminal acts",
-     "url": "https://www.theregister.com/security/2026/09/21/treasury-chief-says-ai-bosses-not-their-bots-will-carry-the-can-for-criminal-acts/5297965",
-     "fonte": "The Register (segurança)",
      "data": "2026-09-21"
     }
    ]
