@@ -1,10 +1,10 @@
 {
- "gerado_em": "2026-09-30T16:27:05+00:00",
+ "gerado_em": "2026-10-01T00:51:55+00:00",
  "totais": {
-  "incidentes": 75,
+  "incidentes": 76,
   "casos": 48,
-  "noticias": 549,
-  "repercussoes": 7
+  "noticias": 564,
+  "repercussoes": 8
  },
  "incidentes": [
   {
@@ -372,6 +372,12 @@
      "data": "2026-09-24"
     },
     {
+     "titulo": "Albanese revela invasão de agente da OpenAI no portal Medicare - Pasquale Pillitteri",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkJEZnlNS0hJTUtITzFGSWVOb0F0Nm5mTnJGVjRwcHlIcGYtV0dhdDctWmRINE5vQnpDRkQtZkp6Q2JsMW02NVpIelozUnV5X1hFeFZPT2lBQ3Vhemo1YzBUSVU4OGJ1VE9NVWpGaXBlUDJsTEQ4dGhfTVl6Uk5MS3hsVy1KU0QyRWJNUUl3?oc=5",
+     "fonte": "Pasquale Pillitteri",
+     "data": "2026-09-24"
+    },
+    {
      "titulo": "The OpenAI Medicare Hack Highlights A Growing Rogue Agent Crisis - Forbes",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN1JQRjNwWkl4RWVlQnVud3hQRXFlenFLM2FLNWtaTXBacWtwbnF6eVlKcE0wZW9xaXBPVU5xTVl5LUJ5VVJOQno2ZF9CYW1oUXlQOG4wYnl0Rk9YbHczdWhVa0pHSlB2bTYzTmkyTk5kNHYyTGxQQ3EyYUJnVTdMcTZTakdsOFh5NzlIQkdaRnlmM0NBWVlncEpvc3pVUVREOGVGSkZLcG56YzJpcFJpRzR6aGI?oc=5",
      "fonte": "Forbes",
@@ -681,13 +687,19 @@
    "pais_nome": "País não informado",
    "numerico": null,
    "primeira": "2026-09-29",
-   "ultima": "2026-09-29",
+   "ultima": "2026-09-30",
    "fontes": [
     {
      "titulo": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
      "url": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware",
      "fonte": "BleepingComputer",
      "data": "2026-09-29"
+    },
+    {
+     "titulo": "Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure",
+     "url": "https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure",
+     "fonte": "Dark Reading",
+     "data": "2026-09-30"
     }
    ]
   },
@@ -1286,6 +1298,36 @@
    ]
   },
   {
+   "id": 71,
+   "caso": 51,
+   "titulo": "DIVD says Zammad zero-days enabled AI-driven network breach",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nld",
+   "pais_nome": "Países Baixos",
+   "numerico": "528",
+   "primeira": "2026-09-29",
+   "ultima": "2026-09-30",
+   "fontes": [
+    {
+     "titulo": "Automated AI agent used to breach cybersecurity nonprofit DIVD - BleepingComputer",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdUI0TUVtZVl2OW9yY0VJeHB5QXFXbHNkbHM4WUJwYnRjaGZwMDVfUGhPcEh3RFk0RnlvLTdvWUNkNGlEeHItS2VUMF93eXRYeTJPcEJHUTY4VF9RYXhiQWk5TW9ZY0JycERlU1JmcWthMTc2enZuVVVoRXAzTDR3d2RaNkc3R2dFSFpGVXo5RTBBSDN5WHkwY0x4cV9TVmhLNDcwMWhmWkJ6SjByVDUw0gG0AUFVX3lxTE1MZmtLanpQQXZGdmtwVVJBNEwteUZIWUtRX01LUkFEX3NwajhYUWRvem51MjNtNndCNGIxUDhtendRUEwyRnNtYzBFeU9aVTFXblFvUzJTRDlxVzFKNWRPVlRaOEIzYUJRZ0YwZzNwRVlBM2hqZkxEYzVJYXIwb1VlT20tWXNYbmJOdXpjd1VYbUpZYUdGcFVUTGxlZDJ0SWJCWWM0RGpFZHdhOWJ6cGVLRXZteg?oc=5",
+     "fonte": "BleepingComputer",
+     "data": "2026-09-29"
+    },
+    {
+     "titulo": "DIVD says Zammad zero-days enabled AI-driven network breach",
+     "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach",
+     "fonte": "BleepingComputer",
+     "data": "2026-09-30"
+    }
+   ]
+  },
+  {
    "id": 55,
    "caso": 29,
    "titulo": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity - The Guardian",
@@ -1712,30 +1754,6 @@
    ]
   },
   {
-   "id": 71,
-   "caso": 51,
-   "titulo": "Automated AI agent used to breach cybersecurity nonprofit DIVD - BleepingComputer",
-   "papel": "agente_em_producao",
-   "gravidade": 1.9,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "nao_informado",
-   "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-09-29",
-   "ultima": "2026-09-29",
-   "fontes": [
-    {
-     "titulo": "Automated AI agent used to breach cybersecurity nonprofit DIVD - BleepingComputer",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdUI0TUVtZVl2OW9yY0VJeHB5QXFXbHNkbHM4WUJwYnRjaGZwMDVfUGhPcEh3RFk0RnlvLTdvWUNkNGlEeHItS2VUMF93eXRYeTJPcEJHUTY4VF9RYXhiQWk5TW9ZY0JycERlU1JmcWthMTc2enZuVVVoRXAzTDR3d2RaNkc3R2dFSFpGVXo5RTBBSDN5WHkwY0x4cV9TVmhLNDcwMWhmWkJ6SjByVDUw0gG0AUFVX3lxTE1MZmtLanpQQXZGdmtwVVJBNEwteUZIWUtRX01LUkFEX3NwajhYUWRvem51MjNtNndCNGIxUDhtendRUEwyRnNtYzBFeU9aVTFXblFvUzJTRDlxVzFKNWRPVlRaOEIzYUJRZ0YwZzNwRVlBM2hqZkxEYzVJYXIwb1VlT20tWXNYbmJOdXpjd1VYbUpZYUdGcFVUTGxlZDJ0SWJCWWM0RGpFZHdhOWJ6cGVLRXZteg?oc=5",
-     "fonte": "BleepingComputer",
-     "data": "2026-09-29"
-    }
-   ]
-  },
-  {
    "id": 8,
    "caso": 7,
    "titulo": "AI agents speed ransomware breach to under 10 hours - Cybernews",
@@ -1756,6 +1774,36 @@
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13dzNEMmFnSTVTS0VrQ21HLUV4QkkwUUl4VGg2THRRUU5OcWxwclJNWnljLURMd1JZbm1mdDdrNVlnQmtiSlNCUUlBNnNvaF9vblBOaE0taU5YOWp6cENZaVgzZDJ3V3E4Tm1NRWtaNWhuM3lnYW50dWloM1huRlk?oc=5",
      "fonte": "Cybernews",
      "data": "2026-09-04"
+    }
+   ]
+  },
+  {
+   "id": 76,
+   "caso": 21,
+   "titulo": "EUA abrem investigação inédita sobre OpenAI e Anthropic após agentes de IA invadirem sistemas - G1",
+   "papel": "agente_em_producao",
+   "gravidade": 1.8,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "varias",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-30",
+   "ultima": "2026-09-30",
+   "fontes": [
+    {
+     "titulo": "EUA abrem investigação inédita sobre OpenAI e Anthropic após agentes de IA invadirem sistemas - G1",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMmRNRGtGQUVkZDZRZzgyZnV5bWJGdThNQkJNcW9WQkdNVnI0MDhLdWtFaUN1bS03TnRsYldqdmMxSDVXdlZlV05VQWQza0xnT0t5YUkxR0NTM3pmcFFoUnpRX2t2eFViWUNQR3hzc0lFTk5sYVVPWWNNczhoUVV6Si1aZjBLa1luWHZLRDRqSWFhU0xKWGlRVzM0cnhqMUZJLTJqTGtzVlNJUWM3TUFHVU1iMjc1alR2Y2xvTVhMUW04bWJjV1Jic1JOcEplWUJWOHlYYWtvUjc5TUtMR2p2SzZFUzHSAfMBQVVfeXFMT1o1U3RqQU1jeHhSWDlzVndjVE9WUHJydzNENnhScHRhcFVqekkxZklZTFVUV1JxeVptZmM4WUxDT3lqaGVrT1JQNklEcTJJYlE5N1lxYktrYzNTeWt0X3hjY0ZGMXRyYkJyZVNOOFZXQVdYRUZkMmNvYXJrSE9tbnNaUE5CVnd4dVNlb2t0LTVXY0c5YTBiZUNoV0o3VnNSVFhROXU0ZnRMVnBvSmlDblFOaWVJcG1hNXVPZmRFZXN2c2V4X2tpdUJPdVZ2dF9jNlVOdW1LaS1lcnFONElnVFllS0FkcWZXN1kzNGFpN1JuRWVB?oc=5",
+     "fonte": "G1",
+     "data": "2026-09-30"
+    },
+    {
+     "titulo": "EUA investigam OpenAI e Anthropic por invasões de IA - f5online.com.br",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONVVBTTF3WWNEeFJlNHNEVHNXWlA1MWdhX3VBTjBmWWNQMWtncTJNdjdvanM0by1GaDUyRTd1elZBdmt6cEJiWnp5V051ZTM5OXJWOFNKcllmbDJ5WFhmbnJRNTRsRlpkR2FmWVJHZ3RvSXV0eGZSUDBQM010WEpPdFZadw?oc=5",
+     "fonte": "f5online.com.br",
+     "data": "2026-09-30"
     }
    ]
   },
@@ -2241,6 +2289,12 @@
      "titulo": "OpenAI Agent Hacked Australian Government Website - wsj.com",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdUxmdkdyV2FyMzMwZGk1MjUxalc5aVhsSXF2T0ZrSWcxZW5nSDJTS2Z3cVVRNDVUdmZ3MkhJMi1mV0tGQjZyTDktazVFYXBxV0J1NVdUMGJJVUVNcENMZ3RucTNlRzNpenZKam40TEdxN08xTjVvdTJxNElTNUJDYUpFOVg4dW9oV2s3cjk3WQ?oc=5",
      "fonte": "wsj.com",
+     "data": "2026-09-23"
+    },
+    {
+     "titulo": "An OpenAI Agent Breached Australian Data Portal in Newly Disclosed Hack - Gizmodo",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVDlJWGwtMFl1SHVfWlNtUDZQUXd5djhDdzFqTTZ0UnNNMFFmM1lFc1R4RFczMldWOWVXd1lUb1h0VF9Vb0JyWGJyUnJCSE4tVXBRSzc4Q0cyOE1MQlpYZ1gtWWdPUmFhSy1UaDk4TVJiQVI5U19TX3NuYWt6czFNeFhCNGUtckdrX0dZZGR1SkNqSE1KYzkxRXZnRmFna1U5N3Q3YmFEN1J0YWxJZEh1WEJaMDQtRlBCWGdUOVE2ZTZtZTR0aWllN195VFo?oc=5",
+     "fonte": "Gizmodo",
      "data": "2026-09-23"
     },
     {
@@ -3213,6 +3267,13 @@
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EamM1QlRudFNGcmNZcGFJQzdyeThGTVV3eHAtWE5EN2JtS3ZmQUV2dVphUXhTYVVwSERiQUJRcDI0dTB2dE9iSVFMNWFkVkQ0WE5tS0UtYmJCeFBpY2JwdllsUmdrR3NfT0lzcldXelI0UG9hWnRQTUN3?oc=5",
    "fonte": "shattered.io",
    "data": "2026-09-24"
+  },
+  {
+   "caso": 29,
+   "titulo": "FTC investiga OpenAI após incidentes com agentes de IA - boca.com.br",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVGNIUG1fLW5MenhBeDJiUnpLWHNSblZ6YVpuSGQ1aGJZWWZUQlBwZHBleTJZcnlTLTBqNFFrTWhDTTRGMlNoZDZXTjlWN0Vycld5eXJoQ0ozVkpkSndUa3k1NURDTjdXQWR4d251QmRhT0s2TWFuRnNEdGdtaVhzeHRBWVNwMm9vc2xj?oc=5",
+   "fonte": "boca.com.br",
+   "data": "2026-09-30"
   }
  ]
 }
