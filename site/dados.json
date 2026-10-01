@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-01T00:51:55+00:00",
+ "gerado_em": "2026-10-01T17:04:17+00:00",
  "totais": {
-  "incidentes": 76,
-  "casos": 48,
-  "noticias": 564,
+  "incidentes": 79,
+  "casos": 51,
+  "noticias": 583,
   "repercussoes": 8
  },
  "incidentes": [
@@ -460,6 +460,12 @@
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTU5mUEUwc0w2SlQ0RGhJeFhlZHdPYUdtSzVtLUdUZ2xkOGMzWjg2SGwtLXZsTHFSMV9KTHktYUlPY2ZZVGJrTlAzdUlnZEdhd0lmVFNSMGM3VmtPWERfREVDbXcwVmdnTEhwaWt2ZVNfWHZaMUlLVE5XRTl2VVNSSmUyQkgybTd5Z3FOQlNoeXFsU1ktSU1udEhSc1ZIWFpjZk1qbGppUDZRNEc2cndZTg?oc=5",
      "fonte": "Startup Daily",
      "data": "2026-09-27"
+    },
+    {
+     "titulo": "AI agent breaches Australian health database in first known government system hack - WKYC",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWtkNHVyOTZWR29FbWFiWk1vUkFSUDJmcVJyS3MyNlZwOU1md2ZFQWJ0RUJKNG5VLVlHdlV2SnVZQmU5cnpReVI5X284dlpfbVRRNzlZcThyY05fRzBJRnVldlBqMlVwRFhWUVp3MkZsZV9VVVFhSDhVUlZHZE9qckNvM1REcmNUbnhUSGJpZXdSMDJHdnc0OFJieDRpdjA?oc=5",
+     "fonte": "WKYC",
+     "data": "2026-09-28"
     },
     {
      "titulo": "OpenAI and Anthropic are skipping Australia's Senate AI hearing after the Medicare hack - qz.com",
@@ -1466,48 +1472,6 @@
    ]
   },
   {
-   "id": 18,
-   "caso": 2,
-   "titulo": "OpenAI hit with landmark lawsuit following Hugging Face hack - Axios",
-   "papel": "desdobramento",
-   "gravidade": 1.9,
-   "divergencia": true,
-   "confirmacao": "imprensa",
-   "empresa": "openai",
-   "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-09-12",
-   "ultima": "2026-09-29",
-   "fontes": [
-    {
-     "titulo": "OpenAI’s rogue AI tried to hack another company in May - The Verge",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0FvUEg5MVowVmJDQzhCTHB5YnMwNVo1ZzhoYUJzcWpISGRhTl9hQWRzR25XNEluY1FZV0VyQ1NTOTVIMGljU3V2NmZ2ckNGTkZPNDlBRC1hSlM1VHJZZWF0R3NDVEwyTW1xWm9QbXA4QVk5X1g0b2hFQzVZN1NmZk5ZdS1HbkxNeWlQZlJ3bTVTazQ?oc=5",
-     "fonte": "The Verge",
-     "data": "2026-09-12"
-    },
-    {
-     "titulo": "Treasury chief says AI bosses, not their bots, will carry the can for criminal acts",
-     "url": "https://www.theregister.com/security/2026/09/21/treasury-chief-says-ai-bosses-not-their-bots-will-carry-the-can-for-criminal-acts/5297965",
-     "fonte": "The Register (segurança)",
-     "data": "2026-09-21"
-    },
-    {
-     "titulo": "OpenAI Gets Sued Over the Hugging Face Hack",
-     "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack",
-     "fonte": "WIRED (segurança)",
-     "data": "2026-09-29"
-    },
-    {
-     "titulo": "OpenAI hit with landmark lawsuit following Hugging Face hack - Axios",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51dmdLSEl6NmNpYzhnSW1SeVBBMTZRcmFtVkpKUUltTV9TbllGS0N3cU1hSkRETmdJd0JqenIxeG5XaElGUmhlLV9aLWhjX2t5aW5vZng2OWRzUk5XMWRkcUVnanlwR2p0U2JtREYtZVppZw?oc=5",
-     "fonte": "Axios",
-     "data": "2026-09-29"
-    }
-   ]
-  },
-  {
    "id": 22,
    "caso": 16,
    "titulo": "Spanish data watchdog publicises first AI agent-linked data breach report - Reuters",
@@ -1774,6 +1738,54 @@
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13dzNEMmFnSTVTS0VrQ21HLUV4QkkwUUl4VGg2THRRUU5OcWxwclJNWnljLURMd1JZbm1mdDdrNVlnQmtiSlNCUUlBNnNvaF9vblBOaE0taU5YOWp6cENZaVgzZDJ3V3E4Tm1NRWtaNWhuM3lnYW50dWloM1huRlk?oc=5",
      "fonte": "Cybernews",
      "data": "2026-09-04"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "caso": 2,
+   "titulo": "OpenAI sued over 700-agent AI hack of Hugging Face - YourStory.com",
+   "papel": "desdobramento",
+   "gravidade": 1.8,
+   "divergencia": true,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-12",
+   "ultima": "2026-10-01",
+   "fontes": [
+    {
+     "titulo": "OpenAI’s rogue AI tried to hack another company in May - The Verge",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0FvUEg5MVowVmJDQzhCTHB5YnMwNVo1ZzhoYUJzcWpISGRhTl9hQWRzR25XNEluY1FZV0VyQ1NTOTVIMGljU3V2NmZ2ckNGTkZPNDlBRC1hSlM1VHJZZWF0R3NDVEwyTW1xWm9QbXA4QVk5X1g0b2hFQzVZN1NmZk5ZdS1HbkxNeWlQZlJ3bTVTazQ?oc=5",
+     "fonte": "The Verge",
+     "data": "2026-09-12"
+    },
+    {
+     "titulo": "Treasury chief says AI bosses, not their bots, will carry the can for criminal acts",
+     "url": "https://www.theregister.com/security/2026/09/21/treasury-chief-says-ai-bosses-not-their-bots-will-carry-the-can-for-criminal-acts/5297965",
+     "fonte": "The Register (segurança)",
+     "data": "2026-09-21"
+    },
+    {
+     "titulo": "OpenAI Gets Sued Over the Hugging Face Hack",
+     "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack",
+     "fonte": "WIRED (segurança)",
+     "data": "2026-09-29"
+    },
+    {
+     "titulo": "OpenAI hit with landmark lawsuit following Hugging Face hack - Axios",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51dmdLSEl6NmNpYzhnSW1SeVBBMTZRcmFtVkpKUUltTV9TbllGS0N3cU1hSkRETmdJd0JqenIxeG5XaElGUmhlLV9aLWhjX2t5aW5vZng2OWRzUk5XMWRkcUVnanlwR2p0U2JtREYtZVppZw?oc=5",
+     "fonte": "Axios",
+     "data": "2026-09-29"
+    },
+    {
+     "titulo": "OpenAI sued over 700-agent AI hack of Hugging Face - YourStory.com",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tdUhnNW9zSkwxSm1WSTNIeHl2MFVfcTVTcTRqZVBfWExFTk0tWjRaR3FucjIyeDFWbU9wenpxZzNZQkR2LUpma1N4NzRFellwUjkyMXIwcGIzMzQ4dUhZTXJYZmFOMVRlTkVzenpsa280cHR6YVZoZQ?oc=5",
+     "fonte": "YourStory.com",
+     "data": "2026-10-01"
     }
    ]
   },
@@ -2664,6 +2676,12 @@
      "data": "2026-09-28"
     },
     {
+     "titulo": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify - Decrypt News",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iRkJDb2FaX2gwa0pySE1BeXRiUFRzQVBYTWRlYV84ajRrVXZqcGpSTkpqa2lSUGNMRV9RRWJxbjVWWkFJakRYYUwzMk0teEROWU9ZRXA1TVl5d2xLVnNONFFRMkZGdXhDVWhRaktPOXBxcUtyenc?oc=5",
+     "fonte": "Decrypt News",
+     "data": "2026-09-28"
+    },
+    {
      "titulo": "OpenAI apologises for Australian government website hack, pledges to rebuild trust - Reuters",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUkZZNkxncTBjTjVfS2tIU19wdG9XZHJHTGxwLVdLSW5wUjlSVUlSRnRPbEFlTWtDcm11VE05bW5QV2tnR202RjFfRmVib3d1dy1ubXZVVXI1N3BzdjhsUWdYM0NQMk5EanI5bzgtbklXVGN1RjluaWFXZHJZZ0g0VGJuVnd5dHQ0RFRadWJkaDNqZkU5Uzc0QUJZZXphOC1BM2M3cE1RNDNHRDF4MloyNzVYSG1EZTV2cDlaYmh3?oc=5",
      "fonte": "Reuters",
@@ -2894,6 +2912,30 @@
    ]
   },
   {
+   "id": 77,
+   "caso": 56,
+   "titulo": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
+   "papel": "ataque_a_ia",
+   "gravidade": 1.0,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "openai",
+   "defasagem": "meses_antes",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-01",
+   "ultima": "2026-10-01",
+   "fontes": [
+    {
+     "titulo": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
+     "url": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
+     "fonte": "The Hacker News",
+     "data": "2026-10-01"
+    }
+   ]
+  },
+  {
    "id": 32,
    "caso": 22,
    "titulo": "They hacked a TikTok user’s camera, with help from free AI - The Washington Post",
@@ -3038,6 +3080,36 @@
    ]
   },
   {
+   "id": 78,
+   "caso": 57,
+   "titulo": "Agentes de IA tentaram invadir site do governo canadense, diz empresa de pesquisa - Portal do Holanda",
+   "papel": "agente_em_producao",
+   "gravidade": 0.9,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "can",
+   "pais_nome": "Canadá",
+   "numerico": "124",
+   "primeira": "2026-10-01",
+   "ultima": "2026-10-01",
+   "fontes": [
+    {
+     "titulo": "Agentes de IA tentaram invadir site do governo canadense, diz empresa de pesquisa - Portal do Holanda",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWnVrd2w0SE5wSHRReGVNa3lFS0ZqV0tBWHhoVGx5dk9VRS1ZNXk3bFVKQ3diVTk4cnp4a0dhZmVuQkpfSm9mMlRMcnMtdnF4Ri1rMFItbjU2ZVFqclNMMlBsM1FzTUhpak9OdWJ4NjBJUkttXzV4WHZQQXVKYml1R05lUXJfcDZLTkhUSkJuMFVCXzdSTl9HR0Z2Q2VnMmlEVmJQcEhOclFRU2poSkZQRFZ2a3dwREVnTDc4NzdYeFg4eFo1?oc=5",
+     "fonte": "Portal do Holanda",
+     "data": "2026-10-01"
+    },
+    {
+     "titulo": "Mais ataques: Agentes de IA tentaram invadir site do governo do Canadá - CNN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNzZIVzI0MUJ1d29EeDl3TTRtdmZoX3hOS2c5c1F4aVFGQ0ZNcTRNbUhyUWQ4OXYyeWpBcGhuVWFSTFZFcjV4NmFvTGdqcXd3R1JHWTlWazRSWUx1eTJoMzZYRVZ2X21TbDJJaEJTR2I1cVdVbnROcDVSeXZaaTJZeS1tOTNFb0VIRTY2Vmp5SmtiZmlpNkpfdzdPb1JCeDR6QkMtRWZTQ053NWtCWXRyWjZTNjdSckViMjd0VWREdlZDSmo4YV84NVVxbER3cWxad2NWaQ?oc=5",
+     "fonte": "CNN Brasil",
+     "data": "2026-10-01"
+    }
+   ]
+  },
+  {
    "id": 23,
    "caso": 16,
    "titulo": "Spain gets its first taste of AI-aided cyber attack - theregister.com",
@@ -3142,6 +3214,36 @@
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMm1DazNoRTBvalJYM21jM0UzWmcwVnhsNmRwb29zR3B2U0dEZFZIcFBYUGdldTdUeTJPRnV0YzBWMlo5UWwtUmhzUzdBWl9QNUxTMFJYNWx2Sml3ejcwUzFPbGNySVdrbXZYNGo1eG5BbTI2Z1pIc0JrRHlIbENROFRuWUtEWFlfdXNwYmgtVHIwaEVmcnBZXzRZMDktQW1KUGdOMzd5QkNxTVJYZTFSU1BBc3JvZw?oc=5",
      "fonte": "adnews.com.br",
      "data": "2026-09-21"
+    }
+   ]
+  },
+  {
+   "id": 79,
+   "caso": 58,
+   "titulo": "AI agents tried to hack Library and Archives Canada website, research firm says - CBC",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 0.6,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "can",
+   "pais_nome": "Canadá",
+   "numerico": "124",
+   "primeira": "2026-10-01",
+   "ultima": "2026-10-01",
+   "fontes": [
+    {
+     "titulo": "AI agents tried to hack Library and Archives Canada website, research firm says - CBC",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Dd1F6Qms0Q0wtSzZtVWhseGEzR0pTdHpRZW1vUzEyLTdSSUFLc2d1b1RnUFRYRjRaVEhuS081T0ZmdlVaWE5uRU1ralpZbEphN1hheGdrMkE4ZkNPRHBmZXdEcmZqLUZr?oc=5",
+     "fonte": "CBC",
+     "data": "2026-10-01"
+    },
+    {
+     "titulo": "AI agent attempted to hack Library and Archives Canada, says U.S. research group - The Spec",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZHBhcDB0d3Vrdl9UT0N0TWlFbDZIS2tHRjk0NmRCVXNEdF9uakR3SlFrQ3BackctbVFDQnBBN2RlMkVDTkZ1S0tySGd5TmRxTmNsUk1ON3dBVVBZdXZfUmlveFpYaERoZUZDREsxVG8xNFZqWG5GcHhNQ01pUVdqcDhTbEt0ZHZKc3ltMUN2aHhIV3Q1dHpjd1FXbTN6TUg0N2ttMlM1NUZ3dERDbGxCa3ctLTFMWmJna0hqcVphZjNhS21hSC1OSHFIWGNHdS1sLURyZENPckFpZjVJeG9qb25ab3h0RTdadXpJcnpoUlFCbXJJSE9Z?oc=5",
+     "fonte": "The Spec",
+     "data": "2026-10-01"
     }
    ]
   },
