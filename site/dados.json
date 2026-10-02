@@ -1,10 +1,10 @@
 {
- "gerado_em": "2026-10-01T17:04:17+00:00",
+ "gerado_em": "2026-10-02T01:06:15+00:00",
  "totais": {
-  "incidentes": 79,
-  "casos": 51,
-  "noticias": 583,
-  "repercussoes": 8
+  "incidentes": 85,
+  "casos": 54,
+  "noticias": 598,
+  "repercussoes": 11
  },
  "incidentes": [
   {
@@ -806,6 +806,30 @@
    ]
   },
   {
+   "id": 84,
+   "caso": 2,
+   "titulo": "OpenAI Notifies Over 100 Groups of Rogue AI Agent Incidents After Hugging Face Breach - finance.biggo.com",
+   "papel": "agente_em_producao",
+   "gravidade": 2.9,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-01",
+   "ultima": "2026-10-01",
+   "fontes": [
+    {
+     "titulo": "OpenAI Notifies Over 100 Groups of Rogue AI Agent Incidents After Hugging Face Breach - finance.biggo.com",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1URUNCRlFzOV9jRk11S3NhdVBfZmJBT2s4OTZsWURuRDZ1NkNWUTVBOGF5cTNtZUNuLVp0cVpmRUF1Nm4wUXg1RTRQZ0FVZUJya1pfcWx0VDdraG1JaXpMVlFzX21IWVU2MnF3eml5UTJWOE96dnc?oc=5",
+     "fonte": "finance.biggo.com",
+     "data": "2026-10-01"
+    }
+   ]
+  },
+  {
    "id": 61,
    "caso": 45,
    "titulo": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
@@ -934,6 +958,30 @@
      "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government",
      "fonte": "WIRED (segurança)",
      "data": "2026-09-28"
+    }
+   ]
+  },
+  {
+   "id": 81,
+   "caso": 60,
+   "titulo": "OpenAI software attempted to secretly scrape data from dozens of prominent websites",
+   "papel": "agente_em_producao",
+   "gravidade": 2.5,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-01",
+   "ultima": "2026-10-01",
+   "fontes": [
+    {
+     "titulo": "OpenAI software attempted to secretly scrape data from dozens of prominent websites",
+     "url": "https://therecord.media/openai-software-attempted-to-secretly-scrape-data-from-dozens-of-websites",
+     "fonte": "The Record",
+     "data": "2026-10-01"
     }
    ]
   },
@@ -1130,6 +1178,30 @@
    ]
   },
   {
+   "id": 83,
+   "caso": 51,
+   "titulo": "AI agents hacked the hackers, stealing email addresses from security research org",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-01",
+   "ultima": "2026-10-01",
+   "fontes": [
+    {
+     "titulo": "AI agents hacked the hackers, stealing email addresses from security research org",
+     "url": "https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652",
+     "fonte": "The Register (segurança)",
+     "data": "2026-10-01"
+    }
+   ]
+  },
+  {
    "id": 66,
    "caso": 47,
    "titulo": "JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack",
@@ -1317,7 +1389,7 @@
    "pais_nome": "Países Baixos",
    "numerico": "528",
    "primeira": "2026-09-29",
-   "ultima": "2026-09-30",
+   "ultima": "2026-10-01",
    "fontes": [
     {
      "titulo": "Automated AI agent used to breach cybersecurity nonprofit DIVD - BleepingComputer",
@@ -1330,6 +1402,12 @@
      "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach",
      "fonte": "BleepingComputer",
      "data": "2026-09-30"
+    },
+    {
+     "titulo": "AI agent used Zammad zero-days to breach Dutch vulnerability disclosure non-profit - Help Net Security",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92ejlUWkg4T0dkaGt6ZGd6WE4tbHJLSmlVUzlTaUtSODN4bmNPakJMZEVTdnlpWDZrRlhZczJNcTlpLVZLNnViU0hoWHNJMmNqMk9Zdkpwa3lOdlE0ZW9GOEtiUkFvU0ZnQXpOZnZRZUk5X19xd2FYcm8tSEtuUQ?oc=5",
+     "fonte": "Help Net Security",
+     "data": "2026-10-01"
     }
    ]
   },
@@ -1844,6 +1922,30 @@
    ]
   },
   {
+   "id": 85,
+   "caso": 2,
+   "titulo": "OpenAI is facing a lawsuit after a hack carried out by an AI agent - صوت الإمارات",
+   "papel": "agente_em_producao",
+   "gravidade": 1.8,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-02",
+   "ultima": "2026-10-02",
+   "fontes": [
+    {
+     "titulo": "OpenAI is facing a lawsuit after a hack carried out by an AI agent - صوت الإمارات",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPalQ0TTNaSWtvWVpTQUxFeHE4aXhxS2VkcFNWRmtQMHBVTEF3bHhNcERBb25McWNVWC1zMFFsaHdxM05GYXEwTy1lamtWS0VRYnBmclVXbzlfYnY3NjhvX1ZjNGFJc2YzSTNyNVZhOFBUZFk4S0FvdHBGYmpxN0s1cmtKM3VXT0ppT2RHUUZfdklUcjMydXZNbDllYTZ1cjJtSDF4OWpMWkpwUzExR0pMTi1PZTFEOE5RODFoZ2JmOVpOS1I5ZzNab3pR?oc=5",
+     "fonte": "صوت الإمارات",
+     "data": "2026-10-02"
+    }
+   ]
+  },
+  {
    "id": 58,
    "caso": 39,
    "titulo": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days",
@@ -1960,6 +2062,30 @@
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTGlvaFEtX2pNSnFNd2pQTW9hWXpfeVExS3RrWmZkSVU2cWxab3NMdnFxSWliM1ItMjkwcjZWODRxQlhMajM3SVVKMTM1VUJZTERjTGI3S0VWa2xnVDBpQ3hDc19hYlRxOFNlcHJNUWZpM3F2UDg1ZFc1OG8yY29CXzVRcw?oc=5",
      "fonte": "SpaceMoney",
      "data": "2026-09-17"
+    }
+   ]
+  },
+  {
+   "id": 80,
+   "caso": 59,
+   "titulo": "Ataque deliberado ou erro no código? Por que robôs de IA miraram sites públicos - Exame",
+   "papel": "agente_em_producao",
+   "gravidade": 1.6,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-01",
+   "ultima": "2026-10-01",
+   "fontes": [
+    {
+     "titulo": "Ataque deliberado ou erro no código? Por que robôs de IA miraram sites públicos - Exame",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRERPVUZyU3BPYXQwNHpSMGtvcUhDOVZ4VDlCVnc1MS1PUmkwTjI5MTlDaE5WZVp2Znk5UG8tbVdxZlZWcFVMMHJCb2pabWpJUVRqdUZLWkx4TFk2LXJ3NmZ3TzgwX1R6ZmVaYV9LcEdtN2JlUm1uNWowRVJzajBSOXBheDRsejVubjJnUXlZM0pzQVozR2VnN2ZaLVktQXRvVklreERXMU1lOTZEZm90RkRrWQ?oc=5",
+     "fonte": "Exame",
+     "data": "2026-10-01"
     }
    ]
   },
@@ -3056,6 +3182,30 @@
    ]
   },
   {
+   "id": 82,
+   "caso": 61,
+   "titulo": "Autonomous AI agents tried to hack US, Canadian government websites - BleepingComputer",
+   "papel": "agente_em_teste",
+   "gravidade": 0.9,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "global",
+   "pais_nome": "Vários países",
+   "numerico": null,
+   "primeira": "2026-10-01",
+   "ultima": "2026-10-01",
+   "fontes": [
+    {
+     "titulo": "Autonomous AI agents tried to hack US, Canadian government websites - BleepingComputer",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX1RLZ3dkQl9MQmRSUDVTYUxKZldwdnY5ZW5qaGg4Y0lRNTh6eTZmOVAyNkFlZW9BYkNQREdOR1Zkd1VpQkx1c29oaEtTVjdzTWdTMjFGbV9TZnNoYlZNaUNIbjE0T2NoRzk2UEs5dUYtQVBwUzdUa21weHJYTVlnMUxmaEN1R2pDWUNKVVZ6SnctZVljMXgwQ1JtTnU4OV93V0puRzMxZFB6Q0EycnJjWURXZFDSAboBQVVfeXFMTjFfYVdzZzRGZ0o5OU5Nbk9SV0tmWkxlS3dfaFA2cTR4cUhGTmxYVS1fcXJfUDZnZmk2b3hRdm5mQ0dVeEZtQXBWTlZvZnk4VHdMV1gyN2hhOVlmN3NTS0lEYlJFMG42eHBmY0VHRnBHaVNteExMTnhEVHhOQS15WHBscF9RTEdXVjdUWTgtemlLT2g1NVZTOWFLdEJuQXJ5OGowZnUtMVlFOGY2UVUtVkxlZmstanNqenZR?oc=5",
+     "fonte": "BleepingComputer",
+     "data": "2026-10-01"
+    }
+   ]
+  },
+  {
    "id": 7,
    "caso": 6,
    "titulo": "Another Rogue OpenAI Agent Swarm Went Undisclosed. We Have No Idea How Many More Are Out There - gizmodo.com",
@@ -3105,6 +3255,12 @@
      "titulo": "Mais ataques: Agentes de IA tentaram invadir site do governo do Canadá - CNN Brasil",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNzZIVzI0MUJ1d29EeDl3TTRtdmZoX3hOS2c5c1F4aVFGQ0ZNcTRNbUhyUWQ4OXYyeWpBcGhuVWFSTFZFcjV4NmFvTGdqcXd3R1JHWTlWazRSWUx1eTJoMzZYRVZ2X21TbDJJaEJTR2I1cVdVbnROcDVSeXZaaTJZeS1tOTNFb0VIRTY2Vmp5SmtiZmlpNkpfdzdPb1JCeDR6QkMtRWZTQ053NWtCWXRyWjZTNjdSckViMjd0VWREdlZDSmo4YV84NVVxbER3cWxad2NWaQ?oc=5",
      "fonte": "CNN Brasil",
+     "data": "2026-10-01"
+    },
+    {
+     "titulo": "Agentes de IA tentam invadir site do governo do Canadá; caso acende alerta após ataque na Austrália - G1",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMXhlMG9ON3ZIOGhhTTRUeHRocHF3YkNNNVFReG8ydWhmeHN1cjdmTWdEMjhPVjhFN2xQX2Q2c0hlN2pzQ0RJY0N3T09FMTRaTkR5U1QxaktUZXYybS1WMDlPRDZTc2N1SmI1MUdid1NqVldCblpzeHh2M1Y4ZndjY0lJb3g0Um1VUFppemJDQWpwY0dWNmV3cXNoLWg5aEtyeDFOaHVpd1dQamdGejZ1RGNaaTVydl9wNGFmS2pla1MwbkdKRzdWRWVyOTNrLVQ4aFZnbXptQTIzTEhZaFl4X3JnOTJDZ1NJczJWcHppZ3RvcG9rTlpCZXln0gH6AUFVX3lxTE8xeGUwb043dkg4aGFNNFR4dGhwcXdiQ001UVF4bzJ1aGZ4c3VyN2ZNZ0QyOE9WOEU3bFBfZDZzSGU3anNDREljQ3dPT0UxNFpORHlTVDFqS1RldjJtLVYwOU9ENlNzY3VKYjUxR2J3U2pWV0JuWnN4eHYzVjhmd2NjSUlveDRSbVVQWml6YkNBanBjR1Y2ZXdxc2gtaDloS3J4MU5odWl3V1BqZ0Z6NnVEY1ppNXJ2X3A0YWZLamVrUzBuR0pHN1ZFZXI5M2stVDhoVmdtem1BMjNMSFloWXhfcmc5MkNnU0lzMlZwemlndG9wb2tOWkJleWc?oc=5",
+     "fonte": "G1",
      "data": "2026-10-01"
     }
    ]
@@ -3355,6 +3511,27 @@
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSUpzRmVIamxVZWlwbnpoNlNqWWpYQll5Nl9QYUpfUElKVkdvUUtCdTdDT05fTlJtRVh2M0huck9VdVZqaVNsNTlwcTh0aEE3YjVHc0dXakt1TGRCLTZBSmd5bzNONUpvX2hxejcxVU50RjZDS0FpZDhxRFNKS1k3MlFoOTNaX1ZwWk5JYXoyVm5OTWdOZXZLRGdyX29maW9QeE9yZ3F4NXp5SUpVN044Nm10YUN0T1HSAbcBQVVfeXFMTUlKc0ZlSGpsVWVpcG56aDZTallqWEJZeTZfUGFKX1BJSlZHb1FLQnU3Q09OX05SbUVYdjNIbnJPVXVWamlTbDU5cHE4dGhBN2I1R3NHV2pLdUxkQi02QUpneW8zTjVKb19ocXo3MVVOdEY2Q0tBaWQ4cURTSktZNzJRaDkzWl9WcFpOSWF6MlZuTk1nTmV2S0Rncl9vZmlvUHhPcmdxeDV6eUlKVTdOODZtdGFDdE9R?oc=5",
    "fonte": "Portal AZ",
    "data": "2026-09-28"
+  },
+  {
+   "caso": 2,
+   "titulo": "Senate Hearing Weighs Threats From Unrestrained AI Agents After OpenAI Hack - techpolicy.press",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcERzNmw2bGl6ZjVYQXRkOGtsdVZKTHd6a2ZNeHEyZ0ZjeHg0ejZlVk44OVdpQzF2Mm8zSG1KN0hjNEJSZy14UWVQaEFOVGxTYVRkb2VndGlJNnY1N05ZR0tWWFhDVnVuQUpwTGpCRExvU2EwbDhpbklqOUlkb0I0UnotQjJUall3VmxEUUFBQ1NVMnYtakZmeEpMZWlQcnZqU2RXeG5rOFk?oc=5",
+   "fonte": "techpolicy.press",
+   "data": "2026-10-01"
+  },
+  {
+   "caso": 2,
+   "titulo": "OpenAI Sued for AI Agent Hacks - The National Law Review",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWUzh1b3A1YkxjZU9RNWZCWXJkWWRDMlRWU210UDRNY3NrVllBd2prS01xQ0UwajlGaVFualJhVWxHbkJZdWo3NDNWbG5FcXhFUGo3dzh3cExNTGo5UW1GQ193X3JZbHRZTUowN2Q1ZXHSAXBBVV95cUxQVlM4dW9wNWJMY2VPUTVmQllyZFlkQzJUVlNtdFA0TWNza1ZZQXdqa0tNcUNFMGo5RmlRbmpSYVVsR25CWXVqNzQzVmxuRXF4RVBqN3c4d3BMTUxqOVFtRkNfd19yWWx0WU1KMDdkNWVx?oc=5",
+   "fonte": "The National Law Review",
+   "data": "2026-10-01"
+  },
+  {
+   "caso": 21,
+   "titulo": "FTC Probes OpenAI, Anthropic Over Agent Attacks [2026] - shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPZ21mRmV6cDBfeUpRdUJwV05ONjNfRVVyVlNLTlBlb01HcnMtRUJJOWNtTGRxQy12N2ljTXo0S0Q3NWpiOEgwZ2FIOWxTOGhxUFRnSmhCUjJ4QnNtOG5UaFFjYS1xRTZIVWUtQ3U0RVdlQXhGbGd1bTJR?oc=5",
+   "fonte": "shattered.io",
+   "data": "2026-10-01"
   },
   {
    "caso": 29,
