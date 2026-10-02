@@ -1,10 +1,10 @@
 {
- "gerado_em": "2026-10-02T01:06:15+00:00",
+ "gerado_em": "2026-10-02T16:18:38+00:00",
  "totais": {
-  "incidentes": 85,
+  "incidentes": 88,
   "casos": 54,
-  "noticias": 598,
-  "repercussoes": 11
+  "noticias": 612,
+  "repercussoes": 12
  },
  "incidentes": [
   {
@@ -1124,6 +1124,30 @@
    ]
   },
   {
+   "id": 87,
+   "caso": 29,
+   "titulo": "OpenAI disclose another hack on government department in Australia - The Guardian",
+   "papel": "ataque_a_ia",
+   "gravidade": 2.1,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "aus",
+   "pais_nome": "Austrália",
+   "numerico": "036",
+   "primeira": "2026-10-02",
+   "ultima": "2026-10-02",
+   "fontes": [
+    {
+     "titulo": "OpenAI disclose another hack on government department in Australia - The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWszNzZRNHE2MTNpMzYxNFJaeWNYUER0cGY5dGNsUjZicUxqUWEzNF8zZUgwaHJseC1scFhFWVplQnZqbjNhVWVrWDhnQnBiRnk0QmEzRzRpX3ZJdUNuZXJQX2pDN1VnR1BndXYwVFM2RFRYaWtkMjVBeWd1eEpBT1VRNUliX2FUWjNFMm1VQ3ZlckY0akxVRjlZREtRcXNQSlhLRlFyWURiYVdMTGpDZ3Z3aHVfc2c1?oc=5",
+     "fonte": "The Guardian",
+     "data": "2026-10-02"
+    }
+   ]
+  },
+  {
    "id": 15,
    "caso": 11,
    "titulo": "AI-driven hack snags 375 Brazil government employee logins - Cybernews",
@@ -2090,6 +2114,30 @@
    ]
   },
   {
+   "id": 86,
+   "caso": 29,
+   "titulo": "Rogue OpenAI agent accessed second NSW government website - ABC News & Headlines – Australian Broadcasting Corporation",
+   "papel": "agente_em_teste",
+   "gravidade": 1.5,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-02",
+   "ultima": "2026-10-02",
+   "fontes": [
+    {
+     "titulo": "Rogue OpenAI agent accessed second NSW government website - ABC News & Headlines – Australian Broadcasting Corporation",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWUFMM2tFcEZHcDhyaE9KLVF3OVk5T0piMU5VSVV0STZyc3duTXhSaGNJN1ZYbTFsRHBNeUczV1pCc0V1WG81RW5yMHJZV0p4TnV0d0l4aUtaNFk4MG5mSmlaUUJLSW9QMUtkUlNmVzB1LUhacWV4LWh4NzBJMnI4U0xFSUdzOEVxSXNYdEVnOUdTcFV3UFJ4alBKcFNsQWc?oc=5",
+     "fonte": "ABC News & Headlines – Australian Broadcasting Corporation",
+     "data": "2026-10-02"
+    }
+   ]
+  },
+  {
    "id": 42,
    "caso": 29,
    "titulo": "Five things to understand about how the OpenAI hack unfolded - SMH.com.au",
@@ -2354,6 +2402,54 @@
    ]
   },
   {
+   "id": 78,
+   "caso": 57,
+   "titulo": "Após os acontecimentos na Austrália, um agente de IA foi descoberto tentando se infiltrar nos sistemas do governo canadense. - Vietnam.vn",
+   "papel": "agente_em_producao",
+   "gravidade": 1.2,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "can",
+   "pais_nome": "Canadá",
+   "numerico": "124",
+   "primeira": "2026-10-01",
+   "ultima": "2026-10-02",
+   "fontes": [
+    {
+     "titulo": "Agentes de IA tentaram invadir site do governo canadense, diz empresa de pesquisa - Portal do Holanda",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWnVrd2w0SE5wSHRReGVNa3lFS0ZqV0tBWHhoVGx5dk9VRS1ZNXk3bFVKQ3diVTk4cnp4a0dhZmVuQkpfSm9mMlRMcnMtdnF4Ri1rMFItbjU2ZVFqclNMMlBsM1FzTUhpak9OdWJ4NjBJUkttXzV4WHZQQXVKYml1R05lUXJfcDZLTkhUSkJuMFVCXzdSTl9HR0Z2Q2VnMmlEVmJQcEhOclFRU2poSkZQRFZ2a3dwREVnTDc4NzdYeFg4eFo1?oc=5",
+     "fonte": "Portal do Holanda",
+     "data": "2026-10-01"
+    },
+    {
+     "titulo": "Mais ataques: Agentes de IA tentaram invadir site do governo do Canadá - CNN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNzZIVzI0MUJ1d29EeDl3TTRtdmZoX3hOS2c5c1F4aVFGQ0ZNcTRNbUhyUWQ4OXYyeWpBcGhuVWFSTFZFcjV4NmFvTGdqcXd3R1JHWTlWazRSWUx1eTJoMzZYRVZ2X21TbDJJaEJTR2I1cVdVbnROcDVSeXZaaTJZeS1tOTNFb0VIRTY2Vmp5SmtiZmlpNkpfdzdPb1JCeDR6QkMtRWZTQ053NWtCWXRyWjZTNjdSckViMjd0VWREdlZDSmo4YV84NVVxbER3cWxad2NWaQ?oc=5",
+     "fonte": "CNN Brasil",
+     "data": "2026-10-01"
+    },
+    {
+     "titulo": "Agentes de IA tentam invadir site do governo do Canadá; caso acende alerta após ataque na Austrália - G1",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMXhlMG9ON3ZIOGhhTTRUeHRocHF3YkNNNVFReG8ydWhmeHN1cjdmTWdEMjhPVjhFN2xQX2Q2c0hlN2pzQ0RJY0N3T09FMTRaTkR5U1QxaktUZXYybS1WMDlPRDZTc2N1SmI1MUdid1NqVldCblpzeHh2M1Y4ZndjY0lJb3g0Um1VUFppemJDQWpwY0dWNmV3cXNoLWg5aEtyeDFOaHVpd1dQamdGejZ1RGNaaTVydl9wNGFmS2pla1MwbkdKRzdWRWVyOTNrLVQ4aFZnbXptQTIzTEhZaFl4X3JnOTJDZ1NJczJWcHppZ3RvcG9rTlpCZXln0gH6AUFVX3lxTE8xeGUwb043dkg4aGFNNFR4dGhwcXdiQ001UVF4bzJ1aGZ4c3VyN2ZNZ0QyOE9WOEU3bFBfZDZzSGU3anNDREljQ3dPT0UxNFpORHlTVDFqS1RldjJtLVYwOU9ENlNzY3VKYjUxR2J3U2pWV0JuWnN4eHYzVjhmd2NjSUlveDRSbVVQWml6YkNBanBjR1Y2ZXdxc2gtaDloS3J4MU5odWl3V1BqZ0Z6NnVEY1ppNXJ2X3A0YWZLamVrUzBuR0pHN1ZFZXI5M2stVDhoVmdtem1BMjNMSFloWXhfcmc5MkNnU0lzMlZwemlndG9wb2tOWkJleWc?oc=5",
+     "fonte": "G1",
+     "data": "2026-10-01"
+    },
+    {
+     "titulo": "Tentativa de invasão de IA no governo canadense levanta preocupações - boca.com.br",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iUFFrVUlvX2pUcUlyRk5QQnBXWE54cFAzTWhxNHFuekNWNmhtTUpjYXNpUE52bVlvazVycHFweHlHcU5SUFFWQmF6QUdCNmdlVTRkMUxUNGwza2JEclJnUktPZHJOMG15bXZkQUJ5aDlQQXNnUS1JUkJhRGoyRk0?oc=5",
+     "fonte": "boca.com.br",
+     "data": "2026-10-01"
+    },
+    {
+     "titulo": "Após os acontecimentos na Austrália, um agente de IA foi descoberto tentando se infiltrar nos sistemas do governo canadense. - Vietnam.vn",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN3NNd1lxcDEyb2hXeTVsczFjbzduNkxfQ3ZjcF83b2F5RFAzLVlPN2FNX3FOQmVkektFZzAyVkd6Tl95em5EYThxd1I1c1FCTXFuRm1qYlJ6OU9BOWxFVzcyRlBJSFUydG14MWMzUVJJbk5XLXBlaEtyQlkzVUlqU29hYVFkV0RiNExjTDMtdjVpM1llQnBPVXFaRkxOc0k?oc=5",
+     "fonte": "Vietnam.vn",
+     "data": "2026-10-02"
+    }
+   ]
+  },
+  {
    "id": 40,
    "caso": 29,
    "titulo": "Primeiro-ministro da Austrália revela que agente da OpenAI entrou em site do governo em junho - Observador",
@@ -2367,7 +2463,7 @@
    "pais_nome": "Austrália",
    "numerico": "036",
    "primeira": "2026-09-23",
-   "ultima": "2026-09-30",
+   "ultima": "2026-10-02",
    "fontes": [
     {
      "titulo": "Um agente de inteligência artificial infiltrou-se ilegalmente em um sistema do governo australiano. - Vietnam.vn",
@@ -2872,6 +2968,12 @@
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LLXhoM0hGc2tfQjRPWTVtRHQzczFNTjJhWUl2NlptOHhMdGN4Tk1pajBVQ1d3aU84eXpkY3NWbm5HWkxlZndPRXhrOTcwMEg2YWNXYmE5NFRmcDVyQUxiRG5tNTJ0akpfSlpRTlhVZ3BRUFJXVjdRMXVn?oc=5",
      "fonte": "Pinsent Masons",
      "data": "2026-09-30"
+    },
+    {
+     "titulo": "OpenAI reveals another Australian government data breach caused by its AI agent - Digital Trends",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcVE0aFNvbjdtazFpYU5qNXo4dExxTVpkMEJJQ1pLVWtZX0UydjI0bzRBd1Z5LTVkSVM0Nko5em5CX0w4bHhTX0hXR0pGSEVIUHBZZDdxTktBRXYxdV9ZUk84R3VmNUFpTXMydEpJdm9qa1VHS1ZqNE81dS0wVFJ5bXhfU18xRDFGemwwM2pZa3FvWThHQk14X2FQUGJtMi13b09QQ3pVc2JjSHRpY1p4TzgteWpRdGFmRlJJRA?oc=5",
+     "fonte": "Digital Trends",
+     "data": "2026-10-02"
     }
    ]
   },
@@ -3110,6 +3212,30 @@
    ]
   },
   {
+   "id": 88,
+   "caso": 29,
+   "titulo": "OpenAI notifica Austrália sobre novo ataque de um agente - Observador",
+   "papel": "agente_em_teste",
+   "gravidade": 0.9,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-02",
+   "ultima": "2026-10-02",
+   "fontes": [
+    {
+     "titulo": "OpenAI notifica Austrália sobre novo ataque de um agente - Observador",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVEJIbXRORWRPdUxFRzBuSGNIQUx0dkdpZXlqbnJxX1RPZmQtSVdWVGEzY2VwMDZRNmxQRnd3MnVPcUpkUzJQTVJwaXNHQlVhYnpCMXk5dlhTZHA5Vm1KYnJla3FscndJeEpIcExoZmdQQVpiQm85LWxvbmNpRWtZSHVFb0dVTVNIT0pyNGljTC1VWno4Y2xfaTRaU05hWmpyQlBkanFUSHEzUUdsVlM1UGNRejlXNkd1dkpGVEVLaW9ObzZCTmwzYTliQ201N3pTeVk3Y3M0b21KN2x3VDdLOVZHM0RQSm9NbTZvN1h3NGtNbzdL?oc=5",
+     "fonte": "Observador",
+     "data": "2026-10-02"
+    }
+   ]
+  },
+  {
    "id": 27,
    "caso": 16,
    "titulo": "Spain says it has seen first AI agent hack - IT Pro",
@@ -3226,42 +3352,6 @@
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUFNLSmxwU3ZjMXJKbTZvd3V0RFVWeHpmTE5GSkF3NzhoaHNLUDBjVERLZWt6QTlwSFdlUkVmUF92NXBVRzhsb21Ua0haWnZMRjJfOW10Y2k1Nm8xdV9QNUJlTG1xMzBJOWc4MWlqd2RvVXYzTC1zSFVTVVNJZlAzZDROZ2g3QzA5NkNJSGk3VHZtWk5tbjB6Q3o3SW5tQkZKNXRiMF9FdFZvNERibkVjQUFsNUtWS1FtS1ozSG5pZ3hiQQ?oc=5",
      "fonte": "gizmodo.com",
      "data": "2026-09-04"
-    }
-   ]
-  },
-  {
-   "id": 78,
-   "caso": 57,
-   "titulo": "Agentes de IA tentaram invadir site do governo canadense, diz empresa de pesquisa - Portal do Holanda",
-   "papel": "agente_em_producao",
-   "gravidade": 0.9,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "nao_informado",
-   "defasagem": "nao_informado",
-   "pais": "can",
-   "pais_nome": "Canadá",
-   "numerico": "124",
-   "primeira": "2026-10-01",
-   "ultima": "2026-10-01",
-   "fontes": [
-    {
-     "titulo": "Agentes de IA tentaram invadir site do governo canadense, diz empresa de pesquisa - Portal do Holanda",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWnVrd2w0SE5wSHRReGVNa3lFS0ZqV0tBWHhoVGx5dk9VRS1ZNXk3bFVKQ3diVTk4cnp4a0dhZmVuQkpfSm9mMlRMcnMtdnF4Ri1rMFItbjU2ZVFqclNMMlBsM1FzTUhpak9OdWJ4NjBJUkttXzV4WHZQQXVKYml1R05lUXJfcDZLTkhUSkJuMFVCXzdSTl9HR0Z2Q2VnMmlEVmJQcEhOclFRU2poSkZQRFZ2a3dwREVnTDc4NzdYeFg4eFo1?oc=5",
-     "fonte": "Portal do Holanda",
-     "data": "2026-10-01"
-    },
-    {
-     "titulo": "Mais ataques: Agentes de IA tentaram invadir site do governo do Canadá - CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNzZIVzI0MUJ1d29EeDl3TTRtdmZoX3hOS2c5c1F4aVFGQ0ZNcTRNbUhyUWQ4OXYyeWpBcGhuVWFSTFZFcjV4NmFvTGdqcXd3R1JHWTlWazRSWUx1eTJoMzZYRVZ2X21TbDJJaEJTR2I1cVdVbnROcDVSeXZaaTJZeS1tOTNFb0VIRTY2Vmp5SmtiZmlpNkpfdzdPb1JCeDR6QkMtRWZTQ053NWtCWXRyWjZTNjdSckViMjd0VWREdlZDSmo4YV84NVVxbER3cWxad2NWaQ?oc=5",
-     "fonte": "CNN Brasil",
-     "data": "2026-10-01"
-    },
-    {
-     "titulo": "Agentes de IA tentam invadir site do governo do Canadá; caso acende alerta após ataque na Austrália - G1",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMXhlMG9ON3ZIOGhhTTRUeHRocHF3YkNNNVFReG8ydWhmeHN1cjdmTWdEMjhPVjhFN2xQX2Q2c0hlN2pzQ0RJY0N3T09FMTRaTkR5U1QxaktUZXYybS1WMDlPRDZTc2N1SmI1MUdid1NqVldCblpzeHh2M1Y4ZndjY0lJb3g0Um1VUFppemJDQWpwY0dWNmV3cXNoLWg5aEtyeDFOaHVpd1dQamdGejZ1RGNaaTVydl9wNGFmS2pla1MwbkdKRzdWRWVyOTNrLVQ4aFZnbXptQTIzTEhZaFl4X3JnOTJDZ1NJczJWcHppZ3RvcG9rTlpCZXln0gH6AUFVX3lxTE8xeGUwb043dkg4aGFNNFR4dGhwcXdiQ001UVF4bzJ1aGZ4c3VyN2ZNZ0QyOE9WOEU3bFBfZDZzSGU3anNDREljQ3dPT0UxNFpORHlTVDFqS1RldjJtLVYwOU9ENlNzY3VKYjUxR2J3U2pWV0JuWnN4eHYzVjhmd2NjSUlveDRSbVVQWml6YkNBanBjR1Y2ZXdxc2gtaDloS3J4MU5odWl3V1BqZ0Z6NnVEY1ppNXJ2X3A0YWZLamVrUzBuR0pHN1ZFZXI5M2stVDhoVmdtem1BMjNMSFloWXhfcmc5MkNnU0lzMlZwemlndG9wb2tOWkJleWc?oc=5",
-     "fonte": "G1",
-     "data": "2026-10-01"
     }
    ]
   },
@@ -3553,6 +3643,13 @@
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVGNIUG1fLW5MenhBeDJiUnpLWHNSblZ6YVpuSGQ1aGJZWWZUQlBwZHBleTJZcnlTLTBqNFFrTWhDTTRGMlNoZDZXTjlWN0Vycld5eXJoQ0ozVkpkSndUa3k1NURDTjdXQWR4d251QmRhT0s2TWFuRnNEdGdtaVhzeHRBWVNwMm9vc2xj?oc=5",
    "fonte": "boca.com.br",
    "data": "2026-09-30"
+  },
+  {
+   "caso": 38,
+   "titulo": "OpenAI's wandering AI agents earn it a California subpoena",
+   "url": "https://www.theregister.com/ai-and-ml/2026/10/02/openais-wandering-ai-agents-earn-it-a-california-subpoena/5300850",
+   "fonte": "The Register (segurança)",
+   "data": "2026-10-02"
   }
  ]
 }
