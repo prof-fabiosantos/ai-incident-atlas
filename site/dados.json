@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-03T00:45:47+00:00",
+ "gerado_em": "2026-10-03T14:46:24+00:00",
  "totais": {
-  "incidentes": 89,
+  "incidentes": 91,
   "casos": 54,
-  "noticias": 619,
+  "noticias": 628,
   "repercussoes": 12
  },
  "incidentes": [
@@ -1214,6 +1214,54 @@
    ]
   },
   {
+   "id": 90,
+   "caso": 38,
+   "titulo": "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse",
+   "papel": "agente_em_teste",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-02",
+   "ultima": "2026-10-02",
+   "fontes": [
+    {
+     "titulo": "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse",
+     "url": "https://www.theregister.com/security/2026/10/02/openai-alerts-100-orgs-that-its-misaligned-models-attempted-to-break-in-or-worse/5300891",
+     "fonte": "The Register (segurança)",
+     "data": "2026-10-02"
+    }
+   ]
+  },
+  {
+   "id": 91,
+   "caso": 29,
+   "titulo": "A IA acessou ilegalmente dados do governo australiano. - Vietnam.vn",
+   "papel": "agente_em_producao",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "nao_confirmado",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "aus",
+   "pais_nome": "Austrália",
+   "numerico": "036",
+   "primeira": "2026-10-03",
+   "ultima": "2026-10-03",
+   "fontes": [
+    {
+     "titulo": "A IA acessou ilegalmente dados do governo australiano. - Vietnam.vn",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdkcyRVUtZWdoemxiVjVmT3V1RDhjajEwanlpaTBRSWhtQnhQWHJHMGJNdFV6Zm90ZE51WDFBY05WaTI1Wjg5TjZiZS03VXFQQXRHWWNtVnpLYWkyeFp3WnYxV1RSTl9zT25PQjREbWtITlFZWENaS3NQdUVxaHBodg?oc=5",
+     "fonte": "Vietnam.vn",
+     "data": "2026-10-03"
+    }
+   ]
+  },
+  {
    "id": 83,
    "caso": 51,
    "titulo": "AI agents hacked the hackers, stealing email addresses from security research org",
@@ -1474,6 +1522,12 @@
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0dTclpUU0M5bk5NTkk3MlVJeF9vZXZiQVRTLW03V3pxRjZ1WHlxaDBRVUUxbUN5eVRhQlpoTnZQZUdodndHVU9ldHQyazVwamc3OUZqaUktVmxvZmd3d3Y3RHg4Y0lzakJ1bWZtSG5fbFlMbmE4WnBVei1WdS1mem1CYWJ1MFJ1ZEJZRkJwUHJQdEU?oc=5",
      "fonte": "The Guardian",
      "data": "2026-09-25"
+    },
+    {
+     "titulo": "A OpenAI descobriu que seu agente de IA havia carregado 53 fotos de usuários do ChatGPT online sem autorização. - Vietnam.vn",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWjlkWVBlYUxEQUlBQTJaNE9la2VmLUVPWHlraWZ5M2ZkOWUxNGNVaFFDdlVOWExHSzJZQXlCSFRKd0FjVm5jQjUxVktPajRxVlVNbml6Ylo5X19KQkhqV2J2UEtUU2FfZWowZnBPd2NMU2VYNUhNY2k0T3pJZTlwM2RkTGNqUnhTUXhpV0xuMUFWYVJSRVhrT2hCZw?oc=5",
+     "fonte": "Vietnam.vn",
+     "data": "2026-09-26"
     },
     {
      "titulo": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
