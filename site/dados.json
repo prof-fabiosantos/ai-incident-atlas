@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-02T16:18:38+00:00",
+ "gerado_em": "2026-10-03T00:45:47+00:00",
  "totais": {
-  "incidentes": 88,
+  "incidentes": 89,
   "casos": 54,
-  "noticias": 612,
+  "noticias": 619,
   "repercussoes": 12
  },
  "incidentes": [
@@ -1124,30 +1124,6 @@
    ]
   },
   {
-   "id": 87,
-   "caso": 29,
-   "titulo": "OpenAI disclose another hack on government department in Australia - The Guardian",
-   "papel": "ataque_a_ia",
-   "gravidade": 2.1,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "openai",
-   "defasagem": "nao_informado",
-   "pais": "aus",
-   "pais_nome": "Austrália",
-   "numerico": "036",
-   "primeira": "2026-10-02",
-   "ultima": "2026-10-02",
-   "fontes": [
-    {
-     "titulo": "OpenAI disclose another hack on government department in Australia - The Guardian",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWszNzZRNHE2MTNpMzYxNFJaeWNYUER0cGY5dGNsUjZicUxqUWEzNF8zZUgwaHJseC1scFhFWVplQnZqbjNhVWVrWDhnQnBiRnk0QmEzRzRpX3ZJdUNuZXJQX2pDN1VnR1BndXYwVFM2RFRYaWtkMjVBeWd1eEpBT1VRNUliX2FUWjNFMm1VQ3ZlckY0akxVRjlZREtRcXNQSlhLRlFyWURiYVdMTGpDZ3Z3aHVfc2c1?oc=5",
-     "fonte": "The Guardian",
-     "data": "2026-10-02"
-    }
-   ]
-  },
-  {
    "id": 15,
    "caso": 11,
    "titulo": "AI-driven hack snags 375 Brazil government employee logins - Cybernews",
@@ -1198,6 +1174,42 @@
      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOEk0cDVBd0JNaHBVcGtNSEFKTFpTRDBuczRmM1FVNDY5d2ZQYl9zY2EzN0NuaFJsbnRlT2JONy1pYkVGdHBpdDdLeUgwQ0ZuY25zOWJRcTdsT1RGZ2NVMzZ1ME9hRFBqamdneWZEckQ2akdvSnBqVkpfTzRDR3JVOGlLVXlZZXpPWlk3Y1g3V0NjdHlnajBCeTRiQzhTZkZsOUpnaDhMN0lsc2VOUjN6bFk2dE1LM3pqdWNuVGpzZGJwRnZJZUhRZkc2VzJySEVTeHdtcGpJYnpkNVBISHZKd0Ytd3kwNFNFQlE?oc=5",
      "fonte": "NewsCord",
      "data": "2026-09-24"
+    }
+   ]
+  },
+  {
+   "id": 87,
+   "caso": 29,
+   "titulo": "Another OpenAI hack: AI agent took non-public gov data in Australia - Yahoo",
+   "papel": "agente_em_producao",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "aus",
+   "pais_nome": "Austrália",
+   "numerico": "036",
+   "primeira": "2026-10-02",
+   "ultima": "2026-10-02",
+   "fontes": [
+    {
+     "titulo": "OpenAI disclose another hack on government department in Australia - The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWszNzZRNHE2MTNpMzYxNFJaeWNYUER0cGY5dGNsUjZicUxqUWEzNF8zZUgwaHJseC1scFhFWVplQnZqbjNhVWVrWDhnQnBiRnk0QmEzRzRpX3ZJdUNuZXJQX2pDN1VnR1BndXYwVFM2RFRYaWtkMjVBeWd1eEpBT1VRNUliX2FUWjNFMm1VQ3ZlckY0akxVRjlZREtRcXNQSlhLRlFyWURiYVdMTGpDZ3Z3aHVfc2c1?oc=5",
+     "fonte": "The Guardian",
+     "data": "2026-10-02"
+    },
+    {
+     "titulo": "OpenAI discloses another Australian government hack - Mashable",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ1o1T2dBczJSZjhVTmlPcEljLWQzTTc0aVZLSUY4a1I3eF9ZSTBTYTZIb2g4bHpwU3pJSTBWUDZoc1RscUtYVWRfVkNFVS1VdnlZeG8yQ0tYbjZtVkxnOF9tT2EyWEFuNy0yVmZMM2NpekNzc0dWYmx4c1F2ZkVIbldlSFpTQUJG?oc=5",
+     "fonte": "Mashable",
+     "data": "2026-10-02"
+    },
+    {
+     "titulo": "Another OpenAI hack: AI agent took non-public gov data in Australia - Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMTV6Y25LQUwtcVZOX1BUNkkwckNNZ0ZuelRTekQwd1FGdmttNUFoSERVNkVZekNsVVgxbWZva0JnSHBzQ0E4Y0NmSWh0a0EtRzNHT2htRVpWOEdIcWVIYjB4TjdDcXBsLTF6azhpNkJyeDRXYnIySFUxZU00YWd2WHQwdHk2Uzh0UDVNMFZ3?oc=5",
+     "fonte": "Yahoo",
+     "data": "2026-10-02"
     }
    ]
   },
@@ -3376,6 +3388,30 @@
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSVVISHdydmFVcmNhNFFvbmFFVDJWX2dQaTBrcndjVjNkV1UwS1JpcHpsb3plN0piLUxveVo5d0hDYUZ6SXh4YVZBMEx0WnVXbXJXVGQ0WFYwT1hLdFRLOHVIWkxKSWNpVEs3V2tBNlhrck02bkJwVktjV3ZCUjhaVmNJTDNhVmVRekpEeHRyTldMcTQybEYtb0tfNS1KemtFLXM2UUJaLWFESGdoRVhr?oc=5",
      "fonte": "theregister.com",
      "data": "2026-09-16"
+    }
+   ]
+  },
+  {
+   "id": 89,
+   "caso": 51,
+   "titulo": "AI agent exploits zero-day flaws in Zammad ticketing system - SC Media",
+   "papel": "agente_em_producao",
+   "gravidade": 0.9,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-01",
+   "ultima": "2026-10-01",
+   "fontes": [
+    {
+     "titulo": "AI agent exploits zero-day flaws in Zammad ticketing system - SC Media",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGZiVFdyMVR2TGZnTkZtcEd5WFdLdWktV01sS3dkNk9vbkRuNDVuVUVweWNVbUJnWVNzVHNLZGxxRnIyc0k4bEFoZ2JYb21zZXAxVzQ2ZDI4SWs4N1IzR1J6TE1WOUNrbzJpUnVodWxmVnBrNi01UHZFelpDX3FUZVUyRXBYX1BURk5ETzVUNngwMnM?oc=5",
+     "fonte": "SC Media",
+     "data": "2026-10-01"
     }
    ]
   },
