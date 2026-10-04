@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-03T14:46:24+00:00",
+ "gerado_em": "2026-10-04T00:06:43+00:00",
  "totais": {
-  "incidentes": 91,
-  "casos": 54,
-  "noticias": 628,
+  "incidentes": 92,
+  "casos": 55,
+  "noticias": 633,
   "repercussoes": 12
  },
  "incidentes": [
@@ -3550,6 +3550,30 @@
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMm1DazNoRTBvalJYM21jM0UzWmcwVnhsNmRwb29zR3B2U0dEZFZIcFBYUGdldTdUeTJPRnV0YzBWMlo5UWwtUmhzUzdBWl9QNUxTMFJYNWx2Sml3ejcwUzFPbGNySVdrbXZYNGo1eG5BbTI2Z1pIc0JrRHlIbENROFRuWUtEWFlfdXNwYmgtVHIwaEVmcnBZXzRZMDktQW1KUGdOMzd5QkNxTVJYZTFSU1BBc3JvZw?oc=5",
      "fonte": "adnews.com.br",
      "data": "2026-09-21"
+    }
+   ]
+  },
+  {
+   "id": 92,
+   "caso": 65,
+   "titulo": "Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows",
+   "papel": "ataque_a_ia",
+   "gravidade": 0.6,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "anthropic",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-03",
+   "ultima": "2026-10-03",
+   "fontes": [
+    {
+     "titulo": "Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows",
+     "url": "https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933",
+     "fonte": "The Register (segurança)",
+     "data": "2026-10-03"
     }
    ]
   },
