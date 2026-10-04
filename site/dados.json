@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-04T00:06:43+00:00",
+ "gerado_em": "2026-10-04T15:26:00+00:00",
  "totais": {
-  "incidentes": 92,
-  "casos": 55,
-  "noticias": 633,
+  "incidentes": 93,
+  "casos": 56,
+  "noticias": 640,
   "repercussoes": 12
  },
  "incidentes": [
@@ -1070,6 +1070,30 @@
    ]
   },
   {
+   "id": 93,
+   "caso": 66,
+   "titulo": "Shinhan Bank Data Breach Points to AI Agents Hacking Korean Banks - Startup Fortune",
+   "papel": "agente_em_producao",
+   "gravidade": 2.3,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "kor",
+   "pais_nome": "Coreia do Sul",
+   "numerico": "410",
+   "primeira": "2026-10-04",
+   "ultima": "2026-10-04",
+   "fontes": [
+    {
+     "titulo": "Shinhan Bank Data Breach Points to AI Agents Hacking Korean Banks - Startup Fortune",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWVdaVjdFZXliTHkyTTJEZGtDLTJTMVNUY29wUWpFenJoY0VONDRfbWRVUDc2a3k3eE1uV2o2WDlYWUtKWGgyTWxMYVd5dGhINVFQT3ZjV194a2JITC1yb1RFS2NIVFVuRU80cE5JN1c1MGxjNmYtNTNqellmMDE3Y19LRUwtV0hEbEgzQUs2MHlqM1Q4cVdSQg?oc=5",
+     "fonte": "Startup Fortune",
+     "data": "2026-10-04"
+    }
+   ]
+  },
+  {
    "id": 41,
    "caso": 16,
    "titulo": "First known AI hack of a government system - CNN",
@@ -1509,7 +1533,7 @@
    "pais_nome": "País não informado",
    "numerico": null,
    "primeira": "2026-09-25",
-   "ultima": "2026-09-26",
+   "ultima": "2026-09-27",
    "fontes": [
     {
      "titulo": "EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges - Reuters",
@@ -1534,6 +1558,12 @@
      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites",
      "fonte": "BleepingComputer",
      "data": "2026-09-26"
+    },
+    {
+     "titulo": "O agente de IA da OpenAI publicou ilegalmente 53 fotos de usuários do ChatGPT online: O que aconteceu? - Vietnam.vn",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdVZTMW9vOFF0UXlhNzJsbHhRZ0M5bm5pcld4dmlZaUdDaXBSOW5veVlKTmRwZzc0SGhFLTRSeHlxM3dhMjVrMDZpODhGNllxeXRHSkhYU0Z6NkVpbWV6YVIxTjdmVzdRZlFibC13RHItUkZEMlFnb01PTXhnQ0ROZmZOcTZiZ21RaW1POW1Rbkt4TG1KN1NJQ1lwYXRLWmdVWHJpekc2MnFVN2U3NnpN?oc=5",
+     "fonte": "Vietnam.vn",
+     "data": "2026-09-27"
     }
    ]
   },
@@ -1636,6 +1666,60 @@
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdWlKSGQzUEdYVFd3c2daYi1RS195TmpyWEFpOGF5dXQ1eWNUU1lVVmoySV8weW40Vk5wdERqZ1dqdDRJV3hPWWZ0UzNkazFHbVdlVXd4SGNhdkQxWjk4cmE0b2dNT0NqYkNDR2piTExFenJlT0xKVVNpa0IwOU9GNA?oc=5",
      "fonte": "Infosecurity Magazine",
      "data": "2026-09-17"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "caso": 15,
+   "titulo": "Espanha divulga 1º notificação de violação de dados ligada a agente de IA | Empresas - Valor Econômico",
+   "papel": "agente_em_producao",
+   "gravidade": 1.9,
+   "divergencia": true,
+   "confirmacao": "oficial",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "esp",
+   "pais_nome": "Espanha",
+   "numerico": "724",
+   "primeira": "2026-09-14",
+   "ultima": "2026-09-21",
+   "fontes": [
+    {
+     "titulo": "A AEPD registra a primeira violação de dados na Espanha atribuída a um ataque executado por um agente de IA - Demócrata",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTkNMNk9INzBfWnl5ODY3SGpWd2VQaUFvbDNGNTU5cnFoVk1RNkJXWjMySlk4SDMwVjg5RURkMkpnQ0tLMjJrZGhnbUhvdGRKRlNhNlNTbzc2WVZMTk5SOHdsbnhGcS1aYnBlVk1RR1AwaG1FOHd0VGRxVDJJTnRuM2FTQ1IzV2tteUYyUFp4X2JTQk5hSHh5MFRVUVVfVldzMDIwd3Z4N2hOblIzbFF3Sk9JdjRCU2xtUlU1Vm5CUVQ4LUtKMUpaWUpMc3BsTHZIV05yVkJHSGpxZF9nT3fSAeMBQVVfeXFMTzdlQXNOV0Vza0NobUduV1VoMXhzSzZIMGJhbloyZV9obXFnT0xpLWxZNXhQS1B4NjNMdmFDZVlTbFM0VWxYS1Ata1AzcGh4YUdsTWM3eHZHdFJYOVc1ZkcwMXk0OGFoYkI0S001TlhtRlFmcWFaeWc4Y1RPNXc5SldZYVd3R0o3UFZ6TVJhLU1GYk8yd2tHb2dXUW9jZ1UzUWY2X0ZqeGtwUmwteC04VjFueGx0Vmw4WnF6M2ctcnZLa3A5blRTc0llTUNfcWQ5cmFlS3kyRlB6WTVxRU5uNUFWbVk?oc=5",
+     "fonte": "Demócrata",
+     "data": "2026-09-14"
+    },
+    {
+     "titulo": "Espanha divulga 1º notificação de violação de dados ligada a agente de IA - Valor Econômico",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRFo2UTR2cXpQY292MEd6QlJ4Z285blhJSFNlT3FWTWRadTJUZ0EyQzlOUDFXUEVBWFBsR0xoZE1oTmJwWFU4aUtDaURXU3FBMUNUN3V0bFRBeTl3WDFxSmp0U2diZkhhc3lVc2FwOXVrd2U3TF9WOTdoSE5DVlplNE5pVXE2TEdTWlA4NjdVQW8za3NyRjBYdnczdFdwUDhSV2tES0cyYjBxLXhGUzRzTUVXVkNOZnJhLUpZbWQ5UUtJTGlibC1fLTZQQdIB2gFBVV95cUxObWdNSVkwQjUtZW1HNXlQLXpZVEVKbnJnTF9fdHVSaWUybS1MQU1sUFFRaTdaYW43Z1F1UUhIVi1YMXUzdXRubjBGZGJBX2RBWVptZ2xySDhuQlJSRlZTTGt4bmFjX1NzWC05RGpSYUt4dTdGTW01c2d5OGJFOXlSWXM3X0txanZzSlU0amY1YnVuMzcwNmdOWExfTUgzSU96bElCTTRDNXgzQXd3QWtMVm5VOWdlRzhNemNMNkM4Q1NwZ05IU19ZQ3M0aUlpV2NERnE2Q2Vodk5YUQ?oc=5",
+     "fonte": "Valor Econômico",
+     "data": "2026-09-15"
+    },
+    {
+     "titulo": "Espanha divulga 1º notificação de violação de dados ligada a agente de IA | Empresas - Valor Econômico",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRFo2UTR2cXpQY292MEd6QlJ4Z285blhJSFNlT3FWTWRadTJUZ0EyQzlOUDFXUEVBWFBsR0xoZE1oTmJwWFU4aUtDaURXU3FBMUNUN3V0bFRBeTl3WDFxSmp0U2diZkhhc3lVc2FwOXVrd2U3TF9WOTdoSE5DVlplNE5pVXE2TEdTWlA4NjdVQW8za3NyRjBYdnczdFdwUDhSV2tES0cyYjBxLXhGUzRzTUVXVkNOZnJhLUpZbWQ5UUtJTGlibC1fLTZQQQ?oc=5",
+     "fonte": "Valor Econômico",
+     "data": "2026-09-15"
+    },
+    {
+     "titulo": "Agência Espanhola de Proteção de Dados detectou o primeiro ataque realizado por um agente de IA na Espanha - Instituto Humanitas Unisinos - IHU",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ2hmOUE2WU9pQkt2Ti1vNmRjcXFJSlQwVmtZSGN2WHNYZlViYjhmTkc1bHVfcGEzdjlNb3F0TWhfR2N5NEk0MTl2V0lSZTdDblAySjBaTWI4QldCZGdweGJzUHdvZmluaFEtT2pwNDFlZFRGOGNzYVA1bGpvNm9KR0xGZ0g0c3NsbS1IUmVVNWI4RUNkRGp4TDk2YXVjSXk4U19PN0xobGtfY0ZGSHloSWdiSDNCN09yXzVkQUtpTlJpY1JyYnF0dE9SdVhseWlYbFZOeldCNGtSSGdjWnlfcy1Ya1Zia2F5TWc?oc=5",
+     "fonte": "Instituto Humanitas Unisinos - IHU",
+     "data": "2026-09-16"
+    },
+    {
+     "titulo": "Proteção de Dados espanhola recebeu primeiro alerta sobre um ataque feito por um agente de IA - Observador",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaS1WVTIwNXYzaEtIR0s1YzlSYXNrcVhiazdLUTA4ZGMxZGhSSjdYNVZKNTlWdllEdWRITHRSNUZKR1BFeDFEc1pBTFVHX0E4S1RRaHNyZHgwb2F5UVJxN3l3ME5YamhqRkRnSXdPeEtyZ3ZmRlh3WTZ5RFZPaFFxYVJPWTlxd2JrX0U3UFhmUlFZMGRNNGdzcGp1RmlOOVVxb2xUXzJlYlFNbWRqMVg1TGZEbmVfRGRMbVlxU3dWZmNtSHJldlE?oc=5",
+     "fonte": "Observador",
+     "data": "2026-09-16"
+    },
+    {
+     "titulo": "AEPD confirma 1º ataque cibernético por agente de IA autônomo - cryptoid.com.br",
+     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOTlZtQjN0RzQ5QzVOTFEwa29vR3M0TzhCc0tQdVpHM0FfVGpfdlZfSkpkS2hxdVFncFlBU01YblZMYndKT1ktaHVBTFNoeDNOdnMtZUFTQUl5cDlPMFMxWm5WX3pvU1VQbk12T19UYU9HWTlaM3JJZmZSLVFVVWhQRlFCVjNZeDRYNHM1TUZqVTQ3OFZ3WHViY1liM0FtclptT1d3ZG9sYUV5XzVkOFYzTVREOXhMcnlhMEFUQ3lNS1VIT0VnNUgwOTROaGJudlhYQ1BGcXhWblJjZ252ZU5rM3M1MFd4cnQyRW5QSUZyNDNmMVRqbE1kYXMxb0MtZVZ2UXg1UkpFUHBnUFUwalFwYW1Xdw?oc=5",
+     "fonte": "cryptoid.com.br",
+     "data": "2026-09-21"
     }
    ]
   },
@@ -2420,54 +2504,6 @@
    ]
   },
   {
-   "id": 21,
-   "caso": 15,
-   "titulo": "AEPD confirma 1º ataque cibernético por agente de IA autônomo - cryptoid.com.br",
-   "papel": "agente_em_producao",
-   "gravidade": 1.2,
-   "divergencia": true,
-   "confirmacao": "oficial",
-   "empresa": "nao_informado",
-   "defasagem": "nao_informado",
-   "pais": "esp",
-   "pais_nome": "Espanha",
-   "numerico": "724",
-   "primeira": "2026-09-14",
-   "ultima": "2026-09-21",
-   "fontes": [
-    {
-     "titulo": "A AEPD registra a primeira violação de dados na Espanha atribuída a um ataque executado por um agente de IA - Demócrata",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTkNMNk9INzBfWnl5ODY3SGpWd2VQaUFvbDNGNTU5cnFoVk1RNkJXWjMySlk4SDMwVjg5RURkMkpnQ0tLMjJrZGhnbUhvdGRKRlNhNlNTbzc2WVZMTk5SOHdsbnhGcS1aYnBlVk1RR1AwaG1FOHd0VGRxVDJJTnRuM2FTQ1IzV2tteUYyUFp4X2JTQk5hSHh5MFRVUVVfVldzMDIwd3Z4N2hOblIzbFF3Sk9JdjRCU2xtUlU1Vm5CUVQ4LUtKMUpaWUpMc3BsTHZIV05yVkJHSGpxZF9nT3fSAeMBQVVfeXFMTzdlQXNOV0Vza0NobUduV1VoMXhzSzZIMGJhbloyZV9obXFnT0xpLWxZNXhQS1B4NjNMdmFDZVlTbFM0VWxYS1Ata1AzcGh4YUdsTWM3eHZHdFJYOVc1ZkcwMXk0OGFoYkI0S001TlhtRlFmcWFaeWc4Y1RPNXc5SldZYVd3R0o3UFZ6TVJhLU1GYk8yd2tHb2dXUW9jZ1UzUWY2X0ZqeGtwUmwteC04VjFueGx0Vmw4WnF6M2ctcnZLa3A5blRTc0llTUNfcWQ5cmFlS3kyRlB6WTVxRU5uNUFWbVk?oc=5",
-     "fonte": "Demócrata",
-     "data": "2026-09-14"
-    },
-    {
-     "titulo": "Espanha divulga 1º notificação de violação de dados ligada a agente de IA - Valor Econômico",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRFo2UTR2cXpQY292MEd6QlJ4Z285blhJSFNlT3FWTWRadTJUZ0EyQzlOUDFXUEVBWFBsR0xoZE1oTmJwWFU4aUtDaURXU3FBMUNUN3V0bFRBeTl3WDFxSmp0U2diZkhhc3lVc2FwOXVrd2U3TF9WOTdoSE5DVlplNE5pVXE2TEdTWlA4NjdVQW8za3NyRjBYdnczdFdwUDhSV2tES0cyYjBxLXhGUzRzTUVXVkNOZnJhLUpZbWQ5UUtJTGlibC1fLTZQQdIB2gFBVV95cUxObWdNSVkwQjUtZW1HNXlQLXpZVEVKbnJnTF9fdHVSaWUybS1MQU1sUFFRaTdaYW43Z1F1UUhIVi1YMXUzdXRubjBGZGJBX2RBWVptZ2xySDhuQlJSRlZTTGt4bmFjX1NzWC05RGpSYUt4dTdGTW01c2d5OGJFOXlSWXM3X0txanZzSlU0amY1YnVuMzcwNmdOWExfTUgzSU96bElCTTRDNXgzQXd3QWtMVm5VOWdlRzhNemNMNkM4Q1NwZ05IU19ZQ3M0aUlpV2NERnE2Q2Vodk5YUQ?oc=5",
-     "fonte": "Valor Econômico",
-     "data": "2026-09-15"
-    },
-    {
-     "titulo": "Agência Espanhola de Proteção de Dados detectou o primeiro ataque realizado por um agente de IA na Espanha - Instituto Humanitas Unisinos - IHU",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ2hmOUE2WU9pQkt2Ti1vNmRjcXFJSlQwVmtZSGN2WHNYZlViYjhmTkc1bHVfcGEzdjlNb3F0TWhfR2N5NEk0MTl2V0lSZTdDblAySjBaTWI4QldCZGdweGJzUHdvZmluaFEtT2pwNDFlZFRGOGNzYVA1bGpvNm9KR0xGZ0g0c3NsbS1IUmVVNWI4RUNkRGp4TDk2YXVjSXk4U19PN0xobGtfY0ZGSHloSWdiSDNCN09yXzVkQUtpTlJpY1JyYnF0dE9SdVhseWlYbFZOeldCNGtSSGdjWnlfcy1Ya1Zia2F5TWc?oc=5",
-     "fonte": "Instituto Humanitas Unisinos - IHU",
-     "data": "2026-09-16"
-    },
-    {
-     "titulo": "Proteção de Dados espanhola recebeu primeiro alerta sobre um ataque feito por um agente de IA - Observador",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaS1WVTIwNXYzaEtIR0s1YzlSYXNrcVhiazdLUTA4ZGMxZGhSSjdYNVZKNTlWdllEdWRITHRSNUZKR1BFeDFEc1pBTFVHX0E4S1RRaHNyZHgwb2F5UVJxN3l3ME5YamhqRkRnSXdPeEtyZ3ZmRlh3WTZ5RFZPaFFxYVJPWTlxd2JrX0U3UFhmUlFZMGRNNGdzcGp1RmlOOVVxb2xUXzJlYlFNbWRqMVg1TGZEbmVfRGRMbVlxU3dWZmNtSHJldlE?oc=5",
-     "fonte": "Observador",
-     "data": "2026-09-16"
-    },
-    {
-     "titulo": "AEPD confirma 1º ataque cibernético por agente de IA autônomo - cryptoid.com.br",
-     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOTlZtQjN0RzQ5QzVOTFEwa29vR3M0TzhCc0tQdVpHM0FfVGpfdlZfSkpkS2hxdVFncFlBU01YblZMYndKT1ktaHVBTFNoeDNOdnMtZUFTQUl5cDlPMFMxWm5WX3pvU1VQbk12T19UYU9HWTlaM3JJZmZSLVFVVWhQRlFCVjNZeDRYNHM1TUZqVTQ3OFZ3WHViY1liM0FtclptT1d3ZG9sYUV5XzVkOFYzTVREOXhMcnlhMEFUQ3lNS1VIT0VnNUgwOTROaGJudlhYQ1BGcXhWblJjZ252ZU5rM3M1MFd4cnQyRW5QSUZyNDNmMVRqbE1kYXMxb0MtZVZ2UXg1UkpFUHBnUFUwalFwYW1Xdw?oc=5",
-     "fonte": "cryptoid.com.br",
-     "data": "2026-09-21"
-    }
-   ]
-  },
-  {
    "id": 78,
    "caso": 57,
    "titulo": "Após os acontecimentos na Austrália, um agente de IA foi descoberto tentando se infiltrar nos sistemas do governo canadense. - Vietnam.vn",
@@ -2988,9 +3024,21 @@
      "data": "2026-09-29"
     },
     {
+     "titulo": "OpenAI apologises over AI agent breach of Australian government systems - Free Press Kashmir",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMGFCQldqWTFOWUREanZaNnhqNFo3YzRNVW9HNURVZjA0cTRQWlBfQ0JlV0lKWnBXVXBkcnBNQVFLUVpVNTNLZFE4QnZHOF9IUWZKQzRrQ3ppVjNWNUxwYzM5dHo3X25qeHNwZHFwMjU1U2xNM0pBU3FJMkxxYlBwQ0lpaWN1bV9XLUVzYjB2Z0RZY1I1R2pZdW4wUlltQzNjRWNTT2ctMU1RSlZQYVJMc1FqZ9IBuAFBVV95cUxPZE9rM3hxVDdKelRTVXBWWkYzUTVuSXZ3NjliemdvRmZOemM4RVU0ZTNsYzE0ME9HTFpFVVYzUGd2dU01NUtGSWdaeTBqMkhYRjhCbkprX1BUbXlRQTV2TmctSHBveFR6SU5jSU5IWVVWNkZQZjlmUWl1d0dURmNKOElPaHMwRnQzVC1Yb2gyVmtMeGJuSlgzNUlxOVMxUHQ3cEJpS3NTbVFIeHNfWmpERTctRWVMaHFw?oc=5",
+     "fonte": "Free Press Kashmir",
+     "data": "2026-09-29"
+    },
+    {
      "titulo": "Dona do ChatGPT pede desculpas por invasão de IA em site do governo australiano - G1",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTFRUZjNXSUktV0Z6LU8wX3RYYnF1VmQ5LTV4UTZSX3Q4RzNjUG1KUWFyMU5wVFgxVnc4ZlduWFlYZkxjMGUxTDhIZkdjYTBSVHZOeDV0eGFKVVhzcUxLc3Y4djlGNmdjcnpkbEpoMWpDWXo3S212XzFBVzJXeUpNNkNVX2JNMnVwTDhNYTJYdU9xdzJYcVVnY0s2S1Q5MW55UnM2SFBFMHk5QlFFUl9pNzNiQVFkQzVERW8xbmNSZnBzc3g4Vk5ZZm5VLWFFeVFwakHSAeABQVVfeXFMT3N3ZlFDc09lR3Z4ZEQ0Rkoxa1hlT01obTIzZ2Y0QUVkYkxVM3dJSVMwSlNvcURkSU1ybU1ENDJ1d3dycWJORDR3MEZNTF9hdGttTkZpZXFzREJ5YlZRYkMwQ1JNdjFaeXVwemEtaFd3OW9qN0VTY0piRjdra0h4aXZyV3BfcGtKYjUyeUxvRHFoaEhrX053SXVsZXdsLU5IaGhWV2xZaGZ3ZERpQ1hfazF5cTdnTXFPSS1jU19EcE1CalZiSU4zRElLUzZoekh0U0s0YTRWRVhZZnZuSmktWHI?oc=5",
      "fonte": "G1",
+     "data": "2026-09-29"
+    },
+    {
+     "titulo": "OpenAI admite invasão de site do governo australiano e promete melhorias - boca.com.br",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY2FRTTNIMDIxelZNcFI5RS1yTkxvVndKQVEwcVpkaDBONnpDdE1NYUh4YUZTbV95MVI5QXNVeFEyR1pISmZtUTdkaENsWTRjOWJQVFJpX1VtVXdRei00TVEwSVNjM2VGX3VNZkx6U2lyU0VNaC1zcE5JeEJnUzNpM09VOA?oc=5",
+     "fonte": "boca.com.br",
      "data": "2026-09-29"
     },
     {
