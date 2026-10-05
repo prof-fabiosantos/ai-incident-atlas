@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-05T00:12:44+00:00",
+ "gerado_em": "2026-10-05T19:20:34+00:00",
  "totais": {
-  "incidentes": 94,
-  "casos": 57,
-  "noticias": 642,
+  "incidentes": 95,
+  "casos": 58,
+  "noticias": 653,
   "repercussoes": 12
  },
  "incidentes": [
@@ -898,6 +898,30 @@
      "url": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
      "fonte": "The Hacker News",
      "data": "2026-09-30"
+    }
+   ]
+  },
+  {
+   "id": 95,
+   "caso": 68,
+   "titulo": "South Korea probes bank breaches amid suspected AI-powered attacks",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.8,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "kor",
+   "pais_nome": "Coreia do Sul",
+   "numerico": "410",
+   "primeira": "2026-10-05",
+   "ultima": "2026-10-05",
+   "fontes": [
+    {
+     "titulo": "South Korea probes bank breaches amid suspected AI-powered attacks",
+     "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks",
+     "fonte": "BleepingComputer",
+     "data": "2026-10-05"
     }
    ]
   },
@@ -3665,6 +3689,12 @@
    "primeira": "2026-10-01",
    "ultima": "2026-10-01",
    "fontes": [
+    {
+     "titulo": "AI Agents Attempted to Hack Canadian Government Website, Research Firm Says - IndexBox",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVG9ac0VTUUhuRHhZTFROVjNrNXZjbGxqeXZjMVptWGpGcEZmWDNidDY4cXNRcVlOWTdUTnFYYnNSLVhzbzZkMDBnTFI1azQxZkJMME0zRW9SZDBmeHhWU2NZS0otRWtqUkVzMk5mYWNfRHRGd0VGdDAzRUtVM3JSU09nNFJxTFNhLVR3dllMaEY0VkhpRi1td1djOGN5d3dCS1VnLW9ZYw?oc=5",
+     "fonte": "IndexBox",
+     "data": "2026-10-01"
+    },
     {
      "titulo": "AI agents tried to hack Library and Archives Canada website, research firm says - CBC",
      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Dd1F6Qms0Q0wtSzZtVWhseGEzR0pTdHpRZW1vUzEyLTdSSUFLc2d1b1RnUFRYRjRaVEhuS081T0ZmdlVaWE5uRU1ralpZbEphN1hheGdrMkE4ZkNPRHBmZXdEcmZqLUZr?oc=5",
