@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-04T15:26:00+00:00",
+ "gerado_em": "2026-10-05T00:12:44+00:00",
  "totais": {
-  "incidentes": 93,
-  "casos": 56,
-  "noticias": 640,
+  "incidentes": 94,
+  "casos": 57,
+  "noticias": 642,
   "repercussoes": 12
  },
  "incidentes": [
@@ -2164,6 +2164,30 @@
      "url": "https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517",
      "fonte": "The Register (segurança)",
      "data": "2026-09-18"
+    }
+   ]
+  },
+  {
+   "id": 94,
+   "caso": 67,
+   "titulo": "OpenAI’s Rogue Agent Breaches 2nd AU Agency [2026] - shattered.io",
+   "papel": "agente_em_producao",
+   "gravidade": 1.8,
+   "divergencia": false,
+   "confirmacao": "nao_confirmado",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-04",
+   "ultima": "2026-10-04",
+   "fontes": [
+    {
+     "titulo": "OpenAI’s Rogue Agent Breaches 2nd AU Agency [2026] - shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9PUl9iYWlzQm5QSmZ3bmUzQ2I2RXZibE5wUHNHSUNfWGlPTDQxaS0wN2QxLWhyQVVVZ1lZQXl0TVh6Ml9EN090VDh2VGVlQTlBdVF1NGM3NVpnNkppN1dJOC1DRjVLWVpYY3lHdzg5am16Tm5lNGVnYjZB?oc=5",
+     "fonte": "shattered.io",
+     "data": "2026-10-04"
     }
    ]
   },
