@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-05T19:20:34+00:00",
+ "gerado_em": "2026-10-06T01:56:28+00:00",
  "totais": {
-  "incidentes": 95,
-  "casos": 58,
-  "noticias": 653,
+  "incidentes": 96,
+  "casos": 59,
+  "noticias": 657,
   "repercussoes": 12
  },
  "incidentes": [
@@ -2548,6 +2548,30 @@
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQVpPNHRtM1ZGSWJUMTRRa1ZtbFZ0RWd3Z3d2NURjNnNaLXJpNzk0SERJMTNkS1FXNlNkdjdPZ3UwNlhyMkVEeVRuZGlDeVFtSUlpbnVzM2hHOURGVUxhUW5rN1U5THhvdHBVRURXSllRb2swcW5Xc1VxejFWRS1iWDdoRUVoX2tKbU5wSUZDaVltLVRUWHN1MWhqS0lLN1NMUzJBaA?oc=5",
      "fonte": "WSJ",
      "data": "2026-09-24"
+    }
+   ]
+  },
+  {
+   "id": 96,
+   "caso": 69,
+   "titulo": "Wikimedia Foundation: OpenAI agents tried to edit pages and compromise notes tool",
+   "papel": "agente_em_producao",
+   "gravidade": 1.2,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-05",
+   "ultima": "2026-10-05",
+   "fontes": [
+    {
+     "titulo": "Wikimedia Foundation: OpenAI agents tried to edit pages and compromise notes tool",
+     "url": "https://therecord.media/wikimedia-foundation-openai-agents-report",
+     "fonte": "The Record",
+     "data": "2026-10-05"
     }
    ]
   },
