@@ -1,10 +1,10 @@
 {
- "gerado_em": "2026-10-06T01:56:28+00:00",
+ "gerado_em": "2026-10-06T16:51:59+00:00",
  "totais": {
-  "incidentes": 96,
-  "casos": 59,
-  "noticias": 657,
-  "repercussoes": 12
+  "incidentes": 98,
+  "casos": 60,
+  "noticias": 675,
+  "repercussoes": 13
  },
  "incidentes": [
   {
@@ -93,7 +93,7 @@
    "pais_nome": "Austrália",
    "numerico": "036",
    "primeira": "2026-09-10",
-   "ultima": "2026-09-29",
+   "ultima": "2026-10-06",
    "fontes": [
     {
      "titulo": "Open IA invade site com dados da saúde pública da Austrália - Folha PE",
@@ -496,6 +496,12 @@
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaXY4NHVCTW9nM0p3V2ppUVZ6QTFxSXNjcGhQS0FKQnJjUm1UaFBlSURWN1VtV0syck8yTW5MdHZGQUJGZVd0eHMyeGM5Vl9rOXFranI4dmdubWVfdVBqMlNVRFpaZ1RteE14SUVUMmtwd2lYdzdhcDBlMHJrd2ZDZV81OFVpLUM0b2E3dC11MFktb2ozQXotQ3ZwdW9YT1ZwNDBYOHFqaVk5b0wxUm1WSzdXSzZWWUt0NjNPdEJqVzhjdw?oc=5",
      "fonte": "The Guardian",
      "data": "2026-09-29"
+    },
+    {
+     "titulo": "OpenAI reconhece erros na resposta à infiltração no sistema de saúde australiano - Dinheiro Vivo",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWS1mVDRqQ094NkozQ1YxckZCNkZGaEk0YWh4cUZ0Ui1fNlBucEI4b3BObEtDY0hFX052RDV1TklEWVhYQjd5MXczVlJ1YW96R1F5OVc2R05oV1pVVDhBQnFhUmVNU2hEWDJianRhejZuSXA3dGZxcnNUSlNIUTRXN3VMZWpuOHZOeXdzb1hoZmVGWDN1SW1kY1FtWTdnN2JDZHJVMm9TNnBTcnM2SlFrNWNZS0hVVEdIdHFJ?oc=5",
+     "fonte": "Dinheiro Vivo",
+     "data": "2026-10-06"
     }
    ]
   },
@@ -544,6 +550,36 @@
      "url": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking",
      "fonte": "BleepingComputer",
      "data": "2026-09-28"
+    }
+   ]
+  },
+  {
+   "id": 95,
+   "caso": 68,
+   "titulo": "South Korean officials believe AI agents were used to hack several banks",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 3.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "kor",
+   "pais_nome": "Coreia do Sul",
+   "numerico": "410",
+   "primeira": "2026-10-05",
+   "ultima": "2026-10-06",
+   "fontes": [
+    {
+     "titulo": "South Korea probes bank breaches amid suspected AI-powered attacks",
+     "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks",
+     "fonte": "BleepingComputer",
+     "data": "2026-10-05"
+    },
+    {
+     "titulo": "South Korean officials believe AI agents were used to hack several banks",
+     "url": "https://therecord.media/south-korean-bank-hacks-ai-agents",
+     "fonte": "The Record",
+     "data": "2026-10-06"
     }
    ]
   },
@@ -902,30 +938,6 @@
    ]
   },
   {
-   "id": 95,
-   "caso": 68,
-   "titulo": "South Korea probes bank breaches amid suspected AI-powered attacks",
-   "papel": "ia_como_ferramenta",
-   "gravidade": 2.8,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "nao_informado",
-   "defasagem": "nao_informado",
-   "pais": "kor",
-   "pais_nome": "Coreia do Sul",
-   "numerico": "410",
-   "primeira": "2026-10-05",
-   "ultima": "2026-10-05",
-   "fontes": [
-    {
-     "titulo": "South Korea probes bank breaches amid suspected AI-powered attacks",
-     "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks",
-     "fonte": "BleepingComputer",
-     "data": "2026-10-05"
-    }
-   ]
-  },
-  {
    "id": 54,
    "caso": 36,
    "titulo": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
@@ -1118,6 +1130,60 @@
    ]
   },
   {
+   "id": 98,
+   "caso": 70,
+   "titulo": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.2,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "varias",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-06",
+   "ultima": "2026-10-06",
+   "fontes": [
+    {
+     "titulo": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
+     "url": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes",
+     "fonte": "BleepingComputer",
+     "data": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": 90,
+   "caso": 38,
+   "titulo": "OpenAI alerts more than 100 groups about rogue AI agent activity - Reuters",
+   "papel": "agente_em_producao",
+   "gravidade": 2.2,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-01",
+   "ultima": "2026-10-02",
+   "fontes": [
+    {
+     "titulo": "OpenAI alerts more than 100 groups about rogue AI agent activity - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5",
+     "fonte": "Reuters",
+     "data": "2026-10-01"
+    },
+    {
+     "titulo": "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse",
+     "url": "https://www.theregister.com/security/2026/10/02/openai-alerts-100-orgs-that-its-misaligned-models-attempted-to-break-in-or-worse/5300891",
+     "fonte": "The Register (segurança)",
+     "data": "2026-10-02"
+    }
+   ]
+  },
+  {
    "id": 41,
    "caso": 16,
    "titulo": "First known AI hack of a government system - CNN",
@@ -1257,30 +1323,6 @@
      "titulo": "Another OpenAI hack: AI agent took non-public gov data in Australia - Yahoo",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMTV6Y25LQUwtcVZOX1BUNkkwckNNZ0ZuelRTekQwd1FGdmttNUFoSERVNkVZekNsVVgxbWZva0JnSHBzQ0E4Y0NmSWh0a0EtRzNHT2htRVpWOEdIcWVIYjB4TjdDcXBsLTF6azhpNkJyeDRXYnIySFUxZU00YWd2WHQwdHk2Uzh0UDVNMFZ3?oc=5",
      "fonte": "Yahoo",
-     "data": "2026-10-02"
-    }
-   ]
-  },
-  {
-   "id": 90,
-   "caso": 38,
-   "titulo": "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse",
-   "papel": "agente_em_teste",
-   "gravidade": 2.0,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "openai",
-   "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-10-02",
-   "ultima": "2026-10-02",
-   "fontes": [
-    {
-     "titulo": "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse",
-     "url": "https://www.theregister.com/security/2026/10/02/openai-alerts-100-orgs-that-its-misaligned-models-attempted-to-break-in-or-worse/5300891",
-     "fonte": "The Register (segurança)",
      "data": "2026-10-02"
     }
    ]
@@ -2264,6 +2306,30 @@
    ]
   },
   {
+   "id": 97,
+   "caso": 29,
+   "titulo": "OpenAI Medicare Breach: Agent Gains Unauthorized Portal Access - Telehealth.org",
+   "papel": "agente_em_producao",
+   "gravidade": 1.7,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-05",
+   "ultima": "2026-10-05",
+   "fontes": [
+    {
+     "titulo": "OpenAI Medicare Breach: Agent Gains Unauthorized Portal Access - Telehealth.org",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb21RSDhHM2dHUzRiMDdWeFVDQlRnZS03Z0s2aEhEWjVxLWI2X1hDR0xtTUxJTUlBeWE0N1lUZGZMUnl6clJRX2RONlBPdE9WZ2t5aFJNWXlKMVNxRFNaM1FCVW95dERfWEdlZy1CXzdkNVZqNEtTOVRCcWFwNUZfQkZfVVpmdmFLNTFBRmt3ZHBUN2tobWZqWlk4RUVuYlhDNlZ4Uk52aHI0ZzkzUkZzRUhpZ05kZUNERjJJ?oc=5",
+     "fonte": "Telehealth.org",
+     "data": "2026-10-05"
+    }
+   ]
+  },
+  {
    "id": 51,
    "caso": 34,
    "titulo": "Agente de IA conduz invasão corporativa sem comando manual - SpaceMoney",
@@ -2552,30 +2618,6 @@
    ]
   },
   {
-   "id": 96,
-   "caso": 69,
-   "titulo": "Wikimedia Foundation: OpenAI agents tried to edit pages and compromise notes tool",
-   "papel": "agente_em_producao",
-   "gravidade": 1.2,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "openai",
-   "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-10-05",
-   "ultima": "2026-10-05",
-   "fontes": [
-    {
-     "titulo": "Wikimedia Foundation: OpenAI agents tried to edit pages and compromise notes tool",
-     "url": "https://therecord.media/wikimedia-foundation-openai-agents-report",
-     "fonte": "The Record",
-     "data": "2026-10-05"
-    }
-   ]
-  },
-  {
    "id": 78,
    "caso": 57,
    "titulo": "Após os acontecimentos na Austrália, um agente de IA foi descoberto tentando se infiltrar nos sistemas do governo canadense. - Vietnam.vn",
@@ -2637,7 +2679,7 @@
    "pais_nome": "Austrália",
    "numerico": "036",
    "primeira": "2026-09-23",
-   "ultima": "2026-10-02",
+   "ultima": "2026-10-06",
    "fontes": [
     {
      "titulo": "Um agente de inteligência artificial infiltrou-se ilegalmente em um sistema do governo australiano. - Vietnam.vn",
@@ -3160,6 +3202,18 @@
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcVE0aFNvbjdtazFpYU5qNXo4dExxTVpkMEJJQ1pLVWtZX0UydjI0bzRBd1Z5LTVkSVM0Nko5em5CX0w4bHhTX0hXR0pGSEVIUHBZZDdxTktBRXYxdV9ZUk84R3VmNUFpTXMydEpJdm9qa1VHS1ZqNE81dS0wVFJ5bXhfU18xRDFGemwwM2pZa3FvWThHQk14X2FQUGJtMi13b09QQ3pVc2JjSHRpY1p4TzgteWpRdGFmRlJJRA?oc=5",
      "fonte": "Digital Trends",
      "data": "2026-10-02"
+    },
+    {
+     "titulo": "OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day - The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQV9vbzIxazFuRjRrZVRqQnF1c2toZ1dMcnMxTUN4Uk5ISVNFQ1Q4aGdSd0t6aE16YjMzZ09nWGVHdUYzUE1jN0IyOThnYUNVTEdBNFlEWkJ1LVhBOU0yNGZwWnRvWGgwNTUyTTVNX1BnVkRvb2g1WFlmTDBTcGdfYUd2bGhHWFdycFY4WWFiSGxYOVR2QldpR3VnN0VsLW1JWDFBTUxlTFN6UTVwRjBVRGxjRlE3M3JSRnVV?oc=5",
+     "fonte": "The Guardian",
+     "data": "2026-10-03"
+    },
+    {
+     "titulo": "Austrália: OpenAI admite erro ao lidar com invasão a sistema de saúde - Agência Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQlFjUTVkZzM1ZVBOYmRzcUFkS05WdGdTaXItU0Jjam1PMjdySjdKaHdfSnJSY0FMYTR3WHFQUE9VN09QNGdKZC0wZ19mak9GdFI5UmFSS3pJZU1XSDFxMHZMM1pPVXMwM0dENkZZdG1GYml4OXRGOVVlMkNxMmtrMmdRUDlnblVqbWJ6dm5XaUIyMEdLRk9pNFc2N3pRYmYzT25KV19Kc0x0MmMwTFJCaHh2Sm0wT19jQVJhWnVuZ21aMzNacVZnZA?oc=5",
+     "fonte": "Agência Brasil",
+     "data": "2026-10-06"
     }
    ]
   },
@@ -3220,6 +3274,42 @@
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV1pYUTQ2eVQ1VDN4M0xCSF9xaXo2Y1JVSkduM0F5aWJScElRX3djY1lXRTZHaUVHaXctei1zYk4teHFqTlFfUjdDczl5bDI3UWtTbjdoclI2bUIwR2NyWmU3WlRZdWRQWmJZNWJBcGJLaGROSXE1c1V1a1BYOUNHMDZVRmhZRnVsZXZqUUVyOTN4RDgyaWQ1UDBzeTlnQW50MmFiNDRkNkxOUEI5MmZVWFEtbEhaYkR2dThSSWxDNl81UUlLX1lfRXFNc1dibE1zSnc?oc=5",
      "fonte": "UOL",
      "data": "2026-08-27"
+    }
+   ]
+  },
+  {
+   "id": 96,
+   "caso": 69,
+   "titulo": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
+   "papel": "agente_em_producao",
+   "gravidade": 1.1,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-05",
+   "ultima": "2026-10-06",
+   "fontes": [
+    {
+     "titulo": "Wikimedia Foundation: OpenAI agents tried to edit pages and compromise notes tool",
+     "url": "https://therecord.media/wikimedia-foundation-openai-agents-report",
+     "fonte": "The Record",
+     "data": "2026-10-05"
+    },
+    {
+     "titulo": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
+     "url": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
+     "fonte": "The Hacker News",
+     "data": "2026-10-06"
+    },
+    {
+     "titulo": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
+     "url": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits",
+     "fonte": "BleepingComputer",
+     "data": "2026-10-06"
     }
    ]
   },
@@ -3700,7 +3790,7 @@
   {
    "id": 79,
    "caso": 58,
-   "titulo": "AI agents tried to hack Library and Archives Canada website, research firm says - CBC",
+   "titulo": "AI agents targeted Canadian government website in failed hack attempt - The Jerusalem Post",
    "papel": "ia_como_ferramenta",
    "gravidade": 0.6,
    "divergencia": false,
@@ -3717,6 +3807,12 @@
      "titulo": "AI Agents Attempted to Hack Canadian Government Website, Research Firm Says - IndexBox",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVG9ac0VTUUhuRHhZTFROVjNrNXZjbGxqeXZjMVptWGpGcEZmWDNidDY4cXNRcVlOWTdUTnFYYnNSLVhzbzZkMDBnTFI1azQxZkJMME0zRW9SZDBmeHhWU2NZS0otRWtqUkVzMk5mYWNfRHRGd0VGdDAzRUtVM3JSU09nNFJxTFNhLVR3dllMaEY0VkhpRi1td1djOGN5d3dCS1VnLW9ZYw?oc=5",
      "fonte": "IndexBox",
+     "data": "2026-10-01"
+    },
+    {
+     "titulo": "AI agents targeted Canadian government website in failed hack attempt - The Jerusalem Post",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fQXhaMUc2VWY2VzJFRWp3WjZrT255bkJjUU1FWWFsZncxYi0zLWR4TTZ2WVhydnVlbnJvRGNzVk1yNXE3SExhVjltRnJ5MGlrOXRUc05IRXdVcTFWWTNz?oc=5",
+     "fonte": "The Jerusalem Post",
      "data": "2026-10-01"
     },
     {
@@ -3883,6 +3979,13 @@
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVGNIUG1fLW5MenhBeDJiUnpLWHNSblZ6YVpuSGQ1aGJZWWZUQlBwZHBleTJZcnlTLTBqNFFrTWhDTTRGMlNoZDZXTjlWN0Vycld5eXJoQ0ozVkpkSndUa3k1NURDTjdXQWR4d251QmRhT0s2TWFuRnNEdGdtaVhzeHRBWVNwMm9vc2xj?oc=5",
    "fonte": "boca.com.br",
    "data": "2026-09-30"
+  },
+  {
+   "caso": 29,
+   "titulo": "OpenAI has ‘work to do to rebuild trust’ in Australia, executive tells AI inquiry - The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSGdFa0tHNHRYNkdfcGhPME5FSTF6SUhlRElfZWVKUzJlTWVvMVllQ0hfNTdjZXNLN1FZa3poY0ljNjBSNkk5SFpDWlhzbjBaQkZpY2F4dlZHVk9qNkM0ZlBHQVZKN0hVZzJHa0FNS21qYWh1SXM0ZjhoNmlHVzhWcElobHFvOFppV29HOG9tMzBoSWJkbU5V?oc=5",
+   "fonte": "The Guardian",
+   "data": "2026-10-06"
   },
   {
    "caso": 38,
