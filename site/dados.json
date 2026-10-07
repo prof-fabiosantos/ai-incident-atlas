@@ -1,10 +1,10 @@
 {
- "gerado_em": "2026-10-07T01:02:53+00:00",
+ "gerado_em": "2026-10-07T17:28:20+00:00",
  "totais": {
-  "incidentes": 99,
-  "casos": 60,
-  "noticias": 685,
-  "repercussoes": 13
+  "incidentes": 100,
+  "casos": 61,
+  "noticias": 700,
+  "repercussoes": 14
  },
  "incidentes": [
   {
@@ -586,6 +586,42 @@
      "url": "https://therecord.media/south-korean-bank-hacks-ai-agents",
      "fonte": "The Record",
      "data": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": 100,
+   "caso": 71,
+   "titulo": "Poetry is the new AI security threat as PoeLLM malware infects 3K+ servers",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 3.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-07",
+   "ultima": "2026-10-07",
+   "fontes": [
+    {
+     "titulo": "PoeLLM malware infects exposed AI servers in cryptomining attacks",
+     "url": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks",
+     "fonte": "BleepingComputer",
+     "data": "2026-10-07"
+    },
+    {
+     "titulo": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
+     "url": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
+     "fonte": "The Hacker News",
+     "data": "2026-10-07"
+    },
+    {
+     "titulo": "Poetry is the new AI security threat as PoeLLM malware infects 3K+ servers",
+     "url": "https://www.theregister.com/security/2026/10/07/poetry-is-the-new-ai-security-threat-as-poellm-malware-infects-3k-servers/5301672",
+     "fonte": "The Register (segurança)",
+     "data": "2026-10-07"
     }
    ]
   },
@@ -1263,6 +1299,12 @@
      "titulo": "AI agent hacks government for the first time: “Didn’t accept no for ​an answer” - Techzine Global",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM0JZZW1ISmlkUU43dHlZejNlS0puSmVSM3VuSlIxTVFqM1dpUTd2T3NyNG5HekZCSVdSSTlMMjRRZjBUQThtY1NoYmQtU2pDMDhRQkxnRjZQWFd5R0NSYVZVNVdfSXVOckNtS0hPaFNlTzBtU1kyb3cyZTZ1Q0wtRm9kSGhzTFYxRkd3d3hQaFRnMDNteTB4Z3Bub1h4V3pLZVExZHZ3Q1BYSEFzZlNZWTBuSndxOTRNZ01JTA?oc=5",
      "fonte": "Techzine Global",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "AI Agent Hacks Government System - KHOU",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOamNjUWlxZ1lKWFVpeG41Mk9nbW04MTVQbDR2SkFkRDl4ZTNMNlFmZEowbFNrU3NTSnVaMHR0bEltckpONmZNNlRlOUZfay1SNFh5WnMwRUJ0S3p1T2dqcXVfRnpjcC1ra3loWXAxbzVQYjJ3YkZCVHc4X2dVTWJlQjNQQmZkYjZJODZHZnRoaUNOOEtBVUlDOVVOMVBGTld5OTFLaXpSbVY?oc=5",
+     "fonte": "KHOU",
      "data": "2026-09-24"
     },
     {
@@ -3999,6 +4041,13 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWUzh1b3A1YkxjZU9RNWZCWXJkWWRDMlRWU210UDRNY3NrVllBd2prS01xQ0UwajlGaVFualJhVWxHbkJZdWo3NDNWbG5FcXhFUGo3dzh3cExNTGo5UW1GQ193X3JZbHRZTUowN2Q1ZXHSAXBBVV95cUxQVlM4dW9wNWJMY2VPUTVmQllyZFlkQzJUVlNtdFA0TWNza1ZZQXdqa0tNcUNFMGo5RmlRbmpSYVVsR25CWXVqNzQzVmxuRXF4RVBqN3c4d3BMTUxqOVFtRkNfd19yWWx0WU1KMDdkNWVx?oc=5",
    "fonte": "The National Law Review",
    "data": "2026-10-01"
+  },
+  {
+   "caso": 2,
+   "titulo": "Senate ‘Rogue AI’ Hearing Ignites Bipartisan Push for Agent Liability – and Enterprises Should Pay Attention - Forkast News",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcDRsSjJQU1JvTDdvNGxPclh6LUFObnN2ZTNmMnYwTnhrdk04bjM3S3RTMDRoT1NsUGItQVd5TmNvLW8zb0JPeUc0bkExeHdpTmV4WFM2SUw5d1JYWkxFWXozTkdJX1o4bDRLQ3Rpa3J3S0FlOGJBeElBeVNqWnhhcmZpYU9yS1Bwdm9YRmNfLUZIOXR4YWVHQ1c3aEd3SHBVV1Z3dWxzcDE5Ul9hSFdadVdXUjdYdEN2YVlJZ1FxcElyYk44?oc=5",
+   "fonte": "Forkast News",
+   "data": "2026-10-06"
   },
   {
    "caso": 21,
