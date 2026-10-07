@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-06T16:51:59+00:00",
+ "gerado_em": "2026-10-07T01:02:53+00:00",
  "totais": {
-  "incidentes": 98,
+  "incidentes": 99,
   "casos": 60,
-  "noticias": 675,
+  "noticias": 685,
   "repercussoes": 13
  },
  "incidentes": [
@@ -576,6 +576,12 @@
      "data": "2026-10-05"
     },
     {
+     "titulo": "Hackers Use Chinese AI Tool to Hit South Korean Banks, Exposing New Risk - WSJ",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUTRJdWlBRmVMaVNJRHVHSko4aGZxQklwV3VUNkFUR2UwNXUtVHZURGhaLXZVS2NWZkpNY09RXzdkaHczOVJkelRPX3ZjcmJTdGJiRGpWZWNnMm11T0RGbUtnTnNEeElnLW81czQwcmlVY0Z4dVhRY21BSTJiMXJwS0dGekFySHB3aEVqR196a0w1RF8taXlRX3pIRE1oVlhNaW5Pc0diWXplRmEzd0UxRg?oc=5",
+     "fonte": "WSJ",
+     "data": "2026-10-06"
+    },
+    {
      "titulo": "South Korean officials believe AI agents were used to hack several banks",
      "url": "https://therecord.media/south-korean-bank-hacks-ai-agents",
      "fonte": "The Record",
@@ -1106,6 +1112,30 @@
    ]
   },
   {
+   "id": 99,
+   "caso": 68,
+   "titulo": "South Korea's Lee says AI appears to have been used in bank hacks - Reuters",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.3,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "kor",
+   "pais_nome": "Coreia do Sul",
+   "numerico": "410",
+   "primeira": "2026-10-06",
+   "ultima": "2026-10-06",
+   "fontes": [
+    {
+     "titulo": "South Korea's Lee says AI appears to have been used in bank hacks - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlNMcGlRUHRDdG9PMTZVVHBHWllVblNzOFJqQXZDZDFUQUFkR0R6eGFOUmwzZE1rMEhqc0VUdkY2Z2RBaXlBaHMyTkZqQnBTdGNhUC1JbnlEcmZsQ1pEdE1RODRReXdXcmJQQmxWOURfVGJCNkQwcHRsS2FDZFBpYTRmWEowcjV5ai1uSl9DcXFXMnczZ0xHN19HR21rTE4zVmc?oc=5",
+     "fonte": "Reuters",
+     "data": "2026-10-06"
+    }
+   ]
+  },
+  {
    "id": 93,
    "caso": 66,
    "titulo": "Shinhan Bank Data Breach Points to AI Agents Hacking Korean Banks - Startup Fortune",
@@ -1149,6 +1179,12 @@
      "titulo": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
      "url": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes",
      "fonte": "BleepingComputer",
+     "data": "2026-10-06"
+    },
+    {
+     "titulo": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+     "url": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+     "fonte": "The Hacker News",
      "data": "2026-10-06"
     }
    ]
@@ -1917,7 +1953,7 @@
    "pais_nome": "Alemanha",
    "numerico": "276",
    "primeira": "2026-08-25",
-   "ultima": "2026-09-24",
+   "ultima": "2026-10-06",
    "fontes": [
     {
      "titulo": "Estado do Alabama investiga OpenAI após agente de IA invadir a Hugging Face - Valor Econômico",
@@ -2032,6 +2068,12 @@
      "url": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
      "fonte": "Dark Reading",
      "data": "2026-09-24"
+    },
+    {
+     "titulo": "'Our laws don't account for an AI agent doing it' - Rep. Jennifer McClellan on Hugging Face hack - The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPaGphdjA5ZXJRUkRFRUdPYzVQbGNmZUk3YVJLZTVKSm5RSGRYaUdBSFlxT1lNaTVwRVdtaDhjdVpwdS1vaUl4QmxsTVVaWW1FbW5VN2FtREtoX0V3ZlBjM3dlVEQ4SGF3U2xVbmNMb3F1Tndka0NrT0FUbWZ2QmlYeUtoM2ktbi1kUDVLbWlLY2RCbEQtNGxTeExKNUJTMjdCSDVwNnM5T3Z3WVUzbE9JM0d5c2hMcWEyQ3Y0OC1GWUlHRVNLSFZPSVlmS0ZtVlRKVG93U3pNbjZKU3pURkJJYVZ3bW5hRU90Z0QtMkUzTDRGQklyVDRrcFZOS2VnazJfZWZJODhGQUZ5eWxnSHlBU3lFV25VeVRXS0ZOSl9zWUJCZlFES2thVnpXeWFlZ05C?oc=5",
+     "fonte": "The Washington Post",
+     "data": "2026-10-06"
     }
    ]
   },
@@ -3208,6 +3250,12 @@
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQV9vbzIxazFuRjRrZVRqQnF1c2toZ1dMcnMxTUN4Uk5ISVNFQ1Q4aGdSd0t6aE16YjMzZ09nWGVHdUYzUE1jN0IyOThnYUNVTEdBNFlEWkJ1LVhBOU0yNGZwWnRvWGgwNTUyTTVNX1BnVkRvb2g1WFlmTDBTcGdfYUd2bGhHWFdycFY4WWFiSGxYOVR2QldpR3VnN0VsLW1JWDFBTUxlTFN6UTVwRjBVRGxjRlE3M3JSRnVV?oc=5",
      "fonte": "The Guardian",
      "data": "2026-10-03"
+    },
+    {
+     "titulo": "OpenAI admite falhas na resposta a ataque a sistema de saúde australiano - Notícias ao Minuto",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQVEzbXRjRGk0cDh1R1EwM0JhZzdQT2JLMkt3aWtDMWd2RjIyVmpUVVBMRzlTN2s5S0lUSldtNWVZZDBSbnlrWC1nbWZpM2ZrcTk1YnNJOWM1WXctOFNqLVRnNFlFUUZQT28zVHlrNnFNWVhkbm9rVTBGdEE1cHNTdTlBQ0xjZnNFd1RzcEstWGF0ZVFLajFqeFVQUk5tc041YU9XYURJV1NQeF8zM09ub0dUOWtlRThlUGc?oc=5",
+     "fonte": "Notícias ao Minuto",
+     "data": "2026-10-06"
     },
     {
      "titulo": "Austrália: OpenAI admite erro ao lidar com invasão a sistema de saúde - Agência Brasil",
