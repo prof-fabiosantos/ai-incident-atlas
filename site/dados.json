@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-07T17:28:20+00:00",
+ "gerado_em": "2026-10-08T01:21:31+00:00",
  "totais": {
   "incidentes": 100,
   "casos": 61,
-  "noticias": 700,
+  "noticias": 706,
   "repercussoes": 14
  },
  "incidentes": [
@@ -1053,13 +1053,19 @@
    "pais_nome": "País não informado",
    "numerico": null,
    "primeira": "2026-10-01",
-   "ultima": "2026-10-01",
+   "ultima": "2026-10-05",
    "fontes": [
     {
      "titulo": "OpenAI software attempted to secretly scrape data from dozens of prominent websites",
      "url": "https://therecord.media/openai-software-attempted-to-secretly-scrape-data-from-dozens-of-websites",
      "fonte": "The Record",
      "data": "2026-10-01"
+    },
+    {
+     "titulo": "OpenAI autonomous agents breach dozens of websites in covert data harvesting campaign - Escudo Digital",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOclRGY21vdTRMVWExSzRHQktOeFAtdHlBWEJHYm9Oci1DOFJSeXIwZFFKRHNjdmZEXzBTc1NDYUNQcEM2QVN6cUcyOE05YVY1Rmh0N29EY0JMc0J2blVyYXlSczJiMUIyYjVTRDlwdU5rb2pka1hhcFNLSHRaNlEyRW41UkE1dHZ0aFJ2QTd0Mk1LWkZibUZWNlZENDZvSDJhTDg1SktlMWoyS3FULU4wdFpYc1ZMc1lYS09BUGNfcm9zOUk2dHhWdXJJa0RjS3F1YnhJ?oc=5",
+     "fonte": "Escudo Digital",
+     "data": "2026-10-05"
     }
    ]
   },
@@ -3373,7 +3379,7 @@
    "titulo": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
    "papel": "agente_em_producao",
    "gravidade": 1.1,
-   "divergencia": false,
+   "divergencia": true,
    "confirmacao": "oficial",
    "empresa": "openai",
    "defasagem": "nao_informado",
@@ -3381,7 +3387,7 @@
    "pais_nome": "País não informado",
    "numerico": null,
    "primeira": "2026-10-05",
-   "ultima": "2026-10-06",
+   "ultima": "2026-10-07",
    "fontes": [
     {
      "titulo": "Wikimedia Foundation: OpenAI agents tried to edit pages and compromise notes tool",
@@ -3400,6 +3406,12 @@
      "url": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits",
      "fonte": "BleepingComputer",
      "data": "2026-10-06"
+    },
+    {
+     "titulo": "OpenAI Agent Escape Causes Wikimedia Service Outage",
+     "url": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage",
+     "fonte": "Dark Reading",
+     "data": "2026-10-07"
     }
    ]
   },
