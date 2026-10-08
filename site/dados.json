@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-08T01:21:31+00:00",
+ "gerado_em": "2026-10-08T17:27:28+00:00",
  "totais": {
-  "incidentes": 100,
-  "casos": 61,
-  "noticias": 706,
+  "incidentes": 104,
+  "casos": 64,
+  "noticias": 720,
   "repercussoes": 14
  },
  "incidentes": [
@@ -456,6 +456,12 @@
      "data": "2026-09-27"
     },
     {
+     "titulo": "Australia calls OpenAI, Anthropic CEOs to Senate AI inquiry after Medicare breach - وكالة الأنباء السورية – سانا",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZZGw3c1JvMHd4SWk0dzFwUW9jTFRSa1lLWWRDSXB4YnNQMS1ZQ2daSDE2a2xsNW9FMGkycENKSlQzY0tqR1lhOVg4SEd5NFZnTzdr?oc=5",
+     "fonte": "وكالة الأنباء السورية – سانا",
+     "data": "2026-09-27"
+    },
+    {
      "titulo": "Labor defends AI crackdown over Medicare data breach - Startup Daily",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTU5mUEUwc0w2SlQ0RGhJeFhlZHdPYUdtSzVtLUdUZ2xkOGMzWjg2SGwtLXZsTHFSMV9KTHktYUlPY2ZZVGJrTlAzdUlnZEdhd0lmVFNSMGM3VmtPWERfREVDbXcwVmdnTEhwaWt2ZVNfWHZaMUlLVE5XRTl2VVNSSmUyQkgybTd5Z3FOQlNoeXFsU1ktSU1udEhSc1ZIWFpjZk1qbGppUDZRNEc2cndZTg?oc=5",
      "fonte": "Startup Daily",
@@ -530,6 +536,36 @@
    ]
   },
   {
+   "id": 103,
+   "caso": 74,
+   "titulo": "Ataque com IA atinge 9 bancos e vaza dados de 25 mil pessoas na Coreia do Sul - CartaCapital",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 3.0,
+   "divergencia": true,
+   "confirmacao": "imprensa",
+   "empresa": "anthropic",
+   "defasagem": "nao_informado",
+   "pais": "kor",
+   "pais_nome": "Coreia do Sul",
+   "numerico": "410",
+   "primeira": "2026-10-08",
+   "ultima": "2026-10-08",
+   "fontes": [
+    {
+     "titulo": "Hacker responsável por ataque na Coreia do Sul usou Claude, diz CrowdStrike - CNN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVBsNGVvdHJjN3lkZ2lUV2p3QzlNQ19xcHRHWVdiSjJIUUlnQlR4YVV5cHVndkJwN3AxRkNGUjJTYWNsRS1fUGx1WDE3UVprTUo5cTFxelNNd3JHckNMZHd4RWdKb2Ixdy1fcWNTTkE0SDVXQ1J3VWxfeDBYV014bnFPLWU4c21TdWEzblE1T3pvOVNiQ2VkcThTR3A2UmNod0F6TzZBMXoyR2hzNWdwT3lmXy1QVnRIRHZpWEhLdm05XzNoWUNDblRqZmtkYjk4dUlMSDVBeXktWHc?oc=5",
+     "fonte": "CNN Brasil",
+     "data": "2026-10-08"
+    },
+    {
+     "titulo": "Ataque com IA atinge 9 bancos e vaza dados de 25 mil pessoas na Coreia do Sul - CartaCapital",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbmt4R1J5NEV3VkRSY21UUUZZU2libk5BVVcxT3JkWEhNR1VQTXJqRENLNVhtN1RvS05WYzZQekFBOEZfMTBUd2M5LTlrODl4SlFvbko2ZVlELXh3RV9kUWhxZXZNQkNMWG9kdm4xNTBzdHNLdGYwaEMyUGVrVnRwd19Dc3JuMWFyZjJMRTI2QkE5N2w0OUh0NVl6N3RfNXppSk9XaHExWkpNTWhQMXFkSlZva3J1TTFiYVFYeG9R?oc=5",
+     "fonte": "CartaCapital",
+     "data": "2026-10-08"
+    }
+   ]
+  },
+  {
    "id": 65,
    "caso": 46,
    "titulo": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
@@ -567,7 +603,7 @@
    "pais_nome": "Coreia do Sul",
    "numerico": "410",
    "primeira": "2026-10-05",
-   "ultima": "2026-10-06",
+   "ultima": "2026-10-08",
    "fontes": [
     {
      "titulo": "South Korea probes bank breaches amid suspected AI-powered attacks",
@@ -586,6 +622,12 @@
      "url": "https://therecord.media/south-korean-bank-hacks-ai-agents",
      "fonte": "The Record",
      "data": "2026-10-06"
+    },
+    {
+     "titulo": "South Korean banks were likely hacked by a China-based actor with an AI agent, CrowdStrike says - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQODBzZUo1QkNGeDEyT2Q4QU5RYm1ybFpLMVdhc1E0OUtSTC15cGZuemU4Q0JsaE1lUXp0VU05WTl6bHRVUDhLNkFaOXI3TnhIcGJ0R1I1cWdnbEhNYUVvOVZvVzJLREpEMHd3VWUxQUZiLWlwUlFmNmdUbEpQNFkyaWdpTEJzVzNJNlVUYWl3ZjF4eTRha254Rm9xem9Kck15eWpWQlBIUU5hRlRIekJ6RkdvV00yV1lNZXc?oc=5",
+     "fonte": "Reuters",
+     "data": "2026-10-08"
     }
    ]
   },
@@ -980,6 +1022,30 @@
    ]
   },
   {
+   "id": 104,
+   "caso": 75,
+   "titulo": "Shai-Hulud worm makes jump to AI infrastructure with Tensorlake compromise",
+   "papel": "ataque_a_ia",
+   "gravidade": 2.8,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-08",
+   "ultima": "2026-10-08",
+   "fontes": [
+    {
+     "titulo": "Shai-Hulud worm makes jump to AI infrastructure with Tensorlake compromise",
+     "url": "https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054",
+     "fonte": "The Register (segurança)",
+     "data": "2026-10-08"
+    }
+   ]
+  },
+  {
    "id": 54,
    "caso": 36,
    "titulo": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
@@ -1012,6 +1078,30 @@
      "url": "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts",
      "fonte": "Dark Reading",
      "data": "2026-09-28"
+    }
+   ]
+  },
+  {
+   "id": 102,
+   "caso": 68,
+   "titulo": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.6,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "mesmo_mes",
+   "pais": "kor",
+   "pais_nome": "Coreia do Sul",
+   "numerico": "410",
+   "primeira": "2026-10-08",
+   "ultima": "2026-10-08",
+   "fontes": [
+    {
+     "titulo": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
+     "url": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
+     "fonte": "The Hacker News",
+     "data": "2026-10-08"
     }
    ]
   },
@@ -1870,6 +1960,30 @@
      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOTlZtQjN0RzQ5QzVOTFEwa29vR3M0TzhCc0tQdVpHM0FfVGpfdlZfSkpkS2hxdVFncFlBU01YblZMYndKT1ktaHVBTFNoeDNOdnMtZUFTQUl5cDlPMFMxWm5WX3pvU1VQbk12T19UYU9HWTlaM3JJZmZSLVFVVWhQRlFCVjNZeDRYNHM1TUZqVTQ3OFZ3WHViY1liM0FtclptT1d3ZG9sYUV5XzVkOFYzTVREOXhMcnlhMEFUQ3lNS1VIT0VnNUgwOTROaGJudlhYQ1BGcXhWblJjZ252ZU5rM3M1MFd4cnQyRW5QSUZyNDNmMVRqbE1kYXMxb0MtZVZ2UXg1UkpFUHBnUFUwalFwYW1Xdw?oc=5",
      "fonte": "cryptoid.com.br",
      "data": "2026-09-21"
+    }
+   ]
+  },
+  {
+   "id": 101,
+   "caso": 73,
+   "titulo": "Bancos sul-coreanos provavelmente foram alvos de um ataque cibernético de ator chinês com agente de IA, diz CrowdStrike - TradingView",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 1.9,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "kor",
+   "pais_nome": "Coreia do Sul",
+   "numerico": "410",
+   "primeira": "2026-10-08",
+   "ultima": "2026-10-08",
+   "fontes": [
+    {
+     "titulo": "Bancos sul-coreanos provavelmente foram alvos de um ataque cibernético de ator chinês com agente de IA, diz CrowdStrike - TradingView",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBSk9NVVNyVklVd201OGcwM29rVFBNLW5hUHRrVkNCbE9QYldCbW1pbVpTNkRscTV3YVVlaGM5VTdCMnRNbUhyckJ2LVliQ1pRSThjYU9tVUc4emJqbGtuOXJHTVZiVFlZNWVfY0RGRWRmck5tdGNB?oc=5",
+     "fonte": "TradingView",
+     "data": "2026-10-08"
     }
    ]
   },
