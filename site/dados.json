@@ -1,10 +1,10 @@
 {
- "gerado_em": "2026-10-09T01:30:09+00:00",
+ "gerado_em": "2026-10-09T17:04:27+00:00",
  "totais": {
-  "incidentes": 104,
-  "casos": 64,
-  "noticias": 729,
-  "repercussoes": 15
+  "incidentes": 105,
+  "casos": 65,
+  "noticias": 743,
+  "repercussoes": 16
  },
  "incidentes": [
   {
@@ -1088,30 +1088,6 @@
    ]
   },
   {
-   "id": 102,
-   "caso": 68,
-   "titulo": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
-   "papel": "ia_como_ferramenta",
-   "gravidade": 2.6,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "nao_informado",
-   "defasagem": "mesmo_mes",
-   "pais": "kor",
-   "pais_nome": "Coreia do Sul",
-   "numerico": "410",
-   "primeira": "2026-10-08",
-   "ultima": "2026-10-08",
-   "fontes": [
-    {
-     "titulo": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
-     "url": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
-     "fonte": "The Hacker News",
-     "data": "2026-10-08"
-    }
-   ]
-  },
-  {
    "id": 64,
    "caso": 38,
    "titulo": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
@@ -1472,6 +1448,30 @@
    ]
   },
   {
+   "id": 105,
+   "caso": 77,
+   "titulo": "OpenAI says it disrupted Russian and Iranian influence ops that used ChatGPT",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-09",
+   "ultima": "2026-10-09",
+   "fontes": [
+    {
+     "titulo": "OpenAI says it disrupted Russian and Iranian influence ops that used ChatGPT",
+     "url": "https://therecord.media/openai-disrupts-russian-iranian-operations-chatgpt",
+     "fonte": "The Record",
+     "data": "2026-10-09"
+    }
+   ]
+  },
+  {
    "id": 87,
    "caso": 29,
    "titulo": "Another OpenAI hack: AI agent took non-public gov data in Australia - Yahoo",
@@ -1504,6 +1504,42 @@
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMTV6Y25LQUwtcVZOX1BUNkkwckNNZ0ZuelRTekQwd1FGdmttNUFoSERVNkVZekNsVVgxbWZva0JnSHBzQ0E4Y0NmSWh0a0EtRzNHT2htRVpWOEdIcWVIYjB4TjdDcXBsLTF6azhpNkJyeDRXYnIySFUxZU00YWd2WHQwdHk2Uzh0UDVNMFZ3?oc=5",
      "fonte": "Yahoo",
      "data": "2026-10-02"
+    }
+   ]
+  },
+  {
+   "id": 102,
+   "caso": 68,
+   "titulo": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack - Reuters",
+   "papel": "agente_em_producao",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "outra",
+   "defasagem": "nao_informado",
+   "pais": "kor",
+   "pais_nome": "Coreia do Sul",
+   "numerico": "410",
+   "primeira": "2026-10-08",
+   "ultima": "2026-10-09",
+   "fontes": [
+    {
+     "titulo": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
+     "url": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
+     "fonte": "The Hacker News",
+     "data": "2026-10-08"
+    },
+    {
+     "titulo": "CrowdStrike Ties ARTEX AI Agent to Korea Bank Hack [2026] - shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wRzU3dG1yUXlPRFBKdmg3SnVtcVNmeVVKNWdZNTR0Y1pZZHJMdV8wZ1kzR0lOU0NUdTJ2SExRZ2RLOHcxbkV6bkVVWXdRTEdMaDhrSTRMY3pHMXVLU0VxaHdEYi1NNnN1cnVlek9kMzlRUUFkTldoNw?oc=5",
+     "fonte": "shattered.io",
+     "data": "2026-10-08"
+    },
+    {
+     "titulo": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaDhjdzFXYTYzTzY4MENUQS1rcU5jejh0T25vN0tOZlVpMC1zY085QWppMzUwQXgwQjhhcFdjQm5iaGpnUUZrbENjWkppWm9FZV9keWpZNFgta0N2YWJsa1VIVXB5OGxiS0ZFQ0oxdTAxb3RTTEx3cm9heXNHb1FYWE85NkV6bWNVdHVidDdEM2F2dmJuNUpSZ3dhMXhpWnV6cGlHRllvM3JFZ1VrMUtrLUI3dGo5aXg5Z3VHUFVyOXY?oc=5",
+     "fonte": "Reuters",
+     "data": "2026-10-09"
     }
    ]
   },
@@ -2787,19 +2823,25 @@
    "gravidade": 1.3,
    "divergencia": false,
    "confirmacao": "imprensa",
-   "empresa": "varias",
+   "empresa": "openai",
    "defasagem": "nao_informado",
    "pais": "nao_informado",
    "pais_nome": "País não informado",
    "numerico": null,
    "primeira": "2026-09-27",
-   "ultima": "2026-09-27",
+   "ultima": "2026-09-28",
    "fontes": [
     {
      "titulo": "Australia summons OpenAI, Anthropic CEOs after rogue AI agent breach - The News International",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPejlmbzItRE5Xek1hZzBYVy1Zb01BMDlWMy1ieWs5ei1lWGgyS2E4bkl5cS05bnpncjBJX3RNZzNENzBUcUZ0bkMxWlpSLTZ5T0RVS3h2U2gwU2V3LVNtZG5QSWRWaU9sQVk0MGRCNk5JcUJxa0pVWURuQ3BKZ3JvVG9BcmJKUFdPX0Y1S196U0wxQnhWV204NWt6OFAtQktiMHdZWGdRU3NKSkFOVUHSAaoBQVVfeXFMTXBKVTByTDR5RjZJbFA1YlhZaFpweHVmZWRHM1RDQXFfYUZWd05aYWo4cl90LTVqWlJLZXNLSGIxNEtnS1dJb2NPd2kwVG5vY3hMQmVMNWd5dWVhMzFWejdiMy02Z2diOFl3b1RvZnN3dkZMMkRBeGVpZ2lSY0VIYl9TT2VGNjY5VG9wZmZRYWFrX0t1UVNGOVYwMERkT01hNWppNG5HVVdtckE?oc=5",
      "fonte": "The News International",
      "data": "2026-09-27"
+    },
+    {
+     "titulo": "Anthropic skips Australian senate AI inquiry amid fallout from rogue OpenAI agent breach - The News International",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQUxfdDRFRVB0dXljX0ItUkNlZjA4Y3dmM3NSeS0xU29HNlZzSUlWQk9ZVWdVU2UyOGZabGZjak1HR2lFcVJ1WnJrZnpsQ1A5MktHY0k4RlZTQlhXcTBLWjRPWTJ2UG5wSC1QSmpiMVZOQS1kNURnZWRhUk16M1R3TlpiZHNGNmhaeUNNUUpaSkFDa1Vxd2RibnB1REtYWGZQTmJWak5hSkZWaUd5clpsR3VrSC10ZUM2MW1FMVBNbFg1aTNLdkdialBR0gHGAUFVX3lxTFA1eWprbzJ6bDBVX2RpTFBpLTZoQTlNY2J4ZlRfYXdoVFcwSmZUT2hkUWVPRDJNdl94WXBRbWxJZjNVa0FKc1QyTkJJMkhyX0FxTWlQQ21mRXJ3MmdlUm5nZTlXaXl6S3E2RUMzaUtPSmltY29acmx0dUJOQTFzaGlSeGtpV0w2VXlBMWNLal9rM3o2UnhBQ1N2VW1WRVd2LWl1TER1clNRVVNVMmQyWHJ3OUxTU0hHV2VCVGpsaEhOUC1xSmVjUQ?oc=5",
+     "fonte": "The News International",
+     "data": "2026-09-28"
     }
    ]
   },
@@ -4180,6 +4222,13 @@
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcDRsSjJQU1JvTDdvNGxPclh6LUFObnN2ZTNmMnYwTnhrdk04bjM3S3RTMDRoT1NsUGItQVd5TmNvLW8zb0JPeUc0bkExeHdpTmV4WFM2SUw5d1JYWkxFWXozTkdJX1o4bDRLQ3Rpa3J3S0FlOGJBeElBeVNqWnhhcmZpYU9yS1Bwdm9YRmNfLUZIOXR4YWVHQ1c3aEd3SHBVV1Z3dWxzcDE5Ul9hSFdadVdXUjdYdEN2YVlJZ1FxcElyYk44?oc=5",
    "fonte": "Forkast News",
    "data": "2026-10-06"
+  },
+  {
+   "caso": 2,
+   "titulo": "OpenAI tells a California court its AI agents are not its responsibility to control - Startup Fortune",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSUNIcXNWa0N1WkJlQXdZZlJXYjg2ZzlyOGlTUDlzbkZpVFBGUURCVHBVSTlFQ29wa0MwS2FiWkRPN1V3OVBNLUlCckhCb0JJTmo5MFg1eG5mTVRYaXBrT0M2dUZ1N0FQMTNZSTZMSTkxazJFNTE1bG5LUjVVdzU3R3RIcjhvTkJ4eUFjVFNfeWdsNVRNOVRYV09sY1pFS05oOEZQMW1wbmd0YXFZSVFibA?oc=5",
+   "fonte": "Startup Fortune",
+   "data": "2026-10-09"
   },
   {
    "caso": 16,
