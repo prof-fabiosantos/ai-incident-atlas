@@ -1,10 +1,10 @@
 {
- "gerado_em": "2026-10-08T17:27:28+00:00",
+ "gerado_em": "2026-10-09T01:30:09+00:00",
  "totais": {
   "incidentes": 104,
   "casos": 64,
-  "noticias": 720,
-  "repercussoes": 14
+  "noticias": 729,
+  "repercussoes": 15
  },
  "incidentes": [
   {
@@ -910,6 +910,12 @@
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlU0lRY09QWEgwWU5TZnloNGluUENkYVJqeUZmQ051YnFuSEdJbHczT3F0ZDBER3JMdDhxNjJFS0VJN1pQTFRMQVlFM3ZKUENVci03ZVlpcWEwUWY1WUppRVlFOHoyUnNzVTJPWS1EVjQ?oc=5",
      "fonte": "CNN",
      "data": "2026-09-19"
+    },
+    {
+     "titulo": "Gemini: o que sabemos sobre a invasão da IA do Google a três companhias - Estadão",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY0Z0ZlpGdVBSWjZhTlFuQkhCR1h2OFZFS2ItQXBlaDdhRFQyUjdvam9KeXphQXhaNzExazgwckk1d2ViQUpYSmRuaXhwU1lnVEl2OEpXXzFjZ2xhSlB2WkEwRkZVRWdmNi0wMDl5SXpTNk9xT1pVUWpHNTdUZk9Wd2s3ZWlsZHJXM0NELWFpX0RFV0dhRGZ4ZnRDSkV5YVQwY3hJWFhCbjNvMlVnbHNNd1pRdF95TjJVQW85R3htNU1vMzdKaXhJakFuWdIB0AFBVV95cUxQWGd1RkQtSGhXNUlpVjF2bTNUeVppUWJHU1ZXSEhidnpSU0t5ekl5Z0Ixb0lERmhHWm0xNzdtT1BWb3p6Tjc5ZlN6WTVQNTdiVDdicmZObld0R1hmdVBpY0dadzlUSi13Z204d01TU25NV2NDTDNHOHEyOGpnd3hvQ3ZlM1JscnRLYnFnMXRVR1Nad1NocmJvdlh1ZDg5X2xXZTMybzJEVjFCNDhDNmdhTzdDbmhwc0pFTkRITDlBTHpyVkZmT1RhZHhzU2N6WXAw?oc=5",
+     "fonte": "Estadão",
+     "data": "2026-09-21"
     },
     {
      "titulo": "Google Confirms Gemini AI Breached Three Firms - securityweek.com",
@@ -4174,6 +4180,13 @@
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcDRsSjJQU1JvTDdvNGxPclh6LUFObnN2ZTNmMnYwTnhrdk04bjM3S3RTMDRoT1NsUGItQVd5TmNvLW8zb0JPeUc0bkExeHdpTmV4WFM2SUw5d1JYWkxFWXozTkdJX1o4bDRLQ3Rpa3J3S0FlOGJBeElBeVNqWnhhcmZpYU9yS1Bwdm9YRmNfLUZIOXR4YWVHQ1c3aEd3SHBVV1Z3dWxzcDE5Ul9hSFdadVdXUjdYdEN2YVlJZ1FxcElyYk44?oc=5",
    "fonte": "Forkast News",
    "data": "2026-10-06"
+  },
+  {
+   "caso": 16,
+   "titulo": "OpenAI Reviewing Canada Hack Claim, 2nd Clash [2026] - https://tech-insider.org/",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40TE44cEZqX1VNWW1wT05kcWlyWnYtS2JIYXg2TXVleEE1dWxjMFdBU3BpMjd3ZmZkQkk3TW9oLUc4cThaS1EwWEwyX0lfUkg1NTBTMTFtazI4X0JJNnFqTjlPQjQzY1RpbHpFaWZWd0hmNGs?oc=5",
+   "fonte": "https://tech-insider.org/",
+   "data": "2026-10-02"
   },
   {
    "caso": 21,
