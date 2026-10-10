@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-09T17:04:27+00:00",
+ "gerado_em": "2026-10-10T01:18:44+00:00",
  "totais": {
-  "incidentes": 105,
-  "casos": 65,
-  "noticias": 743,
+  "incidentes": 106,
+  "casos": 66,
+  "noticias": 749,
   "repercussoes": 16
  },
  "incidentes": [
@@ -796,6 +796,30 @@
      "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
      "fonte": "The Hacker News",
      "data": "2026-09-28"
+    }
+   ]
+  },
+  {
+   "id": 106,
+   "caso": 78,
+   "titulo": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 3.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "anthropic",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-09",
+   "ultima": "2026-10-09",
+   "fontes": [
+    {
+     "titulo": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+     "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks",
+     "fonte": "BleepingComputer",
+     "data": "2026-10-09"
     }
    ]
   },
