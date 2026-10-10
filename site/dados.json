@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-10T01:18:44+00:00",
+ "gerado_em": "2026-10-10T15:54:29+00:00",
  "totais": {
-  "incidentes": 106,
-  "casos": 66,
-  "noticias": 749,
+  "incidentes": 107,
+  "casos": 67,
+  "noticias": 758,
   "repercussoes": 16
  },
  "incidentes": [
@@ -549,7 +549,7 @@
    "pais_nome": "Coreia do Sul",
    "numerico": "410",
    "primeira": "2026-10-08",
-   "ultima": "2026-10-08",
+   "ultima": "2026-10-10",
    "fontes": [
     {
      "titulo": "Hacker responsável por ataque na Coreia do Sul usou Claude, diz CrowdStrike - CNN Brasil",
@@ -562,6 +562,12 @@
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbmt4R1J5NEV3VkRSY21UUUZZU2libk5BVVcxT3JkWEhNR1VQTXJqRENLNVhtN1RvS05WYzZQekFBOEZfMTBUd2M5LTlrODl4SlFvbko2ZVlELXh3RV9kUWhxZXZNQkNMWG9kdm4xNTBzdHNLdGYwaEMyUGVrVnRwd19Dc3JuMWFyZjJMRTI2QkE5N2w0OUh0NVl6N3RfNXppSk9XaHExWkpNTWhQMXFkSlZva3J1TTFiYVFYeG9R?oc=5",
      "fonte": "CartaCapital",
      "data": "2026-10-08"
+    },
+    {
+     "titulo": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+     "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks",
+     "fonte": "BleepingComputer",
+     "data": "2026-10-10"
     }
    ]
   },
@@ -1270,6 +1276,12 @@
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlNMcGlRUHRDdG9PMTZVVHBHWllVblNzOFJqQXZDZDFUQUFkR0R6eGFOUmwzZE1rMEhqc0VUdkY2Z2RBaXlBaHMyTkZqQnBTdGNhUC1JbnlEcmZsQ1pEdE1RODRReXdXcmJQQmxWOURfVGJCNkQwcHRsS2FDZFBpYTRmWEowcjV5ai1uSl9DcXFXMnczZ0xHN19HR21rTE4zVmc?oc=5",
      "fonte": "Reuters",
      "data": "2026-10-06"
+    },
+    {
+     "titulo": "South Korea’s bank hacks offer a warning about AI-powered cyberattacks - Fast Company",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmE2cXVGOGhrd0pydTVydHR4elVRSldLU0o2eXUzM2FZS3U2Mm9IWGVpUlZ2UGJLX2tNUXNUQlBPYTA2dHlFU2VxV3g3ZDBvZEhuRk9ucjlQclN2OThrNGdiS0xicEoyby13T1YyVE42ZzFCWlBLQW9oR3hNYzU0czhwQW81NlNjM2JFYXRXdzBFcHRLWDY4Wk9ncFRvUVhHSG9nSmZKdG5mUQ?oc=5",
+     "fonte": "Fast Company",
+     "data": "2026-10-06"
     }
    ]
   },
@@ -1588,6 +1600,30 @@
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdkcyRVUtZWdoemxiVjVmT3V1RDhjajEwanlpaTBRSWhtQnhQWHJHMGJNdFV6Zm90ZE51WDFBY05WaTI1Wjg5TjZiZS03VXFQQXRHWWNtVnpLYWkyeFp3WnYxV1RSTl9zT25PQjREbWtITlFZWENaS3NQdUVxaHBodg?oc=5",
      "fonte": "Vietnam.vn",
      "data": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": 107,
+   "caso": 79,
+   "titulo": "Grok Bot, vazamento dos dados bancários do CEO da XMTP no Slack e por que aconteceu - Pasquale Pillitteri",
+   "papel": "agente_em_producao",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "nao_confirmado",
+   "empresa": "xai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-10",
+   "ultima": "2026-10-10",
+   "fontes": [
+    {
+     "titulo": "Grok Bot, vazamento dos dados bancários do CEO da XMTP no Slack e por que aconteceu - Pasquale Pillitteri",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOFppd2VCQ1p5YTZkWGY5SVZ1dmEzb081cGtCN2RzQkZQd1lCeVh5V3JwemhfTmdhR2JSRDA5THFRem9QMC1qS2xuNVpxdnhMREJybTZuenQ4YThkVDZBSEY5bjFvMmNFSm01clQ5Sm9VR1N6SV9jQVZJcWc2Y0MtTlpaM29kMHZoT3pyWFFra1AzMlhlMVo4ZQ?oc=5",
+     "fonte": "Pasquale Pillitteri",
+     "data": "2026-10-10"
     }
    ]
   },
