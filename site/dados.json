@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-11T00:31:53+00:00",
+ "gerado_em": "2026-10-11T16:21:50+00:00",
  "totais": {
-  "incidentes": 108,
-  "casos": 68,
-  "noticias": 762,
+  "incidentes": 110,
+  "casos": 69,
+  "noticias": 768,
   "repercussoes": 16
  },
  "incidentes": [
@@ -1216,6 +1216,54 @@
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSFZWMVVyQXpuM21MVWF0bURBUUtUTTMyNzB5d2NHY3FSZW1QZG1yWlk1WFNoWExkVWRkTHViVnQ4aHhoMzZFYUJkZVVGYXBwaU1mVy10RlFzcU1GY01pODVOMFFVcmhuWUp5NE1WTjZhd3FnRHRVaGlrZE1oNGtSRGJSRFVNR1Bfdm1vVkM2SHFsMWg2QWRRTXdhNjhrOXR3OU1CWDRuUnBBbVU?oc=5",
      "fonte": "Mexico Business News",
      "data": "2026-09-28"
+    }
+   ]
+  },
+  {
+   "id": 110,
+   "caso": 2,
+   "titulo": "Anthropic AI in global breach, Aus notified - News.com.au",
+   "papel": "ataque_a_ia",
+   "gravidade": 2.4,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "anthropic",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-10",
+   "ultima": "2026-10-10",
+   "fontes": [
+    {
+     "titulo": "Anthropic AI in global breach, Aus notified - News.com.au",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNS2ZVUHdaWHdqV2ZqWjg0bUItNHFiZ3VqNzNmY1VueUQ0XzcyMjRSN1J6N0t0bHlmNGRsNU0xZXhXWWkzOVJ4R2xxemI1SHZxZGxnekRQSmV2VW5pNEJNQTc4M1ZiclhNcDN2U0t3UlBsRXVZZHdiVVdZanlGbDJma1cxLUxLaktjRWl0YWtvWS1XWW9ySW9oaWVYaEE1Z0VPLVV2RVFELWx4NzdONEpQWXc1Zk0wTlh0SHpMN3JweGppblRyNU5aR1pIRjVYVzNKeEgxWmptUVg4dE81UUpOdXNoVFhoTmlhRkROSVFzbXBWa1pwTTRmRXk0QVNYXzB3TERqMmxaRTHSAY4CQVVfeXFMTTF0V1N4eE5BM0J6d2dRUWdRYURyQzAwc0JlU2VuZGc4S1VMYml0LU1kM2dmVVR6UkluS09rVlJFQVFSQ3pLdy0zWE5za0dKdmY4WVpvMVBENXd4MEtwRFRUUjBhbWstLU1EWE5NTGtIS0hNQ0ZER05FTFlnajUyWjkwUndiVk9BaU5YeklIV2VOc3JGTzJMSDM2WjJTU05LbGNyNUxDakwxdVc3NF8xb096X1JJSmhVaExrcWJxVEdBM0xNX1FucGYyM3ZmUG5vV0tuYzhOaVB2aUtqTUFOaXBORXJzblVCZ3VYTEZNVG9Na0dtTmUyeUdBVk1UbE85NWZPQ1hnLUhrNzhKTjVR?oc=5",
+     "fonte": "News.com.au",
+     "data": "2026-10-10"
+    }
+   ]
+  },
+  {
+   "id": 109,
+   "caso": 81,
+   "titulo": "OpenAI Agents Hacked Another Website",
+   "papel": "agente_em_producao",
+   "gravidade": 2.4,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-05",
+   "ultima": "2026-09-05",
+   "fontes": [
+    {
+     "titulo": "OpenAI Agents Hacked Another Website",
+     "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website",
+     "fonte": "WIRED (segurança)",
+     "data": "2026-09-05"
     }
    ]
   },
