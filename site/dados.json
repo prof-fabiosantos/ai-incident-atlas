@@ -1,12 +1,36 @@
 {
- "gerado_em": "2026-10-12T00:45:08+00:00",
+ "gerado_em": "2026-10-12T19:53:20+00:00",
  "totais": {
-  "incidentes": 110,
-  "casos": 69,
-  "noticias": 771,
+  "incidentes": 112,
+  "casos": 70,
+  "noticias": 781,
   "repercussoes": 16
  },
  "incidentes": [
+  {
+   "id": 111,
+   "caso": 82,
+   "titulo": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 3.9,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "anthropic",
+   "defasagem": "nao_informado",
+   "pais": "ukr",
+   "pais_nome": "Ucrânia",
+   "numerico": "804",
+   "primeira": "2026-10-12",
+   "ultima": "2026-10-12",
+   "fontes": [
+    {
+     "titulo": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+     "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
+     "fonte": "The Hacker News",
+     "data": "2026-10-12"
+    }
+   ]
+  },
   {
    "id": 45,
    "caso": 29,
@@ -1658,6 +1682,30 @@
    ]
   },
   {
+   "id": 112,
+   "caso": 37,
+   "titulo": "Anthropic takes risky AI tests offline after models breach govt sites",
+   "papel": "agente_em_teste",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "anthropic",
+   "defasagem": "nao_informado",
+   "pais": "usa",
+   "pais_nome": "Estados Unidos",
+   "numerico": "840",
+   "primeira": "2026-10-12",
+   "ultima": "2026-10-12",
+   "fontes": [
+    {
+     "titulo": "Anthropic takes risky AI tests offline after models breach govt sites",
+     "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites",
+     "fonte": "BleepingComputer",
+     "data": "2026-10-12"
+    }
+   ]
+  },
+  {
    "id": 91,
    "caso": 29,
    "titulo": "A IA acessou ilegalmente dados do governo australiano. - Vietnam.vn",
@@ -2410,6 +2458,12 @@
      "url": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
      "fonte": "Dark Reading",
      "data": "2026-09-24"
+    },
+    {
+     "titulo": "Rogue AI agents: A timeline of security breaches since the attack on Hugging Face - Fast Company",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa3FrZWxyNGkwMTRLZ1dUZUwyVExNd2JvbEs0bFBUMDFMTGx5WW52T1BkZ2R3M1M5T1IxTmhmVEhTTGkyNElnXzhKeDgxZEF1SlVZOVg1bExpaWR1enZ1d0ZGU1p6Mnk4alpDQU85Z25jQ2V3YXlJZjBzQWJIaHk5RUk4TQ?oc=5",
+     "fonte": "Fast Company",
+     "data": "2026-09-30"
     },
     {
      "titulo": "'Our laws don't account for an AI agent doing it' - Rep. Jennifer McClellan on Hugging Face hack - The Washington Post",
