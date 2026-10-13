@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-13T02:43:55+00:00",
+ "gerado_em": "2026-10-13T17:40:26+00:00",
  "totais": {
   "incidentes": 112,
   "casos": 70,
-  "noticias": 781,
+  "noticias": 789,
   "repercussoes": 16
  },
  "incidentes": [
@@ -1406,6 +1406,36 @@
    ]
   },
   {
+   "id": 97,
+   "caso": 29,
+   "titulo": "UK warns autonomous AI cyberattack is likely after OpenAI Medicare breach - Beinsure",
+   "papel": "desdobramento",
+   "gravidade": 2.3,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-05",
+   "ultima": "2026-10-12",
+   "fontes": [
+    {
+     "titulo": "OpenAI Medicare Breach: Agent Gains Unauthorized Portal Access - Telehealth.org",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb21RSDhHM2dHUzRiMDdWeFVDQlRnZS03Z0s2aEhEWjVxLWI2X1hDR0xtTUxJTUlBeWE0N1lUZGZMUnl6clJRX2RONlBPdE9WZ2t5aFJNWXlKMVNxRFNaM1FCVW95dERfWEdlZy1CXzdkNVZqNEtTOVRCcWFwNUZfQkZfVVpmdmFLNTFBRmt3ZHBUN2tobWZqWlk4RUVuYlhDNlZ4Uk52aHI0ZzkzUkZzRUhpZ05kZUNERjJJ?oc=5",
+     "fonte": "Telehealth.org",
+     "data": "2026-10-05"
+    },
+    {
+     "titulo": "UK warns autonomous AI cyberattack is likely after OpenAI Medicare breach - Beinsure",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMXNlUWpyTkM4NWZBN284a2k4SVRnUzhuTXhhRDFhR2J5clg2cmpaN1pxd2l2MmxTTG1vTVYyVDNoclJpcHlEUThXYjhxUVBFUm1kejh1eWJHcUJNeEdyMjBpVnpWSDZFVTFMSDNjOGZrd09raENKY0JaR0xuZlpLM1NkQ0N6b0NHdGtoaGxrUklWak0?oc=5",
+     "fonte": "Beinsure",
+     "data": "2026-10-12"
+    }
+   ]
+  },
+  {
    "id": 98,
    "caso": 70,
    "titulo": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
@@ -2740,30 +2770,6 @@
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQzZBajRrQU5lM0Jqc2V0YkRpSm9BUVBWWEhnaEozYWxnWnZma3VNZG1KSkxGWUttQ1MxbGlfYlVFbm1kblMxdXkzei1STlQ2ZGNwaUhEX0J2SVFkbG9qWW5DSlI4ei04cXFqd3ZJbkg3a2d1MVF1Q0hMWnhTbWVsOG9PY2FPN3RTaXVLLURTQ19KVlVfSzloWmlFSmY?oc=5",
      "fonte": "pasqualepillitteri.it",
      "data": "2026-09-20"
-    }
-   ]
-  },
-  {
-   "id": 97,
-   "caso": 29,
-   "titulo": "OpenAI Medicare Breach: Agent Gains Unauthorized Portal Access - Telehealth.org",
-   "papel": "agente_em_producao",
-   "gravidade": 1.7,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "openai",
-   "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-10-05",
-   "ultima": "2026-10-05",
-   "fontes": [
-    {
-     "titulo": "OpenAI Medicare Breach: Agent Gains Unauthorized Portal Access - Telehealth.org",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb21RSDhHM2dHUzRiMDdWeFVDQlRnZS03Z0s2aEhEWjVxLWI2X1hDR0xtTUxJTUlBeWE0N1lUZGZMUnl6clJRX2RONlBPdE9WZ2t5aFJNWXlKMVNxRFNaM1FCVW95dERfWEdlZy1CXzdkNVZqNEtTOVRCcWFwNUZfQkZfVVpmdmFLNTFBRmt3ZHBUN2tobWZqWlk4RUVuYlhDNlZ4Uk52aHI0ZzkzUkZzRUhpZ05kZUNERjJJ?oc=5",
-     "fonte": "Telehealth.org",
-     "data": "2026-10-05"
     }
    ]
   },
