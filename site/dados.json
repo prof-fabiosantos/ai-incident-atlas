@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-13T17:40:26+00:00",
+ "gerado_em": "2026-10-14T00:38:38+00:00",
  "totais": {
-  "incidentes": 112,
-  "casos": 70,
-  "noticias": 789,
+  "incidentes": 113,
+  "casos": 71,
+  "noticias": 795,
   "repercussoes": 16
  },
  "incidentes": [
@@ -3730,6 +3730,30 @@
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV1pYUTQ2eVQ1VDN4M0xCSF9xaXo2Y1JVSkduM0F5aWJScElRX3djY1lXRTZHaUVHaXctei1zYk4teHFqTlFfUjdDczl5bDI3UWtTbjdoclI2bUIwR2NyWmU3WlRZdWRQWmJZNWJBcGJLaGROSXE1c1V1a1BYOUNHMDZVRmhZRnVsZXZqUUVyOTN4RDgyaWQ1UDBzeTlnQW50MmFiNDRkNkxOUEI5MmZVWFEtbEhaYkR2dThSSWxDNl81UUlLX1lfRXFNc1dibE1zSnc?oc=5",
      "fonte": "UOL",
      "data": "2026-08-27"
+    }
+   ]
+  },
+  {
+   "id": 113,
+   "caso": 83,
+   "titulo": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 1.1,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-13",
+   "ultima": "2026-10-13",
+   "fontes": [
+    {
+     "titulo": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+     "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office",
+     "fonte": "WIRED (segurança)",
+     "data": "2026-10-13"
     }
    ]
   },
