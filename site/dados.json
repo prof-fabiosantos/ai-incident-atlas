@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-14T00:38:38+00:00",
+ "gerado_em": "2026-10-14T15:15:16+00:00",
  "totais": {
-  "incidentes": 113,
-  "casos": 71,
-  "noticias": 795,
+  "incidentes": 115,
+  "casos": 73,
+  "noticias": 804,
   "repercussoes": 16
  },
  "incidentes": [
@@ -782,6 +782,30 @@
    ]
   },
   {
+   "id": 114,
+   "caso": 84,
+   "titulo": "AI agents breach production systems, spread malware in major exploits - SC Media",
+   "papel": "agente_em_producao",
+   "gravidade": 3.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-14",
+   "ultima": "2026-10-14",
+   "fontes": [
+    {
+     "titulo": "AI agents breach production systems, spread malware in major exploits - SC Media",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSXBYOW9jVU9YS3FIWlJMUWhwWHZnaWhMdUJCc0xoRnByUTFQdDdVQTRjNUQ5TUp6V3VtNXgtYV9relNKZ2FuRVV2b1lCV1k1ZDNvbUZDUm83OVlkYVZJZV9BeVVzS2hQVmxwa0RJZ1dNTERUVnZ0REFRakpTV2hTcGFyQ0F1cTlwRFhCQ20xQU5qS3BfMG04emRSVDRBdnBaa3RN?oc=5",
+     "fonte": "SC Media",
+     "data": "2026-10-14"
+    }
+   ]
+  },
+  {
    "id": 74,
    "caso": 54,
    "titulo": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
@@ -1138,6 +1162,30 @@
      "url": "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts",
      "fonte": "Dark Reading",
      "data": "2026-09-28"
+    }
+   ]
+  },
+  {
+   "id": 115,
+   "caso": 85,
+   "titulo": "Russian Influence Operation Widely Targeting Latin America",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.7,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "global",
+   "pais_nome": "Vários países",
+   "numerico": null,
+   "primeira": "2026-10-14",
+   "ultima": "2026-10-14",
+   "fontes": [
+    {
+     "titulo": "Russian Influence Operation Widely Targeting Latin America",
+     "url": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
+     "fonte": "Dark Reading",
+     "data": "2026-10-14"
     }
    ]
   },
@@ -3747,13 +3795,19 @@
    "pais_nome": "País não informado",
    "numerico": null,
    "primeira": "2026-10-13",
-   "ultima": "2026-10-13",
+   "ultima": "2026-10-14",
    "fontes": [
     {
      "titulo": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
      "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office",
      "fonte": "WIRED (segurança)",
      "data": "2026-10-13"
+    },
+    {
+     "titulo": "OpenAI engineer charged after boardroom bug found wrapped in toilet paper",
+     "url": "https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000",
+     "fonte": "The Register (segurança)",
+     "data": "2026-10-14"
     }
    ]
   },
