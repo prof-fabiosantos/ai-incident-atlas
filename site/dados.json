@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-14T15:15:16+00:00",
+ "gerado_em": "2026-10-15T00:08:20+00:00",
  "totais": {
-  "incidentes": 115,
+  "incidentes": 116,
   "casos": 73,
-  "noticias": 804,
+  "noticias": 813,
   "repercussoes": 16
  },
  "incidentes": [
@@ -657,6 +657,12 @@
      "titulo": "South Korean banks were likely hacked by a China-based actor with an AI agent, CrowdStrike says - Reuters",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQODBzZUo1QkNGeDEyT2Q4QU5RYm1ybFpLMVdhc1E0OUtSTC15cGZuemU4Q0JsaE1lUXp0VU05WTl6bHRVUDhLNkFaOXI3TnhIcGJ0R1I1cWdnbEhNYUVvOVZvVzJLREpEMHd3VWUxQUZiLWlwUlFmNmdUbEpQNFkyaWdpTEJzVzNJNlVUYWl3ZjF4eTRha254Rm9xem9Kck15eWpWQlBIUU5hRlRIekJ6RkdvV00yV1lNZXc?oc=5",
      "fonte": "Reuters",
+     "data": "2026-10-08"
+    },
+    {
+     "titulo": "68,000 Korean Bank Records Hacked by China AI Agent [2026] - https://tech-insider.org/",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XRzJBRkxCR0pzT1VrXzN3cUxfZzhuRTVxclJ1d2tGOE1HWkZ1OWVLMGdqUlc0TWRpQ1Y5SmhWaUdzOTN4NXlMM3Q0RFZjamVfUmZVWGdpS1pwZEVrVzBGVVd0MUMwZ1lreDNGNUR5M1QxUS0tTXdKUHRTN3dhOHM?oc=5",
+     "fonte": "https://tech-insider.org/",
      "data": "2026-10-08"
     }
    ]
@@ -1934,6 +1940,30 @@
    ]
   },
   {
+   "id": 116,
+   "caso": 15,
+   "titulo": "Um agente de IA terá encontrado uma falha sozinho e alterado dados pessoais - Leak.pt",
+   "papel": "agente_em_producao",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "nao_confirmado",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-16",
+   "ultima": "2026-09-16",
+   "fontes": [
+    {
+     "titulo": "Um agente de IA terá encontrado uma falha sozinho e alterado dados pessoais - Leak.pt",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5cGRzZEltZXBSeTRBbUlVTmR0cU1EYTVxU3VPN0xQNlpmUi1xSE9vOHkwUkJsY2EtNVgweFVsR2lnQmFHTlRhR3dISzh6dXhNa05wRk5B?oc=5",
+     "fonte": "Leak.pt",
+     "data": "2026-09-16"
+    }
+   ]
+  },
+  {
    "id": 10,
    "caso": 2,
    "titulo": "Hugging Face Hack: 700 Rogue AI Agents, 17K Attacks - tech-insider.org",
@@ -2589,7 +2619,7 @@
    "pais_nome": "País não informado",
    "numerico": null,
    "primeira": "2026-09-12",
-   "ultima": "2026-10-01",
+   "ultima": "2026-10-10",
    "fontes": [
     {
      "titulo": "OpenAI’s rogue AI tried to hack another company in May - The Verge",
@@ -2620,6 +2650,12 @@
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tdUhnNW9zSkwxSm1WSTNIeHl2MFVfcTVTcTRqZVBfWExFTk0tWjRaR3FucjIyeDFWbU9wenpxZzNZQkR2LUpma1N4NzRFellwUjkyMXIwcGIzMzQ4dUhZTXJYZmFOMVRlTkVzenpsa280cHR6YVZoZQ?oc=5",
      "fonte": "YourStory.com",
      "data": "2026-10-01"
+    },
+    {
+     "titulo": "A timeline of developments in AI safety since the attack on Hugging Face - ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa2ZtZjBGNWdEaEFHNjFJVFk4TzJpQXhvNVk3a0NLNGd5R0dEZGc2dWUzUzZRZlc0cEJQMThKWG5GTmpnVGRrZkJEQzB0RUN1a0NzUUlKNWM1emVhVUJYTENCbmVWSnNQaUsyWWh1c18zZTJUWV9PWXJTbFkwN2RjMlZWMktpSE81OWdtcmxxZXdOTzhiMnhWNzJVVHQ3TjRSNTRub9IBqgFBVV95cUxOS09xaGVqVnc5SjdxbXBLdGhOZXc2N2ZtbkNLYUdqNzBoLXNlN2tIVHFxOGxzLS1jTEltbDlNYzF5Rzd0RURrU1hneW1sM2R1U3Vkelo4Q01PMUhGWXZORGhsajllV2RQYmxJTUpSVTZJMnlSUUtUWGMzbUhneGhLR3dKNER0SmdBYWplaXd6U09UVXNkanMzWHYyNTlQd3FVT3RCOWJjQUJLdw?oc=5",
+     "fonte": "ABC News - Breaking News, Latest News and Videos",
+     "data": "2026-10-10"
     }
    ]
   },
