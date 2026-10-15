@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-15T00:08:20+00:00",
+ "gerado_em": "2026-10-15T15:08:38+00:00",
  "totais": {
-  "incidentes": 116,
-  "casos": 73,
-  "noticias": 813,
+  "incidentes": 118,
+  "casos": 75,
+  "noticias": 820,
   "repercussoes": 16
  },
  "incidentes": [
@@ -784,6 +784,30 @@
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZVBvalJCNTNaX3dXTXlBSExEb0xaRXRGdjBxVTlESG93WmNjYlluZUtaa19OLTlRUnBZVG50MTFBMFFNczVMbFVwYUtqMUlwTV9YZEVxcXkzZTNfSGt1Q2RqUzdRUm4tdlBPWlphNlN6TkotZFI4ZnJJU1pUOEtMV2VSMVZBWlVHMXZwekRBZWVZTjRlZ2I0Q1lycVhXZHBZa0JXbWxoLWo0RnhuYTZrRnNyam42RDQ?oc=5",
      "fonte": "Forbes Brasil",
      "data": "2026-08-28"
+    }
+   ]
+  },
+  {
+   "id": 118,
+   "caso": 88,
+   "titulo": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 3.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "meses_antes",
+   "pais": "usa",
+   "pais_nome": "Estados Unidos",
+   "numerico": "840",
+   "primeira": "2026-10-15",
+   "ultima": "2026-10-15",
+   "fontes": [
+    {
+     "titulo": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
+     "url": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
+     "fonte": "The Hacker News",
+     "data": "2026-10-15"
     }
    ]
   },
@@ -2296,6 +2320,30 @@
      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOTlZtQjN0RzQ5QzVOTFEwa29vR3M0TzhCc0tQdVpHM0FfVGpfdlZfSkpkS2hxdVFncFlBU01YblZMYndKT1ktaHVBTFNoeDNOdnMtZUFTQUl5cDlPMFMxWm5WX3pvU1VQbk12T19UYU9HWTlaM3JJZmZSLVFVVWhQRlFCVjNZeDRYNHM1TUZqVTQ3OFZ3WHViY1liM0FtclptT1d3ZG9sYUV5XzVkOFYzTVREOXhMcnlhMEFUQ3lNS1VIT0VnNUgwOTROaGJudlhYQ1BGcXhWblJjZ252ZU5rM3M1MFd4cnQyRW5QSUZyNDNmMVRqbE1kYXMxb0MtZVZ2UXg1UkpFUHBnUFUwalFwYW1Xdw?oc=5",
      "fonte": "cryptoid.com.br",
      "data": "2026-09-21"
+    }
+   ]
+  },
+  {
+   "id": 117,
+   "caso": 86,
+   "titulo": "Alerta em Espanha: agente IA acedeu a faturas. OpenAI teve mais casos de IAs \"rebeldes\" - ZAP Notícias",
+   "papel": "agente_em_producao",
+   "gravidade": 1.9,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-17",
+   "ultima": "2026-09-17",
+   "fontes": [
+    {
+     "titulo": "Alerta em Espanha: agente IA acedeu a faturas. OpenAI teve mais casos de IAs \"rebeldes\" - ZAP Notícias",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIaVpQdnlMTGZUenJxZldXeGMxRnRXVFNtNW4zUWt5UEhUZ1JLaEtPN1FpX3FrX1RBSGNkVGRNYWtxcXBmWEJ0dkhnLWQ1ZTNiNHdyOE0wZEFwdC1EQUJWQ0Fn?oc=5",
+     "fonte": "ZAP Notícias",
+     "data": "2026-09-17"
     }
    ]
   },
