@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-16T14:56:17+00:00",
+ "gerado_em": "2026-10-16T23:56:24+00:00",
  "totais": {
-  "incidentes": 119,
-  "casos": 76,
-  "noticias": 834,
+  "incidentes": 121,
+  "casos": 78,
+  "noticias": 842,
   "repercussoes": 16
  },
  "incidentes": [
@@ -2294,6 +2294,30 @@
    ]
   },
   {
+   "id": 121,
+   "caso": 91,
+   "titulo": "AI Agent Hacked Into Crypto Wallet and Stole Funds, OpenAI Says - Gizmodo",
+   "papel": "agente_em_producao",
+   "gravidade": 1.9,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-16",
+   "ultima": "2026-10-16",
+   "fontes": [
+    {
+     "titulo": "AI Agent Hacked Into Crypto Wallet and Stole Funds, OpenAI Says - Gizmodo",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcDFHOXB5WFFobW9aNFpaNmhlX01sOXV2YVJZMnJ5SjdCbThGaWdMTXZiOGpqVkJCU19jdmMzOXI1QUV0c3BtSWJHUGhnVjlDWU12MmF3dmc1b0dCUHlON092dWlPVjR4eVNqSTlZUldYRFl2QVpPWlVSZDRkNEVUX05BQm9qME1Wa0lsbDd0UTBIRWVYdWZPTA?oc=5",
+     "fonte": "Gizmodo",
+     "data": "2026-10-16"
+    }
+   ]
+  },
+  {
    "id": 21,
    "caso": 15,
    "titulo": "Espanha divulga 1º notificação de violação de dados ligada a agente de IA | Empresas - Valor Econômico",
@@ -3170,36 +3194,6 @@
    ]
   },
   {
-   "id": 63,
-   "caso": 2,
-   "titulo": "Australia summons OpenAI, Anthropic CEOs after rogue AI agent breach - The News International",
-   "papel": "agente_em_producao",
-   "gravidade": 1.3,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "openai",
-   "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-09-27",
-   "ultima": "2026-09-28",
-   "fontes": [
-    {
-     "titulo": "Australia summons OpenAI, Anthropic CEOs after rogue AI agent breach - The News International",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPejlmbzItRE5Xek1hZzBYVy1Zb01BMDlWMy1ieWs5ei1lWGgyS2E4bkl5cS05bnpncjBJX3RNZzNENzBUcUZ0bkMxWlpSLTZ5T0RVS3h2U2gwU2V3LVNtZG5QSWRWaU9sQVk0MGRCNk5JcUJxa0pVWURuQ3BKZ3JvVG9BcmJKUFdPX0Y1S196U0wxQnhWV204NWt6OFAtQktiMHdZWGdRU3NKSkFOVUHSAaoBQVVfeXFMTXBKVTByTDR5RjZJbFA1YlhZaFpweHVmZWRHM1RDQXFfYUZWd05aYWo4cl90LTVqWlJLZXNLSGIxNEtnS1dJb2NPd2kwVG5vY3hMQmVMNWd5dWVhMzFWejdiMy02Z2diOFl3b1RvZnN3dkZMMkRBeGVpZ2lSY0VIYl9TT2VGNjY5VG9wZmZRYWFrX0t1UVNGOVYwMERkT01hNWppNG5HVVdtckE?oc=5",
-     "fonte": "The News International",
-     "data": "2026-09-27"
-    },
-    {
-     "titulo": "Anthropic skips Australian senate AI inquiry amid fallout from rogue OpenAI agent breach - The News International",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQUxfdDRFRVB0dXljX0ItUkNlZjA4Y3dmM3NSeS0xU29HNlZzSUlWQk9ZVWdVU2UyOGZabGZjak1HR2lFcVJ1WnJrZnpsQ1A5MktHY0k4RlZTQlhXcTBLWjRPWTJ2UG5wSC1QSmpiMVZOQS1kNURnZWRhUk16M1R3TlpiZHNGNmhaeUNNUUpaSkFDa1Vxd2RibnB1REtYWGZQTmJWak5hSkZWaUd5clpsR3VrSC10ZUM2MW1FMVBNbFg1aTNLdkdialBR0gHGAUFVX3lxTFA1eWprbzJ6bDBVX2RpTFBpLTZoQTlNY2J4ZlRfYXdoVFcwSmZUT2hkUWVPRDJNdl94WXBRbWxJZjNVa0FKc1QyTkJJMkhyX0FxTWlQQ21mRXJ3MmdlUm5nZTlXaXl6S3E2RUMzaUtPSmltY29acmx0dUJOQTFzaGlSeGtpV0w2VXlBMWNLal9rM3o2UnhBQ1N2VW1WRVd2LWl1TER1clNRVVNVMmQyWHJ3OUxTU0hHV2VCVGpsaEhOUC1xSmVjUQ?oc=5",
-     "fonte": "The News International",
-     "data": "2026-09-28"
-    }
-   ]
-  },
-  {
    "id": 43,
    "caso": 30,
    "titulo": "OpenAI Agents Tried to Hack Four More Websites While Seeking Data - WSJ",
@@ -3750,6 +3744,12 @@
      "data": "2026-09-29"
     },
     {
+     "titulo": "OpenAI apologizes to Australia after its AI agents breached government sites - TechCrunch",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYnByTzVPeWJkVnlUTUJ1VEJ1bDFDbWNDTXpNNlh2MG5TUmJieFR4ZWUtbl85cEdCOFBsZ2pmQTg4dFJzQ2dZZmk0eXUxakl6T09fTHBNck0tMkt6akdWcHI1c0xPV0pRVm95MWxTbjE2VzE1U0RpV1hjZmVydUNISVkyTTVFZXcwcDFueklfUklkeDB4Q2VRdVcyZTdrYW5HSXAyQzRFbzUxbU4xblhKSA?oc=5",
+     "fonte": "TechCrunch",
+     "data": "2026-09-29"
+    },
+    {
      "titulo": "OpenAI apologises over AI agent breach of Australian government systems - Free Press Kashmir",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMGFCQldqWTFOWUREanZaNnhqNFo3YzRNVW9HNURVZjA0cTRQWlBfQ0JlV0lKWnBXVXBkcnBNQVFLUVpVNTNLZFE4QnZHOF9IUWZKQzRrQ3ppVjNWNUxwYzM5dHo3X25qeHNwZHFwMjU1U2xNM0pBU3FJMkxxYlBwQ0lpaWN1bV9XLUVzYjB2Z0RZY1I1R2pZdW4wUlltQzNjRWNTT2ctMU1RSlZQYVJMc1FqZ9IBuAFBVV95cUxPZE9rM3hxVDdKelRTVXBWWkYzUTVuSXZ3NjliemdvRmZOemM4RVU0ZTNsYzE0ME9HTFpFVVYzUGd2dU01NUtGSWdaeTBqMkhYRjhCbkprX1BUbXlRQTV2TmctSHBveFR6SU5jSU5IWVVWNkZQZjlmUWl1d0dURmNKOElPaHMwRnQzVC1Yb2gyVmtMeGJuSlgzNUlxOVMxUHQ3cEJpS3NTbVFIeHNfWmpERTctRWVMaHFw?oc=5",
      "fonte": "Free Press Kashmir",
@@ -3892,6 +3892,42 @@
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV1pYUTQ2eVQ1VDN4M0xCSF9xaXo2Y1JVSkduM0F5aWJScElRX3djY1lXRTZHaUVHaXctei1zYk4teHFqTlFfUjdDczl5bDI3UWtTbjdoclI2bUIwR2NyWmU3WlRZdWRQWmJZNWJBcGJLaGROSXE1c1V1a1BYOUNHMDZVRmhZRnVsZXZqUUVyOTN4RDgyaWQ1UDBzeTlnQW50MmFiNDRkNkxOUEI5MmZVWFEtbEhaYkR2dThSSWxDNl81UUlLX1lfRXFNc1dibE1zSnc?oc=5",
      "fonte": "UOL",
      "data": "2026-08-27"
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "caso": 2,
+   "titulo": "Anthropic Declines Australian AI Hearing as OpenAI Agent Breach Faces Scrutiny - TechRepublic",
+   "papel": "desdobramento",
+   "gravidade": 1.1,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-27",
+   "ultima": "2026-09-28",
+   "fontes": [
+    {
+     "titulo": "Australia summons OpenAI, Anthropic CEOs after rogue AI agent breach - The News International",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPejlmbzItRE5Xek1hZzBYVy1Zb01BMDlWMy1ieWs5ei1lWGgyS2E4bkl5cS05bnpncjBJX3RNZzNENzBUcUZ0bkMxWlpSLTZ5T0RVS3h2U2gwU2V3LVNtZG5QSWRWaU9sQVk0MGRCNk5JcUJxa0pVWURuQ3BKZ3JvVG9BcmJKUFdPX0Y1S196U0wxQnhWV204NWt6OFAtQktiMHdZWGdRU3NKSkFOVUHSAaoBQVVfeXFMTXBKVTByTDR5RjZJbFA1YlhZaFpweHVmZWRHM1RDQXFfYUZWd05aYWo4cl90LTVqWlJLZXNLSGIxNEtnS1dJb2NPd2kwVG5vY3hMQmVMNWd5dWVhMzFWejdiMy02Z2diOFl3b1RvZnN3dkZMMkRBeGVpZ2lSY0VIYl9TT2VGNjY5VG9wZmZRYWFrX0t1UVNGOVYwMERkT01hNWppNG5HVVdtckE?oc=5",
+     "fonte": "The News International",
+     "data": "2026-09-27"
+    },
+    {
+     "titulo": "Anthropic Declines Australian AI Hearing as OpenAI Agent Breach Faces Scrutiny - TechRepublic",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUzNUYjlXWEFKNWtlODdielhJRlJzc2ZlUWhqZG5IcnZNcVAwckI2cmRMVnhwNlBSOTBYZTN5eVAySVpCQ0ZoM05CeDBfRm1Vc0dpdlNIX2d0bENTNUF2cGlIZ3BsaTlZY2tMcHNqTVY0N09XMFZHaEVNYVFGWm1YMkUtN0VkcDgxX1BoOEhDU09lMUprLXlkYnBadnUyYU0?oc=5",
+     "fonte": "TechRepublic",
+     "data": "2026-09-28"
+    },
+    {
+     "titulo": "Anthropic skips Australian senate AI inquiry amid fallout from rogue OpenAI agent breach - The News International",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQUxfdDRFRVB0dXljX0ItUkNlZjA4Y3dmM3NSeS0xU29HNlZzSUlWQk9ZVWdVU2UyOGZabGZjak1HR2lFcVJ1WnJrZnpsQ1A5MktHY0k4RlZTQlhXcTBLWjRPWTJ2UG5wSC1QSmpiMVZOQS1kNURnZWRhUk16M1R3TlpiZHNGNmhaeUNNUUpaSkFDa1Vxd2RibnB1REtYWGZQTmJWak5hSkZWaUd5clpsR3VrSC10ZUM2MW1FMVBNbFg1aTNLdkdialBR0gHGAUFVX3lxTFA1eWprbzJ6bDBVX2RpTFBpLTZoQTlNY2J4ZlRfYXdoVFcwSmZUT2hkUWVPRDJNdl94WXBRbWxJZjNVa0FKc1QyTkJJMkhyX0FxTWlQQ21mRXJ3MmdlUm5nZTlXaXl6S3E2RUMzaUtPSmltY29acmx0dUJOQTFzaGlSeGtpV0w2VXlBMWNLal9rM3o2UnhBQ1N2VW1WRVd2LWl1TER1clNRVVNVMmQyWHJ3OUxTU0hHV2VCVGpsaEhOUC1xSmVjUQ?oc=5",
+     "fonte": "The News International",
+     "data": "2026-09-28"
     }
    ]
   },
@@ -4414,6 +4450,30 @@
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMm1DazNoRTBvalJYM21jM0UzWmcwVnhsNmRwb29zR3B2U0dEZFZIcFBYUGdldTdUeTJPRnV0YzBWMlo5UWwtUmhzUzdBWl9QNUxTMFJYNWx2Sml3ejcwUzFPbGNySVdrbXZYNGo1eG5BbTI2Z1pIc0JrRHlIbENROFRuWUtEWFlfdXNwYmgtVHIwaEVmcnBZXzRZMDktQW1KUGdOMzd5QkNxTVJYZTFSU1BBc3JvZw?oc=5",
      "fonte": "adnews.com.br",
      "data": "2026-09-21"
+    }
+   ]
+  },
+  {
+   "id": 120,
+   "caso": 90,
+   "titulo": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+   "papel": "agente_em_teste",
+   "gravidade": 0.7,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-16",
+   "ultima": "2026-10-16",
+   "fontes": [
+    {
+     "titulo": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+     "url": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+     "fonte": "The Hacker News",
+     "data": "2026-10-16"
     }
    ]
   },
