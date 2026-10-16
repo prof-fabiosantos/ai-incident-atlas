@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-15T23:54:41+00:00",
+ "gerado_em": "2026-10-16T14:56:17+00:00",
  "totais": {
-  "incidentes": 118,
-  "casos": 75,
-  "noticias": 826,
+  "incidentes": 119,
+  "casos": 76,
+  "noticias": 834,
   "repercussoes": 16
  },
  "incidentes": [
@@ -1156,6 +1156,30 @@
      "url": "https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054",
      "fonte": "The Register (segurança)",
      "data": "2026-10-08"
+    }
+   ]
+  },
+  {
+   "id": 119,
+   "caso": 89,
+   "titulo": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
+   "papel": "agente_em_teste",
+   "gravidade": 2.8,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "ind",
+   "pais_nome": "Índia",
+   "numerico": "356",
+   "primeira": "2026-10-16",
+   "ultima": "2026-10-16",
+   "fontes": [
+    {
+     "titulo": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
+     "url": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
+     "fonte": "The Hacker News",
+     "data": "2026-10-16"
     }
    ]
   },
@@ -3399,6 +3423,12 @@
      "titulo": "Austrália relata invasão de site governamental por IA da OpenAI - PAIPEE -",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVTBhZUtRTWpmTnJBX1hYOTE3UENoNklybzIxOFJTTENDcmNXTnZ2VHFEZTlyNDZNbnRJSlEtaHdCcXl2MjBsYko4M1FWUk8zcWVhOWY2WHVrUzNYeXdEWnBmTER5cG10NUxMU2dPdm5zZjJTMnVMZWVhRzVndUc2RG05dk9HRzQxQUVOU2NBbDJ2ajZ4THh0OFZoMkZadw?oc=5",
      "fonte": "PAIPEE -",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "AI agent hacks government website for first time: why this breach matters - Nature",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzbzVHVDhXc21zcnB4cTdHSFI1ZXVyU2thVWNsY3RjRVJiR19JS1JhWFRmOGZSOHFDRTlRRTE4MnBKMzJjbnhnOERGbUo0N09icHdWcFYwUmNuYm9VLUYw?oc=5",
+     "fonte": "Nature",
      "data": "2026-09-24"
     },
     {
