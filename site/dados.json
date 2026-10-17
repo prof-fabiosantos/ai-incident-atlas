@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-17T13:48:39+00:00",
+ "gerado_em": "2026-10-17T23:29:20+00:00",
  "totais": {
   "incidentes": 121,
   "casos": 78,
-  "noticias": 846,
+  "noticias": 850,
   "repercussoes": 16
  },
  "incidentes": [
@@ -526,6 +526,12 @@
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaXY4NHVCTW9nM0p3V2ppUVZ6QTFxSXNjcGhQS0FKQnJjUm1UaFBlSURWN1VtV0syck8yTW5MdHZGQUJGZVd0eHMyeGM5Vl9rOXFranI4dmdubWVfdVBqMlNVRFpaZ1RteE14SUVUMmtwd2lYdzdhcDBlMHJrd2ZDZV81OFVpLUM0b2E3dC11MFktb2ozQXotQ3ZwdW9YT1ZwNDBYOHFqaVk5b0wxUm1WSzdXSzZWWUt0NjNPdEJqVzhjdw?oc=5",
      "fonte": "The Guardian",
      "data": "2026-09-29"
+    },
+    {
+     "titulo": "\"Lamentamos e sabemos que temos trabalho a fazer\": OpenAI reconhece erros na resposta à infiltração no sistema de saúde australiano - TVI",
+     "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxONHRTb0Y2YnFiVTNkNUt1TFZxSU90TU1ZcTRla2t5RjRCazUxTm5ERjdXdjREZWxXTDBMb0NCY2VSVDNGY0RQaXlCRG9MRjRwM1VXN3U3TEVMNEtfY205UGRTOG5HUE1rY2d4NThBWFdCR0lKVnAxMHhEMm13bktLMmVUd3NGUlBWLVRnY3FRVEUxVEZ5bEdIdDM2cFBjVGtSSC1PLU1aMlNXSkJDT0tRVEFNZGdKMEtVQ0pnTUNjWjRLVlg5MmFYd3ExcHlIWHVQQlZqclVrUGFyWDVqNUp5TW9UTzFvVHNmSDJjZzlrRWw1N2R1emZ5Sm1CdjBiQmJuLVpuNGVoWF9iN1hhdzZFV0FUUGtRRDVHZEFTTEw5NV9pRGtWX3I4T1dLQQ?oc=5",
+     "fonte": "TVI",
+     "data": "2026-10-06"
     },
     {
      "titulo": "OpenAI reconhece erros na resposta à infiltração no sistema de saúde australiano - Dinheiro Vivo",
