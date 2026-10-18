@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-17T23:29:20+00:00",
+ "gerado_em": "2026-10-18T14:04:13+00:00",
  "totais": {
-  "incidentes": 121,
-  "casos": 78,
-  "noticias": 850,
+  "incidentes": 123,
+  "casos": 80,
+  "noticias": 855,
   "repercussoes": 16
  },
  "incidentes": [
@@ -1328,6 +1328,30 @@
    ]
   },
   {
+   "id": 122,
+   "caso": 92,
+   "titulo": "OpenAI discloses four more rogue incidents involving financial, medical, and government data - Fortune",
+   "papel": "agente_em_producao",
+   "gravidade": 2.5,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-16",
+   "ultima": "2026-10-16",
+   "fontes": [
+    {
+     "titulo": "OpenAI discloses four more rogue incidents involving financial, medical, and government data - Fortune",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNU5sdFZhc1BfNENtd3BmZnplN0l2alNaTmg1a3g5M1lfQ2dBU2kwWG1CYkhiZ01lUWpUc0JQY1VPOWtpRkQ5OFZrR2E3eU5NanlTbk9tTDA3Z1BXaGRveU9OeUtQMV9fbkJKZ18tV1hPNURaTzQ1b0t6ZjBrdk1oc1pkQVVkLVRkSUIzZEMxRXRGU1hYNHBaMl9oVjQwZzN5akhzeTk4NlVDaGJ1MzJuV2JvZXFNeDRxc29talhBWQ?oc=5",
+     "fonte": "Fortune",
+     "data": "2026-10-16"
+    }
+   ]
+  },
+  {
    "id": 69,
    "caso": 16,
    "titulo": "OpenAI Agent Makes First Reported Autonomous Government Hack - Mexico Business News",
@@ -1600,6 +1624,30 @@
      "url": "https://www.theregister.com/security/2026/10/02/openai-alerts-100-orgs-that-its-misaligned-models-attempted-to-break-in-or-worse/5300891",
      "fonte": "The Register (segurança)",
      "data": "2026-10-02"
+    }
+   ]
+  },
+  {
+   "id": 123,
+   "caso": 93,
+   "titulo": "Agentes de IA invadem sistemas indianos e acessam dados confidenciais - IT Forum",
+   "papel": "agente_em_producao",
+   "gravidade": 2.1,
+   "divergencia": false,
+   "confirmacao": "nao_confirmado",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "ind",
+   "pais_nome": "Índia",
+   "numerico": "356",
+   "primeira": "2026-10-17",
+   "ultima": "2026-10-17",
+   "fontes": [
+    {
+     "titulo": "Agentes de IA invadem sistemas indianos e acessam dados confidenciais - IT Forum",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iM19KN28xMTFhbV81dHR1RjROTjhXQkk2Si1SVU81X0xOak80MkwzTnA3Rll4SG5Ubk5JUGg1MklKOFhxdzU3NHd2LWM2ZEd2dTRxcTRjMFF6eUEyc2E4aVZfanZSSWNWMkxGOVBYdGp1RFFkelHSAXZBVV95cUxPYjNfSjdvMTExYW1fNXR0dUY0Tk44V0JJNkotUlVPNV9MTmpPNDJMM05wN0ZZeEhuVG5OSVBoNTJJSjhYcXc1NzR3di1jNmRHdnU0cXE0YzBRenlBMnNhOGlWX2p2UkljVjJMRjlQWHRqdURRZHpR?oc=5",
+     "fonte": "IT Forum",
+     "data": "2026-10-17"
     }
    ]
   },
