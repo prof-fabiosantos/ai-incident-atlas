@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-18T23:42:26+00:00",
+ "gerado_em": "2026-10-19T17:02:54+00:00",
  "totais": {
-  "incidentes": 123,
-  "casos": 80,
-  "noticias": 857,
+  "incidentes": 126,
+  "casos": 83,
+  "noticias": 865,
   "repercussoes": 16
  },
  "incidentes": [
@@ -890,6 +890,60 @@
    ]
   },
   {
+   "id": 125,
+   "caso": 95,
+   "titulo": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
+   "papel": "ataque_a_ia",
+   "gravidade": 3.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "varias",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-19",
+   "ultima": "2026-10-19",
+   "fontes": [
+    {
+     "titulo": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
+     "url": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
+     "fonte": "The Hacker News",
+     "data": "2026-10-19"
+    }
+   ]
+  },
+  {
+   "id": 126,
+   "caso": 96,
+   "titulo": "A Lone Hacker Used AI Agents to Breach More Than 100 Companies - Startup Fortune",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 3.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-19",
+   "ultima": "2026-10-19",
+   "fontes": [
+    {
+     "titulo": "A Lone Hacker Used AI Agents to Breach More Than 100 Companies - Startup Fortune",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdGVLSHB5OGo2M0JfUWV5VHhRelIxNVh5dHV3RW5PZW9OVUdWRkt2aGszTjkyRWtqcDJWdk1NWmNkeUVuTHVxYWJJak9wdm5QYURTWVpRLVBSRDE2ckhFQ1hfcmRneERxZDRrWmpyb0xnOS1wcHQ0XzBaNjh5c2NIeW15Wjc2NEVZTjQ3VDg5WS13ZmxX?oc=5",
+     "fonte": "Startup Fortune",
+     "data": "2026-10-19"
+    },
+    {
+     "titulo": "AI Agent Hacker Breaches 100+ Firms for $5,000 [2026] - https://tech-insider.org/",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zVEh4NVplRjduZlZuSWlRRGpoOS1zMVhrbUN1Q1B6Yk9NckxyMlhyc2hzTk91ZnB2YV94VnZGZXYwUVdBV1BRR0wxOF9JRkh0NW1tZGlHQTdPdVROUHctN091U2pCNkdzdUdHZWJ2LTlqRzN2NWc?oc=5",
+     "fonte": "https://tech-insider.org/",
+     "data": "2026-10-19"
+    }
+   ]
+  },
+  {
    "id": 106,
    "caso": 78,
    "titulo": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
@@ -1564,6 +1618,36 @@
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMXNlUWpyTkM4NWZBN284a2k4SVRnUzhuTXhhRDFhR2J5clg2cmpaN1pxd2l2MmxTTG1vTVYyVDNoclJpcHlEUThXYjhxUVBFUm1kejh1eWJHcUJNeEdyMjBpVnpWSDZFVTFMSDNjOGZrd09raENKY0JaR0xuZlpLM1NkQ0N6b0NHdGtoaGxrUklWak0?oc=5",
      "fonte": "Beinsure",
      "data": "2026-10-12"
+    }
+   ]
+  },
+  {
+   "id": 124,
+   "caso": 94,
+   "titulo": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
+   "papel": "ataque_a_ia",
+   "gravidade": 2.2,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "varias",
+   "defasagem": "mesma_semana",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-18",
+   "ultima": "2026-10-19",
+   "fontes": [
+    {
+     "titulo": "OpenCode Security Breach: Distillation Attack Hit Console Users With Linked AI Providers. How to Find OpenCode on Developer Machines and Respond - Step Security",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IMDlSVTJTVTQzXzlNNS1zSXFBRm52eFRjcUw1ZWxZcW9NZlhOekM3QUw2WlhYeUttRFlqQWNPeUFPdVBvUENDWmJYT3kySFZnZ2xCZHB3TU5LaWZLeUhSZ1ZDLUJmc3JH?oc=5",
+     "fonte": "Step Security",
+     "data": "2026-10-18"
+    },
+    {
+     "titulo": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
+     "url": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
+     "fonte": "The Hacker News",
+     "data": "2026-10-19"
     }
    ]
   },
