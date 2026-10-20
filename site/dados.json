@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-20T00:43:18+00:00",
+ "gerado_em": "2026-10-20T15:12:45+00:00",
  "totais": {
-  "incidentes": 129,
+  "incidentes": 131,
   "casos": 83,
-  "noticias": 874,
+  "noticias": 883,
   "repercussoes": 16
  },
  "incidentes": [
@@ -760,6 +760,42 @@
      "url": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
      "fonte": "NPR",
      "data": "2026-08-01"
+    }
+   ]
+  },
+  {
+   "id": 131,
+   "caso": 96,
+   "titulo": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 3.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "global",
+   "pais_nome": "Vários países",
+   "numerico": null,
+   "primeira": "2026-10-20",
+   "ultima": "2026-10-20",
+   "fontes": [
+    {
+     "titulo": "One Hacker Uses AI Agents to Breach Over 100 Company Websites for Just $5,000 - CyberSecurityNews",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85VFJfYmhLWFZsQ3cyYk9vaFd4LUFkX3JZTHJuSGZibUdDTHVUdVlkMWIydTd6WkdJTkpJQWl0Z3FhYzhjS3FUQ2s2d3RhYTFjcmtJSzNoRExtQUFNQTRveHZLaGpzdE1IYlJyaDY3b0ZjV2NS0gF6QVVfeXFMTl9zQkdrZ1ZTMm5XNGFoanN3dVlKTFRWSFo4QzZadTNtZGxwLUJiRUxpRGtvSTdmOXBTUExMRHV1U1F0ODlWYl9VaFJpV0VUaGUwaFhwSDlBNUJETWttMVVpWXNWVW1HVUxkZmhad1o2cDh1SHlfTW5RZXc?oc=5",
+     "fonte": "CyberSecurityNews",
+     "data": "2026-10-20"
+    },
+    {
+     "titulo": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
+     "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
+     "fonte": "The Hacker News",
+     "data": "2026-10-20"
+    },
+    {
+     "titulo": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree",
+     "url": "https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn",
+     "fonte": "Dark Reading",
+     "data": "2026-10-20"
     }
    ]
   },
@@ -3166,6 +3202,30 @@
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQzZBajRrQU5lM0Jqc2V0YkRpSm9BUVBWWEhnaEozYWxnWnZma3VNZG1KSkxGWUttQ1MxbGlfYlVFbm1kblMxdXkzei1STlQ2ZGNwaUhEX0J2SVFkbG9qWW5DSlI4ei04cXFqd3ZJbkg3a2d1MVF1Q0hMWnhTbWVsOG9PY2FPN3RTaXVLLURTQ19KVlVfSzloWmlFSmY?oc=5",
      "fonte": "pasqualepillitteri.it",
      "data": "2026-09-20"
+    }
+   ]
+  },
+  {
+   "id": 130,
+   "caso": 94,
+   "titulo": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts - TechCrunch",
+   "papel": "ataque_a_ia",
+   "gravidade": 1.7,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-19",
+   "ultima": "2026-10-19",
+   "fontes": [
+    {
+     "titulo": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts - TechCrunch",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ25zM0g4TlR6X281OWQxV1FzUHliajQweEVkdHFFZlVtYTNqUzdIWHdjanVTS0RUaUd3dVA5UE5ZdHZKRkVnVWxfVzYyRGNtNkpBZXVVR19KOUQ3UFlfUnBNNHBzNmNjdzU0cnlGZk81cU03dUhkTUhacV85QV9zSW41RUtHOUhKQy1HOERnMzM4dk4tZkZ0LWNWcTZILVlZYXpQaGl1T1N0eEpPUm44?oc=5",
+     "fonte": "TechCrunch",
+     "data": "2026-10-19"
     }
    ]
   },
