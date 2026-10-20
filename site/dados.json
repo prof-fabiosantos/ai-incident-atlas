@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-19T17:02:54+00:00",
+ "gerado_em": "2026-10-20T00:43:18+00:00",
  "totais": {
-  "incidentes": 126,
+  "incidentes": 129,
   "casos": 83,
-  "noticias": 865,
+  "noticias": 874,
   "repercussoes": 16
  },
  "incidentes": [
@@ -890,6 +890,30 @@
    ]
   },
   {
+   "id": 127,
+   "caso": 96,
+   "titulo": "AI Agents Breached 100+ Firms at $50 a Site [2026] - shattered.io",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 3.0,
+   "divergencia": false,
+   "confirmacao": "nao_confirmado",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-19",
+   "ultima": "2026-10-19",
+   "fontes": [
+    {
+     "titulo": "AI Agents Breached 100+ Firms at $50 a Site [2026] - shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RX05OU2cxQXotUVNvSlpoamYxRWlhX2hoT1lJR29QZ2s1MDhQaF91ODRtUjRfMEdUOFdheTc5elRocTB5cE91U0sydTEtSXpjd0hIdFp6TGU2N1lieFpXUUFHWVpGU2pXUzBhdjJmajdWVzRzamkxbDRn?oc=5",
+     "fonte": "shattered.io",
+     "data": "2026-10-19"
+    }
+   ]
+  },
+  {
    "id": 125,
    "caso": 95,
    "titulo": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
@@ -1168,6 +1192,30 @@
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15R0trUVoyNGtwY3ViVFNEQ3lianNkTEFvdXFubGN0WjlNdlVUOVVfWGt3bF9PM0xaNDJBdVZzYUFVemNTLWhaYWpRSm5uUjFXd09XOHBVMzJkYmR2WXFIN3JpUnJacDdBOVhBcDltUS1TNnVZWHc?oc=5",
      "fonte": "shattered.io",
      "data": "2026-09-14"
+    }
+   ]
+  },
+  {
+   "id": 129,
+   "caso": 96,
+   "titulo": "EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites - Reuters",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.8,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-19",
+   "ultima": "2026-10-19",
+   "fontes": [
+    {
+     "titulo": "EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUVKUWRvY0tQeUZscHhGcDBLYjI5VVZaYXRFRklFbmEzX29RaVFuMmt6cDlpMURENUtWRFpBQVBnNngwcWJla3NJZllZVDFBb2NKU21YUnBkMTNKb1NEM3BNLXk2OXpVbVpyZXM3NHVaOUNrWGZzRWhGQlRFSDhPa0E4TVdCTnBuZjNBS2R2UU9ySzV1c2hCbUVycmFHUTNpVk1vX0kxSEEyMUllRlpsakRfNEdZUlJUWVBVRTFqYkZiYm5jR1E?oc=5",
+     "fonte": "Reuters",
+     "data": "2026-10-19"
     }
    ]
   },
@@ -1648,6 +1696,12 @@
      "url": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
      "fonte": "The Hacker News",
      "data": "2026-10-19"
+    },
+    {
+     "titulo": "OpenCode hack exposes API keys amid AI distillation attacks",
+     "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks",
+     "fonte": "BleepingComputer",
+     "data": "2026-10-19"
     }
    ]
   },
@@ -1948,6 +2002,30 @@
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcVhrNTF6YTA4bzMzNTg4N3l0WmxPZzBka1NHTkdwd0p3dktDY2NQZS1pbkZuMG1DbHM2dkdBcEp6U3dPU0M5QTUtQTkxMWdUM015WVJZM1RJLTd3X2cyenA4bk5TS0tDMkNOT3M3RjJoYVM5cV9pNXh3V0xzMmo0NzQyb2s5RlNqbV9ZcW9CUVZhbjdEWU5JSFNrY3FxRXE2cl9jUXFnYlYyNEFxRXY4emE0R0E5bnAtaERmckg2eVVaZ1E?oc=5",
      "fonte": "The Straits Times",
      "data": "2026-10-09"
+    }
+   ]
+  },
+  {
+   "id": 128,
+   "caso": 94,
+   "titulo": "OpenCode sofre invasão e gera cobranças indevidas em contas de IA de usuários - iMasters",
+   "papel": "ataque_a_ia",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-19",
+   "ultima": "2026-10-19",
+   "fontes": [
+    {
+     "titulo": "OpenCode sofre invasão e gera cobranças indevidas em contas de IA de usuários - iMasters",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQekJTVVFSNzlRcXdJZG9Od1pQR2tiVDhGOW5iaDVmYUR5SmVpUzUtZHM0N3lZZ0RzYnVWVHhCYzE0Y0RxTHVYRXBpTlZaS2NTM0xEdWJrNk9SLU5sNS0wTnF3UjI2RHlZOVZUWTY1NlVIaE9DaXhmV1lfSm5TLVZ6bktSUzZxbEZlMnU1STFKNmtpT291UFkxVUxsclpSbUN5N05zNGYzUTlmV3JzR2c?oc=5",
+     "fonte": "iMasters",
+     "data": "2026-10-19"
     }
    ]
   },
@@ -4083,7 +4161,7 @@
    "pais_nome": "País não informado",
    "numerico": null,
    "primeira": "2026-10-13",
-   "ultima": "2026-10-14",
+   "ultima": "2026-10-19",
    "fontes": [
     {
      "titulo": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
@@ -4096,6 +4174,12 @@
      "url": "https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000",
      "fonte": "The Register (segurança)",
      "data": "2026-10-14"
+    },
+    {
+     "titulo": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+     "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody",
+     "fonte": "WIRED (segurança)",
+     "data": "2026-10-19"
     }
    ]
   },
