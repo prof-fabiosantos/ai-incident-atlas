@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-20T15:12:45+00:00",
+ "gerado_em": "2026-10-21T00:10:16+00:00",
  "totais": {
   "incidentes": 131,
   "casos": 83,
-  "noticias": 883,
+  "noticias": 891,
   "repercussoes": 16
  },
  "incidentes": [
@@ -786,6 +786,12 @@
      "data": "2026-10-20"
     },
     {
+     "titulo": "AI Agents Help Chinese-Speaking Hacker Breach More Than 100 Company Websites - The SOFX Report",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWUlnWk05alBvSk1TOElVMFZaWEFSM0M3QTh5NHUwRWxhMW9yLTZ3clpRQWNaUXNBUjhNU2tRZXdvWWZHY25vMGJFSVBWZEg3azUzZkhzeTQ4MFhXYUxNWmp4WFJkUzVfbkEwaUJ3Z05HS081MmlwRERucDZRRGhRd2REVVFwOTZIQkwxemRyOHFBOWJCd3NFRU1nTmlnVWM?oc=5",
+     "fonte": "The SOFX Report",
+     "data": "2026-10-20"
+    },
+    {
      "titulo": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
      "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
      "fonte": "The Hacker News",
@@ -987,7 +993,7 @@
    "pais_nome": "País não informado",
    "numerico": null,
    "primeira": "2026-10-19",
-   "ultima": "2026-10-19",
+   "ultima": "2026-10-20",
    "fontes": [
     {
      "titulo": "A Lone Hacker Used AI Agents to Breach More Than 100 Companies - Startup Fortune",
@@ -1000,6 +1006,12 @@
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zVEh4NVplRjduZlZuSWlRRGpoOS1zMVhrbUN1Q1B6Yk9NckxyMlhyc2hzTk91ZnB2YV94VnZGZXYwUVdBV1BRR0wxOF9JRkh0NW1tZGlHQTdPdVROUHctN091U2pCNkdzdUdHZWJ2LTlqRzN2NWc?oc=5",
      "fonte": "https://tech-insider.org/",
      "data": "2026-10-19"
+    },
+    {
+     "titulo": "Prompt de menos de 100 caracteres fez agentes de IA invadirem mais de 100 empresas - Canaltech",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaF9CbkViSExCaUYwRjR5QXR0UFZPQVh1UUFubWNCVDRxSnlneFlZampUSWVsVDdEMTI3X3dYcVN2aWdXVDg5Rzh4cUtIdHBFYXV0Y2o1SzhEZTAzRG1tak5KSDBGdlExdWlVX2lXZkVySU5BWmE4N2k4VDdwRmlzNFc3ZG1iYVVEVjFpQlJxX1U5S01GMTl6Qmx0TWdQTU1yUjQ0M0VFSmpyeFZsaktJTnZHcTZuRGpVWWc?oc=5",
+     "fonte": "Canaltech",
+     "data": "2026-10-20"
     }
    ]
   },
