@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-21T00:10:16+00:00",
+ "gerado_em": "2026-10-21T15:23:41+00:00",
  "totais": {
   "incidentes": 131,
   "casos": 83,
-  "noticias": 891,
+  "noticias": 905,
   "repercussoes": 16
  },
  "incidentes": [
@@ -3006,6 +3006,12 @@
      "data": "2026-09-29"
     },
     {
+     "titulo": "OpenAI Faces First Lawsuit Over Rogue AI Agents That Hacked Hugging Face - Gizmodo",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN1FLS3NqQUZnTXRpQ29sMWdzek9YSUZaQlh3eW9ReEx6VnB4Y3hHeTZDbWhVdGpJRU1xbWNCZUVqV2dxb0ttaWN5VGczTHRUR18wSjhodFY0cm0xN2tJN3JEeTVNWW9MZzh1YlB6VWFSV21sbDdTS09aaVlCUTRHUTI0VWdLX3EwTXA5NGEtNEh1RVE0bGN0djgwMFAyLTdzaExWUWp3?oc=5",
+     "fonte": "Gizmodo",
+     "data": "2026-09-30"
+    },
+    {
      "titulo": "OpenAI sued over 700-agent AI hack of Hugging Face - YourStory.com",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tdUhnNW9zSkwxSm1WSTNIeHl2MFVfcTVTcTRqZVBfWExFTk0tWjRaR3FucjIyeDFWbU9wenpxZzNZQkR2LUpma1N4NzRFellwUjkyMXIwcGIzMzQ4dUhZTXJYZmFOMVRlTkVzenpsa280cHR6YVZoZQ?oc=5",
      "fonte": "YourStory.com",
@@ -3711,6 +3717,12 @@
      "titulo": "AI agent hacks government website for first time: why this breach matters - Nature",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzbzVHVDhXc21zcnB4cTdHSFI1ZXVyU2thVWNsY3RjRVJiR19JS1JhWFRmOGZSOHFDRTlRRTE4MnBKMzJjbnhnOERGbUo0N09icHdWcFYwUmNuYm9VLUYw?oc=5",
      "fonte": "Nature",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "Austrália afirma que agente de IA invadiu site do governo e acessou arquivos - R7",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWnZTN1VwLUhsQWt2LXVFbUxWdEZUUkNRWGFZN21IcWFZRG9EWW1LOVh3c2FQX29Ub2t2YXo2eHBPZ1ZBbTNHclRvWHplbFJUaGpSZnQ1UGpKUVJ4cjlPSXM0b2QwcjBXTWRfSDBxSUlYVnlGYXlWUEFMMnVyRWpnelZ5NmtDRVBqR2hfZzU0S0l2ZHF1eExHTnVRZUpiTDlNekljczBSTF84ZVFabnF6bFRyQ2JjcVhBVHJUb2NCNi03UQ?oc=5",
+     "fonte": "R7",
      "data": "2026-09-24"
     },
     {
