@@ -1,10 +1,10 @@
 {
- "gerado_em": "2026-10-21T15:23:41+00:00",
+ "gerado_em": "2026-10-22T00:16:02+00:00",
  "totais": {
-  "incidentes": 131,
-  "casos": 83,
-  "noticias": 905,
-  "repercussoes": 16
+  "incidentes": 132,
+  "casos": 84,
+  "noticias": 916,
+  "repercussoes": 17
  },
  "incidentes": [
   {
@@ -2300,6 +2300,30 @@
    ]
   },
   {
+   "id": 132,
+   "caso": 98,
+   "titulo": "Security firm finds China-linked AI agent behind Japan cyberattacks - Japan Today",
+   "papel": "agente_em_producao",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "jpn",
+   "pais_nome": "Japão",
+   "numerico": "392",
+   "primeira": "2026-10-20",
+   "ultima": "2026-10-20",
+   "fontes": [
+    {
+     "titulo": "Security firm finds China-linked AI agent behind Japan cyberattacks - Japan Today",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkxsd0RhSktuSk5yTDlmcjV4QjN3R2hhSm5KRTk4NThESl8xejBIcGVmdnI4YWs0ZWhRbXdidlM0dzR5cEc5bjBOTHBSaDdfWnZuTkdRR2VvRklBakZJQUJqcnI0aGs1UUZUMWdOYVN5UTI0eDVGQXVYV3ppeVdGOFZSWkFHTl9ncnEyNWlLcWstZHFZZ1lwVUhSNTdHYWZpeXowQUhBeHhGTXRhSzM2QVJyTQ?oc=5",
+     "fonte": "Japan Today",
+     "data": "2026-10-20"
+    }
+   ]
+  },
+  {
    "id": 50,
    "caso": 33,
    "titulo": "Este é o primeiro caso de um agente de IA infiltrando-se em um sistema governamental. - Vietnam.vn",
@@ -3726,6 +3750,12 @@
      "data": "2026-09-24"
     },
     {
+     "titulo": "Austrália afirma que agente da OpenAI hackeou site governamental - Metrópoles",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWmFGbzJWY201aDYwN19LSXNzeTBPd0dPajNaRXkxWmF3MHp4cDZjRm00ejQyZ0oySnZFTGo5bVJ4QU85ZDM3ZEhXRmJpWTV1Q184SHF6dUhvenBMdWNYS1psM2FsSzU0SUYxRER2MHY0d0k5OVNxSVJ1TzFuRDFzRnRIS0lMWU5RZHRjeUhzc3RVMEhwYkFkWVhtZ1Qzdw?oc=5",
+     "fonte": "Metrópoles",
+     "data": "2026-09-24"
+    },
+    {
      "titulo": "Rogue OpenAI agent 'infiltrated' Australian government website in world first - BBC",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kT2t4QWVHS3diRXpOWV90RFhEMTh5SWp0RU9TRFl1dmJENEtZMnJDWXNsdkNpSHd0MDQ5YzhCVDZBUzlrN00wUVY5Q2hMMUpyWlRVcW5NYnJXVDg?oc=5",
      "fonte": "BBC",
@@ -4985,6 +5015,13 @@
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSUNIcXNWa0N1WkJlQXdZZlJXYjg2ZzlyOGlTUDlzbkZpVFBGUURCVHBVSTlFQ29wa0MwS2FiWkRPN1V3OVBNLUlCckhCb0JJTmo5MFg1eG5mTVRYaXBrT0M2dUZ1N0FQMTNZSTZMSTkxazJFNTE1bG5LUjVVdzU3R3RIcjhvTkJ4eUFjVFNfeWdsNVRNOVRYV09sY1pFS05oOEZQMW1wbmd0YXFZSVFibA?oc=5",
    "fonte": "Startup Fortune",
    "data": "2026-10-09"
+  },
+  {
+   "caso": 2,
+   "titulo": "Hugging Face CEO Says Netflix’s AI Hack Documentary Gets It Wrong - Technology Org",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcFdPYUdrYkJQTE1LaGRYeGRjbmZUM0pabnBCQmliMUtQRkFLVnVDcGtKZVBvelpNRWpXM0ZsOFVONGx0dTN5LUIzUTBzbzljSVgyM2VlVjlJa0FjdVVkZ2F5UmwzckFDdXhJRHUzbGRsMWh2dDFDRlNITXl6RGREMk01NENXbEZ2NnZoZjRpR2gzUDkyTmlmUGFSWFB3b0lGZ2c?oc=5",
+   "fonte": "Technology Org",
+   "data": "2026-10-21"
   },
   {
    "caso": 16,
