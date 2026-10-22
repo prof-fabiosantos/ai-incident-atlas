@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-22T00:16:02+00:00",
+ "gerado_em": "2026-10-22T15:24:21+00:00",
  "totais": {
-  "incidentes": 132,
-  "casos": 84,
-  "noticias": 916,
+  "incidentes": 135,
+  "casos": 87,
+  "noticias": 932,
   "repercussoes": 17
  },
  "incidentes": [
@@ -542,6 +542,30 @@
    ]
   },
   {
+   "id": 133,
+   "caso": 100,
+   "titulo": "Japan AI Hack Wave Tops 600 Incidents, 10M Records [2026] - shattered.io",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 3.2,
+   "divergencia": false,
+   "confirmacao": "nao_confirmado",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-14",
+   "ultima": "2026-10-14",
+   "fontes": [
+    {
+     "titulo": "Japan AI Hack Wave Tops 600 Incidents, 10M Records [2026] - shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tM1dOMlpBMGJ3aVk2N2J3R2lSa3doZ1pKT1VvajdWQVlfM09fa09CbjZxQ0RGb0g0bmtzZ29lTmxnbTlDUlR0MkdsOUhTeXdKZFRrQmdWZWU3WHo2T1NJdkVwMG9MQUd5N05R?oc=5",
+     "fonte": "shattered.io",
+     "data": "2026-10-14"
+    }
+   ]
+  },
+  {
    "id": 60,
    "caso": 42,
    "titulo": "Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign",
@@ -670,6 +694,30 @@
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XRzJBRkxCR0pzT1VrXzN3cUxfZzhuRTVxclJ1d2tGOE1HWkZ1OWVLMGdqUlc0TWRpQ1Y5SmhWaUdzOTN4NXlMM3Q0RFZjamVfUmZVWGdpS1pwZEVrVzBGVVd0MUMwZ1lreDNGNUR5M1QxUS0tTXdKUHRTN3dhOHM?oc=5",
      "fonte": "https://tech-insider.org/",
      "data": "2026-10-08"
+    }
+   ]
+  },
+  {
+   "id": 135,
+   "caso": 102,
+   "titulo": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+   "papel": "ataque_a_ia",
+   "gravidade": 3.0,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "nao_informado",
+   "defasagem": "mesma_semana",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-22",
+   "ultima": "2026-10-22",
+   "fontes": [
+    {
+     "titulo": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+     "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+     "fonte": "The Hacker News",
+     "data": "2026-10-22"
     }
    ]
   },
@@ -1396,6 +1444,36 @@
      "url": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
      "fonte": "Dark Reading",
      "data": "2026-10-14"
+    }
+   ]
+  },
+  {
+   "id": 134,
+   "caso": 101,
+   "titulo": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.6,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "outra",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-22",
+   "ultima": "2026-10-22",
+   "fontes": [
+    {
+     "titulo": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+     "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+     "fonte": "The Hacker News",
+     "data": "2026-10-22"
+    },
+    {
+     "titulo": "Microsoft says ConnectWise breach let Chinese spies loose on 2,250 cloud tenants",
+     "url": "https://www.theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687",
+     "fonte": "The Register (segurança)",
+     "data": "2026-10-22"
     }
    ]
   },
@@ -2955,6 +3033,12 @@
      "titulo": "Rogue AI agents: A timeline of security breaches since the attack on Hugging Face - Fast Company",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa3FrZWxyNGkwMTRLZ1dUZUwyVExNd2JvbEs0bFBUMDFMTGx5WW52T1BkZ2R3M1M5T1IxTmhmVEhTTGkyNElnXzhKeDgxZEF1SlVZOVg1bExpaWR1enZ1d0ZGU1p6Mnk4alpDQU85Z25jQ2V3YXlJZjBzQWJIaHk5RUk4TQ?oc=5",
      "fonte": "Fast Company",
+     "data": "2026-09-30"
+    },
+    {
+     "titulo": "OpenAI sued over AI agent's hacking of Hugging Face - TradingView",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2dyUlVUa09TTDZfM1JYSG5WR0g0dUQ1YjVHTi1LamhpMEhXdERsTWphQVpXendsOEtLdjloclZOSTBYZWFpdWo1cjBQY3IzYUgwT3JkR1RwVV9xaE9iMDZPbGdIaERLclozSUs3WF9NTllUd0JFTTFqRUlNZzF4N2VOOFFtaVU1ampmcDNMSzhkQlRjY1ZxOHFwQ0pVT3hUdWNCNkt2Z0V6eFNRRDNvSklxaDE?oc=5",
+     "fonte": "TradingView",
      "data": "2026-09-30"
     },
     {
