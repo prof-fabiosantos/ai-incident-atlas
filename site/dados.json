@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-23T00:12:27+00:00",
+ "gerado_em": "2026-10-23T15:13:28+00:00",
  "totais": {
-  "incidentes": 136,
+  "incidentes": 137,
   "casos": 88,
-  "noticias": 938,
+  "noticias": 949,
   "repercussoes": 17
  },
  "incidentes": [
@@ -2014,6 +2014,30 @@
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZDF3akRLbzZHR3VtYlM1LVJXZ2ZfbjM2UEJSTWMtX2RUeHFtdFBhRF9oTEtQeElaejAzOS1ia1N1TlJyTkN6TFdNVVE5cVVhU3RVVlpTUmptS29Na1FPeVhtckppaU4yY3FNZVpEdEljT19wdjBGRmVNN2tNOWtfcWl5XzNMSFpFWmUzOENGX0czZlBQNzNNYW51VXRLeW8?oc=5",
      "fonte": "CNN",
      "data": "2026-09-24"
+    }
+   ]
+  },
+  {
+   "id": 137,
+   "caso": 103,
+   "titulo": "US banks scramble to restrict AI agent activity — agents detected accessing customer accounts or even attempting to make transactions in breach of policy - Tom's Hardware",
+   "papel": "agente_em_producao",
+   "gravidade": 2.1,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "usa",
+   "pais_nome": "Estados Unidos",
+   "numerico": "840",
+   "primeira": "2026-10-23",
+   "ultima": "2026-10-23",
+   "fontes": [
+    {
+     "titulo": "US banks scramble to restrict AI agent activity — agents detected accessing customer accounts or even attempting to make transactions in breach of policy - Tom's Hardware",
+     "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQZEZTRS02WHRHbGN5MTJ4QnVobjhXdVVEa01UV2s4cVJYTGtmeGo3cjJzUC1uZmVBSXFYa1NmdUhhUlZlQ0Jvd0dnbVo1MmVhSjdfNnRDMU9MN1UyV2M1Um43MmRJa0xJVHFGTEdvWEZrTEFXLXFCVmdEcFp3alAzRlJnTnZIRzgyMVgzOUVzWUhvT25KUE93UVd3aUFXM0t2NDJMUHNDdXI4ai1jODVEQTlMeDBTUTYxVDlxdjFYQm1sdDR1VVo1Sy1wa2NXVFVJeGZGZ25YMnZQSGllNDNCTkVOX083X1Y1UWxKRjBveTFqU2ZWeFIwMEZnRERJNU9SX3B6cjF0a3Y2UjdYZ2dkcmY5RVF5c3BnVVgwQkkyZDA2SEtVSFlsMEVMRzFvU25jdHZF?oc=5",
+     "fonte": "Tom's Hardware",
+     "data": "2026-10-23"
     }
    ]
   },
