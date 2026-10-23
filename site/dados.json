@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-22T15:24:21+00:00",
+ "gerado_em": "2026-10-23T00:12:27+00:00",
  "totais": {
-  "incidentes": 135,
-  "casos": 87,
-  "noticias": 932,
+  "incidentes": 136,
+  "casos": 88,
+  "noticias": 938,
   "repercussoes": 17
  },
  "incidentes": [
@@ -1474,6 +1474,24 @@
      "url": "https://www.theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687",
      "fonte": "The Register (segurança)",
      "data": "2026-10-22"
+    },
+    {
+     "titulo": "Microsoft blames ConnectWise attacks on Chinese state hacker using ARTEX AI agents",
+     "url": "https://therecord.media/china-cyber-connectwise-ai",
+     "fonte": "The Record",
+     "data": "2026-10-22"
+    },
+    {
+     "titulo": "China-linked hackers used an AI agent to breach ConnectWise and hit MSPs - Startup Fortune",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT0Jza0NuVk9iYjJEOVVBSFFaRjNpVkR3TlhsZ2owUXlmQTlrdmFJcXUxNmVKVkJIRXEyWTRYNmowTUhFeGtOYW5XTW5yTkdNQmhZeFpFbHl6d2FCVjVhOHRud1ZDOEUzVEVSRXgxODZIdXNldEtJanhRU0RFX3VVVFNCb3BucnMyMEplbHpiZzV1d1lzVEQtMkFpSWtkT3Y3emc?oc=5",
+     "fonte": "Startup Fortune",
+     "data": "2026-10-22"
+    },
+    {
+     "titulo": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
+     "url": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
+     "fonte": "Dark Reading",
+     "data": "2026-10-22"
     }
    ]
   },
@@ -1672,6 +1690,30 @@
      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources",
      "fonte": "BleepingComputer",
      "data": "2026-09-28"
+    }
+   ]
+  },
+  {
+   "id": 136,
+   "caso": 103,
+   "titulo": "Scoop: Unvetted AI agents are accessing U.S. bank accounts - Axios",
+   "papel": "agente_em_producao",
+   "gravidade": 2.4,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "usa",
+   "pais_nome": "Estados Unidos",
+   "numerico": "840",
+   "primeira": "2026-10-22",
+   "ultima": "2026-10-22",
+   "fontes": [
+    {
+     "titulo": "Scoop: Unvetted AI agents are accessing U.S. bank accounts - Axios",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSDhwTU0wLUJrU2kza3Z2bFJoNmQ2NENWa1JRRHppbTc0OGJ2MHVOU1BfTzBMNzNVRGplNEdqSTZ4NlZfUDRCOVdoNk9PelNoalE0WDNRcVh1bGIzZlVLU0dWLVFGWjJpd1dEcFItX2RFT1k2Tmk1RHBBckd6aV9GVGdSaw?oc=5",
+     "fonte": "Axios",
+     "data": "2026-10-22"
     }
    ]
   },
@@ -3837,6 +3879,12 @@
      "titulo": "Austrália afirma que agente da OpenAI hackeou site governamental - Metrópoles",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWmFGbzJWY201aDYwN19LSXNzeTBPd0dPajNaRXkxWmF3MHp4cDZjRm00ejQyZ0oySnZFTGo5bVJ4QU85ZDM3ZEhXRmJpWTV1Q184SHF6dUhvenBMdWNYS1psM2FsSzU0SUYxRER2MHY0d0k5OVNxSVJ1TzFuRDFzRnRIS0lMWU5RZHRjeUhzc3RVMEhwYkFkWVhtZ1Qzdw?oc=5",
      "fonte": "Metrópoles",
+     "data": "2026-09-24"
+    },
+    {
+     "titulo": "Inteligência artificial da OpenAI invade portal do governo australiano - PCGuia",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU2U5dUdwYnpEbDJ5N1FiQVVicFU5WUk3TjdJZXBSUWU3VVFTTnhOSm05aGNiWEd6Z2N1bEhuTE9SNUNDZWZORFQyNl9ZRkRuSWRHZU5NaGlLUElFZ2h0S2puOFpLNTV2VVRUek5fZDFvN0lVZnY4REJuSWl3QVNpS2M1cmptbzNyUFBnUGZFWUVoMFFUU1o1VGpDWElac3V3bWM0?oc=5",
+     "fonte": "PCGuia",
      "data": "2026-09-24"
     },
     {
