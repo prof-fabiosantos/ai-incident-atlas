@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-24T14:03:13+00:00",
+ "gerado_em": "2026-10-24T23:46:08+00:00",
  "totais": {
-  "incidentes": 140,
+  "incidentes": 141,
   "casos": 91,
-  "noticias": 962,
+  "noticias": 971,
   "repercussoes": 17
  },
  "incidentes": [
@@ -830,9 +830,15 @@
    "pais": "global",
    "pais_nome": "Vários países",
    "numerico": null,
-   "primeira": "2026-10-20",
+   "primeira": "2026-10-19",
    "ultima": "2026-10-20",
    "fontes": [
+    {
+     "titulo": "AI agents targeted 1,200 websites and compromised more than 100: report - The Business Times",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1I2TWhFdUlxSU80amNrSDB4dWJfZ04ycHZzWlpvYXZ3b0tkc2xHcXFhdXUxODROYTlCUnFFU1BIVkdlYUZiUWZRMDN3aWUwNGFPZ2JyTzI1dUNEM000QkVoYnNJZ0FuTVg1Y3R2ODZwc2Q5blZ0MmktV3hWZ3UzcXdyRG5KRm0zejRsR1RPd25CWXcwSHhmQWRLNmhsVE80d2RFSl9fYk9vTnM2X2loS3lLX1pLM2ZwYXBTb1dVQm1wcGNxbG4yaFBfNWRkQQ?oc=5",
+     "fonte": "The Business Times",
+     "data": "2026-10-19"
+    },
     {
      "titulo": "One Hacker Uses AI Agents to Breach Over 100 Company Websites for Just $5,000 - CyberSecurityNews",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85VFJfYmhLWFZsQ3cyYk9vaFd4LUFkX3JZTHJuSGZibUdDTHVUdVlkMWIydTd6WkdJTkpJQWl0Z3FhYzhjS3FUQ2s2d3RhYTFjcmtJSzNoRExtQUFNQTRveHZLaGpzdE1IYlJyaDY3b0ZjV2NS0gF6QVVfeXFMTl9zQkdrZ1ZTMm5XNGFoanN3dVlKTFRWSFo4QzZadTNtZGxwLUJiRUxpRGtvSTdmOXBTUExMRHV1U1F0ODlWYl9VaFJpV0VUaGUwaFhwSDlBNUJETWttMVVpWXNWVW1HVUxkZmhad1o2cDh1SHlfTW5RZXc?oc=5",
@@ -3622,6 +3628,30 @@
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMWpZUXYtTkdUNnRWRmtiVmQ5YnlaNHBzTTZQSUljem1mLWU5eVJTQTVIRWRYME5XRC1pT2lzUzNQYThXUjZMdlZ0c1NSRk8waUp1X0VuOEF0LTFtUTdaTjJkTzNWaTBkR0lHZHpvZXpVUDVhS2dNQUVJTnUxRHZ6Q3RvRlhCdw?oc=5",
      "fonte": "Fortune",
      "data": "2026-09-09"
+    }
+   ]
+  },
+  {
+   "id": 141,
+   "caso": 37,
+   "titulo": "Anthropic says Mythos kept hacking even when it knew real people could get hurt - Business Insider",
+   "papel": "agente_em_teste",
+   "gravidade": 1.5,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "anthropic",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-23",
+   "ultima": "2026-10-23",
+   "fontes": [
+    {
+     "titulo": "Anthropic says Mythos kept hacking even when it knew real people could get hurt - Business Insider",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFVoUm1BYWE3QUVLT203MFZGZWNzaTJwcldpbUpDZGdRRFVVZXlmU2dGVmdDWVM0cEllaXFlNkVPNm5FdXNhc0hLNm40cFRaYjJKbl9xbU56N0JkNHdWTXI0RXBfcHFCbUlXRjF6SXF4TU0wcFBkM2ZCVmNYNTdWSnB0STk?oc=5",
+     "fonte": "Business Insider",
+     "data": "2026-10-23"
     }
    ]
   },
