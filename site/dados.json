@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-24T00:04:30+00:00",
+ "gerado_em": "2026-10-24T14:03:13+00:00",
  "totais": {
-  "incidentes": 139,
-  "casos": 90,
-  "noticias": 955,
+  "incidentes": 140,
+  "casos": 91,
+  "noticias": 962,
   "repercussoes": 17
  },
  "incidentes": [
@@ -429,6 +429,12 @@
      "titulo": "Australian Prime Minister miffed with OpenAI after AI Agent breaches Medicare Website - Cybersecurity Insiders",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUnRnTFE0ZWYxQS05UGFQZGRtQkFfVmhZeFRaQmY2MHpreFExbGxUQm9wY05EaFVtVWdlUUhEMzRHRlNUVmM0TVVLTlczQUI4T0xTcFJRX1pnUmpiNnpCeV9MNEpMUlNkcGVfc21RR0dNbnY3dV9YS2pudGhnaTJuemlsZVJERE1PVFJpSkQ2RmlJWlB2em85NW05OHVvMmV2MlhCWjdKLThfaVAtemtnVHJPbVVvX0JBWl96dkZENGVNVjA?oc=5",
      "fonte": "Cybersecurity Insiders",
+     "data": "2026-09-25"
+    },
+    {
+     "titulo": "Sistema de inteligencia artificial da openai invade portal de saúde australiano - Agora Litoral",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWFF0UTZ5OVZNZTl2RG1RUW5RMzV5Y3hTdU40OVNOUlVsdFdJRDZnUlNvQW94N05nVXZBQkw0Y09rTFpFN21VWngtbDJONE9FS3VPMTZpb0l1NWF5a2ZVV0Y3YWIzMXRmbnJZNS05WWlVN1Fud0poRDBIRnhmdnk3Y0JubHc0Zl9RMVU5UnV1VmlCUmlCTnlLWUdzTzVhamhjRERrRnFrZ0N1S3V4c2Z0UXRCQmx6aHNNRExj?oc=5",
+     "fonte": "Agora Litoral",
      "data": "2026-09-25"
     },
     {
@@ -2092,6 +2098,30 @@
      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQZEZTRS02WHRHbGN5MTJ4QnVobjhXdVVEa01UV2s4cVJYTGtmeGo3cjJzUC1uZmVBSXFYa1NmdUhhUlZlQ0Jvd0dnbVo1MmVhSjdfNnRDMU9MN1UyV2M1Um43MmRJa0xJVHFGTEdvWEZrTEFXLXFCVmdEcFp3alAzRlJnTnZIRzgyMVgzOUVzWUhvT25KUE93UVd3aUFXM0t2NDJMUHNDdXI4ai1jODVEQTlMeDBTUTYxVDlxdjFYQm1sdDR1VVo1Sy1wa2NXVFVJeGZGZ25YMnZQSGllNDNCTkVOX083X1Y1UWxKRjBveTFqU2ZWeFIwMEZnRERJNU9SX3B6cjF0a3Y2UjdYZ2dkcmY5RVF5c3BnVVgwQkkyZDA2SEtVSFlsMEVMRzFvU25jdHZF?oc=5",
      "fonte": "Tom's Hardware",
      "data": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "id": 140,
+   "caso": 106,
+   "titulo": "Security breach at AI aggregator exposes over 18 million files, including some very embarrassing chat records - TechRadar",
+   "papel": "ataque_a_ia",
+   "gravidade": 2.1,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-22",
+   "ultima": "2026-10-22",
+   "fontes": [
+    {
+     "titulo": "Security breach at AI aggregator exposes over 18 million files, including some very embarrassing chat records - TechRadar",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWnFaTGlKR1YybGVBdktFWlhwN1VNeXN6NEJyMTBPOVEtQ3NOUWxTVThvZmVKYmtEeWlxSVBOYy1nTHpiWXg2cUNYeWtSMG9MamhOdVNkRzhfTUw0RXBTZk5ISHdtZndZdkc0YmMzVExaNGI3Y2QwV2hCU0dQckRLMHB1bmhWcDhISjUyQmdjQVFSdUQ3VkszREF2QTJGb2NlRzlyb2pteE9TcklWNWx0ZEVZRzFJTDFrZGhoTGZnR0g0dmJkTjFMOG1EeDZKZDRvSHBMRVJZc3FiYnVBaUx1aQ?oc=5",
+     "fonte": "TechRadar",
+     "data": "2026-10-22"
     }
    ]
   },
