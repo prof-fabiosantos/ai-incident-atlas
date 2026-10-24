@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-23T15:13:28+00:00",
+ "gerado_em": "2026-10-24T00:04:30+00:00",
  "totais": {
-  "incidentes": 137,
-  "casos": 88,
-  "noticias": 949,
+  "incidentes": 139,
+  "casos": 90,
+  "noticias": 955,
   "repercussoes": 17
  },
  "incidentes": [
@@ -1088,6 +1088,36 @@
    ]
   },
   {
+   "id": 119,
+   "caso": 89,
+   "titulo": "Rogue AI agents broke into Indian firms' live systems, government says - Reuters",
+   "papel": "agente_em_producao",
+   "gravidade": 3.0,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "ind",
+   "pais_nome": "Índia",
+   "numerico": "356",
+   "primeira": "2026-10-16",
+   "ultima": "2026-10-18",
+   "fontes": [
+    {
+     "titulo": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
+     "url": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
+     "fonte": "The Hacker News",
+     "data": "2026-10-16"
+    },
+    {
+     "titulo": "Rogue AI agents broke into Indian firms' live systems, government says - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWE4SllpWmQwcUxOeXpjRVg5NWhCdHY2bE1LT1kxdEN2bkxYS29Vc3hVV0dEbm1XeDd0dHNQUzZNQWxiMHItQV9XMTVHY21YMDJLZXFTVWFrUGZDY19PQXcxMnBBZzViSE45TWJkTHBNRnBkOUZVUjY1NzM5bWpFTFd1dmdLMnNlRUJtVTBobVJOV1htWUlxSXFqLUN0d2tQMGh6NkJ4bFpvYUJpN3lDRUVES2dtemF4eGViejJn?oc=5",
+     "fonte": "Reuters",
+     "data": "2026-10-18"
+    }
+   ]
+  },
+  {
    "id": 73,
    "caso": 53,
    "titulo": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
@@ -1216,6 +1246,30 @@
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeWlXb1h5WU93YnlDNzBwS2trQlRhMVNjOHZsV2F5b19aenFRZXJZRjEzRzZzVkpycXJrNUZYbUY2Y2VsUUtuS1p2OFgyRmRMTGJGTjhQcmtNTURqbHFPSFNFc2hxSFYwTlAwZUhxYjJZZmV5SkpDSUFPQ0t1bjg0UG1ROEotZ1A2S1lDNFFlcTV2OEhfWUlPRklRQ1RvN1oxa2p0a1VkUVVyTWd0?oc=5",
      "fonte": "Folha Vitória",
      "data": "2026-09-21"
+    }
+   ]
+  },
+  {
+   "id": 138,
+   "caso": 104,
+   "titulo": "AI Tools Are Generating Massive Attacks for Little Cost",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.9,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-23",
+   "ultima": "2026-10-23",
+   "fontes": [
+    {
+     "titulo": "AI Tools Are Generating Massive Attacks for Little Cost",
+     "url": "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
+     "fonte": "Dark Reading",
+     "data": "2026-10-23"
     }
    ]
   },
@@ -1360,30 +1414,6 @@
      "url": "https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054",
      "fonte": "The Register (segurança)",
      "data": "2026-10-08"
-    }
-   ]
-  },
-  {
-   "id": 119,
-   "caso": 89,
-   "titulo": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
-   "papel": "agente_em_teste",
-   "gravidade": 2.8,
-   "divergencia": false,
-   "confirmacao": "oficial",
-   "empresa": "nao_informado",
-   "defasagem": "nao_informado",
-   "pais": "ind",
-   "pais_nome": "Índia",
-   "numerico": "356",
-   "primeira": "2026-10-16",
-   "ultima": "2026-10-16",
-   "fontes": [
-    {
-     "titulo": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
-     "url": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
-     "fonte": "The Hacker News",
-     "data": "2026-10-16"
     }
    ]
   },
@@ -1834,6 +1864,30 @@
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMXNlUWpyTkM4NWZBN284a2k4SVRnUzhuTXhhRDFhR2J5clg2cmpaN1pxd2l2MmxTTG1vTVYyVDNoclJpcHlEUThXYjhxUVBFUm1kejh1eWJHcUJNeEdyMjBpVnpWSDZFVTFMSDNjOGZrd09raENKY0JaR0xuZlpLM1NkQ0N6b0NHdGtoaGxrUklWak0?oc=5",
      "fonte": "Beinsure",
      "data": "2026-10-12"
+    }
+   ]
+  },
+  {
+   "id": 139,
+   "caso": 105,
+   "titulo": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.2,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-23",
+   "ultima": "2026-10-23",
+   "fontes": [
+    {
+     "titulo": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+     "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+     "fonte": "The Hacker News",
+     "data": "2026-10-23"
     }
    ]
   },
