@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-25T14:27:38+00:00",
+ "gerado_em": "2026-10-25T23:36:07+00:00",
  "totais": {
-  "incidentes": 143,
-  "casos": 92,
-  "noticias": 985,
+  "incidentes": 145,
+  "casos": 94,
+  "noticias": 989,
   "repercussoes": 17
  },
  "incidentes": [
@@ -1886,6 +1886,30 @@
    ]
   },
   {
+   "id": 145,
+   "caso": 109,
+   "titulo": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.2,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-25",
+   "ultima": "2026-10-25",
+   "fontes": [
+    {
+     "titulo": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+     "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+     "fonte": "The Hacker News",
+     "data": "2026-10-25"
+    }
+   ]
+  },
+  {
    "id": 139,
    "caso": 105,
    "titulo": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
@@ -3562,6 +3586,30 @@
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ25zM0g4TlR6X281OWQxV1FzUHliajQweEVkdHFFZlVtYTNqUzdIWHdjanVTS0RUaUd3dVA5UE5ZdHZKRkVnVWxfVzYyRGNtNkpBZXVVR19KOUQ3UFlfUnBNNHBzNmNjdzU0cnlGZk81cU03dUhkTUhacV85QV9zSW41RUtHOUhKQy1HOERnMzM4dk4tZkZ0LWNWcTZILVlZYXpQaGl1T1N0eEpPUm44?oc=5",
      "fonte": "TechCrunch",
      "data": "2026-10-19"
+    }
+   ]
+  },
+  {
+   "id": 144,
+   "caso": 108,
+   "titulo": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+   "papel": "ataque_a_ia",
+   "gravidade": 1.6,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-25",
+   "ultima": "2026-10-25",
+   "fontes": [
+    {
+     "titulo": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+     "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder",
+     "fonte": "BleepingComputer",
+     "data": "2026-10-25"
     }
    ]
   },
