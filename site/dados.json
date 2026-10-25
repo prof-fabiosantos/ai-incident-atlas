@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-24T23:46:08+00:00",
+ "gerado_em": "2026-10-25T14:27:38+00:00",
  "totais": {
-  "incidentes": 141,
-  "casos": 91,
-  "noticias": 971,
+  "incidentes": 143,
+  "casos": 92,
+  "noticias": 985,
   "repercussoes": 17
  },
  "incidentes": [
@@ -608,9 +608,15 @@
    "pais": "kor",
    "pais_nome": "Coreia do Sul",
    "numerico": "410",
-   "primeira": "2026-10-08",
+   "primeira": "2026-10-06",
    "ultima": "2026-10-10",
    "fontes": [
+    {
+     "titulo": "Hackers suspected of using AI agents for cyberattacks on South Korean banks, exposing data from about 25,000 customers — officials believe AI models enable actors 'to hack with ease even without specialized skills' - Tom's Hardware",
+     "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOUWVtTlFzTjB3aDhTX1BzZGJyMGo5S1JUOEd4cVJNSDlFNWowdlhXUzFweUkzbmpfRjhIdndfdFhVdjRHdUF3WC16SmY0dWhzMnNwRF9SN1k0ZU4wbDg1ZFd2UUp0RXpRdzNMXzJSMXotZW1Sb3kxSHJKR01YMFAwUS1xVGtVbmppXzhLejIybW1icnpHbUYtUkxkMmk1eXlFNHVOcW1sT1JMdWtjR0luamU5VVNIN3VHbkhqcnJyeWJwdFh6SDFyaUFRZTZOT3AxN0xQcXBISzVmNnB0WVBPclc1bkg1c0tJMFBWdzYxeTZoblhNMWdrb3dzM3dxeE8wRkJTOUdSOVBxVlZOMW5PSWc1ckVDa2MzazdzdnhtTW5LRWppYkhxemIwT25oMkFPX2J4VFdlOUpyb1Z5UGNRWmV3VDlPUEN0ck5jU2RCWEVOQ0UyZHR3amFMVFdwS1hQS25uWTVsWUh3WHpkMGs1SlhhS0lKek5HM0U4NjhnbVE?oc=5",
+     "fonte": "Tom's Hardware",
+     "data": "2026-10-06"
+    },
     {
      "titulo": "Hacker responsável por ataque na Coreia do Sul usou Claude, diz CrowdStrike - CNN Brasil",
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVBsNGVvdHJjN3lkZ2lUV2p3QzlNQ19xcHRHWVdiSjJIUUlnQlR4YVV5cHVndkJwN3AxRkNGUjJTYWNsRS1fUGx1WDE3UVprTUo5cTFxelNNd3JHckNMZHd4RWdKb2Ixdy1fcWNTTkE0SDVXQ1J3VWxfeDBYV014bnFPLWU4c21TdWEzblE1T3pvOVNiQ2VkcThTR3A2UmNod0F6TzZBMXoyR2hzNWdwT3lmXy1QVnRIRHZpWEhLdm05XzNoWUNDblRqZmtkYjk4dUlMSDVBeXktWHc?oc=5",
@@ -2108,6 +2114,30 @@
    ]
   },
   {
+   "id": 143,
+   "caso": 94,
+   "titulo": "OpenCode relata ataque de destilação em massa e alerta usuários afetados - Exame",
+   "papel": "ataque_a_ia",
+   "gravidade": 2.1,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-17",
+   "ultima": "2026-10-17",
+   "fontes": [
+    {
+     "titulo": "OpenCode relata ataque de destilação em massa e alerta usuários afetados - Exame",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSENPRUdUQ3RyOTB1Z1F0LV9FZmFxelgzby1jVTVxbzJ5aDRYMGxVMW41dHBNb2lJU2hZUVVELU5YdUt0MzEzSTRxcllrcW9GSWF0Rzgwc3RrZFM4aWUwTXV3V2FGYXlZcUFqRW1zNEwwUVRlb21WUXMxNzAzc3R0NjdrZ0lKc0p6SWRvUE1fUTFCWlN5MVVtVFpfT0FzV0syME0wZ0VXVWhHNW8yOUVYdWRjbFhpZw?oc=5",
+     "fonte": "Exame",
+     "data": "2026-10-17"
+    }
+   ]
+  },
+  {
    "id": 140,
    "caso": 106,
    "titulo": "Security breach at AI aggregator exposes over 18 million files, including some very embarrassing chat records - TechRadar",
@@ -2710,6 +2740,30 @@
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdVZTMW9vOFF0UXlhNzJsbHhRZ0M5bm5pcld4dmlZaUdDaXBSOW5veVlKTmRwZzc0SGhFLTRSeHlxM3dhMjVrMDZpODhGNllxeXRHSkhYU0Z6NkVpbWV6YVIxTjdmVzdRZlFibC13RHItUkZEMlFnb01PTXhnQ0ROZmZOcTZiZ21RaW1POW1Rbkt4TG1KN1NJQ1lwYXRLWmdVWHJpekc2MnFVN2U3NnpN?oc=5",
      "fonte": "Vietnam.vn",
      "data": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": 142,
+   "caso": 107,
+   "titulo": "Agente de IA da Meta vende produto e expõe endereço de usuário no Facebook - Estadão",
+   "papel": "agente_em_producao",
+   "gravidade": 1.9,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "meta",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-29",
+   "ultima": "2026-09-29",
+   "fontes": [
+    {
+     "titulo": "Agente de IA da Meta vende produto e expõe endereço de usuário no Facebook - Estadão",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORjlZdm8wTU9oeEVCQlhJLS1Xd0QxNUVxandwc0dPaGYzbk5qMjMzMUowUHVwWGdPeTZKQ1NmdW1oM0dJZW9mazdVZ1pGMkdqTm9OSHQ3eGNUZE1ZWlVZSVpPT0tRV3RPZk1RdkhvNm5Weml0dTNQQktJc3NpM0RDVFl4bUtiV1RKbDF6c2pLUFdoYU5OMGVRSjFDbVZWWVNUNDEyYWVDaUJ2SEpxdHR6T0gwNkVaRHFnRWFjMTVIWVZRM1FVdUQ1dzRJMWlOQWRt0gHWAUFVX3lxTE1OYXNoUEtSYmJhODFCNFFvZ243UGd0NFJBeXJ5YTlGYkpibXRvWVBNOU00dG11TE1fZHY2eV82eF9CLVA1NWtJRE9GcDZLQWlWSklhWndLQkQ5TGJfSG81T01WM1JXVWZNYVBrcDFxRHdOc2hvYTVrNEh2QmF1Mzl3MFlQSkthUlUxb24yaFg0dTJqY0pINEdzT0dmRFJTMTUyN1hyYWRaNmdkTldHajZSaGt3SjJQYU1FaEpsaG1yVl8wd3JrNjFMU2tRSl9Pd0RtZ2pIRkE?oc=5",
+     "fonte": "Estadão",
+     "data": "2026-09-29"
     }
    ]
   },
