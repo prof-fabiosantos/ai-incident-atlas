@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-25T23:36:07+00:00",
+ "gerado_em": "2026-10-26T16:50:24+00:00",
  "totais": {
-  "incidentes": 145,
-  "casos": 94,
-  "noticias": 989,
+  "incidentes": 146,
+  "casos": 95,
+  "noticias": 1004,
   "repercussoes": 17
  },
  "incidentes": [
@@ -898,6 +898,30 @@
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZVBvalJCNTNaX3dXTXlBSExEb0xaRXRGdjBxVTlESG93WmNjYlluZUtaa19OLTlRUnBZVG50MTFBMFFNczVMbFVwYUtqMUlwTV9YZEVxcXkzZTNfSGt1Q2RqUzdRUm4tdlBPWlphNlN6TkotZFI4ZnJJU1pUOEtMV2VSMVZBWlVHMXZwekRBZWVZTjRlZ2I0Q1lycVhXZHBZa0JXbWxoLWo0RnhuYTZrRnNyam42RDQ?oc=5",
      "fonte": "Forbes Brasil",
      "data": "2026-08-28"
+    }
+   ]
+  },
+  {
+   "id": 146,
+   "caso": 111,
+   "titulo": "Popular AI tool LiteLLM says unrevoked key allowed hackers to target users",
+   "papel": "ataque_a_ia",
+   "gravidade": 3.0,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "nao_informado",
+   "defasagem": "mesma_semana",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-26",
+   "ultima": "2026-10-26",
+   "fontes": [
+    {
+     "titulo": "Popular AI tool LiteLLM says unrevoked key allowed hackers to target users",
+     "url": "https://therecord.media/litellm-hackers-ai-malware",
+     "fonte": "The Record",
+     "data": "2026-10-26"
     }
    ]
   },
@@ -2697,7 +2721,7 @@
    "pais_nome": "Países Baixos",
    "numerico": "528",
    "primeira": "2026-09-29",
-   "ultima": "2026-10-01",
+   "ultima": "2026-10-26",
    "fontes": [
     {
      "titulo": "Automated AI agent used to breach cybersecurity nonprofit DIVD - BleepingComputer",
@@ -2716,6 +2740,12 @@
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92ejlUWkg4T0dkaGt6ZGd6WE4tbHJLSmlVUzlTaUtSODN4bmNPakJMZEVTdnlpWDZrRlhZczJNcTlpLVZLNnViU0hoWHNJMmNqMk9Zdkpwa3lOdlE0ZW9GOEtiUkFvU0ZnQXpOZnZRZUk5X19xd2FYcm8tSEtuUQ?oc=5",
      "fonte": "Help Net Security",
      "data": "2026-10-01"
+    },
+    {
+     "titulo": "Um agente de IA invadiu a DIVD: por dentro dos zero-days do Zammad - OrcaRouter",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGZ1Jvdk5kUXkxZzN3elBDak1ISTdkSHJjMjlfeHRITzVXT0ZoY3FoNm9aajVaY2JVQjJWa2FaR0hncldSZjZMNl9mRnVvbHo4SnFXTWVkLURqelFxV0o2d21iMy1FZmQxa2p2UWxCQ3V5YW5HVEE?oc=5",
+     "fonte": "OrcaRouter",
+     "data": "2026-10-26"
     }
    ]
   },
@@ -3586,30 +3616,6 @@
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ25zM0g4TlR6X281OWQxV1FzUHliajQweEVkdHFFZlVtYTNqUzdIWHdjanVTS0RUaUd3dVA5UE5ZdHZKRkVnVWxfVzYyRGNtNkpBZXVVR19KOUQ3UFlfUnBNNHBzNmNjdzU0cnlGZk81cU03dUhkTUhacV85QV9zSW41RUtHOUhKQy1HOERnMzM4dk4tZkZ0LWNWcTZILVlZYXpQaGl1T1N0eEpPUm44?oc=5",
      "fonte": "TechCrunch",
      "data": "2026-10-19"
-    }
-   ]
-  },
-  {
-   "id": 144,
-   "caso": 108,
-   "titulo": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-   "papel": "ataque_a_ia",
-   "gravidade": 1.6,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "nao_informado",
-   "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-10-25",
-   "ultima": "2026-10-25",
-   "fontes": [
-    {
-     "titulo": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-     "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder",
-     "fonte": "BleepingComputer",
-     "data": "2026-10-25"
     }
    ]
   },
@@ -5110,6 +5116,36 @@
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOXhpZEFsTGtrVldPWUdyeTF4MGxBVDdjc1RlYWkxUERzZkZsdF9fRzlhWU1xNXRrWGtkZ3lnMTVQLTRNTzhndW5COGQ3LWROYVhXUGNBQXhFUUU0Vm10TDhXVlBpSmoyMi1QRG9lbjd0RF8tUmJGTldUc2NjQVk5ZkZNd1UzWEVCRGt4VXR6amZTY1YtNXp3?oc=5",
      "fonte": "DevOps.com",
      "data": "2026-09-09"
+    }
+   ]
+  },
+  {
+   "id": 144,
+   "caso": 108,
+   "titulo": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+   "papel": "ataque_a_ia",
+   "gravidade": 0.8,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-25",
+   "ultima": "2026-10-26",
+   "fontes": [
+    {
+     "titulo": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+     "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder",
+     "fonte": "BleepingComputer",
+     "data": "2026-10-25"
+    },
+    {
+     "titulo": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+     "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+     "fonte": "The Hacker News",
+     "data": "2026-10-26"
     }
    ]
   },
