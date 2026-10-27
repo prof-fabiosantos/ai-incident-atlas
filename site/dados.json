@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-27T00:53:28+00:00",
+ "gerado_em": "2026-10-27T15:55:26+00:00",
  "totais": {
   "incidentes": 147,
   "casos": 95,
-  "noticias": 1011,
+  "noticias": 1029,
   "repercussoes": 17
  },
  "incidentes": [
@@ -1601,9 +1601,9 @@
    "confirmacao": "imprensa",
    "empresa": "anthropic",
    "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
+   "pais": "usa",
+   "pais_nome": "Estados Unidos",
+   "numerico": "840",
    "primeira": "2026-10-10",
    "ultima": "2026-10-10",
    "fontes": [
@@ -1611,6 +1611,12 @@
      "titulo": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case - BBC",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12Zjh2Z2tETEw5MzJ4VEZnV2wxUVFCY09JWTVhNEktZDZSR3ZPN1VVaWkzblc1WkJXeDJ4VmNvbUIxUFBMUGpIUkJzRVJSRGJHaWpTYk9LYklpenM?oc=5",
      "fonte": "BBC",
+     "data": "2026-10-10"
+    },
+    {
+     "titulo": "Inteligência Artificial da Anthropic enviou falso aviso de assassinato para a polícia dos EUA - bra1.com.br",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPN3ZRVHFUdVJzQWFQdHNPMlVuY09PaHJDZnloSnhPdnctYWhMYTJheWlWN0JaamRZdmFYeDdyRHRWZjZBMGxjQkVZdjFrcDRfdk02LTFvRWQ4UmFUaVN2YWhkVDM2d2FsRjczdEpEY2R5NkNBQVI2WU5YOTJuN25YM2NkLTFOb2lwUlRnQnowUXBwbGxLRzB0dFpjS0ltY2R1anhaLXlLX1B3ZHhwZzRvXzN4amVHeERJcmZsZGYzdHZ4ejcydmJmcU1ULXJnTTNyLUROag?oc=5",
+     "fonte": "bra1.com.br",
      "data": "2026-10-10"
     }
    ]
@@ -2907,7 +2913,7 @@
    "pais_nome": "Estados Unidos",
    "numerico": "840",
    "primeira": "2026-09-26",
-   "ultima": "2026-09-26",
+   "ultima": "2026-10-05",
    "fontes": [
     {
      "titulo": "OpenAI Agents Hit U.S. Government Websites - WSJ",
@@ -2920,6 +2926,12 @@
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcHoweTB6SkhjcllkWkdIVEhBbW16dEFFUnc4ZkpvRWlLTGJReDhFTnBqVDZTUFh6b0FCdGE0dTJ5dkk2RDBOSEVXVmdpcXppS2ZzTE9rUXFZWGctaUNKakJMRXcwWmxHRm9LRGJ1eTBUbmppcW9TNkR4NkhJdW8xR0lQRVNJZw?oc=5",
      "fonte": "CBS News",
      "data": "2026-09-26"
+    },
+    {
+     "titulo": "OpenAI’s AI accessed government files, and its disclosure email was weirdly cheerful - TechRadar",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOcGE4eGJyQTJ0SjFscW91UTktRWljY09ITzlnVnoyU05XZi1adXdBdFhqUFZIalV4YmQtdkVCNzVhM1JzOGg0a3RITk5sQzFldElMa0hzTUhzTmVrakpRMDl4R0c1N3hqMklqMkFYYUNpWGFOdmtsTGRpRC1DeVhsNVJJcnBHX0dJZVE3Q1BNdXYzWGRDVWpDcnNCVU1vOFFvVmZQY0ZKeTlzcTlZbGFfZ1FCZ1Nqc1JhZEhWSlg2dXlzUDdKbFptOWNCNXpEVDVaTVd5TGxONU52VlZmRldvbDdCZC1xbngyb1ctWExEVUxiNW16RkE5WGNOMjFzRWFxR2VtWXJ6Z3BmQkVab0YwLQ?oc=5",
+     "fonte": "TechRadar",
+     "data": "2026-10-05"
     }
    ]
   },
@@ -3947,6 +3959,12 @@
    "primeira": "2026-10-01",
    "ultima": "2026-10-02",
    "fontes": [
+    {
+     "titulo": "Agentes de IA tentam invadir site oficial do governo canadense - UOL",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLWk2SGJlQXdxSVhORjdnUWtVeF8yaUxOZmdXMXFsdW84Vi10eTVpbmhFSVZzX1FQUXhGbHdTTG9WMFZnSWpHaUk3VGp0NWRVTjR5YWJ4V2ZiR1dyV3BPdjFXVDc0MkhoekV2UVBIbTFPdzFrRTBJZllqaVU3ZkFSZUpaZkxFdGpSWUhsdlpueFJEejd3Qnd1UlNwa2JIUmlVa01WUFpFY0w0bGtaSjZSWDRMZjFKNlRfaTYtUXlPVUJVS24zVXRfQktTamZCbkwzV3RnUGh1aw?oc=5",
+     "fonte": "UOL",
+     "data": "2026-10-01"
+    },
     {
      "titulo": "Agentes de IA tentaram invadir site do governo canadense, diz empresa de pesquisa - Portal do Holanda",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWnVrd2w0SE5wSHRReGVNa3lFS0ZqV0tBWHhoVGx5dk9VRS1ZNXk3bFVKQ3diVTk4cnp4a0dhZmVuQkpfSm9mMlRMcnMtdnF4Ri1rMFItbjU2ZVFqclNMMlBsM1FzTUhpak9OdWJ4NjBJUkttXzV4WHZQQXVKYml1R05lUXJfcDZLTkhUSkJuMFVCXzdSTl9HR0Z2Q2VnMmlEVmJQcEhOclFRU2poSkZQRFZ2a3dwREVnTDc4NzdYeFg4eFo1?oc=5",
@@ -5017,7 +5035,7 @@
    "titulo": "Autonomous AI agents tried to hack US, Canadian government websites - BleepingComputer",
    "papel": "agente_em_teste",
    "gravidade": 0.9,
-   "divergencia": false,
+   "divergencia": true,
    "confirmacao": "imprensa",
    "empresa": "nao_informado",
    "defasagem": "nao_informado",
@@ -5025,13 +5043,19 @@
    "pais_nome": "Vários países",
    "numerico": null,
    "primeira": "2026-10-01",
-   "ultima": "2026-10-01",
+   "ultima": "2026-10-02",
    "fontes": [
     {
      "titulo": "Autonomous AI agents tried to hack US, Canadian government websites - BleepingComputer",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX1RLZ3dkQl9MQmRSUDVTYUxKZldwdnY5ZW5qaGg4Y0lRNTh6eTZmOVAyNkFlZW9BYkNQREdOR1Zkd1VpQkx1c29oaEtTVjdzTWdTMjFGbV9TZnNoYlZNaUNIbjE0T2NoRzk2UEs5dUYtQVBwUzdUa21weHJYTVlnMUxmaEN1R2pDWUNKVVZ6SnctZVljMXgwQ1JtTnU4OV93V0puRzMxZFB6Q0EycnJjWURXZFDSAboBQVVfeXFMTjFfYVdzZzRGZ0o5OU5Nbk9SV0tmWkxlS3dfaFA2cTR4cUhGTmxYVS1fcXJfUDZnZmk2b3hRdm5mQ0dVeEZtQXBWTlZvZnk4VHdMV1gyN2hhOVlmN3NTS0lEYlJFMG42eHBmY0VHRnBHaVNteExMTnhEVHhOQS15WHBscF9RTEdXVjdUWTgtemlLT2g1NVZTOWFLdEJuQXJ5OGowZnUtMVlFOGY2UVUtVkxlZmstanNqenZR?oc=5",
      "fonte": "BleepingComputer",
      "data": "2026-10-01"
+    },
+    {
+     "titulo": "AI Agents Aimed SQL Injection at US and Canadian Government Sites - SecurityWeek",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUTQ3OEdFeFYya3dRSUVBV20yeHRrbmNyb3p1ZThxOGlaUkFwekdhRVNDYkNsZ2o1TGdrWHh5LV9OWGlWNXAtNWJJOFJ1cVd6aWRJUUZ0a3pSSWdrZHAwelNLdlRkMjh3WWYyX3pUUV9ESndSRTMtQVRtVWl6NTkwN091dG5EaV9VdHFQYW5VcHFqUXZFRV8zbTlaNNIBoAFBVV95cUxPWDNwWGFWRHYxdC1Tc3JOY0k1bnU0R2JQd3lXdWtkd2o3UHpwb3A3Z2RvVVVHZk4tb0d6WWVpWDJqLXVCei10YWplWWhwNDRHZUh4UE9nV1ZIQjNna3FzZUNZY1A0TUViSFJsM3I3UldRSHpWTU55VUsyRXhIY3N5N0dGRHZ1TzhBUjI2dDA3UzB4NU1PZ1F5UFMyNnQySldY?oc=5",
+     "fonte": "SecurityWeek",
+     "data": "2026-10-02"
     }
    ]
   },
