@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-26T16:50:24+00:00",
+ "gerado_em": "2026-10-27T00:53:28+00:00",
  "totais": {
-  "incidentes": 146,
+  "incidentes": 147,
   "casos": 95,
-  "noticias": 1004,
+  "noticias": 1011,
   "repercussoes": 17
  },
  "incidentes": [
@@ -568,6 +568,30 @@
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tM1dOMlpBMGJ3aVk2N2J3R2lSa3doZ1pKT1VvajdWQVlfM09fa09CbjZxQ0RGb0g0bmtzZ29lTmxnbTlDUlR0MkdsOUhTeXdKZFRrQmdWZWU3WHo2T1NJdkVwMG9MQUd5N05R?oc=5",
      "fonte": "shattered.io",
      "data": "2026-10-14"
+    }
+   ]
+  },
+  {
+   "id": 147,
+   "caso": 68,
+   "titulo": "Former pentester used ARTEX AI to steal 8.2 million data records",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 3.1,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "kor",
+   "pais_nome": "Coreia do Sul",
+   "numerico": "410",
+   "primeira": "2026-10-26",
+   "ultima": "2026-10-26",
+   "fontes": [
+    {
+     "titulo": "Former pentester used ARTEX AI to steal 8.2 million data records",
+     "url": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records",
+     "fonte": "BleepingComputer",
+     "data": "2026-10-26"
     }
    ]
   },
