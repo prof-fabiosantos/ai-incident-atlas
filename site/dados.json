@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-28T00:46:03+00:00",
+ "gerado_em": "2026-10-28T16:43:59+00:00",
  "totais": {
-  "incidentes": 151,
-  "casos": 99,
-  "noticias": 1039,
+  "incidentes": 155,
+  "casos": 103,
+  "noticias": 1056,
   "repercussoes": 17
  },
  "incidentes": [
@@ -100,6 +100,30 @@
      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQczNrVS11TEU0MEhGQjdEY2V6R0RqSUdhRGliVlk5T0ZtVU9kMXNNSjl1ZFhCNUYwdDBqa0VFS0ZHMXlIUmJEMzg2SXlyNmpVeVItd0twM0RfY3ZBcFhTTUlBRmxZdC1iMVE5T09LWHJNTmtacGFpdDRqX3ZTWTBzVnJua3RqRnY3TUtLVHU3V3BoSkRhWklhdWVUZkI0cFFFd0lxQTBYSnUzalJQWUp1ZTBPU21WbkpaaFNpUENRQ3kteF9WVk5saHNEUXFFZXo0blo3R21LcEtMeG9VOGdsdWZLWFA4QjFRWGcyRW1TcXcyR3V5ckFZVjV5SjNRY0tNOWZIMDVB?oc=5",
      "fonte": "CPO Magazine",
      "data": "2026-09-28"
+    }
+   ]
+  },
+  {
+   "id": 155,
+   "caso": 121,
+   "titulo": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 3.6,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "mesma_semana",
+   "pais": "usa",
+   "pais_nome": "Estados Unidos",
+   "numerico": "840",
+   "primeira": "2026-10-28",
+   "ultima": "2026-10-28",
+   "fontes": [
+    {
+     "titulo": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
+     "url": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
+     "fonte": "The Hacker News",
+     "data": "2026-10-28"
     }
    ]
   },
@@ -718,6 +742,12 @@
      "url": "https://therecord.media/south-korean-bank-hacks-ai-agents",
      "fonte": "The Record",
      "data": "2026-10-06"
+    },
+    {
+     "titulo": "South Korea Says AI Agents Likely Breached Seven Financial Firms, 68,000 Customers Exposed - The SOFX Report",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS21ROExoV3VMeEc1ZDdTXzVGN3YtVS1tSTJfbkMyaS1rOTZHMU45U1dkdWVmRnoyZWZndnJHLS1aOEFzS0lDM3B0VFVXWTJiRE5hT3YwdGpBZVhhVnRsM1RrQkVHeHk5N3J4alpzVllNcU5BdGhPbEJHa2NfWW95WjNYSnQ5c0taZVEzR1Q2U01sc3cyakZJQ2tJcE40XzB5U1EtazlDV1lNODFBbXY0?oc=5",
+     "fonte": "The SOFX Report",
+     "data": "2026-10-07"
     },
     {
      "titulo": "South Korean banks were likely hacked by a China-based actor with an AI agent, CrowdStrike says - Reuters",
@@ -2012,6 +2042,30 @@
    ]
   },
   {
+   "id": 153,
+   "caso": 119,
+   "titulo": "123 Reg discloses 'AI cyberattack' on customer data, suspects China nexus",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.2,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-28",
+   "ultima": "2026-10-28",
+   "fontes": [
+    {
+     "titulo": "123 Reg discloses 'AI cyberattack' on customer data, suspects China nexus",
+     "url": "https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936",
+     "fonte": "The Register (segurança)",
+     "data": "2026-10-28"
+    }
+   ]
+  },
+  {
    "id": 139,
    "caso": 105,
    "titulo": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
@@ -2690,6 +2744,30 @@
    ]
   },
   {
+   "id": 152,
+   "caso": 118,
+   "titulo": "AI Security Incident Case: Agents Bypassed Vercel Sandbox Isolation to Exfiltrate Data - Security Boulevard",
+   "papel": "agente_em_teste",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-28",
+   "ultima": "2026-10-28",
+   "fontes": [
+    {
+     "titulo": "AI Security Incident Case: Agents Bypassed Vercel Sandbox Isolation to Exfiltrate Data - Security Boulevard",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMXlwOTlyZEd5MEY5b0x3YTFWMGFzSE9CM3hvcVdSM0h6cDdRNGNtLTdLMUpoUk1STnhkYWNnS2lzVmVnLXN6N1dOY2VZbHFSMDBOQVV1OFNadGxVR3lzaG9kOGh4d3FfZ1VEZEpGb1BnX3dtdkVmTldpQzhpdl9veGZ5d2VVMy1LYnhfalloQTZ5dGY0NVdPT2NHSjlWSS1Zckl0UG1raGpWMXNwVEY4YmhfZjJvYVkwZ2NPQ1hrR3p1QQ?oc=5",
+     "fonte": "Security Boulevard",
+     "data": "2026-10-28"
+    }
+   ]
+  },
+  {
    "id": 10,
    "caso": 2,
    "titulo": "Hugging Face Hack: 700 Rogue AI Agents, 17K Attacks - tech-insider.org",
@@ -2896,30 +2974,6 @@
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdVZTMW9vOFF0UXlhNzJsbHhRZ0M5bm5pcld4dmlZaUdDaXBSOW5veVlKTmRwZzc0SGhFLTRSeHlxM3dhMjVrMDZpODhGNllxeXRHSkhYU0Z6NkVpbWV6YVIxTjdmVzdRZlFibC13RHItUkZEMlFnb01PTXhnQ0ROZmZOcTZiZ21RaW1POW1Rbkt4TG1KN1NJQ1lwYXRLWmdVWHJpekc2MnFVN2U3NnpN?oc=5",
      "fonte": "Vietnam.vn",
      "data": "2026-09-27"
-    }
-   ]
-  },
-  {
-   "id": 151,
-   "caso": 116,
-   "titulo": "Georgia says Anthropic AI agent accessed public election data, not its voter registration system - StateScoop",
-   "papel": "agente_em_producao",
-   "gravidade": 1.9,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "anthropic",
-   "defasagem": "nao_informado",
-   "pais": "usa",
-   "pais_nome": "Estados Unidos",
-   "numerico": "840",
-   "primeira": "2026-10-27",
-   "ultima": "2026-10-27",
-   "fontes": [
-    {
-     "titulo": "Georgia says Anthropic AI agent accessed public election data, not its voter registration system - StateScoop",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLTNBRWdFWllhRHVlLUxTYTh1V2xvYjNkWmN0Tkh4UHRXWTY3TFo0RnNvelBmZnR4Q0x2SDR0NjI3djlZdXhGTTlxRFZrd0ZMZ25Fc29sYjBxNGE5WmJQZDN0WkRNTV84OWVnNWxHT01UdTZ0alB2djNwSkxBMC1UZFVuX3p0cHQ0RGxiYUs1LW5rVXNjUjVVeUJDV0ZHMEU1TmtUQ0I1T2d4ZDVTWnFBRDBZQkhxVEVfZ01j?oc=5",
-     "fonte": "StateScoop",
-     "data": "2026-10-27"
     }
    ]
   },
@@ -4016,6 +4070,30 @@
    ]
   },
   {
+   "id": 154,
+   "caso": 120,
+   "titulo": "Attacker Relentlessly Scans for Credentials by Impersonating AI Bots",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 1.2,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "varias",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-28",
+   "ultima": "2026-10-28",
+   "fontes": [
+    {
+     "titulo": "Attacker Relentlessly Scans for Credentials by Impersonating AI Bots",
+     "url": "https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials",
+     "fonte": "Dark Reading",
+     "data": "2026-10-28"
+    }
+   ]
+  },
+  {
    "id": 43,
    "caso": 30,
    "titulo": "OpenAI Agents Tried to Hack Four More Websites While Seeking Data - WSJ",
@@ -5026,6 +5104,36 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44Nk9jVHVyUWMyRUN6TFJGcXNNX281akYxdExzMlk1elhQbnhpbWt1VzFrS09McEhGemc3V0c5THFQa1VIcmI3ZmFLeFcyTXh3YTNCendNT3YyX3ZpNkNyU0hXWG1LS21KNG1FZ25NSVFGOHhETUx6Y0E2LW0?oc=5",
      "fonte": "The Hacker News",
      "data": "2026-09-10"
+    }
+   ]
+  },
+  {
+   "id": 151,
+   "caso": 116,
+   "titulo": "Georgia election officials clarify AI agent access to public data - SC Media",
+   "papel": "desdobramento",
+   "gravidade": 0.9,
+   "divergencia": true,
+   "confirmacao": "oficial",
+   "empresa": "anthropic",
+   "defasagem": "nao_informado",
+   "pais": "usa",
+   "pais_nome": "Estados Unidos",
+   "numerico": "840",
+   "primeira": "2026-10-27",
+   "ultima": "2026-10-28",
+   "fontes": [
+    {
+     "titulo": "Georgia says Anthropic AI agent accessed public election data, not its voter registration system - StateScoop",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLTNBRWdFWllhRHVlLUxTYTh1V2xvYjNkWmN0Tkh4UHRXWTY3TFo0RnNvelBmZnR4Q0x2SDR0NjI3djlZdXhGTTlxRFZrd0ZMZ25Fc29sYjBxNGE5WmJQZDN0WkRNTV84OWVnNWxHT01UdTZ0alB2djNwSkxBMC1UZFVuX3p0cHQ0RGxiYUs1LW5rVXNjUjVVeUJDV0ZHMEU1TmtUQ0I1T2d4ZDVTWnFBRDBZQkhxVEVfZ01j?oc=5",
+     "fonte": "StateScoop",
+     "data": "2026-10-27"
+    },
+    {
+     "titulo": "Georgia election officials clarify AI agent access to public data - SC Media",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQnRjNlI3YzVTUjQ0TjdLS2VzSzdCUmp0eTZyVERic09PUGUySDM0cU9yNHJuM1hjQVNWVExnTDlIYkQ5ajNEdFN1RDRad1BkZF9MaFZkVWVFY3RKTjA1RUV2VmtYX3hWeHMzOGFuaWpTdjM3NkVaTURNY052ZXhuVVVUYlUzTVJDTWlpS0NvRWxLTFJ6dHNybmJMdw?oc=5",
+     "fonte": "SC Media",
+     "data": "2026-10-28"
     }
    ]
   },
