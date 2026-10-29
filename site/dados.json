@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-28T16:43:59+00:00",
+ "gerado_em": "2026-10-29T01:18:14+00:00",
  "totais": {
   "incidentes": 155,
   "casos": 103,
-  "noticias": 1056,
+  "noticias": 1065,
   "repercussoes": 17
  },
  "incidentes": [
@@ -3363,7 +3363,7 @@
    "pais_nome": "Alemanha",
    "numerico": "276",
    "primeira": "2026-08-25",
-   "ultima": "2026-10-06",
+   "ultima": "2026-10-28",
    "fontes": [
     {
      "titulo": "Estado do Alabama investiga OpenAI após agente de IA invadir a Hugging Face - Valor Econômico",
@@ -3496,6 +3496,12 @@
      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPaGphdjA5ZXJRUkRFRUdPYzVQbGNmZUk3YVJLZTVKSm5RSGRYaUdBSFlxT1lNaTVwRVdtaDhjdVpwdS1vaUl4QmxsTVVaWW1FbW5VN2FtREtoX0V3ZlBjM3dlVEQ4SGF3U2xVbmNMb3F1Tndka0NrT0FUbWZ2QmlYeUtoM2ktbi1kUDVLbWlLY2RCbEQtNGxTeExKNUJTMjdCSDVwNnM5T3Z3WVUzbE9JM0d5c2hMcWEyQ3Y0OC1GWUlHRVNLSFZPSVlmS0ZtVlRKVG93U3pNbjZKU3pURkJJYVZ3bW5hRU90Z0QtMkUzTDRGQklyVDRrcFZOS2VnazJfZWZJODhGQUZ5eWxnSHlBU3lFV25VeVRXS0ZOSl9zWUJCZlFES2thVnpXeWFlZ05C?oc=5",
      "fonte": "The Washington Post",
      "data": "2026-10-06"
+    },
+    {
+     "titulo": "Hawley Opens a Senate Investigation Into OpenAI Over the Hugging Face Agent Hack - OrcaRouter",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRUGZOajZrQkFkTkxqU2sxWTd2aEw4a20tamFaY0F1dWdSVEtjY3VrOGZUYTI2RDFBbEthWlpET1NOMGFGNDVtY2c2Tk5mdTBhVjZmN0U4aTdFbDBVUVYwaDFXaDhaWHgtZDRsVGZkMER5aGxBRVpzNQ?oc=5",
+     "fonte": "OrcaRouter",
+     "data": "2026-10-28"
     }
    ]
   },
@@ -4784,6 +4790,42 @@
    ]
   },
   {
+   "id": 151,
+   "caso": 116,
+   "titulo": "AI data search was 'not a hack,' Georgia officials reassure voters - USA Today",
+   "papel": "desdobramento",
+   "gravidade": 1.1,
+   "divergencia": true,
+   "confirmacao": "oficial",
+   "empresa": "anthropic",
+   "defasagem": "nao_informado",
+   "pais": "usa",
+   "pais_nome": "Estados Unidos",
+   "numerico": "840",
+   "primeira": "2026-10-27",
+   "ultima": "2026-10-28",
+   "fontes": [
+    {
+     "titulo": "AI data search was 'not a hack,' Georgia officials reassure voters - USA Today",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSG56N2F3ZWRsRUFZRklWMUpwQ2d6eHNQX3JpcU41a00xOWxnMkxvRGZlUVpNUFlVal9HRmhzRjRkdVladUZ3b1h5ajV4Wm9IQmp6NEJXNnR4SEpoR1I3eUU2SE1FWmp1TXhicGhtMWZQYWNSeXJBTi1aTEZoUnVxbFdQQnJXdGx0cWo1NGNlQ0pjWnV0bW1INVNKNVpXc2w1UjViQzVxZG11TmtuOTRXU2dYcHN5RVl5MjBGV3V5WFVFdVNEblc1ck45RFd6ZXU0a2gyWFBacFA?oc=5",
+     "fonte": "USA Today",
+     "data": "2026-10-27"
+    },
+    {
+     "titulo": "Georgia says Anthropic AI agent accessed public election data, not its voter registration system - StateScoop",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLTNBRWdFWllhRHVlLUxTYTh1V2xvYjNkWmN0Tkh4UHRXWTY3TFo0RnNvelBmZnR4Q0x2SDR0NjI3djlZdXhGTTlxRFZrd0ZMZ25Fc29sYjBxNGE5WmJQZDN0WkRNTV84OWVnNWxHT01UdTZ0alB2djNwSkxBMC1UZFVuX3p0cHQ0RGxiYUs1LW5rVXNjUjVVeUJDV0ZHMEU1TmtUQ0I1T2d4ZDVTWnFBRDBZQkhxVEVfZ01j?oc=5",
+     "fonte": "StateScoop",
+     "data": "2026-10-27"
+    },
+    {
+     "titulo": "Georgia election officials clarify AI agent access to public data - SC Media",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQnRjNlI3YzVTUjQ0TjdLS2VzSzdCUmp0eTZyVERic09PUGUySDM0cU9yNHJuM1hjQVNWVExnTDlIYkQ5ajNEdFN1RDRad1BkZF9MaFZkVWVFY3RKTjA1RUV2VmtYX3hWeHMzOGFuaWpTdjM3NkVaTURNY052ZXhuVVVUYlUzTVJDTWlpS0NvRWxLTFJ6dHNybmJMdw?oc=5",
+     "fonte": "SC Media",
+     "data": "2026-10-28"
+    }
+   ]
+  },
+  {
    "id": 3,
    "caso": 2,
    "titulo": "'Tiro de aviso': ataque de IA envolveu 1.206 agentes; OpenAI ignorou alerta - UOL",
@@ -5104,36 +5146,6 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44Nk9jVHVyUWMyRUN6TFJGcXNNX281akYxdExzMlk1elhQbnhpbWt1VzFrS09McEhGemc3V0c5THFQa1VIcmI3ZmFLeFcyTXh3YTNCendNT3YyX3ZpNkNyU0hXWG1LS21KNG1FZ25NSVFGOHhETUx6Y0E2LW0?oc=5",
      "fonte": "The Hacker News",
      "data": "2026-09-10"
-    }
-   ]
-  },
-  {
-   "id": 151,
-   "caso": 116,
-   "titulo": "Georgia election officials clarify AI agent access to public data - SC Media",
-   "papel": "desdobramento",
-   "gravidade": 0.9,
-   "divergencia": true,
-   "confirmacao": "oficial",
-   "empresa": "anthropic",
-   "defasagem": "nao_informado",
-   "pais": "usa",
-   "pais_nome": "Estados Unidos",
-   "numerico": "840",
-   "primeira": "2026-10-27",
-   "ultima": "2026-10-28",
-   "fontes": [
-    {
-     "titulo": "Georgia says Anthropic AI agent accessed public election data, not its voter registration system - StateScoop",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLTNBRWdFWllhRHVlLUxTYTh1V2xvYjNkWmN0Tkh4UHRXWTY3TFo0RnNvelBmZnR4Q0x2SDR0NjI3djlZdXhGTTlxRFZrd0ZMZ25Fc29sYjBxNGE5WmJQZDN0WkRNTV84OWVnNWxHT01UdTZ0alB2djNwSkxBMC1UZFVuX3p0cHQ0RGxiYUs1LW5rVXNjUjVVeUJDV0ZHMEU1TmtUQ0I1T2d4ZDVTWnFBRDBZQkhxVEVfZ01j?oc=5",
-     "fonte": "StateScoop",
-     "data": "2026-10-27"
-    },
-    {
-     "titulo": "Georgia election officials clarify AI agent access to public data - SC Media",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQnRjNlI3YzVTUjQ0TjdLS2VzSzdCUmp0eTZyVERic09PUGUySDM0cU9yNHJuM1hjQVNWVExnTDlIYkQ5ajNEdFN1RDRad1BkZF9MaFZkVWVFY3RKTjA1RUV2VmtYX3hWeHMzOGFuaWpTdjM3NkVaTURNY052ZXhuVVVUYlUzTVJDTWlpS0NvRWxLTFJ6dHNybmJMdw?oc=5",
-     "fonte": "SC Media",
-     "data": "2026-10-28"
     }
    ]
   },
