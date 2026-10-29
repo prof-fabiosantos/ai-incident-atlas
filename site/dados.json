@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-29T01:18:14+00:00",
+ "gerado_em": "2026-10-29T16:59:12+00:00",
  "totais": {
-  "incidentes": 155,
-  "casos": 103,
-  "noticias": 1065,
+  "incidentes": 156,
+  "casos": 104,
+  "noticias": 1078,
   "repercussoes": 17
  },
  "incidentes": [
@@ -952,6 +952,30 @@
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZVBvalJCNTNaX3dXTXlBSExEb0xaRXRGdjBxVTlESG93WmNjYlluZUtaa19OLTlRUnBZVG50MTFBMFFNczVMbFVwYUtqMUlwTV9YZEVxcXkzZTNfSGt1Q2RqUzdRUm4tdlBPWlphNlN6TkotZFI4ZnJJU1pUOEtMV2VSMVZBWlVHMXZwekRBZWVZTjRlZ2I0Q1lycVhXZHBZa0JXbWxoLWo0RnhuYTZrRnNyam42RDQ?oc=5",
      "fonte": "Forbes Brasil",
      "data": "2026-08-28"
+    }
+   ]
+  },
+  {
+   "id": 156,
+   "caso": 123,
+   "titulo": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 3.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "varias",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-29",
+   "ultima": "2026-10-29",
+   "fontes": [
+    {
+     "titulo": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+     "url": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+     "fonte": "The Hacker News",
+     "data": "2026-10-29"
     }
    ]
   },
@@ -2583,13 +2607,19 @@
    "pais_nome": "País não informado",
    "numerico": null,
    "primeira": "2026-10-27",
-   "ultima": "2026-10-27",
+   "ultima": "2026-10-29",
    "fontes": [
     {
      "titulo": "Warp discloses breach exposing AI agent logs, user telemetry data - BleepingComputer",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSmZ6aThuUEdUWkFrM3dxdFVSREFhSldqbVRibGJCMnBPWklNRmRCa3FRZUJWMUFoNzhpdUdwb1JMMzQzV25jVzZZTnNoc1NtU1JKLXpadUZaWmEyaWZMSnZ5YW9KSzBNNVhVOW8tMVJRcHVXQTJiZ2Vxc280T1N6WlVXZ0c1NHF0QlNsMjExUDdfMlhoR0ZqZS05Zmw0VkpOdHRPQmppZ2Z5bHlOZ0ZwNVZB?oc=5",
      "fonte": "BleepingComputer",
      "data": "2026-10-27"
+    },
+    {
+     "titulo": "Warp discloses a third-party vendor breach that exposed AI agent decision logs and user telemetry - OrcaRouter",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01aTY2YWw2SDZVdjdRTE1OdWdaZVh0YVJGdnJpQW1iVGVzcm1zbktQc2VuZmE0ajRNY0hLOXJ4NXcxSnM2bVlnaTlqc0xIZGRQSXhSVi1hamsyWXU5SHBHQlFuaTZqd081MkFOZVRwNjN6SXdXTWg5TUdyaw?oc=5",
+     "fonte": "OrcaRouter",
+     "data": "2026-10-29"
     }
    ]
   },
