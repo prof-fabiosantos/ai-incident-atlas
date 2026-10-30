@@ -1,10 +1,10 @@
 {
- "gerado_em": "2026-10-30T01:22:14+00:00",
+ "gerado_em": "2026-10-30T16:44:35+00:00",
  "totais": {
-  "incidentes": 161,
-  "casos": 108,
-  "noticias": 1097,
-  "repercussoes": 17
+  "incidentes": 163,
+  "casos": 109,
+  "noticias": 1113,
+  "repercussoes": 18
  },
  "incidentes": [
   {
@@ -918,6 +918,12 @@
    "ultima": "2026-10-20",
    "fontes": [
     {
+     "titulo": "A hacker broke into John Deere and SharkNinja with an army of AI agents - The Verge",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkNWRTVWdGFyYWYyb1YzZndSN1NTTEZLaXhvRVc3bjFJX2UxTU5YUFpuRUFVWElVemJFNHB4TGsyRWF2QzRseDRhd2NES2VRRjh1WkY0X3pvcElTdzRMVWZNeERpX1FnbVM5aVZuZ3V3NXM4VG5oWlItaEFJZ0pRQTNJLTEtZmpGS2c0NFh5c3I3cFg2Szk5bDFlVmZVUGhmaEkyd2tFLTg?oc=5",
+     "fonte": "The Verge",
+     "data": "2026-10-19"
+    },
+    {
      "titulo": "AI agents targeted 1,200 websites and compromised more than 100: report - The Business Times",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1I2TWhFdUlxSU80amNrSDB4dWJfZ04ycHZzWlpvYXZ3b0tkc2xHcXFhdXUxODROYTlCUnFFU1BIVkdlYUZiUWZRMDN3aWUwNGFPZ2JyTzI1dUNEM000QkVoYnNJZ0FuTVg1Y3R2ODZwc2Q5blZ0MmktV3hWZ3UzcXdyRG5KRm0zejRsR1RPd25CWXcwSHhmQWRLNmhsVE80d2RFSl9fYk9vTnM2X2loS3lLX1pLM2ZwYXBTb1dVQm1wcGNxbG4yaFBfNWRkQQ?oc=5",
      "fonte": "The Business Times",
@@ -1120,6 +1126,36 @@
      "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
      "fonte": "The Hacker News",
      "data": "2026-09-28"
+    }
+   ]
+  },
+  {
+   "id": 163,
+   "caso": 129,
+   "titulo": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 3.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "anthropic",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-30",
+   "ultima": "2026-10-30",
+   "fontes": [
+    {
+     "titulo": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
+     "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+     "fonte": "The Hacker News",
+     "data": "2026-10-30"
+    },
+    {
+     "titulo": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+     "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors",
+     "fonte": "BleepingComputer",
+     "data": "2026-10-30"
     }
    ]
   },
@@ -1984,6 +2020,30 @@
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZDhIZnlWd1BnYzJZdTk0WWp3ZTdoaTVnTjBrN1VsVE5ONVd2RUE3bTBwTU1XQTlWMlBnUVhDOWZZbVNUMFdwbFo2SnVUaGk4R3I3bVl0eC00Mi1GRHN3VEhNQkl0OEFSNFBRUXM0TGR5UllDOVJKT3pNN2NkaG00UXo1REJEajExUGxiUVQyb2lqalZGNUNtV3NTR2NMTUMyU0dr?oc=5",
      "fonte": "Público",
      "data": "2026-09-15"
+    }
+   ]
+  },
+  {
+   "id": 162,
+   "caso": 93,
+   "titulo": "Agentes de inteligência artificial invadem sistemas corporativos na Índia - Olhar Digital",
+   "papel": "agente_em_producao",
+   "gravidade": 2.3,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "ind",
+   "pais_nome": "Índia",
+   "numerico": "356",
+   "primeira": "2026-10-16",
+   "ultima": "2026-10-16",
+   "fontes": [
+    {
+     "titulo": "Agentes de inteligência artificial invadem sistemas corporativos na Índia - Olhar Digital",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTFlUbmpHT0FXWktzeDV3UUE1Wm5RQ2pZdF9zY05UVGl0bTg5Q19EZDBlWTB1R0pwcDZDb3doMWJUSnpfTmltVUFuUW82dGR2dGI2LU56SzA0SEtIZGN4YWQzOGtKMTRpS3JTbXpTWUIwOThMenY1UlNkelFDcHBDeXBvYkw1YVBQZlE1OGlvaDJHZERRX1NsVUVKcGYwa252T011ckljU0VKS19BR1I2YXpqSDFLRXc3WEJpa1dzcTlTNWVXYVJDZXpJMUxtZ0MzOG80?oc=5",
+     "fonte": "Olhar Digital",
+     "data": "2026-10-16"
     }
    ]
   },
@@ -3688,6 +3748,12 @@
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tdUhnNW9zSkwxSm1WSTNIeHl2MFVfcTVTcTRqZVBfWExFTk0tWjRaR3FucjIyeDFWbU9wenpxZzNZQkR2LUpma1N4NzRFellwUjkyMXIwcGIzMzQ4dUhZTXJYZmFOMVRlTkVzenpsa280cHR6YVZoZQ?oc=5",
      "fonte": "YourStory.com",
      "data": "2026-10-01"
+    },
+    {
+     "titulo": "When the software acts on its own. What the OpenAI v Hugging Face incident means for your company - Stibbe",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbWg5bHFUUnd0cWg4dm1qbEZvbVRtSmVhUUdPd0Fyc1ZSMGREMFFxak5JbDBlQnBQMklHUXNKQzVaWEFfWkZVeTkyTzhiaUs5dXBoMjBudGpJa0g4X0tST0p5STVlbGJEYThnOUFVcVQwcmtnUHpndWtkSkRKaDFBZDhHbUtNc3F1VHhUNEdTTjFsNTNzeUx5Q2hhY09uMHByeHpUQ3V6NF8zLWw4cGRvZTF6N2ZNVF94MzNuXzJZUQ?oc=5",
+     "fonte": "Stibbe",
+     "data": "2026-10-06"
     },
     {
      "titulo": "A timeline of developments in AI safety since the attack on Hugging Face - ABC News - Breaking News, Latest News and Videos",
@@ -5855,6 +5921,13 @@
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSUNIcXNWa0N1WkJlQXdZZlJXYjg2ZzlyOGlTUDlzbkZpVFBGUURCVHBVSTlFQ29wa0MwS2FiWkRPN1V3OVBNLUlCckhCb0JJTmo5MFg1eG5mTVRYaXBrT0M2dUZ1N0FQMTNZSTZMSTkxazJFNTE1bG5LUjVVdzU3R3RIcjhvTkJ4eUFjVFNfeWdsNVRNOVRYV09sY1pFS05oOEZQMW1wbmd0YXFZSVFibA?oc=5",
    "fonte": "Startup Fortune",
    "data": "2026-10-09"
+  },
+  {
+   "caso": 2,
+   "titulo": "CEO do Hugging Face critica documentário da Netflix sobre ataque de IA e diz que é impreciso - TecStudio",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORUNydDJiblQzcnVlU1ZaamtQWXdjWVVWZERoXzVoV0szLWR4VFBWM3RwaXRhMU9DaUlLREJZcmk3WVlXM2VnQTJrQ05mTndHMFRscjAyWWpZZVh1MU9odXRjcUN0S3dTeVVmSzZoQjBDS0k0dXpOZWRiYkJBbVpUMnFUTlI0SkJnS1ZxTmliLU81NUJUUEdLWFdkTUJkZkdqVnN4V2pWV0ctR1UxNnJCQTZ0MDJldG5SZ09ObGwzSk9ZeU03bHIxOVln?oc=5",
+   "fonte": "TecStudio",
+   "data": "2026-10-20"
   },
   {
    "caso": 2,
