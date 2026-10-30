@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-29T16:59:12+00:00",
+ "gerado_em": "2026-10-30T01:22:14+00:00",
  "totais": {
-  "incidentes": 156,
-  "casos": 104,
-  "noticias": 1078,
+  "incidentes": 161,
+  "casos": 108,
+  "noticias": 1097,
   "repercussoes": 17
  },
  "incidentes": [
@@ -874,6 +874,30 @@
      "url": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
      "fonte": "NPR",
      "data": "2026-08-01"
+    }
+   ]
+  },
+  {
+   "id": 160,
+   "caso": 127,
+   "titulo": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 3.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "mesma_semana",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-29",
+   "ultima": "2026-10-29",
+   "fontes": [
+    {
+     "titulo": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+     "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining",
+     "fonte": "BleepingComputer",
+     "data": "2026-10-29"
     }
    ]
   },
@@ -1778,6 +1802,60 @@
    ]
   },
   {
+   "id": 158,
+   "caso": 125,
+   "titulo": "CrowdStrike revela uso de agentes de IA para ataques a entidades governamentais no Brasil - TI INSIDE Online",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.5,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "bra",
+   "pais_nome": "Brasil",
+   "numerico": "076",
+   "primeira": "2026-10-28",
+   "ultima": "2026-10-28",
+   "fontes": [
+    {
+     "titulo": "CrowdStrike revela uso de agentes de IA para ataques a entidades governamentais no Brasil - TI INSIDE Online",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1hucG5CNjI4ejJrZ085OTNiZDFaY1BpdThHTjVqUmNwVU1xYkFBTmlfX0RBR0VCczAtRERjT2dVdExDWlRvR180LXBNVzliMHVpTWJrMEZJcUNpY2xBM2tQdGw4SU94T0M0UDUtdE1BVlVURkRYVFh0Z0tRQmxGZDBaWUlPN0FyRmNSRjJ2SjlYamxzYkpEb01yekJZWUdqc1hrT3ROQ05CeTBvTmx6YW9XdDR4NDZjeWkxS3JIOW5VSzA?oc=5",
+     "fonte": "TI INSIDE Online",
+     "data": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "id": 101,
+   "caso": 73,
+   "titulo": "Jovem na China usou agente de IA em ataques a bancos da Coreia do Sul, diz CrowdStrike - G1",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.4,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "kor",
+   "pais_nome": "Coreia do Sul",
+   "numerico": "410",
+   "primeira": "2026-10-08",
+   "ultima": "2026-10-08",
+   "fontes": [
+    {
+     "titulo": "Jovem na China usou agente de IA em ataques a bancos da Coreia do Sul, diz CrowdStrike - G1",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWlUxRHBqUXlaN1BaNTAwZTU4RjlBaEFoM19YcFpLdEZoeG00SzR4VWhUQ21VTFM3d1hQN0pGQmpXRUxBZFd3bzdGUS1ieXdCTHVEbVR2X3BQMFdIcWFMcGgzNXRrU3RtaFVOa0dqd3pSalZUdU9KUS1vQzJkMXBIVFlJRFBseExVSTY5Z3JLNGVfTzVlOHNITFo1N1ZLN195OXVENHgzcFpsX2lfa2hONEl1UVdLME5SLXVnb2daLTlRN3R6Q3ZTTkM0c3RUSnpLQWk3Z1ZlU25Yd9IB6AFBVV95cUxQNVJ1YUZUVTMtWE5YNXZwSFNHdWswcl9oOTVRWG9qWjV5SkdERTgtVjQwNUhyVm9JSS1WMmJZWmxkR3NsWDNZLWY4NnNTamwxU2FXYW5aUi1SSktUTkdkU2t5SU1idmdMdkM5blR0amphdThjdjdjZFo3MVF6SmJYbVJoVk5SSHE2MlZOTkY5RmJBZmdXZXRZWVdJT3NIX2ZIYXlSSVpCbXc1LTdoN0IyUG1iWTVyNXBUOVJaMFQ1YXdIMHNQaGVRQkI4a3YwNzNRY0FrdFN4UlZCYThUWnd3emNLRTFEdGpq?oc=5",
+     "fonte": "G1",
+     "data": "2026-10-08"
+    },
+    {
+     "titulo": "Bancos sul-coreanos provavelmente foram alvos de um ataque cibernético de ator chinês com agente de IA, diz CrowdStrike - TradingView",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBSk9NVVNyVklVd201OGcwM29rVFBNLW5hUHRrVkNCbE9QYldCbW1pbVpTNkRscTV3YVVlaGM5VTdCMnRNbUhyckJ2LVliQ1pRSThjYU9tVUc4emJqbGtuOXJHTVZiVFlZNWVfY0RGRWRmck5tdGNB?oc=5",
+     "fonte": "TradingView",
+     "data": "2026-10-08"
+    }
+   ]
+  },
+  {
    "id": 110,
    "caso": 2,
    "titulo": "Anthropic AI in global breach, Aus notified - News.com.au",
@@ -1960,6 +2038,30 @@
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWVdaVjdFZXliTHkyTTJEZGtDLTJTMVNUY29wUWpFenJoY0VONDRfbWRVUDc2a3k3eE1uV2o2WDlYWUtKWGgyTWxMYVd5dGhINVFQT3ZjV194a2JITC1yb1RFS2NIVFVuRU80cE5JN1c1MGxjNmYtNTNqellmMDE3Y19LRUwtV0hEbEgzQUs2MHlqM1Q4cVdSQg?oc=5",
      "fonte": "Startup Fortune",
      "data": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": 161,
+   "caso": 128,
+   "titulo": "Pentagon AI Security Breach: Accenture Employee Connected Personal Claude Agent, Sensitive Data Flowed Out for Two Months Before Detection - BigGo Finance",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.3,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "anthropic",
+   "defasagem": "meses_antes",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-30",
+   "ultima": "2026-10-30",
+   "fontes": [
+    {
+     "titulo": "Pentagon AI Security Breach: Accenture Employee Connected Personal Claude Agent, Sensitive Data Flowed Out for Two Months Before Detection - BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYZUMxZGFXT3g5U3RXSG5XbUVkNW40Q0xCY1V4SXBvb1YyTUxYRW16YUdhOUgxNlZHMXhoNHIxRmZYLXpPLWU4SU9BRmZwR3lqYUpIc1ZVcFNNYjVEaU05S2hiWTFsV20zemFwRFVJRThKazdETFE?oc=5",
+     "fonte": "BigGo Finance",
+     "data": "2026-10-30"
     }
    ]
   },
@@ -3242,30 +3344,6 @@
    ]
   },
   {
-   "id": 101,
-   "caso": 73,
-   "titulo": "Bancos sul-coreanos provavelmente foram alvos de um ataque cibernético de ator chinês com agente de IA, diz CrowdStrike - TradingView",
-   "papel": "ia_como_ferramenta",
-   "gravidade": 1.9,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "nao_informado",
-   "defasagem": "nao_informado",
-   "pais": "kor",
-   "pais_nome": "Coreia do Sul",
-   "numerico": "410",
-   "primeira": "2026-10-08",
-   "ultima": "2026-10-08",
-   "fontes": [
-    {
-     "titulo": "Bancos sul-coreanos provavelmente foram alvos de um ataque cibernético de ator chinês com agente de IA, diz CrowdStrike - TradingView",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBSk9NVVNyVklVd201OGcwM29rVFBNLW5hUHRrVkNCbE9QYldCbW1pbVpTNkRscTV3YVVlaGM5VTdCMnRNbUhyckJ2LVliQ1pRSThjYU9tVUc4emJqbGtuOXJHTVZiVFlZNWVfY0RGRWRmck5tdGNB?oc=5",
-     "fonte": "TradingView",
-     "data": "2026-10-08"
-    }
-   ]
-  },
-  {
    "id": 22,
    "caso": 16,
    "titulo": "Spanish data watchdog publicises first AI agent-linked data breach report - Reuters",
@@ -3770,6 +3848,30 @@
    ]
   },
   {
+   "id": 159,
+   "caso": 126,
+   "titulo": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System - WIRED",
+   "papel": "agente_em_producao",
+   "gravidade": 1.8,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-29",
+   "ultima": "2026-10-29",
+   "fontes": [
+    {
+     "titulo": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System - WIRED",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObnc2SmpjTlVNU0UzQkVNZW1GNENySUQ2Q3dBY0xLMWRjU3BkdnhjZDl5VktMZFpyT2tCelNGT3Z2eUNybGgzWnQwMjFvbUtnV2ZSUjNqWXdsdTF4SXZRdHMwT1NyZk5GVjJzTmFqeXFDQ1A4QWJaTVRhRmZhaHdZWFhYS2xWdG1STThkeFpTZ21SVDBGQk9YRzlJN2dXMmdKc1pWT0tNaGhMMHpFZFBwX2xkOA?oc=5",
+     "fonte": "WIRED",
+     "data": "2026-10-29"
+    }
+   ]
+  },
+  {
    "id": 53,
    "caso": 35,
    "titulo": "Windows CLOSEDQUORUM malware uses AI models to autonomously select post-compromise actions",
@@ -3790,6 +3892,30 @@
      "url": "https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435",
      "fonte": "The Register (segurança)",
      "data": "2026-09-22"
+    }
+   ]
+  },
+  {
+   "id": 157,
+   "caso": 107,
+   "titulo": "Agente de IA aceita oferta e revela endereço sem autorização - Fast Company Brasil",
+   "papel": "agente_em_producao",
+   "gravidade": 1.7,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-01",
+   "ultima": "2026-10-01",
+   "fontes": [
+    {
+     "titulo": "Agente de IA aceita oferta e revela endereço sem autorização - Fast Company Brasil",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcTdLaUlRSldDTDg2SXBVUURKWXRnWnZfWURDN2ttc0RJN1ZKVEs4TnNOTlN3NzRFT3ZuWVVKTUVjaU5TOU1rYVljVUdDWFVuVmstcTBUUzJkM3QtaGdaenhSX0dvanFNeXdCUElNZUFORmtjcG82cFN5YTFOM085Z3JyNVVwT2o4ZXZ4NEVOOWJFZ1d3akVLR0Vn?oc=5",
+     "fonte": "Fast Company Brasil",
+     "data": "2026-10-01"
     }
    ]
   },
@@ -4767,6 +4893,18 @@
      "titulo": "An AI breach of an Australian government website raises questions of liability - Pinsent Masons",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LLXhoM0hGc2tfQjRPWTVtRHQzczFNTjJhWUl2NlptOHhMdGN4Tk1pajBVQ1d3aU84eXpkY3NWbm5HWkxlZndPRXhrOTcwMEg2YWNXYmE5NFRmcDVyQUxiRG5tNTJ0akpfSlpRTlhVZ3BRUFJXVjdRMXVn?oc=5",
      "fonte": "Pinsent Masons",
+     "data": "2026-09-30"
+    },
+    {
+     "titulo": "Inteligência artificial invade site do governo da Austrália; empresa admite “falha” - Sintrajufe - RS",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMFplV1M3Z3N1Ry1OTWVjcXkyVjFEUXg2YldueWFCX0lpRHh5OGQ0bGNvbWJtNG1wWUlHNWJsaXp6eUJUZjJvQzRiTGQ2Si1jeC1fdzltWHo5bFBDbWRDNVplUXVHal9SOEJRU3YwMlN3N29pZjZsek0yYkRvNXNBUHhycEhtLUswRkl5Y0dMLVhzdi0yZm1wWjhjb3hQS3JWeGFfa29EZE1YUkE?oc=5",
+     "fonte": "Sintrajufe - RS",
+     "data": "2026-09-30"
+    },
+    {
+     "titulo": "OpenAI admite acesso não autorizado de agente de IA a sistemas do governo australiano - Portal Juristas",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQkFCOXRXMjN4aEFacWxQeDktdEwwWmlyRGZGYVEtRDRhTEo4OGpQUHdmcFM0QzFpOUs4eGZCb1NGbl9CcVVoaEZYVl9NSmdHTV8za2ZEdjhrMnJweGE2ajZKZjM4cDBwYTFDdzlrTERvbGdkczVaazNfWlFiNm5rdDdTT3hMeG5GMlI0SG1jenYxRUJCbVVpaEVyUGVwMnRyLUI3WjY3ekE4QnJ5dWxjLWJXY3R2eHF6STdLcw?oc=5",
+     "fonte": "Portal Juristas",
      "data": "2026-09-30"
     },
     {
