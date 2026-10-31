@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-31T01:05:29+00:00",
+ "gerado_em": "2026-10-31T15:47:46+00:00",
  "totais": {
-  "incidentes": 166,
-  "casos": 112,
-  "noticias": 1126,
+  "incidentes": 169,
+  "casos": 115,
+  "noticias": 1141,
   "repercussoes": 18
  },
  "incidentes": [
@@ -644,48 +644,6 @@
    ]
   },
   {
-   "id": 103,
-   "caso": 74,
-   "titulo": "Ataque com IA atinge 9 bancos e vaza dados de 25 mil pessoas na Coreia do Sul - CartaCapital",
-   "papel": "ia_como_ferramenta",
-   "gravidade": 3.0,
-   "divergencia": true,
-   "confirmacao": "imprensa",
-   "empresa": "anthropic",
-   "defasagem": "nao_informado",
-   "pais": "kor",
-   "pais_nome": "Coreia do Sul",
-   "numerico": "410",
-   "primeira": "2026-10-06",
-   "ultima": "2026-10-10",
-   "fontes": [
-    {
-     "titulo": "Hackers suspected of using AI agents for cyberattacks on South Korean banks, exposing data from about 25,000 customers — officials believe AI models enable actors 'to hack with ease even without specialized skills' - Tom's Hardware",
-     "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOUWVtTlFzTjB3aDhTX1BzZGJyMGo5S1JUOEd4cVJNSDlFNWowdlhXUzFweUkzbmpfRjhIdndfdFhVdjRHdUF3WC16SmY0dWhzMnNwRF9SN1k0ZU4wbDg1ZFd2UUp0RXpRdzNMXzJSMXotZW1Sb3kxSHJKR01YMFAwUS1xVGtVbmppXzhLejIybW1icnpHbUYtUkxkMmk1eXlFNHVOcW1sT1JMdWtjR0luamU5VVNIN3VHbkhqcnJyeWJwdFh6SDFyaUFRZTZOT3AxN0xQcXBISzVmNnB0WVBPclc1bkg1c0tJMFBWdzYxeTZoblhNMWdrb3dzM3dxeE8wRkJTOUdSOVBxVlZOMW5PSWc1ckVDa2MzazdzdnhtTW5LRWppYkhxemIwT25oMkFPX2J4VFdlOUpyb1Z5UGNRWmV3VDlPUEN0ck5jU2RCWEVOQ0UyZHR3amFMVFdwS1hQS25uWTVsWUh3WHpkMGs1SlhhS0lKek5HM0U4NjhnbVE?oc=5",
-     "fonte": "Tom's Hardware",
-     "data": "2026-10-06"
-    },
-    {
-     "titulo": "Hacker responsável por ataque na Coreia do Sul usou Claude, diz CrowdStrike - CNN Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVBsNGVvdHJjN3lkZ2lUV2p3QzlNQ19xcHRHWVdiSjJIUUlnQlR4YVV5cHVndkJwN3AxRkNGUjJTYWNsRS1fUGx1WDE3UVprTUo5cTFxelNNd3JHckNMZHd4RWdKb2Ixdy1fcWNTTkE0SDVXQ1J3VWxfeDBYV014bnFPLWU4c21TdWEzblE1T3pvOVNiQ2VkcThTR3A2UmNod0F6TzZBMXoyR2hzNWdwT3lmXy1QVnRIRHZpWEhLdm05XzNoWUNDblRqZmtkYjk4dUlMSDVBeXktWHc?oc=5",
-     "fonte": "CNN Brasil",
-     "data": "2026-10-08"
-    },
-    {
-     "titulo": "Ataque com IA atinge 9 bancos e vaza dados de 25 mil pessoas na Coreia do Sul - CartaCapital",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbmt4R1J5NEV3VkRSY21UUUZZU2libk5BVVcxT3JkWEhNR1VQTXJqRENLNVhtN1RvS05WYzZQekFBOEZfMTBUd2M5LTlrODl4SlFvbko2ZVlELXh3RV9kUWhxZXZNQkNMWG9kdm4xNTBzdHNLdGYwaEMyUGVrVnRwd19Dc3JuMWFyZjJMRTI2QkE5N2w0OUh0NVl6N3RfNXppSk9XaHExWkpNTWhQMXFkSlZva3J1TTFiYVFYeG9R?oc=5",
-     "fonte": "CartaCapital",
-     "data": "2026-10-08"
-    },
-    {
-     "titulo": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
-     "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks",
-     "fonte": "BleepingComputer",
-     "data": "2026-10-10"
-    }
-   ]
-  },
-  {
    "id": 65,
    "caso": 46,
    "titulo": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
@@ -760,6 +718,54 @@
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XRzJBRkxCR0pzT1VrXzN3cUxfZzhuRTVxclJ1d2tGOE1HWkZ1OWVLMGdqUlc0TWRpQ1Y5SmhWaUdzOTN4NXlMM3Q0RFZjamVfUmZVWGdpS1pwZEVrVzBGVVd0MUMwZ1lreDNGNUR5M1QxUS0tTXdKUHRTN3dhOHM?oc=5",
      "fonte": "https://tech-insider.org/",
      "data": "2026-10-08"
+    }
+   ]
+  },
+  {
+   "id": 103,
+   "caso": 74,
+   "titulo": "South Korean Regulators Confirm AI Agent Breached 16 Banks and Lenders - Startup Fortune",
+   "papel": "agente_em_producao",
+   "gravidade": 3.0,
+   "divergencia": true,
+   "confirmacao": "oficial",
+   "empresa": "anthropic",
+   "defasagem": "nao_informado",
+   "pais": "kor",
+   "pais_nome": "Coreia do Sul",
+   "numerico": "410",
+   "primeira": "2026-10-06",
+   "ultima": "2026-10-16",
+   "fontes": [
+    {
+     "titulo": "Hackers suspected of using AI agents for cyberattacks on South Korean banks, exposing data from about 25,000 customers — officials believe AI models enable actors 'to hack with ease even without specialized skills' - Tom's Hardware",
+     "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOUWVtTlFzTjB3aDhTX1BzZGJyMGo5S1JUOEd4cVJNSDlFNWowdlhXUzFweUkzbmpfRjhIdndfdFhVdjRHdUF3WC16SmY0dWhzMnNwRF9SN1k0ZU4wbDg1ZFd2UUp0RXpRdzNMXzJSMXotZW1Sb3kxSHJKR01YMFAwUS1xVGtVbmppXzhLejIybW1icnpHbUYtUkxkMmk1eXlFNHVOcW1sT1JMdWtjR0luamU5VVNIN3VHbkhqcnJyeWJwdFh6SDFyaUFRZTZOT3AxN0xQcXBISzVmNnB0WVBPclc1bkg1c0tJMFBWdzYxeTZoblhNMWdrb3dzM3dxeE8wRkJTOUdSOVBxVlZOMW5PSWc1ckVDa2MzazdzdnhtTW5LRWppYkhxemIwT25oMkFPX2J4VFdlOUpyb1Z5UGNRWmV3VDlPUEN0ck5jU2RCWEVOQ0UyZHR3amFMVFdwS1hQS25uWTVsWUh3WHpkMGs1SlhhS0lKek5HM0U4NjhnbVE?oc=5",
+     "fonte": "Tom's Hardware",
+     "data": "2026-10-06"
+    },
+    {
+     "titulo": "Hacker responsável por ataque na Coreia do Sul usou Claude, diz CrowdStrike - CNN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVBsNGVvdHJjN3lkZ2lUV2p3QzlNQ19xcHRHWVdiSjJIUUlnQlR4YVV5cHVndkJwN3AxRkNGUjJTYWNsRS1fUGx1WDE3UVprTUo5cTFxelNNd3JHckNMZHd4RWdKb2Ixdy1fcWNTTkE0SDVXQ1J3VWxfeDBYV014bnFPLWU4c21TdWEzblE1T3pvOVNiQ2VkcThTR3A2UmNod0F6TzZBMXoyR2hzNWdwT3lmXy1QVnRIRHZpWEhLdm05XzNoWUNDblRqZmtkYjk4dUlMSDVBeXktWHc?oc=5",
+     "fonte": "CNN Brasil",
+     "data": "2026-10-08"
+    },
+    {
+     "titulo": "Ataque com IA atinge 9 bancos e vaza dados de 25 mil pessoas na Coreia do Sul - CartaCapital",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbmt4R1J5NEV3VkRSY21UUUZZU2libk5BVVcxT3JkWEhNR1VQTXJqRENLNVhtN1RvS05WYzZQekFBOEZfMTBUd2M5LTlrODl4SlFvbko2ZVlELXh3RV9kUWhxZXZNQkNMWG9kdm4xNTBzdHNLdGYwaEMyUGVrVnRwd19Dc3JuMWFyZjJMRTI2QkE5N2w0OUh0NVl6N3RfNXppSk9XaHExWkpNTWhQMXFkSlZva3J1TTFiYVFYeG9R?oc=5",
+     "fonte": "CartaCapital",
+     "data": "2026-10-08"
+    },
+    {
+     "titulo": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+     "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks",
+     "fonte": "BleepingComputer",
+     "data": "2026-10-10"
+    },
+    {
+     "titulo": "South Korean Regulators Confirm AI Agent Breached 16 Banks and Lenders - Startup Fortune",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYXlGREl6YXQzX2thTjRZZm5TZkctNmRhWnhjUlZ4ekYyejBLY0xvbFM1YVZlTVRaX1dTNkh6eU04eFc3R2pmeDJvR3lOdUJpblBub2RKUlpMOHBYbXpvZU9CaXoyeHpHLUNVSnBGZm1fcGlHMFZzZDM1Y1NGUm1ydXdDZnlwOXFlbDF4OFd2Q2h0SDc4S0ZZb2hmbHdDcVE?oc=5",
+     "fonte": "Startup Fortune",
+     "data": "2026-10-16"
     }
    ]
   },
@@ -1291,7 +1297,7 @@
    "titulo": "Rogue AI agents broke into Indian firms' live systems, government says - Reuters",
    "papel": "agente_em_producao",
    "gravidade": 3.0,
-   "divergencia": false,
+   "divergencia": true,
    "confirmacao": "oficial",
    "empresa": "nao_informado",
    "defasagem": "nao_informado",
@@ -1299,7 +1305,7 @@
    "pais_nome": "Índia",
    "numerico": "356",
    "primeira": "2026-10-16",
-   "ultima": "2026-10-18",
+   "ultima": "2026-10-21",
    "fontes": [
     {
      "titulo": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
@@ -1312,6 +1318,12 @@
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWE4SllpWmQwcUxOeXpjRVg5NWhCdHY2bE1LT1kxdEN2bkxYS29Vc3hVV0dEbm1XeDd0dHNQUzZNQWxiMHItQV9XMTVHY21YMDJLZXFTVWFrUGZDY19PQXcxMnBBZzViSE45TWJkTHBNRnBkOUZVUjY1NzM5bWpFTFd1dmdLMnNlRUJtVTBobVJOV1htWUlxSXFqLUN0d2tQMGh6NkJ4bFpvYUJpN3lDRUVES2dtemF4eGViejJn?oc=5",
      "fonte": "Reuters",
      "data": "2026-10-18"
+    },
+    {
+     "titulo": "Rogue AI agents target Indian systems: What CERT-In found, why experts are worried - The Indian Express",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcGR0MExxOGZOdGpUbTk4UDE1M0h6NGh4aXZ1c0VWS2RxaTBIVHZMSVc2ZUNGZjVXcmlmZGpjaVFWWjFGRFl6dTJlcmZEQUNER3FNV2hIMzJaQXM3V2p6b1ljdm83c2JSeFhpV1Z5MXN0bXdlMGdxcjFVazFjQVJmU1h6R1ViMUhnRkU2TlZhUGF2ZVpUZExTOVlvSFIyV0hZbXFrN3lLMVQyYnZnTU9SXy11c1BJVldtMnRvUUFxRkgxc3hId1MyMTJJbmNRWW14ZUdJemF5R3RPZlE10gHjAUFVX3lxTE5Ubk9CSmZyX2d2NVBBZW5UNzE3X2NJZXJtV0V1cnU4ZS1DLURiWGg1Z1BURmtETXhnWEpRQkdkYUFuV2ZGT0M2dHE0OFdXT28yNDY2cWpCYXFlN3JiajBvRzRhd25ISHc3MGJLLXBPenMzRVVZZ2VWX2dZLXM2VUN0djR2WVZZc3RpVzN3bWhyNkdJQy15a1IyMUhVV1NPLUsyaXA2M3ZNVU9lVFlDN1NPSXVEVlB0YkRSLXh4T1RXWURQbEg2SHJoWG1HZHVTN20tZEVXRF9SLTVxZVNJMkIwYW5R?oc=5",
+     "fonte": "The Indian Express",
+     "data": "2026-10-21"
     }
    ]
   },
@@ -1472,6 +1484,30 @@
    ]
   },
   {
+   "id": 167,
+   "caso": 135,
+   "titulo": "Agente de IA invade órgãos do governo brasileiro em novos ataques - Canaltech",
+   "papel": "agente_em_producao",
+   "gravidade": 2.9,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "bra",
+   "pais_nome": "Brasil",
+   "numerico": "076",
+   "primeira": "2026-10-30",
+   "ultima": "2026-10-30",
+   "fontes": [
+    {
+     "titulo": "Agente de IA invade órgãos do governo brasileiro em novos ataques - Canaltech",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXIydmJ3NEd4eHdsU0k0ZUE4bDNUandQYnZXallxdHoxUVNWWlNpSG16VmNoT0NlQmV3dnBQWmJlLW5KNjlYMFRjVWhqNmNjQTk4dHlRUEZnS1p2Z2RkbHZLUUo4Y21nX0VLWS1VT1JPSUw1bWxNLUVfV0lJSHd4UVREOWtKcFZTQ0lpekJLN2ZpUnYzaUZXeDRGVlNJWGFCYUpNTHVyQ09hRl9ndWp2VWRra0huZw?oc=5",
+     "fonte": "Canaltech",
+     "data": "2026-10-30"
+    }
+   ]
+  },
+  {
    "id": 84,
    "caso": 2,
    "titulo": "OpenAI Notifies Over 100 Groups of Rogue AI Agent Incidents After Hugging Face Breach - finance.biggo.com",
@@ -1588,6 +1624,30 @@
      "url": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
      "fonte": "The Hacker News",
      "data": "2026-09-30"
+    }
+   ]
+  },
+  {
+   "id": 168,
+   "caso": 136,
+   "titulo": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.8,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-31",
+   "ultima": "2026-10-31",
+   "fontes": [
+    {
+     "titulo": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+     "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware",
+     "fonte": "WIRED (segurança)",
+     "data": "2026-10-31"
     }
    ]
   },
@@ -2774,6 +2834,36 @@
    ]
   },
   {
+   "id": 169,
+   "caso": 137,
+   "titulo": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "usa",
+   "pais_nome": "Estados Unidos",
+   "numerico": "840",
+   "primeira": "2026-10-31",
+   "ultima": "2026-10-31",
+   "fontes": [
+    {
+     "titulo": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+     "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+     "fonte": "The Hacker News",
+     "data": "2026-10-31"
+    },
+    {
+     "titulo": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+     "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques",
+     "fonte": "BleepingComputer",
+     "data": "2026-10-31"
+    }
+   ]
+  },
+  {
    "id": 91,
    "caso": 29,
    "titulo": "A IA acessou ilegalmente dados do governo australiano. - Vietnam.vn",
@@ -3124,11 +3214,11 @@
   {
    "id": 166,
    "caso": 132,
-   "titulo": "Chainalysis hacked, customer email points to an AI agent attack - Pasquale Pillitteri",
+   "titulo": "Chainalysis hackeada, e-mail aos usuários cita ataque com agentes de IA - Pasquale Pillitteri",
    "papel": "ia_como_ferramenta",
    "gravidade": 2.0,
    "divergencia": false,
-   "confirmacao": "nao_confirmado",
+   "confirmacao": "imprensa",
    "empresa": "nao_informado",
    "defasagem": "nao_informado",
    "pais": "nao_informado",
@@ -3140,6 +3230,12 @@
     {
      "titulo": "Chainalysis hacked, customer email points to an AI agent attack - Pasquale Pillitteri",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd0J3alRhNGozbm55TkdxTG9Ja21FNjUwZjJUYUdpWVU5aFVXYmhVeTdlWmdvQVh6QmhWOUdKaXJYUzdybTdIQk1hbi1mQmVkTVVUOGEwMWUzRV91VlI4MDQzMnhTUF90VkhOQmJrWjFMTm1aZWJBblBzUUQ4aDVWTUJHSHllNHpRZzZGS2lwSldsdw?oc=5",
+     "fonte": "Pasquale Pillitteri",
+     "data": "2026-10-30"
+    },
+    {
+     "titulo": "Chainalysis hackeada, e-mail aos usuários cita ataque com agentes de IA - Pasquale Pillitteri",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR1pSOUx5ZGJmMVRTMlRrZVd4a3UtWFNNZl9IZHloQlR1UEx5UEw2T3NMMTRUaU1tMVdzQV81TDlCNXh6ZHVweVVuamFMZnN3NWxab0ZvaWltWnlKNFlXbURRTlRFTGVXcTgtaDkwX3liZW1yYTJERHlhSEhvMURHZzYwSnBMTVd3djZOYmV2ZXNjYmlNdlE?oc=5",
      "fonte": "Pasquale Pillitteri",
      "data": "2026-10-30"
     }
