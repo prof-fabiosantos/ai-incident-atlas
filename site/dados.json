@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-30T16:44:35+00:00",
+ "gerado_em": "2026-10-31T01:05:29+00:00",
  "totais": {
-  "incidentes": 163,
-  "casos": 109,
-  "noticias": 1113,
+  "incidentes": 166,
+  "casos": 112,
+  "noticias": 1126,
   "repercussoes": 18
  },
  "incidentes": [
@@ -1156,6 +1156,24 @@
      "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors",
      "fonte": "BleepingComputer",
      "data": "2026-10-30"
+    },
+    {
+     "titulo": "Anthropic: That Claude Code extension compromise… couldn't be us",
+     "url": "https://www.theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682",
+     "fonte": "The Register (segurança)",
+     "data": "2026-10-30"
+    },
+    {
+     "titulo": "Devs Hit by Trojanized Claude Code Extension for Cursor",
+     "url": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
+     "fonte": "Dark Reading",
+     "data": "2026-10-30"
+    },
+    {
+     "titulo": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
+     "url": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems",
+     "fonte": "WIRED (segurança)",
+     "data": "2026-10-30"
     }
    ]
   },
@@ -1732,6 +1750,30 @@
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPN3ZRVHFUdVJzQWFQdHNPMlVuY09PaHJDZnloSnhPdnctYWhMYTJheWlWN0JaamRZdmFYeDdyRHRWZjZBMGxjQkVZdjFrcDRfdk02LTFvRWQ4UmFUaVN2YWhkVDM2d2FsRjczdEpEY2R5NkNBQVI2WU5YOTJuN25YM2NkLTFOb2lwUlRnQnowUXBwbGxLRzB0dFpjS0ltY2R1anhaLXlLX1B3ZHhwZzRvXzN4amVHeERJcmZsZGYzdHZ4ejcydmJmcU1ULXJnTTNyLUROag?oc=5",
      "fonte": "bra1.com.br",
      "data": "2026-10-10"
+    }
+   ]
+  },
+  {
+   "id": 164,
+   "caso": 130,
+   "titulo": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.6,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-30",
+   "ultima": "2026-10-30",
+   "fontes": [
+    {
+     "titulo": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+     "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+     "fonte": "The Hacker News",
+     "data": "2026-10-30"
     }
    ]
   },
@@ -3076,6 +3118,30 @@
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVlhyczBQVnByNHAtM1lBYTd5aDJrVEtYNEVVc0tSSUJtQWctNmlVbWFUcEpDaUpxUFQ2UU1xeVFpVWNnMWtmVkpvaTVPUXB3ZEZjaGxzRVNBRmpDdXZkNnZsQ3U1YzZuZkdPdGtjUV9jYmIzVTdlUEJKd0tnSW9WUU5oOV9YWFhqSDNHZ3B4SmVfQQ?oc=5",
      "fonte": "itsecurity.pt",
      "data": "2026-09-17"
+    }
+   ]
+  },
+  {
+   "id": 166,
+   "caso": 132,
+   "titulo": "Chainalysis hacked, customer email points to an AI agent attack - Pasquale Pillitteri",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "nao_confirmado",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-30",
+   "ultima": "2026-10-30",
+   "fontes": [
+    {
+     "titulo": "Chainalysis hacked, customer email points to an AI agent attack - Pasquale Pillitteri",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd0J3alRhNGozbm55TkdxTG9Ja21FNjUwZjJUYUdpWVU5aFVXYmhVeTdlWmdvQVh6QmhWOUdKaXJYUzdybTdIQk1hbi1mQmVkTVVUOGEwMWUzRV91VlI4MDQzMnhTUF90VkhOQmJrWjFMTm1aZWJBblBzUUQ4aDVWTUJHSHllNHpRZzZGS2lwSldsdw?oc=5",
+     "fonte": "Pasquale Pillitteri",
+     "data": "2026-10-30"
     }
    ]
   },
@@ -4996,6 +5062,30 @@
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQlFjUTVkZzM1ZVBOYmRzcUFkS05WdGdTaXItU0Jjam1PMjdySjdKaHdfSnJSY0FMYTR3WHFQUE9VN09QNGdKZC0wZ19mak9GdFI5UmFSS3pJZU1XSDFxMHZMM1pPVXMwM0dENkZZdG1GYml4OXRGOVVlMkNxMmtrMmdRUDlnblVqbWJ6dm5XaUIyMEdLRk9pNFc2N3pRYmYzT25KV19Kc0x0MmMwTFJCaHh2Sm0wT19jQVJhWnVuZ21aMzNacVZnZA?oc=5",
      "fonte": "Agência Brasil",
      "data": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": 165,
+   "caso": 131,
+   "titulo": "Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 1.2,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-30",
+   "ultima": "2026-10-30",
+   "fontes": [
+    {
+     "titulo": "Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see",
+     "url": "https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754",
+     "fonte": "The Register (segurança)",
+     "data": "2026-10-30"
     }
    ]
   },
