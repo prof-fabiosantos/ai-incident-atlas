@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-31T15:47:46+00:00",
+ "gerado_em": "2026-11-01T00:27:13+00:00",
  "totais": {
-  "incidentes": 169,
-  "casos": 115,
-  "noticias": 1141,
+  "incidentes": 170,
+  "casos": 116,
+  "noticias": 1150,
   "repercussoes": 18
  },
  "incidentes": [
@@ -1736,12 +1736,36 @@
    ]
   },
   {
+   "id": 170,
+   "caso": 138,
+   "titulo": "Northflank security breach leads to abuse of customers' AI API keys",
+   "papel": "ataque_a_ia",
+   "gravidade": 2.6,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-31",
+   "ultima": "2026-10-31",
+   "fontes": [
+    {
+     "titulo": "Northflank security breach leads to abuse of customers' AI API keys",
+     "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys",
+     "fonte": "BleepingComputer",
+     "data": "2026-10-31"
+    }
+   ]
+  },
+  {
    "id": 134,
    "caso": 101,
    "titulo": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
    "papel": "ia_como_ferramenta",
    "gravidade": 2.6,
-   "divergencia": false,
+   "divergencia": true,
    "confirmacao": "oficial",
    "empresa": "outra",
    "defasagem": "nao_informado",
@@ -1755,6 +1779,12 @@
      "titulo": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
      "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
      "fonte": "The Hacker News",
+     "data": "2026-10-22"
+    },
+    {
+     "titulo": "Hackers ligados à China usam ferramenta de pentest com IA para invadir o ConnectWise, diz Microsoft - iMasters",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMi1NenNEM2lQcHVWYng4U1VIVU9WUVlYbE5QS25zSHU4MVRWeVlzWXdvLXMzbWlCLU5zSGFwSGhQZlloRTN0aGRPbUI4NUdWN251VVZ5ek94OEhlb0FkNFpIbEtfd2RYUFBDd0tPZEJWZWdZYnplcXp4NkxyMVdISktBazRKNFhYVWJCWTJjQ3pCdjlYVHFSb3dQMmhpT25YVDl2bGJRd1Nza09sWTJEa3Nn?oc=5",
+     "fonte": "iMasters",
      "data": "2026-10-22"
     },
     {
@@ -2849,6 +2879,12 @@
    "primeira": "2026-10-31",
    "ultima": "2026-10-31",
    "fontes": [
+    {
+     "titulo": "Chainalysis Says AI Agent Attack Leaked Customer Data, Unrelated to Binance Incident - BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9od0RLWnc1NGJ1NGVVVXdUSUpoQ184eGhPUUthR0tVR2VfLUdsZUl0ZFpJeUJtQlBNQXFqMXpkLWJlTmdxeF9ZWm5NMm9OSVJodmRCczVuYmo1RWtrUzVGdGdia0dqV0tBUGVkN1RRS1VxaXFxdEE?oc=5",
+     "fonte": "BigGo Finance",
+     "data": "2026-10-31"
+    },
     {
      "titulo": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
      "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
@@ -5367,7 +5403,7 @@
    "pais_nome": "País não informado",
    "numerico": null,
    "primeira": "2026-10-05",
-   "ultima": "2026-10-07",
+   "ultima": "2026-10-28",
    "fontes": [
     {
      "titulo": "Wikimedia Foundation: OpenAI agents tried to edit pages and compromise notes tool",
@@ -5392,6 +5428,12 @@
      "url": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage",
      "fonte": "Dark Reading",
      "data": "2026-10-07"
+    },
+    {
+     "titulo": "OpenAI confirma 'Incidente Wiki' e promete regra de divulgação - OrcaRouter",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rcHNkU2hHQjBqMGs4ajRfRlRYZ1BxZW5mZTNOY04xankxSnNBOVFzdmQ4RlhJSlBZbThrc2ZGcnNVT3I0bnpmYkdCdzh0TEFSMkJoZU41ZUtGZkpkanhBblZUNzBMWnNHdC11dFk1b3pJUERnajFWNw?oc=5",
+     "fonte": "OrcaRouter",
+     "data": "2026-10-28"
     }
    ]
   },
