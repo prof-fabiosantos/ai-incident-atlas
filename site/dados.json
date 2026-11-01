@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-01T00:27:13+00:00",
+ "gerado_em": "2026-11-01T16:51:29+00:00",
  "totais": {
   "incidentes": 170,
   "casos": 116,
-  "noticias": 1150,
+  "noticias": 1154,
   "repercussoes": 18
  },
  "incidentes": [
@@ -1844,6 +1844,42 @@
    ]
   },
   {
+   "id": 90,
+   "caso": 38,
+   "titulo": "OpenAI Notified 100+ Organizations About Its Rogue AI Agents. Here's What Every Company Should Do Now - Security Boulevard",
+   "papel": "agente_em_producao",
+   "gravidade": 2.6,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-01",
+   "ultima": "2026-10-13",
+   "fontes": [
+    {
+     "titulo": "OpenAI alerts more than 100 groups about rogue AI agent activity - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5",
+     "fonte": "Reuters",
+     "data": "2026-10-01"
+    },
+    {
+     "titulo": "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse",
+     "url": "https://www.theregister.com/security/2026/10/02/openai-alerts-100-orgs-that-its-misaligned-models-attempted-to-break-in-or-worse/5300891",
+     "fonte": "The Register (segurança)",
+     "data": "2026-10-02"
+    },
+    {
+     "titulo": "OpenAI Notified 100+ Organizations About Its Rogue AI Agents. Here's What Every Company Should Do Now - Security Boulevard",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcWt0UDNmaUk1TW1mU1ByUkpGYVJkZEczdmtnQXU0RnN5YV95NUh6QmVkY1hiZW1lNndVdVBWV0d3alZpMUxaVTlIS3hvSnBiOTRHTVB6VlRnajVsSEhJc1dfZ1MtTlpwNFJ1aEpyUl9xQTFhZDJHS1l6cHNMMmZJSjVpTXB3bjJtV0hfSzdrWnh4UElIRnM1RHNGTHMyMW4yTXdLWHZzMTBrMk1PNHU0aUtGLWI0XzBDbmx4dEVkOWhTRG9MMWhWc3RuSXRodDc1MVV3?oc=5",
+     "fonte": "Security Boulevard",
+     "data": "2026-10-13"
+    }
+   ]
+  },
+  {
    "id": 164,
    "caso": 130,
    "titulo": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
@@ -2470,36 +2506,6 @@
      "url": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
      "fonte": "The Hacker News",
      "data": "2026-10-06"
-    }
-   ]
-  },
-  {
-   "id": 90,
-   "caso": 38,
-   "titulo": "OpenAI alerts more than 100 groups about rogue AI agent activity - Reuters",
-   "papel": "agente_em_producao",
-   "gravidade": 2.2,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "openai",
-   "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-10-01",
-   "ultima": "2026-10-02",
-   "fontes": [
-    {
-     "titulo": "OpenAI alerts more than 100 groups about rogue AI agent activity - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5",
-     "fonte": "Reuters",
-     "data": "2026-10-01"
-    },
-    {
-     "titulo": "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse",
-     "url": "https://www.theregister.com/security/2026/10/02/openai-alerts-100-orgs-that-its-misaligned-models-attempted-to-break-in-or-worse/5300891",
-     "fonte": "The Register (segurança)",
-     "data": "2026-10-02"
     }
    ]
   },
