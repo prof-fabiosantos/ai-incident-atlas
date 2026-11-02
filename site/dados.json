@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-01T16:51:29+00:00",
+ "gerado_em": "2026-11-02T01:03:31+00:00",
  "totais": {
   "incidentes": 170,
   "casos": 116,
-  "noticias": 1154,
+  "noticias": 1158,
   "repercussoes": 18
  },
  "incidentes": [
@@ -1155,6 +1155,12 @@
      "titulo": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
      "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
      "fonte": "The Hacker News",
+     "data": "2026-10-30"
+    },
+    {
+     "titulo": "Extensão do Claude Code comprometida no Cursor, tenta abrir um backdoor SSH - Pasquale Pillitteri",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUU5OeWkzMS1UV09hWUE2MzZlNEVlT2tUc25yQV85UnE3MzdrbjN6ZHNsZVBKc0JHenVVXzNidnpITk5hdUpQYkhuSUk0aWNhV1dUZFBXbF8xS3o2bTFJLTBnTGotSTM5aTRPOU1IaDV0MGZGS1J1ZFBNYV9QTml5M25Fc0g4LThSYWVSdQ?oc=5",
+     "fonte": "Pasquale Pillitteri",
      "data": "2026-10-30"
     },
     {
@@ -2883,7 +2889,7 @@
    "pais_nome": "Estados Unidos",
    "numerico": "840",
    "primeira": "2026-10-31",
-   "ultima": "2026-10-31",
+   "ultima": "2026-11-01",
    "fontes": [
     {
      "titulo": "Chainalysis Says AI Agent Attack Leaked Customer Data, Unrelated to Binance Incident - BigGo Finance",
@@ -2902,6 +2908,18 @@
      "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques",
      "fonte": "BleepingComputer",
      "data": "2026-10-31"
+    },
+    {
+     "titulo": "Chainalysis Data Breach: AI Agents Accessed User Names and Emails - ShiftDelete.Net",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vaFJzT2ZpN1ZYSklvWE9icTVRbUh2YVkwQW1JekMwOUVjbVJsOXdua0owV2p2dTFISFN2cDlBYWd6ckdXTmhfMExVMFJvX2RDMU9iUDNmUGlqWnlDbkhz?oc=5",
+     "fonte": "ShiftDelete.Net",
+     "data": "2026-11-01"
+    },
+    {
+     "titulo": "Chainalysis partly exposes customer data in AI agent hack - 디지털투데이",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYUFoajdyQmluVm54NEJmOGh1eDA5dGlQdDdIYjkxREVoMzlmbm93b0FJZnFRLXNJVXh2UUszSWxIMVB0UWYzTEU1dG40Qm56cFZEVlRmUHFpV2Z1Tlk5dGpNMTNINm5jVGY3dTdhczBHemt6YVZiT0ZQWkYwWk4xR3UxaEJHSVpNbE1RZ0tRZ0NlUjZuMll2RG53OEE4NXNOQ2JrVi1R?oc=5",
+     "fonte": "디지털투데이",
+     "data": "2026-11-01"
     }
    ]
   },
