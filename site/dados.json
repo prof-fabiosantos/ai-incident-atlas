@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-02T01:03:31+00:00",
+ "gerado_em": "2026-11-02T20:25:54+00:00",
  "totais": {
-  "incidentes": 170,
-  "casos": 116,
-  "noticias": 1158,
+  "incidentes": 175,
+  "casos": 120,
+  "noticias": 1174,
   "repercussoes": 18
  },
  "incidentes": [
@@ -564,6 +564,12 @@
      "data": "2026-10-06"
     },
     {
+     "titulo": "OpenAI exec fronts federal parliamentary inquiry over AI agent’s Medicare breach - News24",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQXzF0OFphUnptSEQ1STE5MWhLZFVHdWx5bG1EUzlGWGR4MmVPQWRTeVJlQmZ3c2ZaUkVveThBRXJMMzF4NTRHckNLTEdrYmV4US1fQ2FNREJobUZNWVF6aldUdzVNalpTSV82cU9jaExXTGVZVEpCWmdrdG8taVd3YjViYzFqOTIzS3o0NXNBVnU1TExLemdfMVA3am02MU10TkNraWJONUc1c3FEUjZwN2JUMDYzdlhERnhtQW13a05NdV9QNGYwRFZfejYzbS1HdkZPVmRJZWk5bkdLQkliaV82c2JLdW9Zak5UZG5yY1pEYjc5NkcyVHFfZGFTXzFrVW9n0gGIAkFVX3lxTFBPelRJUjZsNnRZYkp0UVJHdk5NSHB0djNfTXBscVlicnhjYmdpTlpvQlRqZXRiRFY4MVpBS2dUSjNVMUdjNDRvamRMcTZtWm9PQlVuQlJ4azh5aENYN1RpOGVuRERIZ3RXbk5ESjVMZS1PT1hsUW00UnNTUEFkVXBtTlgzc3RGOGxzZzhULTdhNnNWbVhoNU9FLWFYX0ZqTjdwSi0xNTZWdUc1ZjBGeDNiZXp2emJjWFlNVkdDT21wcW5qM0FEc29xZDdnYkRkLXJ3VGc5YmJPNFI5YVJIN2MtRUFwZ0tQTFpZdWZKWnVVRlBqdWZZWXlXY0VEVmo0MGN2RU81QUpydQ?oc=5",
+     "fonte": "News24",
+     "data": "2026-10-06"
+    },
+    {
      "titulo": "OpenAI reconhece erros na resposta à infiltração no sistema de saúde australiano - Dinheiro Vivo",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWS1mVDRqQ094NkozQ1YxckZCNkZGaEk0YWh4cUZ0Ui1fNlBucEI4b3BObEtDY0hFX052RDV1TklEWVhYQjd5MXczVlJ1YW96R1F5OVc2R05oV1pVVDhBQnFhUmVNU2hEWDJianRhejZuSXA3dGZxcnNUSlNIUTRXN3VMZWpuOHZOeXdzb1hoZmVGWDN1SW1kY1FtWTdnN2JDZHJVMm9TNnBTcnM2SlFrNWNZS0hVVEdIdHFJ?oc=5",
      "fonte": "Dinheiro Vivo",
@@ -592,6 +598,30 @@
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tM1dOMlpBMGJ3aVk2N2J3R2lSa3doZ1pKT1VvajdWQVlfM09fa09CbjZxQ0RGb0g0bmtzZ29lTmxnbTlDUlR0MkdsOUhTeXdKZFRrQmdWZWU3WHo2T1NJdkVwMG9MQUd5N05R?oc=5",
      "fonte": "shattered.io",
      "data": "2026-10-14"
+    }
+   ]
+  },
+  {
+   "id": 171,
+   "caso": 139,
+   "titulo": "AI Agents Automatically Hack 400 Financial Institutions in Latin America - news.sbs.co.kr",
+   "papel": "agente_em_producao",
+   "gravidade": 3.1,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-22",
+   "ultima": "2026-10-22",
+   "fontes": [
+    {
+     "titulo": "AI Agents Automatically Hack 400 Financial Institutions in Latin America - news.sbs.co.kr",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fQ0xEd2YxdXFVYVpaQ1IzR1dTN2ZmUFQ4ZkFWTXRvbDY2b3FDcUs5MnM0MEJJRXNXTTVEZnRITFhoTmpYc0xsRlZYdFROMjFMeGJxM0Vyc2VYbHVOTUt1WWtSY1U5dTYxVk5IUHRR?oc=5",
+     "fonte": "news.sbs.co.kr",
+     "data": "2026-10-22"
     }
    ]
   },
@@ -1136,6 +1166,30 @@
    ]
   },
   {
+   "id": 173,
+   "caso": 140,
+   "titulo": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 3.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-02",
+   "ultima": "2026-11-02",
+   "fontes": [
+    {
+     "titulo": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+     "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features",
+     "fonte": "WIRED (segurança)",
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
    "id": 163,
    "caso": 129,
    "titulo": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
@@ -1586,6 +1640,30 @@
    ]
   },
   {
+   "id": 172,
+   "caso": 136,
+   "titulo": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.9,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "varias",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-02",
+   "ultima": "2026-11-02",
+   "fontes": [
+    {
+     "titulo": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+     "url": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
+     "fonte": "The Hacker News",
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
    "id": 129,
    "caso": 96,
    "titulo": "EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites - Reuters",
@@ -1654,6 +1732,30 @@
      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware",
      "fonte": "WIRED (segurança)",
      "data": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": 174,
+   "caso": 141,
+   "titulo": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.8,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "meses_antes",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-02",
+   "ultima": "2026-11-02",
+   "fontes": [
+    {
+     "titulo": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
+     "url": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
+     "fonte": "The Hacker News",
+     "data": "2026-11-02"
     }
    ]
   },
@@ -3388,6 +3490,30 @@
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdVZTMW9vOFF0UXlhNzJsbHhRZ0M5bm5pcld4dmlZaUdDaXBSOW5veVlKTmRwZzc0SGhFLTRSeHlxM3dhMjVrMDZpODhGNllxeXRHSkhYU0Z6NkVpbWV6YVIxTjdmVzdRZlFibC13RHItUkZEMlFnb01PTXhnQ0ROZmZOcTZiZ21RaW1POW1Rbkt4TG1KN1NJQ1lwYXRLWmdVWHJpekc2MnFVN2U3NnpN?oc=5",
      "fonte": "Vietnam.vn",
      "data": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": 175,
+   "caso": 142,
+   "titulo": "Thieves pilfer environment variables from Trigger AI workflow tool",
+   "papel": "ataque_a_ia",
+   "gravidade": 1.9,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "outra",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-02",
+   "ultima": "2026-11-02",
+   "fontes": [
+    {
+     "titulo": "Thieves pilfer environment variables from Trigger AI workflow tool",
+     "url": "https://www.theregister.com/security/2026/11/02/thieves-pilfer-environment-variables-from-trigger-ai-workflow-tool/5306998",
+     "fonte": "The Register (segurança)",
+     "data": "2026-11-02"
     }
    ]
   },
