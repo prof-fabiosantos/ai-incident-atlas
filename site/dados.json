@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-02T20:25:54+00:00",
+ "gerado_em": "2026-11-03T03:06:07+00:00",
  "totais": {
   "incidentes": 175,
   "casos": 120,
-  "noticias": 1174,
+  "noticias": 1177,
   "repercussoes": 18
  },
  "incidentes": [
@@ -1712,6 +1712,36 @@
    ]
   },
   {
+   "id": 164,
+   "caso": 130,
+   "titulo": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.8,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "outra",
+   "defasagem": "nao_informado",
+   "pais": "global",
+   "pais_nome": "Vários países",
+   "numerico": null,
+   "primeira": "2026-10-30",
+   "ultima": "2026-11-02",
+   "fontes": [
+    {
+     "titulo": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+     "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+     "fonte": "The Hacker News",
+     "data": "2026-10-30"
+    },
+    {
+     "titulo": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+     "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs",
+     "fonte": "BleepingComputer",
+     "data": "2026-11-02"
+    }
+   ]
+  },
+  {
    "id": 168,
    "caso": 136,
    "titulo": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
@@ -1984,30 +2014,6 @@
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcWt0UDNmaUk1TW1mU1ByUkpGYVJkZEczdmtnQXU0RnN5YV95NUh6QmVkY1hiZW1lNndVdVBWV0d3alZpMUxaVTlIS3hvSnBiOTRHTVB6VlRnajVsSEhJc1dfZ1MtTlpwNFJ1aEpyUl9xQTFhZDJHS1l6cHNMMmZJSjVpTXB3bjJtV0hfSzdrWnh4UElIRnM1RHNGTHMyMW4yTXdLWHZzMTBrMk1PNHU0aUtGLWI0XzBDbmx4dEVkOWhTRG9MMWhWc3RuSXRodDc1MVV3?oc=5",
      "fonte": "Security Boulevard",
      "data": "2026-10-13"
-    }
-   ]
-  },
-  {
-   "id": 164,
-   "caso": 130,
-   "titulo": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-   "papel": "ia_como_ferramenta",
-   "gravidade": 2.6,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "nao_informado",
-   "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-10-30",
-   "ultima": "2026-10-30",
-   "fontes": [
-    {
-     "titulo": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-     "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-     "fonte": "The Hacker News",
-     "data": "2026-10-30"
     }
    ]
   },
@@ -5578,6 +5584,12 @@
      "url": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage",
      "fonte": "Dark Reading",
      "data": "2026-10-07"
+    },
+    {
+     "titulo": "Wikimedia publishes its own account of suspected OpenAI agent activity on its wikis - JD Supra",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdUx1NXhHcWJHWHdQU0VGYkRNUUl6WGFqdjVZR05HQ2lYN2NFeF9PMkUwZU9rRlU1UFJJY0hVbGFBZnZveG9Za21vVXJTRjR4Vl9BQU5EWEE0RzJXeTRBR2FRcHB2NGNVRU9YeURweExvX3hlaUE1dWdFdkRIdkl0bW5GVzE3YkFB?oc=5",
+     "fonte": "JD Supra",
+     "data": "2026-10-08"
     },
     {
      "titulo": "OpenAI confirma 'Incidente Wiki' e promete regra de divulgação - OrcaRouter",
