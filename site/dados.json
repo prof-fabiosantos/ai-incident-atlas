@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-03T17:55:18+00:00",
+ "gerado_em": "2026-11-04T01:41:56+00:00",
  "totais": {
-  "incidentes": 178,
-  "casos": 123,
-  "noticias": 1187,
+  "incidentes": 183,
+  "casos": 127,
+  "noticias": 1203,
   "repercussoes": 18
  },
  "incidentes": [
@@ -1652,6 +1652,30 @@
    ]
   },
   {
+   "id": 181,
+   "caso": 144,
+   "titulo": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+   "papel": "ataque_a_ia",
+   "gravidade": 2.9,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "google",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-03",
+   "ultima": "2026-11-03",
+   "fontes": [
+    {
+     "titulo": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+     "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges",
+     "fonte": "BleepingComputer",
+     "data": "2026-11-03"
+    }
+   ]
+  },
+  {
    "id": 61,
    "caso": 45,
    "titulo": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
@@ -2126,6 +2150,30 @@
    ]
   },
   {
+   "id": 179,
+   "caso": 147,
+   "titulo": "GPT-6 Astra Ataca Cadeia de Fornecimento em 29,2% [2026] - shattered.io",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.5,
+   "divergencia": false,
+   "confirmacao": "nao_confirmado",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-12",
+   "ultima": "2026-10-12",
+   "fontes": [
+    {
+     "titulo": "GPT-6 Astra Ataca Cadeia de Fornecimento em 29,2% [2026] - shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ESDZ0dzhfbWI1c01fVFBVenZPRzZTSVl0RXBfSGFYTnFVSXZjdFp1c1lmRjVhRXZtc0ZMQ0s0N1ROVTl5M3liMjNmcVprSGc0eWF6eGxIQzdDOHlNRjRLb1ZyN1BJaGpIeTUwUkwtWkVKdw?oc=5",
+     "fonte": "shattered.io",
+     "data": "2026-10-12"
+    }
+   ]
+  },
+  {
    "id": 69,
    "caso": 16,
    "titulo": "OpenAI Agent Makes First Reported Autonomous Government Hack - Mexico Business News",
@@ -2457,13 +2505,19 @@
    "pais_nome": "País não informado",
    "numerico": null,
    "primeira": "2026-10-30",
-   "ultima": "2026-10-30",
+   "ultima": "2026-11-02",
    "fontes": [
     {
      "titulo": "Pentagon AI Security Breach: Accenture Employee Connected Personal Claude Agent, Sensitive Data Flowed Out for Two Months Before Detection - BigGo Finance",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYZUMxZGFXT3g5U3RXSG5XbUVkNW40Q0xCY1V4SXBvb1YyTUxYRW16YUdhOUgxNlZHMXhoNHIxRmZYLXpPLWU4SU9BRmZwR3lqYUpIc1ZVcFNNYjVEaU05S2hiWTFsV20zemFwRFVJRThKazdETFE?oc=5",
      "fonte": "BigGo Finance",
      "data": "2026-10-30"
+    },
+    {
+     "titulo": "AI Agent Causes Pentagon Network Security Breach - OECD AI Policy Observatory",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04Zl9rWV9IRFJDV2ZfMHNSRmxZUjY1RE5kelFkQ0MzRHRMVlR3M1lCNUxySkc1TzBqazNaNG1aQ1h3Rk9qOGQ2LWxLbjFnVlpyOGdlQS1JYw?oc=5",
+     "fonte": "OECD AI Policy Observatory",
+     "data": "2026-11-02"
     }
    ]
   },
@@ -2978,6 +3032,30 @@
    ]
   },
   {
+   "id": 180,
+   "caso": 148,
+   "titulo": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "nao_informado",
+   "defasagem": "mesma_semana",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-03",
+   "ultima": "2026-11-03",
+   "fontes": [
+    {
+     "titulo": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+     "url": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
+     "fonte": "The Hacker News",
+     "data": "2026-11-03"
+    }
+   ]
+  },
+  {
    "id": 102,
    "caso": 68,
    "titulo": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack - Reuters",
@@ -3136,6 +3214,30 @@
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdkcyRVUtZWdoemxiVjVmT3V1RDhjajEwanlpaTBRSWhtQnhQWHJHMGJNdFV6Zm90ZE51WDFBY05WaTI1Wjg5TjZiZS03VXFQQXRHWWNtVnpLYWkyeFp3WnYxV1RSTl9zT25PQjREbWtITlFZWENaS3NQdUVxaHBodg?oc=5",
      "fonte": "Vietnam.vn",
      "data": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": 183,
+   "caso": 150,
+   "titulo": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "outra",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-03",
+   "ultima": "2026-11-03",
+   "fontes": [
+    {
+     "titulo": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+     "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app",
+     "fonte": "BleepingComputer",
+     "data": "2026-11-03"
     }
    ]
   },
@@ -3580,6 +3682,30 @@
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdVZTMW9vOFF0UXlhNzJsbHhRZ0M5bm5pcld4dmlZaUdDaXBSOW5veVlKTmRwZzc0SGhFLTRSeHlxM3dhMjVrMDZpODhGNllxeXRHSkhYU0Z6NkVpbWV6YVIxTjdmVzdRZlFibC13RHItUkZEMlFnb01PTXhnQ0ROZmZOcTZiZ21RaW1POW1Rbkt4TG1KN1NJQ1lwYXRLWmdVWHJpekc2MnFVN2U3NnpN?oc=5",
      "fonte": "Vietnam.vn",
      "data": "2026-09-27"
+    }
+   ]
+  },
+  {
+   "id": 182,
+   "caso": 149,
+   "titulo": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys - Decrypt",
+   "papel": "agente_em_producao",
+   "gravidade": 1.9,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-03",
+   "ultima": "2026-11-03",
+   "fontes": [
+    {
+     "titulo": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys - Decrypt",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxcmcwdmg0bE8zUVNwWV9ySHh2MUJhdjlrT1V4OTBFV1NHaHFBOFFGbTlSQ3dNUWlzVjd1b1lOaWp2TGRwSTE0NXZ2SXQwSjFMSWdGc2RmT0YxTU1xYVROMFFheFdiNE1TRURPSzRGbnVTOWFoalpVck9B?oc=5",
+     "fonte": "Decrypt",
+     "data": "2026-11-03"
     }
    ]
   },
