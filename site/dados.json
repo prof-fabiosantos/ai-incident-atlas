@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-04T01:41:56+00:00",
+ "gerado_em": "2026-11-04T18:06:18+00:00",
  "totais": {
-  "incidentes": 183,
-  "casos": 127,
-  "noticias": 1203,
+  "incidentes": 184,
+  "casos": 128,
+  "noticias": 1212,
   "repercussoes": 18
  },
  "incidentes": [
@@ -2576,6 +2576,36 @@
    ]
   },
   {
+   "id": 184,
+   "caso": 151,
+   "titulo": "Binance rastreia hack de US$ 6,3 bilhões a falsas entrevistas de emprego e ferramenta de IA comprometida - TradingView",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.2,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-03",
+   "ultima": "2026-11-04",
+   "fontes": [
+    {
+     "titulo": "Binance rastreia hack de US$ 6,3 bilhões a falsas entrevistas de emprego e ferramenta de IA comprometida - TradingView",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pV1V1Y2MwemxndXNhNDRQWUdUemRyVklSMjJ2TE53ZWl4b1UzaU5ucUpvWmRiU2k2YnJJSjdrSEJZTlcwbENZMW1SQ3VYUnFHSnpyRkstUGE5Q3RMTk5sWW5QZkdpWXVySHJ0eWdvNA?oc=5",
+     "fonte": "TradingView",
+     "data": "2026-11-03"
+    },
+    {
+     "titulo": "IA e entrevista de emprego falsa: o que está por trás do ataque à Binance - StartSe",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSTYtNS0yZVRfUEg4NDk4NmVlUHhiYkNuOGRURVhSUUxCMklOenQ5OGdxMDFiam8wV1J2SXNYeVVvLUtoaHI5TWU5MGZTbUFCS1EzR3FIcDB2eWFwQWFVbzVycmpjYmU2czhiZG9nd0h3SUtpQ0JKRnEtNVBTWHdRMXdhYVAtZHFTekR1RUlIcFNqelBzNE53a25TODhjVFY2V2ExTzJTSGw?oc=5",
+     "fonte": "StartSe",
+     "data": "2026-11-04"
+    }
+   ]
+  },
+  {
    "id": 150,
    "caso": 115,
    "titulo": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
@@ -3705,6 +3735,12 @@
      "titulo": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys - Decrypt",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxcmcwdmg0bE8zUVNwWV9ySHh2MUJhdjlrT1V4OTBFV1NHaHFBOFFGbTlSQ3dNUWlzVjd1b1lOaWp2TGRwSTE0NXZ2SXQwSjFMSWdGc2RmT0YxTU1xYVROMFFheFdiNE1TRURPSzRGbnVTOWFoalpVck9B?oc=5",
      "fonte": "Decrypt",
+     "data": "2026-11-03"
+    },
+    {
+     "titulo": "GitBook AI Agent Breach: Tokens Revoked, PancakeSwap Pulls Docs - Altcoin Buzz",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTHY2azFENG9ucDZSVWFfWFlUenU4ZzQzTGYwX3VFUWx0bWNROEVKVUk1OHVuNzNfVHg0SnJ1VHFSYk53dnY1bVd3Y3ZTVlh1aFEzanNoQlRveVIwY1QzVW93ZFZsRGdhbGxNSXIzc3k5clE1MXFDWGRabjdSY0xFZktpX0NzRDRxYzhPd1hIU1QzQQ?oc=5",
+     "fonte": "Altcoin Buzz",
      "data": "2026-11-03"
     }
    ]
@@ -5548,6 +5584,12 @@
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQV9vbzIxazFuRjRrZVRqQnF1c2toZ1dMcnMxTUN4Uk5ISVNFQ1Q4aGdSd0t6aE16YjMzZ09nWGVHdUYzUE1jN0IyOThnYUNVTEdBNFlEWkJ1LVhBOU0yNGZwWnRvWGgwNTUyTTVNX1BnVkRvb2g1WFlmTDBTcGdfYUd2bGhHWFdycFY4WWFiSGxYOVR2QldpR3VnN0VsLW1JWDFBTUxlTFN6UTVwRjBVRGxjRlE3M3JSRnVV?oc=5",
      "fonte": "The Guardian",
      "data": "2026-10-03"
+    },
+    {
+     "titulo": "OpenAI admite falhas após agente de IA acessar portal do governo australiano - Revista Empreende",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOV83MUFtc195Nl9xNV8xYXdMVTJUXzVmNU5TMlBtOWRkMElQYzJ6ajI2eHB3aEVyRGl3Ql9qVFVtYnlZX1Rpb3VlNG1MSGEzcDVyQUdpSEN6bzQ2NUVNcFdRLVNYN0VTQlU3cG9jeG1ZZk9uOUY0TjdZajdlYlE3NGVLR21RVExqMXJoSzFKcDhESktsVlJOajVxbkstZGRYa1VxUkpVNXhMOGVodFZnRTktSF9jTWNhXzQtTmhsLVJuRXdwVkdKQkY0QjBSVnBtSXhNZDR5MTZjcG03bHJqOUIzd2pFczQ?oc=5",
+     "fonte": "Revista Empreende",
+     "data": "2026-10-06"
     },
     {
      "titulo": "OpenAI admite falhas na resposta a ataque a sistema de saúde australiano - Notícias ao Minuto",
