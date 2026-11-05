@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-05T01:50:07+00:00",
+ "gerado_em": "2026-11-05T18:07:44+00:00",
  "totais": {
-  "incidentes": 184,
-  "casos": 128,
-  "noticias": 1216,
+  "incidentes": 185,
+  "casos": 129,
+  "noticias": 1228,
   "repercussoes": 18
  },
  "incidentes": [
@@ -2282,6 +2282,30 @@
    ]
   },
   {
+   "id": 185,
+   "caso": 152,
+   "titulo": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.4,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "ind",
+   "pais_nome": "Índia",
+   "numerico": "356",
+   "primeira": "2026-11-05",
+   "ultima": "2026-11-05",
+   "fontes": [
+    {
+     "titulo": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+     "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+     "fonte": "The Hacker News",
+     "data": "2026-11-05"
+    }
+   ]
+  },
+  {
    "id": 110,
    "caso": 2,
    "titulo": "Anthropic AI in global breach, Aus notified - News.com.au",
@@ -2591,6 +2615,12 @@
    "primeira": "2026-11-03",
    "ultima": "2026-11-04",
    "fontes": [
+    {
+     "titulo": "Coreia do Sul pede que exchanges aumentem o armazenamento em cold wallets após ataque à Binance - TradingView",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aT0VVLXk0ZzVZd2VvRGdJbmZqTEhNUGFUbzg4X0pJOXZFZVA3QWpmQUJJdVpfcFpPc3hlUVlZdy1fNm1iZ3FKZGo2MXhWam1JYnotamVZZ0JEZmlvMVZPU3lBYUNCT1QzZW9vLUM2WQ?oc=5",
+     "fonte": "TradingView",
+     "data": "2026-11-03"
+    },
     {
      "titulo": "Binance rastreia hack de US$ 6,3 bilhões a falsas entrevistas de emprego e ferramenta de IA comprometida - TradingView",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pV1V1Y2MwemxndXNhNDRQWUdUemRyVklSMjJ2TE53ZWl4b1UzaU5ucUpvWmRiU2k2YnJJSjdrSEJZTlcwbENZMW1SQ3VYUnFHSnpyRkstUGE5Q3RMTk5sWW5QZkdpWXVySHJ0eWdvNA?oc=5",
@@ -3189,7 +3219,7 @@
    "pais_nome": "Estados Unidos",
    "numerico": "840",
    "primeira": "2026-10-31",
-   "ultima": "2026-11-01",
+   "ultima": "2026-11-05",
    "fontes": [
     {
      "titulo": "Chainalysis Says AI Agent Attack Leaked Customer Data, Unrelated to Binance Incident - BigGo Finance",
@@ -3220,6 +3250,18 @@
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYUFoajdyQmluVm54NEJmOGh1eDA5dGlQdDdIYjkxREVoMzlmbm93b0FJZnFRLXNJVXh2UUszSWxIMVB0UWYzTEU1dG40Qm56cFZEVlRmUHFpV2Z1Tlk5dGpNMTNINm5jVGY3dTdhczBHemt6YVZiT0ZQWkYwWk4xR3UxaEJHSVpNbE1RZ0tRZ0NlUjZuMll2RG53OEE4NXNOQ2JrVi1R?oc=5",
      "fonte": "디지털투데이",
      "data": "2026-11-01"
+    },
+    {
+     "titulo": "Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques",
+     "url": "https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack",
+     "fonte": "The Record",
+     "data": "2026-11-05"
+    },
+    {
+     "titulo": "October crypto-tracker hack: Access cracked, law enforcement tokens packed",
+     "url": "https://www.theregister.com/cyber-crime/2026/11/05/october-crypto-tracker-hack-access-cracked-law-enforcement-tokens-packed/5307852",
+     "fonte": "The Register (segurança)",
+     "data": "2026-11-05"
     }
    ]
   },
