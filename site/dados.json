@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-05T18:07:44+00:00",
+ "gerado_em": "2026-11-06T01:50:22+00:00",
  "totais": {
-  "incidentes": 185,
-  "casos": 129,
-  "noticias": 1228,
+  "incidentes": 186,
+  "casos": 130,
+  "noticias": 1232,
   "repercussoes": 18
  },
  "incidentes": [
@@ -5644,6 +5644,30 @@
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQlFjUTVkZzM1ZVBOYmRzcUFkS05WdGdTaXItU0Jjam1PMjdySjdKaHdfSnJSY0FMYTR3WHFQUE9VN09QNGdKZC0wZ19mak9GdFI5UmFSS3pJZU1XSDFxMHZMM1pPVXMwM0dENkZZdG1GYml4OXRGOVVlMkNxMmtrMmdRUDlnblVqbWJ6dm5XaUIyMEdLRk9pNFc2N3pRYmYzT25KV19Kc0x0MmMwTFJCaHh2Sm0wT19jQVJhWnVuZ21aMzNacVZnZA?oc=5",
      "fonte": "Agência Brasil",
      "data": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": 186,
+   "caso": 153,
+   "titulo": "Microsoft registra 2.900 logins por minuto em ataque movido por agentes - iMasters",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 1.2,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-23",
+   "ultima": "2026-10-23",
+   "fontes": [
+    {
+     "titulo": "Microsoft registra 2.900 logins por minuto em ataque movido por agentes - iMasters",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZzZyZXVydVpUT2JhYWE0bGctb2FpOEJWbmgyX3ZhV2J3UjJqQ0JlWXA1WU1ZTlQtWWItQW9zVGZPb0d4SlB1VU9VbDMtUVF1SWJQQml4RVlFbnR4Z0U0eDk2Wm13S3duZV91dFg1QW8ydjRxZFUwLXBLallQOTlRMW1tVEJvZTdtWS1RcDVyVk1RZG94S0ZfSlpTTWloZ0ItajJjSFd3?oc=5",
+     "fonte": "iMasters",
+     "data": "2026-10-23"
     }
    ]
   },
