@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-06T01:50:22+00:00",
+ "gerado_em": "2026-11-06T17:35:05+00:00",
  "totais": {
   "incidentes": 186,
   "casos": 130,
-  "noticias": 1232,
+  "noticias": 1245,
   "repercussoes": 18
  },
  "incidentes": [
@@ -2784,6 +2784,12 @@
      "data": "2026-10-19"
     },
     {
+     "titulo": "OpenCode confirma invasão e 1,4% do Console vira alvo de destilação - iMasters",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdUNsV3NPb0pNNU00dHhLbVc1LXQzSVdRZEhQTGNXTTRKVlpROXpudkpyY1NRTWVzUlhkX2R5bUhNNWdHbG5vaXJreFJiaTh0aVFIMHNzVTNjempvenhYbXA5LTNvLVVNWGRmSVVuZHpnNmM2aWw3enc5QXV1YXlNckxIVURaV0J1Um84X2pwNGFSVmppd3cyWjNVcC1aQQ?oc=5",
+     "fonte": "iMasters",
+     "data": "2026-10-19"
+    },
+    {
      "titulo": "OpenCode hack exposes API keys amid AI distillation attacks",
      "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks",
      "fonte": "BleepingComputer",
@@ -3206,66 +3212,6 @@
    ]
   },
   {
-   "id": 169,
-   "caso": 137,
-   "titulo": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
-   "papel": "ia_como_ferramenta",
-   "gravidade": 2.0,
-   "divergencia": false,
-   "confirmacao": "oficial",
-   "empresa": "nao_informado",
-   "defasagem": "nao_informado",
-   "pais": "usa",
-   "pais_nome": "Estados Unidos",
-   "numerico": "840",
-   "primeira": "2026-10-31",
-   "ultima": "2026-11-05",
-   "fontes": [
-    {
-     "titulo": "Chainalysis Says AI Agent Attack Leaked Customer Data, Unrelated to Binance Incident - BigGo Finance",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9od0RLWnc1NGJ1NGVVVXdUSUpoQ184eGhPUUthR0tVR2VfLUdsZUl0ZFpJeUJtQlBNQXFqMXpkLWJlTmdxeF9ZWm5NMm9OSVJodmRCczVuYmo1RWtrUzVGdGdia0dqV0tBUGVkN1RRS1VxaXFxdEE?oc=5",
-     "fonte": "BigGo Finance",
-     "data": "2026-10-31"
-    },
-    {
-     "titulo": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
-     "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
-     "fonte": "The Hacker News",
-     "data": "2026-10-31"
-    },
-    {
-     "titulo": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
-     "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques",
-     "fonte": "BleepingComputer",
-     "data": "2026-10-31"
-    },
-    {
-     "titulo": "Chainalysis Data Breach: AI Agents Accessed User Names and Emails - ShiftDelete.Net",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vaFJzT2ZpN1ZYSklvWE9icTVRbUh2YVkwQW1JekMwOUVjbVJsOXdua0owV2p2dTFISFN2cDlBYWd6ckdXTmhfMExVMFJvX2RDMU9iUDNmUGlqWnlDbkhz?oc=5",
-     "fonte": "ShiftDelete.Net",
-     "data": "2026-11-01"
-    },
-    {
-     "titulo": "Chainalysis partly exposes customer data in AI agent hack - 디지털투데이",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYUFoajdyQmluVm54NEJmOGh1eDA5dGlQdDdIYjkxREVoMzlmbm93b0FJZnFRLXNJVXh2UUszSWxIMVB0UWYzTEU1dG40Qm56cFZEVlRmUHFpV2Z1Tlk5dGpNMTNINm5jVGY3dTdhczBHemt6YVZiT0ZQWkYwWk4xR3UxaEJHSVpNbE1RZ0tRZ0NlUjZuMll2RG53OEE4NXNOQ2JrVi1R?oc=5",
-     "fonte": "디지털투데이",
-     "data": "2026-11-01"
-    },
-    {
-     "titulo": "Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques",
-     "url": "https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack",
-     "fonte": "The Record",
-     "data": "2026-11-05"
-    },
-    {
-     "titulo": "October crypto-tracker hack: Access cracked, law enforcement tokens packed",
-     "url": "https://www.theregister.com/cyber-crime/2026/11/05/october-crypto-tracker-hack-access-cracked-law-enforcement-tokens-packed/5307852",
-     "fonte": "The Register (segurança)",
-     "data": "2026-11-05"
-    }
-   ]
-  },
-  {
    "id": 91,
    "caso": 29,
    "titulo": "A IA acessou ilegalmente dados do governo australiano. - Vietnam.vn",
@@ -3310,6 +3256,72 @@
      "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app",
      "fonte": "BleepingComputer",
      "data": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": 169,
+   "caso": 137,
+   "titulo": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "usa",
+   "pais_nome": "Estados Unidos",
+   "numerico": "840",
+   "primeira": "2026-10-31",
+   "ultima": "2026-11-06",
+   "fontes": [
+    {
+     "titulo": "Chainalysis Says AI Agent Attack Leaked Customer Data, Unrelated to Binance Incident - BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9od0RLWnc1NGJ1NGVVVXdUSUpoQ184eGhPUUthR0tVR2VfLUdsZUl0ZFpJeUJtQlBNQXFqMXpkLWJlTmdxeF9ZWm5NMm9OSVJodmRCczVuYmo1RWtrUzVGdGdia0dqV0tBUGVkN1RRS1VxaXFxdEE?oc=5",
+     "fonte": "BigGo Finance",
+     "data": "2026-10-31"
+    },
+    {
+     "titulo": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+     "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+     "fonte": "The Hacker News",
+     "data": "2026-10-31"
+    },
+    {
+     "titulo": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+     "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques",
+     "fonte": "BleepingComputer",
+     "data": "2026-10-31"
+    },
+    {
+     "titulo": "Chainalysis Data Breach: AI Agents Accessed User Names and Emails - ShiftDelete.Net",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vaFJzT2ZpN1ZYSklvWE9icTVRbUh2YVkwQW1JekMwOUVjbVJsOXdua0owV2p2dTFISFN2cDlBYWd6ckdXTmhfMExVMFJvX2RDMU9iUDNmUGlqWnlDbkhz?oc=5",
+     "fonte": "ShiftDelete.Net",
+     "data": "2026-11-01"
+    },
+    {
+     "titulo": "Chainalysis partly exposes customer data in AI agent hack - 디지털투데이",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYUFoajdyQmluVm54NEJmOGh1eDA5dGlQdDdIYjkxREVoMzlmbm93b0FJZnFRLXNJVXh2UUszSWxIMVB0UWYzTEU1dG40Qm56cFZEVlRmUHFpV2Z1Tlk5dGpNMTNINm5jVGY3dTdhczBHemt6YVZiT0ZQWkYwWk4xR3UxaEJHSVpNbE1RZ0tRZ0NlUjZuMll2RG53OEE4NXNOQ2JrVi1R?oc=5",
+     "fonte": "디지털투데이",
+     "data": "2026-11-01"
+    },
+    {
+     "titulo": "Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques",
+     "url": "https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack",
+     "fonte": "The Record",
+     "data": "2026-11-05"
+    },
+    {
+     "titulo": "October crypto-tracker hack: Access cracked, law enforcement tokens packed",
+     "url": "https://www.theregister.com/cyber-crime/2026/11/05/october-crypto-tracker-hack-access-cracked-law-enforcement-tokens-packed/5307852",
+     "fonte": "The Register (segurança)",
+     "data": "2026-11-05"
+    },
+    {
+     "titulo": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+     "url": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
+     "fonte": "The Hacker News",
+     "data": "2026-11-06"
     }
    ]
   },
