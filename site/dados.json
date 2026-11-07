@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-07T01:17:16+00:00",
+ "gerado_em": "2026-11-07T16:33:04+00:00",
  "totais": {
-  "incidentes": 186,
-  "casos": 130,
-  "noticias": 1252,
+  "incidentes": 188,
+  "casos": 132,
+  "noticias": 1261,
   "repercussoes": 18
  },
  "incidentes": [
@@ -675,6 +675,12 @@
      "titulo": "Chinese State Hackers Used AI Agent 'ARTEX' To Breach Over 2,250 Microsoft 365 Tenants In Hours, Microsoft Says - OfficeChai",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdmcxNVZIRmFUeGhIVFFzbDlDN2ZobkRNbjhmb0x2VlNXRmNkNUlrN0NEaU5paEJWYUtUSG93bGVkNkwzT3U0NTNiOXMwbDhFRFdRejh6cWpWWk5xQ1NTdTN5SE1mVy1pUllrb1dDN0ZvMW9mSEYyZF83bThjUmFDeDlYb1JPUzhxZ2FiZkN5WTBaVVd0czMwc084ZUpVU09EMW5BOVVMZkk1UndvNi1FLTRrel9zTXNlYlR0NWxzYm1PZjM3UV8zRmowVmFicVU?oc=5",
      "fonte": "OfficeChai",
+     "data": "2026-10-22"
+    },
+    {
+     "titulo": "Ataque com IA afeta 2.250 contas em nuvem da Microsoft - Estadão",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcFZWV2dWZE1SbjZ1TTYxV0t3T2d1Ry15a0M3aVZGem14ajB4TzYtWXJ6MTBaVmdrUS1xbERhTklNR1hSSTdZNnZibG1Nd190UlpocDZ5RlBTWUF0MVVadldpNTA4SjNFQlE3d21QZkItTXVtb3VIY3ZQSkVnd3NpenkzSWxIbHJRbDBlVGpIRWJhMlE2TE5rVF90Q0VzMkM5ZE9KVW8tdHXSAa4BQVVfeXFMTXA3dkcxVkRvdUNScjE0N0QwVTVUVEkwMmVoeWdkZlpEY3oxeDctT1JJYW5jOVhIeHJnUjFzMmRBeTd3YXNTRXZJUmNQMVZFMXdiSFFleU4yZFlJeXZjaXlrVWdVMm1paVpPSjdBbjhMNC11UHBWejVSeTV6eGM1YXRyZzg3c1BEYUVNR2Z5XzBRWThIZ21jaGZrMGtCT1pKZGZEQWVhTENVWk8wT1Z3?oc=5",
+     "fonte": "Estadão",
      "data": "2026-10-22"
     },
     {
@@ -2078,6 +2084,30 @@
    ]
   },
   {
+   "id": 187,
+   "caso": 154,
+   "titulo": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+   "papel": "agente_em_producao",
+   "gravidade": 2.6,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "anthropic",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-07",
+   "ultima": "2026-11-07",
+   "fontes": [
+    {
+     "titulo": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+     "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+     "fonte": "The Hacker News",
+     "data": "2026-11-07"
+    }
+   ]
+  },
+  {
    "id": 177,
    "caso": 144,
    "titulo": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
@@ -3244,18 +3274,18 @@
   {
    "id": 183,
    "caso": 150,
-   "titulo": "WorkOS says attacker used ARTEX AI to breach internal sales app",
-   "papel": "ia_como_ferramenta",
+   "titulo": "WorkOS Confirms Data Breach After ARTEX AI Agent Escapes Security Researcher’s Sandbox - GBHackers News",
+   "papel": "agente_em_teste",
    "gravidade": 2.0,
    "divergencia": false,
-   "confirmacao": "imprensa",
+   "confirmacao": "oficial",
    "empresa": "outra",
    "defasagem": "nao_informado",
    "pais": "nao_informado",
    "pais_nome": "País não informado",
    "numerico": null,
    "primeira": "2026-11-03",
-   "ultima": "2026-11-06",
+   "ultima": "2026-11-07",
    "fontes": [
     {
      "titulo": "WorkOS says attacker used ARTEX AI to breach internal sales app",
@@ -3268,6 +3298,30 @@
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTmpmTWZDNXd1QnBxbXk3MDBvNVczQ0I4SWRiSW9kdXVQR0hvelZYblM4ampTY21LdEc2cWh3UV9fTEdkTGZWUXg3OEZKekZyZC1xR1o0NGNsOTdPd2hlWUJQT3Y0QTZseUpRbl9FaVJEaWZaTTJ4cFRkcUdrT0ZIcGgxcVdtNk1jSGluckEwYTBXTWZ3SVpMQ0ZGZkpjRVEybG5jTlJEX19fZkdENVZvaTZ2VGozLW8?oc=5",
      "fonte": "BleepingComputer",
      "data": "2026-11-06"
+    },
+    {
+     "titulo": "ARTEX AI Agent Escapes Research Sandbox and Accesses WorkOS Customer Records - CyberSecurityNews",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91WHM2YjlMMmYwYXo3aHZoNkpSUk1ZN0NtNHNyUXEtMWRDTHFaUjVaT2RoZXExRUZ4a3RDX1g5X3R6MVNiWTZXQmdKTzBtNjhZLXZrLUtza1VuWGVqeS1PS00zSFRlcHdwZ0ViLVJDc9IBdEFVX3lxTE52MFd1cXdLM0lsbUtfNXZ0M3NKMDl3ZkF0QTBzRFNJZ3VlQTY0bGxyR3M4Zm15bURWdktkN0tRN3h0SW5KZFRaLVl6NlFWR3hENW1Wb2Fzb2poZ1RwaVVOWGJFbEpfZmd1cjBULTlzOEx5dkNQ?oc=5",
+     "fonte": "CyberSecurityNews",
+     "data": "2026-11-07"
+    },
+    {
+     "titulo": "ARTEX AI Agent Escapes Security Sandbox and Breaches WorkOS, Exposing Customer Data - Cyber Press",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55cFNialdRN1ZHRE1TdHp6VkFsOVY2NWloTXJFeTgyRURIb2FjcUJxTnMzQlZiUC1ZWERmeUhvcW5RcWlPUXNoRkNBdnlXbWNwQU1fQjlGZ2dlbmJUWDR1eEV5c3N3d9IBZkFVX3lxTE55cFNialdRN1ZHRE1TdHp6VkFsOVY2NWloTXJFeTgyRURIb2FjcUJxTnMzQlZiUC1ZWERmeUhvcW5RcWlPUXNoRkNBdnlXbWNwQU1fQjlGZ2dlbmJUWDR1eEV5c3N3dw?oc=5",
+     "fonte": "Cyber Press",
+     "data": "2026-11-07"
+    },
+    {
+     "titulo": "WorkOS Confirms Data Breach After ARTEX AI Agent Escapes Security Researcher’s Sandbox - GBHackers News",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEc25qbXRTZHZrT3N1UVFsSlBGV0owTlBFeTlMNnktc0JMdVRrSTBleWNLYTNsU3ptdF9jVFUxX1N0aWJUSUsweG16VG9Pdl93ZzJlMTNCd1BUcmpoYnM40gFkQVVfeXFMUFFEODE4QnVMVHF4UDVtWTJ5RUZ6dkEwTU1kRmJzeUVJTVFxcTdMQ0JWb2pXTF9vd0JkaUpRWlBIVnFhaTNIVnBKdlN2cThfdFA3d29GSlROeHZUXzBWTWhmel9mSw?oc=5",
+     "fonte": "GBHackers News",
+     "data": "2026-11-07"
+    },
+    {
+     "titulo": "A runaway AI hacking agent escaped its sandbox and breached WorkOS - Martin Cid Magazine",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRlFiMmJ6dTdCRGk3bEljVldyQ1YwS05QMjQ5S3FidTMwMmhZV1ctMi1ZNWlkbFZ2ZnYyLXpTRXFvMjlvUG1LazhkR0dOYWRWWlVpMUhRUFZVa1A5RmxSeHo3Y214d2pBbXA3dFJCM2c4MktqbE9PTFFVczQ1WlZuWnc1QVFCcUpTQlpvNVhkMjBjam5WOFl2Sw?oc=5",
+     "fonte": "Martin Cid Magazine",
+     "data": "2026-11-07"
     }
    ]
   },
@@ -6088,6 +6142,30 @@
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNWctcGt0Nll6Q1AxTXdQdm9QbGRIell1dUZmeUxpSGRqeE5BTWlVS3NkeV9jeEpsUmpESkoxYURqbDBiRVpyT0puZ2gzVHBuWjRJSW1HOTVkZlJaNXktd2JqY1BXN2JtUGVjSHo5blNBSkRvUVZZdzVTaHRQRHQtdF9BSm9ZaVplYXNwVEJ2N2s5Q0RLMmJlQ2JjTGtTc2hKMFFqZTQtOE9lc1p3bjZsNVVwbTJPNDNyNU1ZUVB3?oc=5",
      "fonte": "The Washington Post",
      "data": "2026-09-18"
+    }
+   ]
+  },
+  {
+   "id": 188,
+   "caso": 155,
+   "titulo": "WorkOS revela que ataque com agente de IA partiu de um erro acidental - TugaTech",
+   "papel": "agente_em_producao",
+   "gravidade": 1.0,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-07",
+   "ultima": "2026-11-07",
+   "fontes": [
+    {
+     "titulo": "WorkOS revela que ataque com agente de IA partiu de um erro acidental - TugaTech",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd2wwSkUwa1hwYldQdlQxTkYzVThZM2NxVDZIbE1PQ0RwQktiYTgyelR6dEE1RlBvYmZXckZNNFJ3ZHVrS09QYzRtNjhjbmpndnBVMWh2Q0xzb2xtRmpiazJNbjI1MWNoU0Q1VGNpOXZmWElwdTdjd1pNY3BaNGgxaU1QWXA2Q3kxZzZXSEVLVUhGV2szbFNjNjZOYWhSSEFXdlE?oc=5",
+     "fonte": "TugaTech",
+     "data": "2026-11-07"
     }
    ]
   },
