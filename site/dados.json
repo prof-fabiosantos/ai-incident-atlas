@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-06T17:35:05+00:00",
+ "gerado_em": "2026-11-07T01:17:16+00:00",
  "totais": {
   "incidentes": 186,
   "casos": 130,
-  "noticias": 1245,
+  "noticias": 1252,
   "repercussoes": 18
  },
  "incidentes": [
@@ -1052,6 +1052,36 @@
    ]
   },
   {
+   "id": 115,
+   "caso": 85,
+   "titulo": "Operação de influência russa tem como alvo generalizado a América Latina",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 3.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "global",
+   "pais_nome": "Vários países",
+   "numerico": null,
+   "primeira": "2026-10-14",
+   "ultima": "2026-11-05",
+   "fontes": [
+    {
+     "titulo": "Russian Influence Operation Widely Targeting Latin America",
+     "url": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
+     "fonte": "Dark Reading",
+     "data": "2026-10-14"
+    },
+    {
+     "titulo": "Operação de influência russa tem como alvo generalizado a América Latina",
+     "url": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina",
+     "fonte": "Dark Reading",
+     "data": "2026-11-05"
+    }
+   ]
+  },
+  {
    "id": 5,
    "caso": 4,
    "titulo": "Hackers Utilizaram Ferramenta de IA da Spacex para Ataque a Sete Empresas - Forbes Brasil",
@@ -1930,30 +1960,6 @@
      "url": "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts",
      "fonte": "Dark Reading",
      "data": "2026-09-28"
-    }
-   ]
-  },
-  {
-   "id": 115,
-   "caso": 85,
-   "titulo": "Russian Influence Operation Widely Targeting Latin America",
-   "papel": "ia_como_ferramenta",
-   "gravidade": 2.7,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "nao_informado",
-   "defasagem": "nao_informado",
-   "pais": "global",
-   "pais_nome": "Vários países",
-   "numerico": null,
-   "primeira": "2026-10-14",
-   "ultima": "2026-10-14",
-   "fontes": [
-    {
-     "titulo": "Russian Influence Operation Widely Targeting Latin America",
-     "url": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
-     "fonte": "Dark Reading",
-     "data": "2026-10-14"
     }
    ]
   },
@@ -3249,13 +3255,19 @@
    "pais_nome": "País não informado",
    "numerico": null,
    "primeira": "2026-11-03",
-   "ultima": "2026-11-03",
+   "ultima": "2026-11-06",
    "fontes": [
     {
      "titulo": "WorkOS says attacker used ARTEX AI to breach internal sales app",
      "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app",
      "fonte": "BleepingComputer",
      "data": "2026-11-03"
+    },
+    {
+     "titulo": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox - BleepingComputer",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTmpmTWZDNXd1QnBxbXk3MDBvNVczQ0I4SWRiSW9kdXVQR0hvelZYblM4ampTY21LdEc2cWh3UV9fTEdkTGZWUXg3OEZKekZyZC1xR1o0NGNsOTdPd2hlWUJQT3Y0QTZseUpRbl9FaVJEaWZaTTJ4cFRkcUdrT0ZIcGgxcVdtNk1jSGluckEwYTBXTWZ3SVpMQ0ZGZkpjRVEybG5jTlJEX19fZkdENVZvaTZ2VGozLW8?oc=5",
+     "fonte": "BleepingComputer",
+     "data": "2026-11-06"
     }
    ]
   },
