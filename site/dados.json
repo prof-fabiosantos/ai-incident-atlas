@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-08T00:55:44+00:00",
+ "gerado_em": "2026-11-08T16:44:12+00:00",
  "totais": {
-  "incidentes": 188,
-  "casos": 132,
-  "noticias": 1264,
+  "incidentes": 189,
+  "casos": 133,
+  "noticias": 1266,
   "repercussoes": 18
  },
  "incidentes": [
@@ -4774,6 +4774,30 @@
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTGlvaFEtX2pNSnFNd2pQTW9hWXpfeVExS3RrWmZkSVU2cWxab3NMdnFxSWliM1ItMjkwcjZWODRxQlhMajM3SVVKMTM1VUJZTERjTGI3S0VWa2xnVDBpQ3hDc19hYlRxOFNlcHJNUWZpM3F2UDg1ZFc1OG8yY29CXzVRcw?oc=5",
      "fonte": "SpaceMoney",
      "data": "2026-09-17"
+    }
+   ]
+  },
+  {
+   "id": 189,
+   "caso": 156,
+   "titulo": "Agente de IA invade sistema de academia para conseguir vaga, diz site - CNN Brasil",
+   "papel": "agente_em_producao",
+   "gravidade": 1.6,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-08",
+   "ultima": "2026-11-08",
+   "fontes": [
+    {
+     "titulo": "Agente de IA invade sistema de academia para conseguir vaga, diz site - CNN Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONGZnREpQNnhGSnZxN2ZOVGhEdzNEbm5Dejkwd2NXeXZSZndLRmdvWHZGN2ZBYlVqQmxiY0xLOGhlWGo0R05OaE1tWUdWbFZreC1OaHJfM1hPblRtNjZNdTN1WEpKWWlqeV9mOWFHTlpyZnJYQ0wzM3hOdE5RRGNtazUwZDEzeVc5Wnc4SFJieWZGb1B3TkpZMHY4TnNBc1NfMmtNMUJhLWg0bTlrRVZNV0lzWEFoRW01amlEMC1PODBYU0hXLVZRTEF2TDRlSTR6TVBv?oc=5",
+     "fonte": "CNN Brasil",
+     "data": "2026-11-08"
     }
    ]
   },
