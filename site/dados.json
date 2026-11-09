@@ -1,12 +1,36 @@
 {
- "gerado_em": "2026-11-09T01:15:15+00:00",
+ "gerado_em": "2026-11-09T20:52:17+00:00",
  "totais": {
-  "incidentes": 189,
-  "casos": 133,
-  "noticias": 1266,
+  "incidentes": 193,
+  "casos": 137,
+  "noticias": 1282,
   "repercussoes": 18
  },
  "incidentes": [
+  {
+   "id": 191,
+   "caso": 158,
+   "titulo": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 3.9,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "outra",
+   "defasagem": "nao_informado",
+   "pais": "twn",
+   "pais_nome": "Taiwan",
+   "numerico": "158",
+   "primeira": "2026-11-09",
+   "ultima": "2026-11-09",
+   "fontes": [
+    {
+     "titulo": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
+     "url": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
+     "fonte": "The Hacker News",
+     "data": "2026-11-09"
+    }
+   ]
+  },
   {
    "id": 111,
    "caso": 82,
@@ -574,6 +598,54 @@
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWS1mVDRqQ094NkozQ1YxckZCNkZGaEk0YWh4cUZ0Ui1fNlBucEI4b3BObEtDY0hFX052RDV1TklEWVhYQjd5MXczVlJ1YW96R1F5OVc2R05oV1pVVDhBQnFhUmVNU2hEWDJianRhejZuSXA3dGZxcnNUSlNIUTRXN3VMZWpuOHZOeXdzb1hoZmVGWDN1SW1kY1FtWTdnN2JDZHJVMm9TNnBTcnM2SlFrNWNZS0hVVEdIdHFJ?oc=5",
      "fonte": "Dinheiro Vivo",
      "data": "2026-10-06"
+    }
+   ]
+  },
+  {
+   "id": 190,
+   "caso": 157,
+   "titulo": "Hackers used DeepSeek AI in massive global cyberattack - Bangkok Post",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 3.5,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "outra",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-09",
+   "ultima": "2026-11-09",
+   "fontes": [
+    {
+     "titulo": "Hackers used DeepSeek AI in massive global cyberattack - Bangkok Post",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbEg1WFo1aHR3dTJoS0tEbFQ5N2V2WkN2R18yVF9qTHdiNmpNRERQX2w3Tm5rYlB3M0ttRnFhZmFIMEdWS3AyWHc3d1JGUXNub0Y1NzFfMGNVcW5MNVRSOEx1bVU5dHluS2VIUFQzODlrRUJNX2RLVThRM0dRSTFET19xYzNEX3luV3MwcWtCYjl4cjU1T2Z2MU1fM3pvVHRuakE?oc=5",
+     "fonte": "Bangkok Post",
+     "data": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": 192,
+   "caso": 159,
+   "titulo": "Jailbroken DeepSeek AI Agent Breaches European Telecom and Accesses Millions of Patient Records - CyberSecurityNews",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 3.3,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "outra",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-09",
+   "ultima": "2026-11-09",
+   "fontes": [
+    {
+     "titulo": "Jailbroken DeepSeek AI Agent Breaches European Telecom and Accesses Millions of Patient Records - CyberSecurityNews",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93U1NlMkh6ZEw3SDZESG1OUWRjQnJSUTZQbUY5MXhIRU9OejdodzhHMUpwMTNfUEJzVW1jaXZad2RscXRqak9kWnVZdEoxUXVoTE1CRHJQNWF0VG1RVkRpN05ja0JhZUdncDhvOGpLOVJCX2wt0gF6QVVfeXFMTk5vOWVFdVh0RkpkTzhvWk55NnJNaVlwbEozQTVCWU1XVlZ6TlNyM2JjYjRJNThwSUR6VFREc3l2alUyU0ZYZ3hwYkJZdzVTbHVZczNzbC1OMXpBcTdnTEJ2OEtMSnRsWUtYQTdKZ1dUY1htU0pIRmpRMmc?oc=5",
+     "fonte": "CyberSecurityNews",
+     "data": "2026-11-09"
     }
    ]
   },
@@ -3285,7 +3357,7 @@
    "pais_nome": "País não informado",
    "numerico": null,
    "primeira": "2026-11-03",
-   "ultima": "2026-11-07",
+   "ultima": "2026-11-09",
    "fontes": [
     {
      "titulo": "WorkOS says attacker used ARTEX AI to breach internal sales app",
@@ -3322,6 +3394,12 @@
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRlFiMmJ6dTdCRGk3bEljVldyQ1YwS05QMjQ5S3FidTMwMmhZV1ctMi1ZNWlkbFZ2ZnYyLXpTRXFvMjlvUG1LazhkR0dOYWRWWlVpMUhRUFZVa1A5RmxSeHo3Y214d2pBbXA3dFJCM2c4MktqbE9PTFFVczQ1WlZuWnc1QVFCcUpTQlpvNVhkMjBjam5WOFl2Sw?oc=5",
      "fonte": "Martin Cid Magazine",
      "data": "2026-11-07"
+    },
+    {
+     "titulo": "WorkOS Confirms Security Breach After AI Agent Escapes Testing Environment - The 420.in",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12enpZS3owcmdidnBVSTY5NVF0am5aYmM4OWtHNEFFek14bDZxZnBKZzE3MTV0ZkNDQWxUd0ZEYlFQdC11bHdtRFc3OHBETVlvQkl6Y1lxR00xT3FpeURmRWdfT0FhQQ?oc=5",
+     "fonte": "The 420.in",
+     "data": "2026-11-09"
     }
    ]
   },
@@ -4120,6 +4198,30 @@
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIaVpQdnlMTGZUenJxZldXeGMxRnRXVFNtNW4zUWt5UEhUZ1JLaEtPN1FpX3FrX1RBSGNkVGRNYWtxcXBmWEJ0dkhnLWQ1ZTNiNHdyOE0wZEFwdC1EQUJWQ0Fn?oc=5",
      "fonte": "ZAP Notícias",
      "data": "2026-09-17"
+    }
+   ]
+  },
+  {
+   "id": 193,
+   "caso": 160,
+   "titulo": "Alleged AI-aided cyberattack exploits assistant interface to breach German web host",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 1.9,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "deu",
+   "pais_nome": "Alemanha",
+   "numerico": "276",
+   "primeira": "2026-11-09",
+   "ultima": "2026-11-09",
+   "fontes": [
+    {
+     "titulo": "Alleged AI-aided cyberattack exploits assistant interface to breach German web host",
+     "url": "https://therecord.media/cyberattack-germany-ai-mittwald",
+     "fonte": "The Record",
+     "data": "2026-11-09"
     }
    ]
   },
@@ -5930,42 +6032,6 @@
    ]
   },
   {
-   "id": 113,
-   "caso": 83,
-   "titulo": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
-   "papel": "ia_como_ferramenta",
-   "gravidade": 1.1,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "openai",
-   "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-10-13",
-   "ultima": "2026-10-19",
-   "fontes": [
-    {
-     "titulo": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
-     "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office",
-     "fonte": "WIRED (segurança)",
-     "data": "2026-10-13"
-    },
-    {
-     "titulo": "OpenAI engineer charged after boardroom bug found wrapped in toilet paper",
-     "url": "https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000",
-     "fonte": "The Register (segurança)",
-     "data": "2026-10-14"
-    },
-    {
-     "titulo": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
-     "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody",
-     "fonte": "WIRED (segurança)",
-     "data": "2026-10-19"
-    }
-   ]
-  },
-  {
    "id": 96,
    "caso": 69,
    "titulo": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
@@ -6052,6 +6118,48 @@
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lbWFQelU3djV4ajlyWTZQNURYSUVtcVF4bFNLUkRla3BVbWpfNFlaUUtGMS1pTWhBRUVRZXhjM3lNZTNwekNteGdGbTlQVGdNeWp5dFd6M3V5eXdheXdsX1pUMA?oc=5",
      "fonte": "BBC",
      "data": "2026-09-26"
+    }
+   ]
+  },
+  {
+   "id": 113,
+   "caso": 83,
+   "titulo": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+   "papel": "desdobramento",
+   "gravidade": 1.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "mesmo_mes",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-10-13",
+   "ultima": "2026-11-09",
+   "fontes": [
+    {
+     "titulo": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+     "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office",
+     "fonte": "WIRED (segurança)",
+     "data": "2026-10-13"
+    },
+    {
+     "titulo": "OpenAI engineer charged after boardroom bug found wrapped in toilet paper",
+     "url": "https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000",
+     "fonte": "The Register (segurança)",
+     "data": "2026-10-14"
+    },
+    {
+     "titulo": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+     "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody",
+     "fonte": "WIRED (segurança)",
+     "data": "2026-10-19"
+    },
+    {
+     "titulo": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+     "url": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+     "fonte": "The Hacker News",
+     "data": "2026-11-09"
     }
    ]
   },
