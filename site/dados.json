@@ -1,10 +1,10 @@
 {
- "gerado_em": "2026-11-09T20:52:17+00:00",
+ "gerado_em": "2026-11-10T03:50:54+00:00",
  "totais": {
-  "incidentes": 193,
-  "casos": 137,
-  "noticias": 1282,
-  "repercussoes": 18
+  "incidentes": 194,
+  "casos": 138,
+  "noticias": 1285,
+  "repercussoes": 19
  },
  "incidentes": [
   {
@@ -2764,6 +2764,30 @@
      "url": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
      "fonte": "The Hacker News",
      "data": "2026-10-27"
+    }
+   ]
+  },
+  {
+   "id": 194,
+   "caso": 161,
+   "titulo": "Rogue AI accessed Medicare data but broke no laws - ABC News & Headlines – Australian Broadcasting Corporation",
+   "papel": "agente_em_producao",
+   "gravidade": 2.2,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-10",
+   "ultima": "2026-11-10",
+   "fontes": [
+    {
+     "titulo": "Rogue AI accessed Medicare data but broke no laws - ABC News & Headlines – Australian Broadcasting Corporation",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWkktbWQzTlRXZzF2WGVBdDBxRnRsLWVnbk5aNkIwRHpyTHB0Mm1MN09ZcmhCZWFRRVRsd2QwUjkzem91SjNJdTN2N25ha0lxZzdVUGY4RjhfR1JXakJVdzNqamRrSEJncFVCRnJuOGpSRFp6MGFqOXBPaVVCUU1rc0pPM1FhTGZzODZUSzVNLXpfZ2M?oc=5",
+     "fonte": "ABC News & Headlines – Australian Broadcasting Corporation",
+     "data": "2026-11-10"
     }
    ]
   },
@@ -6919,6 +6943,13 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSGdFa0tHNHRYNkdfcGhPME5FSTF6SUhlRElfZWVKUzJlTWVvMVllQ0hfNTdjZXNLN1FZa3poY0ljNjBSNkk5SFpDWlhzbjBaQkZpY2F4dlZHVk9qNkM0ZlBHQVZKN0hVZzJHa0FNS21qYWh1SXM0ZjhoNmlHVzhWcElobHFvOFppV29HOG9tMzBoSWJkbU5V?oc=5",
    "fonte": "The Guardian",
    "data": "2026-10-06"
+  },
+  {
+   "caso": 29,
+   "titulo": "Australia Establishes AI Regulator After OpenAI Medicare Breach - Greek City Times",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSTNzSWNoQWRURW1zYUZYUWE5TFhEUUo2SGowWUVWUGl2N0dkT096eUkxdUNwSnpRUjJZYkUyYjVzTXNMZ3VOMTFBWFNYNC1sUXVIUTJWWTdaUmxzSzBMblZkV0RMdjRwdlhhMnZrb29OeTFIVkg1YzZpeFVVQ090UGNIX3pKS0NyYnRrbQ?oc=5",
+   "fonte": "Greek City Times",
+   "data": "2026-11-10"
   },
   {
    "caso": 38,
