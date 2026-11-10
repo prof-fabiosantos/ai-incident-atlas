@@ -1,10 +1,10 @@
 {
- "gerado_em": "2026-11-10T03:50:54+00:00",
+ "gerado_em": "2026-11-10T17:59:06+00:00",
  "totais": {
-  "incidentes": 194,
-  "casos": 138,
-  "noticias": 1285,
-  "repercussoes": 19
+  "incidentes": 199,
+  "casos": 141,
+  "noticias": 1311,
+  "repercussoes": 29
  },
  "incidentes": [
   {
@@ -1048,6 +1048,30 @@
      "url": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
      "fonte": "NPR",
      "data": "2026-08-01"
+    }
+   ]
+  },
+  {
+   "id": 198,
+   "caso": 83,
+   "titulo": "Australia Eyes Criminal Law Reforms After OpenAI Agent’s Shocking Government Website Breach – Here’s What We Know - The Sunday Guardian",
+   "papel": "agente_em_producao",
+   "gravidade": 3.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-10",
+   "ultima": "2026-11-10",
+   "fontes": [
+    {
+     "titulo": "Australia Eyes Criminal Law Reforms After OpenAI Agent’s Shocking Government Website Breach – Here’s What We Know - The Sunday Guardian",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNckhmWGxTdXZMczZtcG1LbkU5cmp1RGtxRnE5TXJqWlB1VjE1blIzQjFsSTF5SUxVOWtEcmJsTk1qZ1ZIZ3hMemVJUEF2OWpOenlEa2FNdGJBeXY0RWFoOXhETHlIWHJHbGN0R0tMZ19wVlI0eWd6SzRvQ2RCckdNYkN0M3BJdHFkbEw2OE9LWFl4V2h3aTJfYlVhRGc5Y3VlOEtJZVB4R2NwYWNwRENLVmpfMG9sT05iWjY3d1dWZ1lIdUJMS0hxcU1OelNoeFFTTjhHUHNhc1pYSGVaZG5SMjdXTmlobFVCRWfSAe8BQVVfeXFMT1RvaXY2ck8tRlhoRzd0NzBVV1NjTkVsXzlVRmhfMVo5aDlPMFZ6Y3MzSnlBdU5oT0FMMzg4cnM3QjU2bkExNUdiYkFDR0tWUjNfbkFaVVNSZ2lSSlpCbVVoUlY3TXhEaWpNR20taVhOZFNUWFlNWk9BVXNTcWxDWHE5RVhVQy14VEF3RTdlU0plMlZDb0RiajRNOXNqNjYxajFCSlNwd28teXg3SHFEYVRPa3pySjJaM2JSVWt3SlljaU5hTkowWFY1UXcyRnoxRWRBQl9OaEtjajNjU0tVUTl4LVJhSHF1U1hKRzZqbWc?oc=5",
+     "fonte": "The Sunday Guardian",
+     "data": "2026-11-10"
     }
    ]
   },
@@ -2234,6 +2258,30 @@
    ]
   },
   {
+   "id": 197,
+   "caso": 162,
+   "titulo": "Fireworks AI: vazamento afeta Notion AI e workspaces - iMasters",
+   "papel": "ataque_a_ia",
+   "gravidade": 2.5,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "outra",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-10",
+   "ultima": "2026-11-10",
+   "fontes": [
+    {
+     "titulo": "Fireworks AI: vazamento afeta Notion AI e workspaces - iMasters",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ21MdWUzbTgwMnF3WDh1dXNmMTR6VUprZmdvZ3J3SFVxdlh4UnJLNUdfdU4tbENncFBnZHpVSGJncHludTIxcjNSNlBuNDhTQ3VwNGI0NzJiLUs3ZTVhVktnd20zajhBOG1qQkdvSzVNRXhMRzNsTGhRVkxFSlNTVnVqLUdnNF9wZWtfWnJRdEJ2NjBwUWJkVHZtbW5fM0RuRUstdkVzdWlkVk0?oc=5",
+     "fonte": "iMasters",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
    "id": 122,
    "caso": 92,
    "titulo": "OpenAI discloses four more rogue incidents involving financial, medical, and government data - Fortune",
@@ -3368,6 +3416,60 @@
    ]
   },
   {
+   "id": 199,
+   "caso": 165,
+   "titulo": "AI company Fireworks says hackers stole data, billing info during October breaches",
+   "papel": "ataque_a_ia",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "outra",
+   "defasagem": "mesmo_mes",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-10",
+   "ultima": "2026-11-10",
+   "fontes": [
+    {
+     "titulo": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+     "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
+     "fonte": "The Hacker News",
+     "data": "2026-11-10"
+    },
+    {
+     "titulo": "AI company Fireworks says hackers stole data, billing info during October breaches",
+     "url": "https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks",
+     "fonte": "The Record",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": 196,
+   "caso": 163,
+   "titulo": "NEAR AI Confirms Breach Exposed User Data & Access to 18 AI Agents - The Crypto Times",
+   "papel": "ataque_a_ia",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "outra",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-10",
+   "ultima": "2026-11-10",
+   "fontes": [
+    {
+     "titulo": "NEAR AI Confirms Breach Exposed User Data & Access to 18 AI Agents - The Crypto Times",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTzhzSXBoM3BseE5EQUxOSktKaWYzYkFTVzJkNm9COGEwVVJlbEI0bGdfVEc2MUNzOWU3VWVFa2k3dnZKLUFJbFJwODc3UGRleFV4aUdpU2lLRDhieTRhQVRVcVppR0UwTVV3YWIzdklmX1NnMTJyMFlrYWw0QktoVjUyMExkQkRaRUZkM2ZfUE1TaEdwZmN3SWNRcE00YnlaYjFfU3B2ek15ZlU?oc=5",
+     "fonte": "The Crypto Times",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
    "id": 183,
    "caso": 150,
    "titulo": "WorkOS Confirms Data Breach After ARTEX AI Agent Escapes Security Researcher’s Sandbox - GBHackers News",
@@ -3514,6 +3616,12 @@
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSmZ6aThuUEdUWkFrM3dxdFVSREFhSldqbVRibGJCMnBPWklNRmRCa3FRZUJWMUFoNzhpdUdwb1JMMzQzV25jVzZZTnNoc1NtU1JKLXpadUZaWmEyaWZMSnZ5YW9KSzBNNVhVOW8tMVJRcHVXQTJiZ2Vxc280T1N6WlVXZ0c1NHF0QlNsMjExUDdfMlhoR0ZqZS05Zmw0VkpOdHRPQmppZ2Z5bHlOZ0ZwNVZB?oc=5",
      "fonte": "BleepingComputer",
      "data": "2026-10-27"
+    },
+    {
+     "titulo": "Warp discloses breach exposing AI agent logs, telemetry data - TechGig",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRWYyTDQ3V1g0WUhMcVJSdkh4ekE5aEtJZVdaSjdBeFFocm9CM01QalpIdC1WcmlQRzc4ektiMXJPZUJuNVMwbmpSM0Jic1pTZEdjeFRmNXFyU09KUm1Md2tDUHhiZlVZMkVuOFlPYTZOS0RsOGQ3TWVvWFJrb2dJcFQwR1FaY3VJLXpNXzU4ZzFxMExKVEdHLXYwWnVZdnhUNzByX1d0TEtvY0VX0gGyAUFVX3lxTFAyZjN3eGlZR05HdC1UOXRaelhaeWUyN3U2dzNhekQ0QnI3Vm55bHdBQmZ0aW9XT1Y1R0J3NVIwbEg5bll3SnFoUW9Cbjl6Yk5vU1lPOGtWYy00Z01Oc1hIVmRKckF5NUpabEJ4ajNFWk8zcW9HbjFadU5qbG9Da2FSZ0lSbEluV0lpSTZqdWFROFFXdXdvLTJmVG5lQ1pFRFdTRHJLX24zTzNENjFyaldxNWc?oc=5",
+     "fonte": "TechGig",
+     "data": "2026-10-28"
     },
     {
      "titulo": "Warp discloses a third-party vendor breach that exposed AI agent decision logs and user telemetry - OrcaRouter",
@@ -4226,6 +4334,78 @@
    ]
   },
   {
+   "id": 18,
+   "caso": 2,
+   "titulo": "How OpenAI's AI Agents Escaped a Sandbox and Breached Hugging Face - HackerNoon",
+   "papel": "agente_em_teste",
+   "gravidade": 1.9,
+   "divergencia": true,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-09-12",
+   "ultima": "2026-10-19",
+   "fontes": [
+    {
+     "titulo": "OpenAI’s rogue AI tried to hack another company in May - The Verge",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0FvUEg5MVowVmJDQzhCTHB5YnMwNVo1ZzhoYUJzcWpISGRhTl9hQWRzR25XNEluY1FZV0VyQ1NTOTVIMGljU3V2NmZ2ckNGTkZPNDlBRC1hSlM1VHJZZWF0R3NDVEwyTW1xWm9QbXA4QVk5X1g0b2hFQzVZN1NmZk5ZdS1HbkxNeWlQZlJ3bTVTazQ?oc=5",
+     "fonte": "The Verge",
+     "data": "2026-09-12"
+    },
+    {
+     "titulo": "Treasury chief says AI bosses, not their bots, will carry the can for criminal acts",
+     "url": "https://www.theregister.com/security/2026/09/21/treasury-chief-says-ai-bosses-not-their-bots-will-carry-the-can-for-criminal-acts/5297965",
+     "fonte": "The Register (segurança)",
+     "data": "2026-09-21"
+    },
+    {
+     "titulo": "OpenAI Gets Sued Over the Hugging Face Hack",
+     "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack",
+     "fonte": "WIRED (segurança)",
+     "data": "2026-09-29"
+    },
+    {
+     "titulo": "OpenAI hit with landmark lawsuit following Hugging Face hack - Axios",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51dmdLSEl6NmNpYzhnSW1SeVBBMTZRcmFtVkpKUUltTV9TbllGS0N3cU1hSkRETmdJd0JqenIxeG5XaElGUmhlLV9aLWhjX2t5aW5vZng2OWRzUk5XMWRkcUVnanlwR2p0U2JtREYtZVppZw?oc=5",
+     "fonte": "Axios",
+     "data": "2026-09-29"
+    },
+    {
+     "titulo": "OpenAI Faces First Lawsuit Over Rogue AI Agents That Hacked Hugging Face - Gizmodo",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN1FLS3NqQUZnTXRpQ29sMWdzek9YSUZaQlh3eW9ReEx6VnB4Y3hHeTZDbWhVdGpJRU1xbWNCZUVqV2dxb0ttaWN5VGczTHRUR18wSjhodFY0cm0xN2tJN3JEeTVNWW9MZzh1YlB6VWFSV21sbDdTS09aaVlCUTRHUTI0VWdLX3EwTXA5NGEtNEh1RVE0bGN0djgwMFAyLTdzaExWUWp3?oc=5",
+     "fonte": "Gizmodo",
+     "data": "2026-09-30"
+    },
+    {
+     "titulo": "OpenAI sued over 700-agent AI hack of Hugging Face - YourStory.com",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tdUhnNW9zSkwxSm1WSTNIeHl2MFVfcTVTcTRqZVBfWExFTk0tWjRaR3FucjIyeDFWbU9wenpxZzNZQkR2LUpma1N4NzRFellwUjkyMXIwcGIzMzQ4dUhZTXJYZmFOMVRlTkVzenpsa280cHR6YVZoZQ?oc=5",
+     "fonte": "YourStory.com",
+     "data": "2026-10-01"
+    },
+    {
+     "titulo": "When the software acts on its own. What the OpenAI v Hugging Face incident means for your company - Stibbe",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbWg5bHFUUnd0cWg4dm1qbEZvbVRtSmVhUUdPd0Fyc1ZSMGREMFFxak5JbDBlQnBQMklHUXNKQzVaWEFfWkZVeTkyTzhiaUs5dXBoMjBudGpJa0g4X0tST0p5STVlbGJEYThnOUFVcVQwcmtnUHpndWtkSkRKaDFBZDhHbUtNc3F1VHhUNEdTTjFsNTNzeUx5Q2hhY09uMHByeHpUQ3V6NF8zLWw4cGRvZTF6N2ZNVF94MzNuXzJZUQ?oc=5",
+     "fonte": "Stibbe",
+     "data": "2026-10-06"
+    },
+    {
+     "titulo": "A timeline of developments in AI safety since the attack on Hugging Face - ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa2ZtZjBGNWdEaEFHNjFJVFk4TzJpQXhvNVk3a0NLNGd5R0dEZGc2dWUzUzZRZlc0cEJQMThKWG5GTmpnVGRrZkJEQzB0RUN1a0NzUUlKNWM1emVhVUJYTENCbmVWSnNQaUsyWWh1c18zZTJUWV9PWXJTbFkwN2RjMlZWMktpSE81OWdtcmxxZXdOTzhiMnhWNzJVVHQ3TjRSNTRub9IBqgFBVV95cUxOS09xaGVqVnc5SjdxbXBLdGhOZXc2N2ZtbkNLYUdqNzBoLXNlN2tIVHFxOGxzLS1jTEltbDlNYzF5Rzd0RURrU1hneW1sM2R1U3Vkelo4Q01PMUhGWXZORGhsajllV2RQYmxJTUpSVTZJMnlSUUtUWGMzbUhneGhLR3dKNER0SmdBYWplaXd6U09UVXNkanMzWHYyNTlQd3FVT3RCOWJjQUJLdw?oc=5",
+     "fonte": "ABC News - Breaking News, Latest News and Videos",
+     "data": "2026-10-10"
+    },
+    {
+     "titulo": "How OpenAI's AI Agents Escaped a Sandbox and Breached Hugging Face - HackerNoon",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeWIwSzFwcVhWZEswcTR6cDNzTlNnSnlUYU9CWm82WnZPdGdSUHNjTXBIQ3BxUXVjQ18wYnA2VlZkd3JJRFI4aVFySjY4aU9ZdHVQLVhfZmNGWHFwRnJJN29Gb0VpcE5FdTZLaUZ2V0JLckhYcGhOc1NUM3pwcjRMRm5oN2pwQ19ZV3BnMGpmZmEyQQ?oc=5",
+     "fonte": "HackerNoon",
+     "data": "2026-10-19"
+    }
+   ]
+  },
+  {
    "id": 193,
    "caso": 160,
    "titulo": "Alleged AI-aided cyberattack exploits assistant interface to breach German web host",
@@ -4544,72 +4724,6 @@
    ]
   },
   {
-   "id": 18,
-   "caso": 2,
-   "titulo": "OpenAI sued over 700-agent AI hack of Hugging Face - YourStory.com",
-   "papel": "desdobramento",
-   "gravidade": 1.8,
-   "divergencia": true,
-   "confirmacao": "imprensa",
-   "empresa": "openai",
-   "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-09-12",
-   "ultima": "2026-10-10",
-   "fontes": [
-    {
-     "titulo": "OpenAI’s rogue AI tried to hack another company in May - The Verge",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0FvUEg5MVowVmJDQzhCTHB5YnMwNVo1ZzhoYUJzcWpISGRhTl9hQWRzR25XNEluY1FZV0VyQ1NTOTVIMGljU3V2NmZ2ckNGTkZPNDlBRC1hSlM1VHJZZWF0R3NDVEwyTW1xWm9QbXA4QVk5X1g0b2hFQzVZN1NmZk5ZdS1HbkxNeWlQZlJ3bTVTazQ?oc=5",
-     "fonte": "The Verge",
-     "data": "2026-09-12"
-    },
-    {
-     "titulo": "Treasury chief says AI bosses, not their bots, will carry the can for criminal acts",
-     "url": "https://www.theregister.com/security/2026/09/21/treasury-chief-says-ai-bosses-not-their-bots-will-carry-the-can-for-criminal-acts/5297965",
-     "fonte": "The Register (segurança)",
-     "data": "2026-09-21"
-    },
-    {
-     "titulo": "OpenAI Gets Sued Over the Hugging Face Hack",
-     "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack",
-     "fonte": "WIRED (segurança)",
-     "data": "2026-09-29"
-    },
-    {
-     "titulo": "OpenAI hit with landmark lawsuit following Hugging Face hack - Axios",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51dmdLSEl6NmNpYzhnSW1SeVBBMTZRcmFtVkpKUUltTV9TbllGS0N3cU1hSkRETmdJd0JqenIxeG5XaElGUmhlLV9aLWhjX2t5aW5vZng2OWRzUk5XMWRkcUVnanlwR2p0U2JtREYtZVppZw?oc=5",
-     "fonte": "Axios",
-     "data": "2026-09-29"
-    },
-    {
-     "titulo": "OpenAI Faces First Lawsuit Over Rogue AI Agents That Hacked Hugging Face - Gizmodo",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN1FLS3NqQUZnTXRpQ29sMWdzek9YSUZaQlh3eW9ReEx6VnB4Y3hHeTZDbWhVdGpJRU1xbWNCZUVqV2dxb0ttaWN5VGczTHRUR18wSjhodFY0cm0xN2tJN3JEeTVNWW9MZzh1YlB6VWFSV21sbDdTS09aaVlCUTRHUTI0VWdLX3EwTXA5NGEtNEh1RVE0bGN0djgwMFAyLTdzaExWUWp3?oc=5",
-     "fonte": "Gizmodo",
-     "data": "2026-09-30"
-    },
-    {
-     "titulo": "OpenAI sued over 700-agent AI hack of Hugging Face - YourStory.com",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tdUhnNW9zSkwxSm1WSTNIeHl2MFVfcTVTcTRqZVBfWExFTk0tWjRaR3FucjIyeDFWbU9wenpxZzNZQkR2LUpma1N4NzRFellwUjkyMXIwcGIzMzQ4dUhZTXJYZmFOMVRlTkVzenpsa280cHR6YVZoZQ?oc=5",
-     "fonte": "YourStory.com",
-     "data": "2026-10-01"
-    },
-    {
-     "titulo": "When the software acts on its own. What the OpenAI v Hugging Face incident means for your company - Stibbe",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbWg5bHFUUnd0cWg4dm1qbEZvbVRtSmVhUUdPd0Fyc1ZSMGREMFFxak5JbDBlQnBQMklHUXNKQzVaWEFfWkZVeTkyTzhiaUs5dXBoMjBudGpJa0g4X0tST0p5STVlbGJEYThnOUFVcVQwcmtnUHpndWtkSkRKaDFBZDhHbUtNc3F1VHhUNEdTTjFsNTNzeUx5Q2hhY09uMHByeHpUQ3V6NF8zLWw4cGRvZTF6N2ZNVF94MzNuXzJZUQ?oc=5",
-     "fonte": "Stibbe",
-     "data": "2026-10-06"
-    },
-    {
-     "titulo": "A timeline of developments in AI safety since the attack on Hugging Face - ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa2ZtZjBGNWdEaEFHNjFJVFk4TzJpQXhvNVk3a0NLNGd5R0dEZGc2dWUzUzZRZlc0cEJQMThKWG5GTmpnVGRrZkJEQzB0RUN1a0NzUUlKNWM1emVhVUJYTENCbmVWSnNQaUsyWWh1c18zZTJUWV9PWXJTbFkwN2RjMlZWMktpSE81OWdtcmxxZXdOTzhiMnhWNzJVVHQ3TjRSNTRub9IBqgFBVV95cUxOS09xaGVqVnc5SjdxbXBLdGhOZXc2N2ZtbkNLYUdqNzBoLXNlN2tIVHFxOGxzLS1jTEltbDlNYzF5Rzd0RURrU1hneW1sM2R1U3Vkelo4Q01PMUhGWXZORGhsajllV2RQYmxJTUpSVTZJMnlSUUtUWGMzbUhneGhLR3dKNER0SmdBYWplaXd6U09UVXNkanMzWHYyNTlQd3FVT3RCOWJjQUJLdw?oc=5",
-     "fonte": "ABC News - Breaking News, Latest News and Videos",
-     "data": "2026-10-10"
-    }
-   ]
-  },
-  {
    "id": 76,
    "caso": 21,
    "titulo": "EUA abrem investigação inédita sobre OpenAI e Anthropic após agentes de IA invadirem sistemas - G1",
@@ -4732,6 +4846,36 @@
      "url": "https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517",
      "fonte": "The Register (segurança)",
      "data": "2026-09-18"
+    }
+   ]
+  },
+  {
+   "id": 195,
+   "caso": 162,
+   "titulo": "Fireworks AI discloses new breach after cloud provider hack",
+   "papel": "ataque_a_ia",
+   "gravidade": 1.8,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "outra",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-10",
+   "ultima": "2026-11-10",
+   "fontes": [
+    {
+     "titulo": "Fireworks AI discloses new breach after cloud provider hack",
+     "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack",
+     "fonte": "BleepingComputer",
+     "data": "2026-11-10"
+    },
+    {
+     "titulo": "Fireworks AI gets burned twice as customer data exposure widens",
+     "url": "https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722",
+     "fonte": "The Register (segurança)",
+     "data": "2026-11-10"
     }
    ]
   },
@@ -6946,9 +7090,37 @@
   },
   {
    "caso": 29,
+   "titulo": "Australia to mandate AI breach reporting, create regulator after OpenAI breach - AOL.co.uk",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUklsSkQtWTJiYkF3Tks4Q25BM1hlcE5LYjdQd25FUXlIb0cwSzNFYlFLaHlybk5zMlNoV3V3ZjVhRWE5a09xNVVuMkRELTdaRDdzYUtSLVJQQThCemphNGtpbFlwQ2pON21SNjlraDNVUllTdHI2MEcxWEpoVEY5RmJ1c1JmOGQySjIw?oc=5",
+   "fonte": "AOL.co.uk",
+   "data": "2026-11-10"
+  },
+  {
+   "caso": 29,
    "titulo": "Australia Establishes AI Regulator After OpenAI Medicare Breach - Greek City Times",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSTNzSWNoQWRURW1zYUZYUWE5TFhEUUo2SGowWUVWUGl2N0dkT096eUkxdUNwSnpRUjJZYkUyYjVzTXNMZ3VOMTFBWFNYNC1sUXVIUTJWWTdaUmxzSzBMblZkV0RMdjRwdlhhMnZrb29OeTFIVkg1YzZpeFVVQ090UGNIX3pKS0NyYnRrbQ?oc=5",
    "fonte": "Greek City Times",
+   "data": "2026-11-10"
+  },
+  {
+   "caso": 29,
+   "titulo": "Australia to mandate AI breach reporting, set up regulator after OpenAI agent breach - investingLive",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeEo0Qk9wTUdmNGg2RW9CRmx4OXNQc3I0RkszVnJHX0tEZ2xZb0ZaZHctY3ZtcGZZQ1dqbGMwUmxVdURyd2JpU0U4aXlUUTVjTlBDVThEeHNFbF94MU4wN0VGcXp1OTRwLTBldEE2QlJaSkozV0VmTEhRTURpQm9pV1pWNU1PNDVIaFpHTzdCRkQzamFmWUtNWlhMSVo1NlZVY2U5aU0tQjRnUDhGcDFpS1lyV0ZaaWRn?oc=5",
+   "fonte": "investingLive",
+   "data": "2026-11-10"
+  },
+  {
+   "caso": 29,
+   "titulo": "Tougher standards for AI floated after Medicare breach - St George & Sutherland Shire Leader",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPclN5Sm91WmtoSUNOZ3Y0ZGVlWmZtWkdVek80bTI0NzgydGI0ZW03NlZZWGJvWEpGa2pqRWFIOHRQOHZoX00yMnB3WklnQlRhZ3N0ZEw1TWc4c3E4Sl91Skgzd05HNncxc2s4ZU9UUHllT2xYMm1Od05vOVVNWTdta3BEb0pxcXFYYU1sVVljYWwwdm5rb0duY3ZTek5id1E?oc=5",
+   "fonte": "St George & Sutherland Shire Leader",
+   "data": "2026-11-10"
+  },
+  {
+   "caso": 29,
+   "titulo": "Australia Plans AI Regulator: 18 Fixes After OpenAI [2026] - shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMDhBNHY3VTZxV2d1SUZ1eTQ3M3BVTi0wb2ppUG13LTkxMHM1YWJKd3k2WHpiWE1hYktIVG5GdlNrZHExZlczM0RMcFNRY3VSQnhublRiNjVRZ29nV1ZRSlAtcm5SeEMyUnJVMnIxeFpBc2ptZjd2WFRjSi1neTl5Qi1JajJKR0dQQmdtb0FpQlFTQU0?oc=5",
+   "fonte": "shattered.io",
    "data": "2026-11-10"
   },
   {
@@ -6957,6 +7129,48 @@
    "url": "https://www.theregister.com/ai-and-ml/2026/10/02/openais-wandering-ai-agents-earn-it-a-california-subpoena/5300850",
    "fonte": "The Register (segurança)",
    "data": "2026-10-02"
+  },
+  {
+   "caso": 83,
+   "titulo": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack - AOL.co.uk",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdDJkcVQ5M1JINDEwMlRMb1MxOVM5WlR1YWVPR3dHSERxWmktdktoOXZvUG81am5JNEl2SUt3QjNHS1Y2ZmNyWFMxRE9yNkVrZV9YRGkzTjhiOHdkYXpRMll6a2hzZlU5ODE3Y3JONksyeU1FU1AyOUdTMllHczZxamxMMEQwSVZ6TGc1eXBCdFhHVTlu?oc=5",
+   "fonte": "AOL.co.uk",
+   "data": "2026-11-10"
+  },
+  {
+   "caso": 83,
+   "titulo": "Australia to introduce mandatory AI safety rules following security breach involving OpenAI agent - The Copenhagen Post",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc1RXQ0dLZXlVTzVvX2ZFSDhBMWJSbG13cWg5Yk1wVllGRUNzMEdySmlVb0NfOWtUMXk2UFhDc19uTzJZQWw4a1N4SEkxR0R0RWIzUk9SOFhhNUdfYU96M2RiSWdkOXVIdnZxN0Y2cmxONUFuQnVwSm9FWlNFTDVwM2RnTkh5OXVEV0VDV2JGeGp0dnpFU19TU0l5ZjkzZzFMazI4V0g5NzZlaTZ4cWdHYjNWYzZKMW0zaXk4bDlWc1ZOdXNzUDk0T3NwOEc3U0o2TXc?oc=5",
+   "fonte": "The Copenhagen Post",
+   "data": "2026-11-10"
+  },
+  {
+   "caso": 83,
+   "titulo": "Australia Introduce Mandatory Reporting for AI Firms After OpenAI Breach - JournalArta",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzNxSjcwbTE2bmdXdWtFdkFVVTVsRmVaUEJhOGxTbVdOUVVqQUhSZElpZ1FxaU80UUdoYTk5SXB1ZndZcGpNVUptWnF3VWdKeUtlYXRpcDdaNC1EUGt6dUQ4ZEQ2UTJaVEtybXpGZ3NnSDZ6UXk0MkFWQl9qQTJFS2E0aUl3Ujc4bXVhbnpMY0ZJdG5DeW1JVzRCMA?oc=5",
+   "fonte": "JournalArta",
+   "data": "2026-11-10"
+  },
+  {
+   "caso": 83,
+   "titulo": "Australia To Create AI Safety Regulator, Impose Penalties After OpenAI Breach - Times Now",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUHBjcG9neFBDVFBCSXNkdHJXUTlobHBUSmlXeTh3R2NGaXZnV3RtNUNVYWpxR2RraW55YTZsdVdPVjlncUJseUZFdTZpRDQ5QU1EQldFaWNaVUQ0S2N6TVVJbXJTNW9UX3p5NFFjdTVGclFUVjk1c3d1NWcweFBCMzIteG1USVJRdHBiclJhOWJaNXY1TW00VTZCdGc5M09PN1NveDdoVTFjd2tkVDk5QkJPYzVtZVdwLWlxaTQ0SGJrdGhjRmlWbGllemJ1Vzc3Q0toSlFWQm96d9IB3wFBVV95cUxOLW11c253a0JQNFRRbi1wZC1ya00tdDNNVFhWaEc5NnZCUHdhX3hDQmdrcXRmcTlrT2hfUnJSMkRXSS1UNzIwN0dMczNVdFBQWUg5d0l5WTU0b1NnOWF1Ty1LVzRQM2czUzZoa0RHVXJRd0VyT0d6YjZMNklFTXBROHdBT3VJYjRWRVNPajhrQjU4TEZ3RXB6NkRIN1ZsY0EzOVJIdnpOaVYyZ2FrNUZNdzhjZndITlFkSGFCbTBoUEpsNDRfcXV0UWZJaTFrb2I3VS1ZdmpPQUJNcFhrb0pn?oc=5",
+   "fonte": "Times Now",
+   "data": "2026-11-10"
+  },
+  {
+   "caso": 83,
+   "titulo": "Albanese Announces AI Safety Regulator After OpenAI Agent Breach - JournalArta",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObU1NNVZmQ25Ub0RxeEhUeElSSXdHTkpnRlBQaVlGT1NfRERCcklhWENoMFF3T1ozM0l3TWlkRUd4LXlLanMxbVhKWkhrR2w3WVZRMC13eHNfRm92QjUzbjJzWnkwM0JhQzVLcGhJTVlZSTNiNDJIa0JNT1VyN28xNWh4dGVHQ1hrZmFaRjFGYkpDZ3dPNVctQ0pya3ZvMXBXX1VkWktwSQ?oc=5",
+   "fonte": "JournalArta",
+   "data": "2026-11-10"
+  },
+  {
+   "caso": 83,
+   "titulo": "Australia Plans Strict AI Laws After OpenAI Agent Goes Rogue - ProPakistani",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUU85Nm1QRllGNzIyd25ybUtjYUZJUTlYVURWWjMxQmpHeDlnc3JDT2QzUTdxczg5cjUwd0hqcUN4ZE5fOG41TEdZU3hnck9BNjdESGJCVmhzM3JpLUFNV1ZPRDBySXN1a2FGeDFYNkIzWmxGdEJsaHVNZENKdTdVd202b3NBVlpRaXY4SVp5QVlCeUN1cTJuaHg3UzHSAf4CQVVfeXFMTlVFM1lIaUJPQ0QzanNUMkJET1hNUm85cThSc3BIVE1EYXlmWkhlQ05wS2YwOUJSVUFObmthQUI4cmVzLWFiS24zOW14MzRodS1DbGFPcWM5QlBYaVI5LWJ0MlBqZS05UHhUcWhyYVdYWHVRTUZ5QkN2RUJ5ZkNyNm82NVVQQ0EwQWozRlhFNS1mVVRfa1dfeFhCZEFvM2gxS2w5cS1JMGtEd3dHVDRKZFNQM18ycXVUaU5ITG1jN3ZqQ2l2a3BZNnUwOW9BcmVoWW41VkYtRFR5OWEybU5LRGo3S1doaV9ESVFKaVNEcUVwNUU2RThoQnlLTWowRmtqVllaQ2xNNy1IbnY2M3BSd20tT29DR3NRWnJLUm1JVlJpWXZDZGwteU5OaWVfWDBjU0UyMXoyTkd4V3hnUzVVaHBOVkJCLTk1TXRKRFVoZXY5QW5KTnUzeThWNWhGYVp1bHNyTTU4TnN0bFRGOUhHekd4TFJaWU5ENjc4TC10QQ?oc=5",
+   "fonte": "ProPakistani",
+   "data": "2026-11-10"
   }
  ]
 }
