@@ -1,10 +1,10 @@
 {
- "gerado_em": "2026-11-11T01:29:47+00:00",
+ "gerado_em": "2026-11-11T17:56:51+00:00",
  "totais": {
-  "incidentes": 201,
-  "casos": 143,
-  "noticias": 1319,
-  "repercussoes": 30
+  "incidentes": 204,
+  "casos": 145,
+  "noticias": 1333,
+  "repercussoes": 32
  },
  "incidentes": [
   {
@@ -1052,30 +1052,6 @@
    ]
   },
   {
-   "id": 198,
-   "caso": 83,
-   "titulo": "Australia Eyes Criminal Law Reforms After OpenAI Agent’s Shocking Government Website Breach – Here’s What We Know - The Sunday Guardian",
-   "papel": "agente_em_producao",
-   "gravidade": 3.0,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "openai",
-   "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-11-10",
-   "ultima": "2026-11-10",
-   "fontes": [
-    {
-     "titulo": "Australia Eyes Criminal Law Reforms After OpenAI Agent’s Shocking Government Website Breach – Here’s What We Know - The Sunday Guardian",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNckhmWGxTdXZMczZtcG1LbkU5cmp1RGtxRnE5TXJqWlB1VjE1blIzQjFsSTF5SUxVOWtEcmJsTk1qZ1ZIZ3hMemVJUEF2OWpOenlEa2FNdGJBeXY0RWFoOXhETHlIWHJHbGN0R0tMZ19wVlI0eWd6SzRvQ2RCckdNYkN0M3BJdHFkbEw2OE9LWFl4V2h3aTJfYlVhRGc5Y3VlOEtJZVB4R2NwYWNwRENLVmpfMG9sT05iWjY3d1dWZ1lIdUJMS0hxcU1OelNoeFFTTjhHUHNhc1pYSGVaZG5SMjdXTmlobFVCRWfSAe8BQVVfeXFMT1RvaXY2ck8tRlhoRzd0NzBVV1NjTkVsXzlVRmhfMVo5aDlPMFZ6Y3MzSnlBdU5oT0FMMzg4cnM3QjU2bkExNUdiYkFDR0tWUjNfbkFaVVNSZ2lSSlpCbVVoUlY3TXhEaWpNR20taVhOZFNUWFlNWk9BVXNTcWxDWHE5RVhVQy14VEF3RTdlU0plMlZDb0RiajRNOXNqNjYxajFCSlNwd28teXg3SHFEYVRPa3pySjJaM2JSVWt3SlljaU5hTkowWFY1UXcyRnoxRWRBQl9OaEtjajNjU0tVUTl4LVJhSHF1U1hKRzZqbWc?oc=5",
-     "fonte": "The Sunday Guardian",
-     "data": "2026-11-10"
-    }
-   ]
-  },
-  {
    "id": 160,
    "caso": 127,
    "titulo": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
@@ -1958,30 +1934,6 @@
    ]
   },
   {
-   "id": 201,
-   "caso": 167,
-   "titulo": "Railway breach leads to $740,000 in fraudulent AI charges",
-   "papel": "ia_como_ferramenta",
-   "gravidade": 2.8,
-   "divergencia": false,
-   "confirmacao": "imprensa",
-   "empresa": "nao_informado",
-   "defasagem": "nao_informado",
-   "pais": "nao_informado",
-   "pais_nome": "País não informado",
-   "numerico": null,
-   "primeira": "2026-11-10",
-   "ultima": "2026-11-10",
-   "fontes": [
-    {
-     "titulo": "Railway breach leads to $740,000 in fraudulent AI charges",
-     "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges",
-     "fonte": "BleepingComputer",
-     "data": "2026-11-10"
-    }
-   ]
-  },
-  {
    "id": 168,
    "caso": 136,
    "titulo": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
@@ -2564,6 +2516,36 @@
    ]
   },
   {
+   "id": 201,
+   "caso": 167,
+   "titulo": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.4,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "nao_informado",
+   "defasagem": "mesmo_mes",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-10",
+   "ultima": "2026-11-11",
+   "fontes": [
+    {
+     "titulo": "Railway breach leads to $740,000 in fraudulent AI charges",
+     "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges",
+     "fonte": "BleepingComputer",
+     "data": "2026-11-10"
+    },
+    {
+     "titulo": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+     "url": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+     "fonte": "The Hacker News",
+     "data": "2026-11-11"
+    }
+   ]
+  },
+  {
    "id": 136,
    "caso": 103,
    "titulo": "Scoop: Unvetted AI agents are accessing U.S. bank accounts - Axios",
@@ -2698,6 +2680,36 @@
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWVdaVjdFZXliTHkyTTJEZGtDLTJTMVNUY29wUWpFenJoY0VONDRfbWRVUDc2a3k3eE1uV2o2WDlYWUtKWGgyTWxMYVd5dGhINVFQT3ZjV194a2JITC1yb1RFS2NIVFVuRU80cE5JN1c1MGxjNmYtNTNqellmMDE3Y19LRUwtV0hEbEgzQUs2MHlqM1Q4cVdSQg?oc=5",
      "fonte": "Startup Fortune",
      "data": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": 198,
+   "caso": 83,
+   "titulo": "Australia Proposes AI Safety Regulator With Penalties After OpenAI Agent Breached Government System - XenoSpectrum",
+   "papel": "desdobramento",
+   "gravidade": 2.3,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "openai",
+   "defasagem": "nao_informado",
+   "pais": "aus",
+   "pais_nome": "Austrália",
+   "numerico": "036",
+   "primeira": "2026-11-10",
+   "ultima": "2026-11-11",
+   "fontes": [
+    {
+     "titulo": "Australia Eyes Criminal Law Reforms After OpenAI Agent’s Shocking Government Website Breach – Here’s What We Know - The Sunday Guardian",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNckhmWGxTdXZMczZtcG1LbkU5cmp1RGtxRnE5TXJqWlB1VjE1blIzQjFsSTF5SUxVOWtEcmJsTk1qZ1ZIZ3hMemVJUEF2OWpOenlEa2FNdGJBeXY0RWFoOXhETHlIWHJHbGN0R0tMZ19wVlI0eWd6SzRvQ2RCckdNYkN0M3BJdHFkbEw2OE9LWFl4V2h3aTJfYlVhRGc5Y3VlOEtJZVB4R2NwYWNwRENLVmpfMG9sT05iWjY3d1dWZ1lIdUJMS0hxcU1OelNoeFFTTjhHUHNhc1pYSGVaZG5SMjdXTmlobFVCRWfSAe8BQVVfeXFMT1RvaXY2ck8tRlhoRzd0NzBVV1NjTkVsXzlVRmhfMVo5aDlPMFZ6Y3MzSnlBdU5oT0FMMzg4cnM3QjU2bkExNUdiYkFDR0tWUjNfbkFaVVNSZ2lSSlpCbVVoUlY3TXhEaWpNR20taVhOZFNUWFlNWk9BVXNTcWxDWHE5RVhVQy14VEF3RTdlU0plMlZDb0RiajRNOXNqNjYxajFCSlNwd28teXg3SHFEYVRPa3pySjJaM2JSVWt3SlljaU5hTkowWFY1UXcyRnoxRWRBQl9OaEtjajNjU0tVUTl4LVJhSHF1U1hKRzZqbWc?oc=5",
+     "fonte": "The Sunday Guardian",
+     "data": "2026-11-10"
+    },
+    {
+     "titulo": "Australia Proposes AI Safety Regulator With Penalties After OpenAI Agent Breached Government System - XenoSpectrum",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfYjNBUjFYRERVY201OW1oTUNGNnNFRnVFVWNvaC1feE9VSW5SenZLVlBieWFvcTRIWFYyNFo5Q2lQczdrWFROZWNIUUZwbGVIQmtRY3NKVGtTZ1VuVzhvSGlMUGVncGtjR29jTk4tX0ZGREZPX0NSbldnTkg?oc=5",
+     "fonte": "XenoSpectrum",
+     "data": "2026-11-11"
     }
    ]
   },
@@ -2914,6 +2926,30 @@
      "url": "https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants",
      "fonte": "Dark Reading",
      "data": "2026-10-27"
+    }
+   ]
+  },
+  {
+   "id": 204,
+   "caso": 169,
+   "titulo": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.2,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-11",
+   "ultima": "2026-11-11",
+   "fontes": [
+    {
+     "titulo": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+     "url": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+     "fonte": "The Hacker News",
+     "data": "2026-11-11"
     }
    ]
   },
@@ -5006,6 +5042,36 @@
    ]
   },
   {
+   "id": 202,
+   "caso": 168,
+   "titulo": "IA autônoma invadiu operadora de telecomunicações na Europa por 2 semanas - Estadão",
+   "papel": "agente_em_producao",
+   "gravidade": 1.7,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-11",
+   "ultima": "2026-11-11",
+   "fontes": [
+    {
+     "titulo": "IA autônoma invadiu operadora de telecomunicações na Europa por 2 semanas - Estadão",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONDcxRDBkT1FqU1M1Z1JRUUpXNXNJSzQ0RE9FbDVsenZtek1kb2xSTmF2YnB1c01oMU5ya2VoQ054bVctU292T0oxMnJyXzFSZkl4WE54LUliSy1qa1UybHp4ZEFraEN5UXZDNGRyOUNwLVhJSUtjNHdBa0EyZEJoUjUyUGFsV3FvRnpKUG5RWXoxQ1QxdElUMmIzZE50OVl2dEtqeDZJcm5RSS1UdFA1aFV3NmNadlg5b0VYQjN5Y0NqdGfSAcgBQVVfeXFMT0tndTlsdjhLTHJzcENiWl9vNlpzSFRrbWJHa19XSFlSOGNPM2JRdkJjaVM1bUZqbEdkeFZrYV91NVNTOWlRdnhQVVBEZnRRVEcwUTNvQk50QURqMzdnSFByRHZGbTB5MmhLNzhqMUU4d2thRkNwQm9CQjdwSDdEbXlCdm9SbnE2d05qZHJKdzlXSnlSY3VGR216eGhTeDNoa0pkRXFEbjRKVEY2TXV4bFBtdlpHOWo1T2ZxajRUdk9OYms1TUJKRDE?oc=5",
+     "fonte": "Estadão",
+     "data": "2026-11-11"
+    },
+    {
+     "titulo": "IA ataca operadora europeia de telecom por duas semanas - SpaceMoney",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOXzNNb0tLZUZydUx0UTVfb08wa1cwQUJneUJFNFE4QjNDRzdZRXFfa19ld0RzVlE1N3o2WUZQNEZYdmZ6WDE5T2dqNDdlemsyQ1pVWTlnNl9oV2lNdkkzbFRyb0liSU5FUmN0T18xbUM0aEJJNHJOSkhFMU50aUhGQ2FaWWRwZw?oc=5",
+     "fonte": "SpaceMoney",
+     "data": "2026-11-11"
+    }
+   ]
+  },
+  {
    "id": 157,
    "caso": 107,
    "titulo": "Agente de IA aceita oferta e revela endereço sem autorização - Fast Company Brasil",
@@ -5074,6 +5140,30 @@
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ25zM0g4TlR6X281OWQxV1FzUHliajQweEVkdHFFZlVtYTNqUzdIWHdjanVTS0RUaUd3dVA5UE5ZdHZKRkVnVWxfVzYyRGNtNkpBZXVVR19KOUQ3UFlfUnBNNHBzNmNjdzU0cnlGZk81cU03dUhkTUhacV85QV9zSW41RUtHOUhKQy1HOERnMzM4dk4tZkZ0LWNWcTZILVlZYXpQaGl1T1N0eEpPUm44?oc=5",
      "fonte": "TechCrunch",
      "data": "2026-10-19"
+    }
+   ]
+  },
+  {
+   "id": 203,
+   "caso": 169,
+   "titulo": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 1.7,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "outra",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-11",
+   "ultima": "2026-11-11",
+   "fontes": [
+    {
+     "titulo": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+     "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks",
+     "fonte": "BleepingComputer",
+     "data": "2026-11-11"
     }
    ]
   },
@@ -7165,6 +7255,13 @@
   },
   {
    "caso": 29,
+   "titulo": "Australia mulls tougher tech laws after AI health breach - The Nightly",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObm9vMDk4anZQS0xSaENMYkxzU1BoTkRNdlFMS1E3V3B3SzlUN1RYQjQxajVTc01qejBUYWJxUVNKN1phczdULWJDd1QtZzBHV1h3ajlQYnpUTFNOeWpnVnc2alJiR2RpMktUUzNxdDVpMi1UWk5MVmJmS2RMR1hWaVBYSENEYWNJVmRRaTNtT3B3R1lTb0U2eTk4b203OGlyRHU2Rm1BLWdxLVU2bE5GZF9UbEFnb2lTbVY4eGpDTUhCWnN2d3h2aVVFejc2eEpTUjhENA?oc=5",
+   "fonte": "The Nightly",
+   "data": "2026-11-10"
+  },
+  {
+   "caso": 29,
    "titulo": "Tougher standards for AI floated after Medicare breach - St George & Sutherland Shire Leader",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPclN5Sm91WmtoSUNOZ3Y0ZGVlWmZtWkdVek80bTI0NzgydGI0ZW03NlZZWGJvWEpGa2pqRWFIOHRQOHZoX00yMnB3WklnQlRhZ3N0ZEw1TWc4c3E4Sl91Skgzd05HNncxc2s4ZU9UUHllT2xYMm1Od05vOVVNWTdta3BEb0pxcXFYYU1sVVljYWwwdm5rb0duY3ZTek5id1E?oc=5",
    "fonte": "St George & Sutherland Shire Leader",
@@ -7232,6 +7329,13 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUU85Nm1QRllGNzIyd25ybUtjYUZJUTlYVURWWjMxQmpHeDlnc3JDT2QzUTdxczg5cjUwd0hqcUN4ZE5fOG41TEdZU3hnck9BNjdESGJCVmhzM3JpLUFNV1ZPRDBySXN1a2FGeDFYNkIzWmxGdEJsaHVNZENKdTdVd202b3NBVlpRaXY4SVp5QVlCeUN1cTJuaHg3UzHSAf4CQVVfeXFMTlVFM1lIaUJPQ0QzanNUMkJET1hNUm85cThSc3BIVE1EYXlmWkhlQ05wS2YwOUJSVUFObmthQUI4cmVzLWFiS24zOW14MzRodS1DbGFPcWM5QlBYaVI5LWJ0MlBqZS05UHhUcWhyYVdYWHVRTUZ5QkN2RUJ5ZkNyNm82NVVQQ0EwQWozRlhFNS1mVVRfa1dfeFhCZEFvM2gxS2w5cS1JMGtEd3dHVDRKZFNQM18ycXVUaU5ITG1jN3ZqQ2l2a3BZNnUwOW9BcmVoWW41VkYtRFR5OWEybU5LRGo3S1doaV9ESVFKaVNEcUVwNUU2RThoQnlLTWowRmtqVllaQ2xNNy1IbnY2M3BSd20tT29DR3NRWnJLUm1JVlJpWXZDZGwteU5OaWVfWDBjU0UyMXoyTkd4V3hnUzVVaHBOVkJCLTk1TXRKRFVoZXY5QW5KTnUzeThWNWhGYVp1bHNyTTU4TnN0bFRGOUhHekd4TFJaWU5ENjc4TC10QQ?oc=5",
    "fonte": "ProPakistani",
    "data": "2026-11-10"
+  },
+  {
+   "caso": 83,
+   "titulo": "Australia Plans Mandatory AI Breach Reporting after OpenAI Incident - Hungarian Conservative",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOck4yeFNTVUR0anRUejR5eWpIZkhhUWQ1TlVjbVduX2ZLUjRGRzdtY2lhRmZoenh5V09iUWNoQk1mWlpPUTIwcmhwTkxiTTU1SlBmckhCd21OVlcxRWxvZjhZb0h6dVYtT0tlZ0t3alhoUGpVaGFIV19OQlJlSlZCNUlTSU93UGlOYmVCN2tRbTRSNzRCTjJsemxQS2ZIdGJQWTlmYjNvWHVLcjJDQldzb25teWE4R3c?oc=5",
+   "fonte": "Hungarian Conservative",
+   "data": "2026-11-11"
   }
  ]
 }
