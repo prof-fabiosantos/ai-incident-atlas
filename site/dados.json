@@ -1,10 +1,10 @@
 {
- "gerado_em": "2026-11-10T17:59:06+00:00",
+ "gerado_em": "2026-11-11T01:29:47+00:00",
  "totais": {
-  "incidentes": 199,
-  "casos": 141,
-  "noticias": 1311,
-  "repercussoes": 29
+  "incidentes": 201,
+  "casos": 143,
+  "noticias": 1319,
+  "repercussoes": 30
  },
  "incidentes": [
   {
@@ -1958,6 +1958,30 @@
    ]
   },
   {
+   "id": 201,
+   "caso": 167,
+   "titulo": "Railway breach leads to $740,000 in fraudulent AI charges",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.8,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-10",
+   "ultima": "2026-11-10",
+   "fontes": [
+    {
+     "titulo": "Railway breach leads to $740,000 in fraudulent AI charges",
+     "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges",
+     "fonte": "BleepingComputer",
+     "data": "2026-11-10"
+    }
+   ]
+  },
+  {
    "id": 168,
    "caso": 136,
    "titulo": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
@@ -2193,13 +2217,19 @@
    "pais_nome": "País não informado",
    "numerico": null,
    "primeira": "2026-11-07",
-   "ultima": "2026-11-07",
+   "ultima": "2026-11-10",
    "fontes": [
     {
      "titulo": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
      "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
      "fonte": "The Hacker News",
      "data": "2026-11-07"
+    },
+    {
+     "titulo": "AI Coding Agents Leak Thousands of Secrets to GitHub",
+     "url": "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
+     "fonte": "Dark Reading",
+     "data": "2026-11-10"
     }
    ]
   },
@@ -3340,6 +3370,30 @@
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcVhrNTF6YTA4bzMzNTg4N3l0WmxPZzBka1NHTkdwd0p3dktDY2NQZS1pbkZuMG1DbHM2dkdBcEp6U3dPU0M5QTUtQTkxMWdUM015WVJZM1RJLTd3X2cyenA4bk5TS0tDMkNOT3M3RjJoYVM5cV9pNXh3V0xzMmo0NzQyb2s5RlNqbV9ZcW9CUVZhbjdEWU5JSFNrY3FxRXE2cl9jUXFnYlYyNEFxRXY4emE0R0E5bnAtaERmckg2eVVaZ1E?oc=5",
      "fonte": "The Straits Times",
      "data": "2026-10-09"
+    }
+   ]
+  },
+  {
+   "id": 200,
+   "caso": 166,
+   "titulo": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+   "papel": "ataque_a_ia",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "outra",
+   "defasagem": "mesma_semana",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-10",
+   "ultima": "2026-11-10",
+   "fontes": [
+    {
+     "titulo": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+     "url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+     "fonte": "The Hacker News",
+     "data": "2026-11-10"
     }
    ]
   },
@@ -7163,6 +7217,13 @@
    "titulo": "Albanese Announces AI Safety Regulator After OpenAI Agent Breach - JournalArta",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObU1NNVZmQ25Ub0RxeEhUeElSSXdHTkpnRlBQaVlGT1NfRERCcklhWENoMFF3T1ozM0l3TWlkRUd4LXlLanMxbVhKWkhrR2w3WVZRMC13eHNfRm92QjUzbjJzWnkwM0JhQzVLcGhJTVlZSTNiNDJIa0JNT1VyN28xNWh4dGVHQ1hrZmFaRjFGYkpDZ3dPNVctQ0pya3ZvMXBXX1VkWktwSQ?oc=5",
    "fonte": "JournalArta",
+   "data": "2026-11-10"
+  },
+  {
+   "caso": 83,
+   "titulo": "Australia Aims to Become First Country With AI Safety Regulator After OpenAI Government Portal Breach - Brave New Coin",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRVU1bXFEaVVFWFphZXFqbGhQSVJkS0tESmJNWTNYWThsbExWdi1JWVBXeVRmUjlqSmx1RER1aFFsa1Z2RHFpc2NnTjVyXzI0Zk9YUXZJbVRoa2ZuRDVjZmJidzBYeXBISHlDTTZJMWR0aHdpWTlsNXRrNnNzUFJrVEViaTJReVBVZDNVaFZJaG1vMWxxdmZ5T3NNZDBjdHF2NHEzS0FIX0g5UDkwZ0EwLXUwME1xbUFsRnA0VmJmOEJ5ZE55RlpXanBTTGhUc1hi?oc=5",
+   "fonte": "Brave New Coin",
    "data": "2026-11-10"
   },
   {
