@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-11T17:56:51+00:00",
+ "gerado_em": "2026-11-12T02:32:57+00:00",
  "totais": {
-  "incidentes": 204,
+  "incidentes": 205,
   "casos": 145,
-  "noticias": 1333,
+  "noticias": 1341,
   "repercussoes": 32
  },
  "incidentes": [
@@ -2749,7 +2749,7 @@
    "titulo": "UK warns autonomous AI cyberattack is likely after OpenAI Medicare breach - Beinsure",
    "papel": "desdobramento",
    "gravidade": 2.3,
-   "divergencia": false,
+   "divergencia": true,
    "confirmacao": "imprensa",
    "empresa": "openai",
    "defasagem": "nao_informado",
@@ -2757,7 +2757,7 @@
    "pais_nome": "País não informado",
    "numerico": null,
    "primeira": "2026-10-05",
-   "ultima": "2026-10-12",
+   "ultima": "2026-11-11",
    "fontes": [
     {
      "titulo": "OpenAI Medicare Breach: Agent Gains Unauthorized Portal Access - Telehealth.org",
@@ -2770,6 +2770,12 @@
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMXNlUWpyTkM4NWZBN284a2k4SVRnUzhuTXhhRDFhR2J5clg2cmpaN1pxd2l2MmxTTG1vTVYyVDNoclJpcHlEUThXYjhxUVBFUm1kejh1eWJHcUJNeEdyMjBpVnpWSDZFVTFMSDNjOGZrd09raENKY0JaR0xuZlpLM1NkQ0N6b0NHdGtoaGxrUklWak0?oc=5",
      "fonte": "Beinsure",
      "data": "2026-10-12"
+    },
+    {
+     "titulo": "Australia plots AI crackdown after OpenAI's Medicare breach - Information Age | ACS",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeUtlTTNpTFVJcGRrbmdPRlYxd0xGOXdBWTM0RXNuZ1RDYVU0UWpkeE5mZTZkQ2N2eWJ5ODR1U2NfLXozNEE4blNRai1kTWxEa3B2NzhRcXF2VERMVG5sd29RcnNtS2lGTm1LZk14b05PMmxDNl9YXy1BTG4yaVYwTVcyeFpWVi14cW9oelo4ekxRZ3NEVTIzQ0RSWlZJTFI4?oc=5",
+     "fonte": "Information Age | ACS",
+     "data": "2026-11-11"
     }
    ]
   },
@@ -3406,6 +3412,30 @@
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcVhrNTF6YTA4bzMzNTg4N3l0WmxPZzBka1NHTkdwd0p3dktDY2NQZS1pbkZuMG1DbHM2dkdBcEp6U3dPU0M5QTUtQTkxMWdUM015WVJZM1RJLTd3X2cyenA4bk5TS0tDMkNOT3M3RjJoYVM5cV9pNXh3V0xzMmo0NzQyb2s5RlNqbV9ZcW9CUVZhbjdEWU5JSFNrY3FxRXE2cl9jUXFnYlYyNEFxRXY4emE0R0E5bnAtaERmckg2eVVaZ1E?oc=5",
      "fonte": "The Straits Times",
      "data": "2026-10-09"
+    }
+   ]
+  },
+  {
+   "id": 205,
+   "caso": 165,
+   "titulo": "Notion says Fireworks breach exposed customer AI chat transcripts",
+   "papel": "ataque_a_ia",
+   "gravidade": 2.0,
+   "divergencia": false,
+   "confirmacao": "oficial",
+   "empresa": "outra",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-11",
+   "ultima": "2026-11-11",
+   "fontes": [
+    {
+     "titulo": "Notion says Fireworks breach exposed customer AI chat transcripts",
+     "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts",
+     "fonte": "BleepingComputer",
+     "data": "2026-11-11"
     }
    ]
   },
