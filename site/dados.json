@@ -1,12 +1,36 @@
 {
- "gerado_em": "2026-11-12T02:32:57+00:00",
+ "gerado_em": "2026-11-12T18:26:47+00:00",
  "totais": {
-  "incidentes": 205,
-  "casos": 145,
-  "noticias": 1341,
+  "incidentes": 208,
+  "casos": 148,
+  "noticias": 1348,
   "repercussoes": 32
  },
  "incidentes": [
+  {
+   "id": 207,
+   "caso": 172,
+   "titulo": "Kazakhstan-linked hackers used AI agent to spy on Central Asian governments",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 4.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-12",
+   "ultima": "2026-11-12",
+   "fontes": [
+    {
+     "titulo": "Kazakhstan-linked hackers used AI agent to spy on Central Asian governments",
+     "url": "https://therecord.media/kazakhstan-hackers-central-asia",
+     "fonte": "The Record",
+     "data": "2026-11-12"
+    }
+   ]
+  },
   {
    "id": 191,
    "caso": 158,
@@ -1186,6 +1210,30 @@
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZVBvalJCNTNaX3dXTXlBSExEb0xaRXRGdjBxVTlESG93WmNjYlluZUtaa19OLTlRUnBZVG50MTFBMFFNczVMbFVwYUtqMUlwTV9YZEVxcXkzZTNfSGt1Q2RqUzdRUm4tdlBPWlphNlN6TkotZFI4ZnJJU1pUOEtMV2VSMVZBWlVHMXZwekRBZWVZTjRlZ2I0Q1lycVhXZHBZa0JXbWxoLWo0RnhuYTZrRnNyam42RDQ?oc=5",
      "fonte": "Forbes Brasil",
      "data": "2026-08-28"
+    }
+   ]
+  },
+  {
+   "id": 208,
+   "caso": 173,
+   "titulo": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 3.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-12",
+   "ultima": "2026-11-12",
+   "fontes": [
+    {
+     "titulo": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
+     "url": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
+     "fonte": "The Hacker News",
+     "data": "2026-11-12"
     }
    ]
   },
@@ -5098,6 +5146,30 @@
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOXzNNb0tLZUZydUx0UTVfb08wa1cwQUJneUJFNFE4QjNDRzdZRXFfa19ld0RzVlE1N3o2WUZQNEZYdmZ6WDE5T2dqNDdlemsyQ1pVWTlnNl9oV2lNdkkzbFRyb0liSU5FUmN0T18xbUM0aEJJNHJOSkhFMU50aUhGQ2FaWWRwZw?oc=5",
      "fonte": "SpaceMoney",
      "data": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "id": 206,
+   "caso": 171,
+   "titulo": "Inside an AI Attack Against a US Retailer",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 1.7,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "usa",
+   "pais_nome": "Estados Unidos",
+   "numerico": "840",
+   "primeira": "2026-11-12",
+   "ultima": "2026-11-12",
+   "fontes": [
+    {
+     "titulo": "Inside an AI Attack Against a US Retailer",
+     "url": "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer",
+     "fonte": "Dark Reading",
+     "data": "2026-11-12"
     }
    ]
   },
