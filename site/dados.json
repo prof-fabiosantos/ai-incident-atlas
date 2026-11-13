@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-13T02:09:58+00:00",
+ "gerado_em": "2026-11-13T17:54:36+00:00",
  "totais": {
   "incidentes": 208,
   "casos": 148,
-  "noticias": 1355,
+  "noticias": 1360,
   "repercussoes": 32
  },
  "incidentes": [
@@ -3651,7 +3651,7 @@
    "pais_nome": "País não informado",
    "numerico": null,
    "primeira": "2026-11-03",
-   "ultima": "2026-11-09",
+   "ultima": "2026-11-13",
    "fontes": [
     {
      "titulo": "WorkOS says attacker used ARTEX AI to breach internal sales app",
@@ -3694,6 +3694,12 @@
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12enpZS3owcmdidnBVSTY5NVF0am5aYmM4OWtHNEFFek14bDZxZnBKZzE3MTV0ZkNDQWxUd0ZEYlFQdC11bHdtRFc3OHBETVlvQkl6Y1lxR00xT3FpeURmRWdfT0FhQQ?oc=5",
      "fonte": "The 420.in",
      "data": "2026-11-09"
+    },
+    {
+     "titulo": "WorkOS Breach Traced to a Researcher's Escaped ARTEX Agent - OrcaRouter",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObG5VTkhxLWR3WmJvX0ZNNUU2SEUwUnFhb3JDbVp3a1JxV0Vpb1ZqTEFpMmxTejlMMDVUaWNkY3dFOG1Jb2Y4ZXBYd0xPV0hPYW5ONURtTGY2VG9wYllMWHQwZWFERU14WTJqRjd1U3JMR1htS1oxSlI4a3NfWmZMUw?oc=5",
+     "fonte": "OrcaRouter",
+     "data": "2026-11-13"
     }
    ]
   },
