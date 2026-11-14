@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-13T17:54:36+00:00",
+ "gerado_em": "2026-11-14T01:51:51+00:00",
  "totais": {
-  "incidentes": 208,
-  "casos": 148,
-  "noticias": 1360,
+  "incidentes": 210,
+  "casos": 149,
+  "noticias": 1364,
   "repercussoes": 32
  },
  "incidentes": [
@@ -1382,6 +1382,30 @@
    ]
   },
   {
+   "id": 209,
+   "caso": 157,
+   "titulo": "Hackers Use DeepSeek and GLM AI Agents to Breach 10 Organizations in Autonomous Cyberattacks - CyberSecurityNews",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 3.0,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "outra",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-13",
+   "ultima": "2026-11-13",
+   "fontes": [
+    {
+     "titulo": "Hackers Use DeepSeek and GLM AI Agents to Breach 10 Organizations in Autonomous Cyberattacks - CyberSecurityNews",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1WjlEazBTd1Nvc1d1b3dPZzNEd2RlT1dvcHl1eDR3MEVpYnc1b1dKaDFtMVZVTHJDN3Y5MnEtbEc2UXF2NjlwaFFUblFwQ1hPWWNzTE5EOUZvX1ZNaTlGN3JGbVo2eGdj0gFuQVVfeXFMTUhfbVFwc0tvcDlEbFpTMXBudl9RdXJyM2NWVlZCVVdfT3V2ZUg1eDl0TE5GOHUzQVFlVUVrWUotb3ppcl9sX3oyTGJZQzVxSHJ0aXpmb29vcU5JS0p5MDIzaHQzTjRNMmtTUzV4VFE?oc=5",
+     "fonte": "CyberSecurityNews",
+     "data": "2026-11-13"
+    }
+   ]
+  },
+  {
    "id": 173,
    "caso": 140,
    "titulo": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
@@ -1948,6 +1972,30 @@
      "url": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
      "fonte": "The Hacker News",
      "data": "2026-09-30"
+    }
+   ]
+  },
+  {
+   "id": 210,
+   "caso": 174,
+   "titulo": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
+   "papel": "ia_como_ferramenta",
+   "gravidade": 2.8,
+   "divergencia": false,
+   "confirmacao": "imprensa",
+   "empresa": "nao_informado",
+   "defasagem": "nao_informado",
+   "pais": "nao_informado",
+   "pais_nome": "País não informado",
+   "numerico": null,
+   "primeira": "2026-11-13",
+   "ultima": "2026-11-13",
+   "fontes": [
+    {
+     "titulo": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
+     "url": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
+     "fonte": "Dark Reading",
+     "data": "2026-11-13"
     }
    ]
   },
